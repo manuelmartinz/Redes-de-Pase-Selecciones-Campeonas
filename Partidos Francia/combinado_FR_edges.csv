@@ -1,0 +1,381 @@
+Source,Target,pass_category,Weight,failed_passes,recovery_interception_pass,total_passes,assist_count,label
+Antoine Griezmann,Benjamin Pavard,Free Kick,2,0,0,2,0,Free Kick
+Antoine Griezmann,Benjamin Pavard,Regular pass,15,4,1,19,0,Regular pass
+Antoine Griezmann,Benjamin Pavard,Switch of play,1,0,0,1,0,Switch of play
+Antoine Griezmann,Blaise Matuidi,Regular pass,10,2,0,12,0,Regular pass
+Antoine Griezmann,Corentin Tolisso,Regular pass,10,2,0,12,0,Regular pass
+Antoine Griezmann,Djibril Sidibé,Regular pass,5,0,0,5,0,Regular pass
+Antoine Griezmann,Kylian Mbappé Lottin,Free Kick,2,0,0,2,0,Free Kick
+Antoine Griezmann,Kylian Mbappé Lottin,Regular pass,17,10,3,27,0,Regular pass
+Antoine Griezmann,Kylian Mbappé Lottin,Throw-in,2,0,0,2,0,Throw-in
+Antoine Griezmann,Lucas Hernández Pi,Assist,1,0,0,1,1,Assist
+Antoine Griezmann,Lucas Hernández Pi,Regular pass,18,2,1,20,0,Regular pass
+Antoine Griezmann,Lucas Hernández Pi,Switch of play,2,1,0,3,0,Switch of play
+Antoine Griezmann,N''Golo Kanté,Regular pass,11,0,0,11,0,Regular pass
+Antoine Griezmann,Nabil Fekir,Regular pass,1,0,0,1,0,Regular pass
+Antoine Griezmann,Olivier Giroud,Assist,2,0,0,2,2,Assist
+Antoine Griezmann,Olivier Giroud,Regular pass,5,10,1,15,0,Regular pass
+Antoine Griezmann,Ousmane Dembélé,Regular pass,5,2,0,7,0,Regular pass
+Antoine Griezmann,Paul Pogba,Assist,2,0,0,2,2,Assist
+Antoine Griezmann,Paul Pogba,Regular pass,27,1,1,28,0,Regular pass
+Antoine Griezmann,Raphaël Varane,Assist,2,0,0,2,2,Assist
+Antoine Griezmann,Raphaël Varane,Free Kick,1,0,0,1,0,Free Kick
+Antoine Griezmann,Raphaël Varane,Regular pass,9,0,0,9,0,Regular pass
+Antoine Griezmann,Samuel Yves Umtiti,Assist,1,0,0,1,1,Assist
+Antoine Griezmann,Samuel Yves Umtiti,Regular pass,2,0,1,2,0,Regular pass
+Antoine Griezmann,Steven N''Kemboanza Mike Christopher Nzonzi,Regular pass,10,0,1,10,0,Regular pass
+Antoine Griezmann,Thomas Lemar,Regular pass,8,3,0,11,0,Regular pass
+Benjamin Mendy,N''Golo Kanté,Regular pass,1,0,1,1,0,Regular pass
+Benjamin Mendy,N''Golo Kanté,Switch of play,1,0,0,1,0,Switch of play
+Benjamin Mendy,Olivier Giroud,Assist,1,0,0,1,1,Assist
+Benjamin Mendy,Olivier Giroud,Regular pass,2,1,0,3,0,Regular pass
+Benjamin Mendy,Ousmane Dembélé,Regular pass,3,0,0,3,0,Regular pass
+Benjamin Mendy,Presnel Kimpembe,Regular pass,3,0,0,3,0,Regular pass
+Benjamin Mendy,Presnel Kimpembe,Throw-in,1,0,0,1,0,Throw-in
+Benjamin Mendy,Steven N''Kemboanza Mike Christopher Nzonzi,Regular pass,2,0,0,2,0,Regular pass
+Benjamin Mendy,Steven N''Kemboanza Mike Christopher Nzonzi,Throw-in,1,0,0,1,0,Throw-in
+Benjamin Mendy,Thomas Lemar,Regular pass,10,0,0,10,0,Regular pass
+Benjamin Pavard,Antoine Griezmann,Regular pass,12,6,3,18,0,Regular pass
+Benjamin Pavard,Antoine Griezmann,Throw-in,1,0,0,1,0,Throw-in
+Benjamin Pavard,Corentin Tolisso,Regular pass,17,1,0,18,0,Regular pass
+Benjamin Pavard,Corentin Tolisso,Throw-in,2,0,0,2,0,Throw-in
+Benjamin Pavard,Hugo Lloris,Regular pass,12,0,5,12,0,Regular pass
+Benjamin Pavard,Kylian Mbappé Lottin,Assist,1,0,0,1,1,Assist
+Benjamin Pavard,Kylian Mbappé Lottin,Cross,1,0,0,1,0,Cross
+Benjamin Pavard,Kylian Mbappé Lottin,Free Kick,1,0,0,1,0,Free Kick
+Benjamin Pavard,Kylian Mbappé Lottin,Regular pass,49,10,3,59,0,Regular pass
+Benjamin Pavard,Kylian Mbappé Lottin,Throw-in,3,0,0,3,0,Throw-in
+Benjamin Pavard,N''Golo Kanté,Regular pass,20,1,1,21,0,Regular pass
+Benjamin Pavard,N''Golo Kanté,Throw-in,7,0,0,7,0,Throw-in
+Benjamin Pavard,Nabil Fekir,Throw-in,2,0,0,2,0,Throw-in
+Benjamin Pavard,Olivier Giroud,Assist,1,0,0,1,1,Assist
+Benjamin Pavard,Olivier Giroud,Cross,2,2,0,4,0,Cross
+Benjamin Pavard,Olivier Giroud,Regular pass,6,4,3,10,0,Regular pass
+Benjamin Pavard,Olivier Giroud,Throw-in,6,1,0,7,0,Throw-in
+Benjamin Pavard,Ousmane Dembélé,Regular pass,7,3,1,10,0,Regular pass
+Benjamin Pavard,Paul Pogba,Free Kick,1,0,0,1,0,Free Kick
+Benjamin Pavard,Paul Pogba,Regular pass,39,1,5,40,0,Regular pass
+Benjamin Pavard,Paul Pogba,Throw-in,8,1,0,9,0,Throw-in
+Benjamin Pavard,Raphaël Varane,Regular pass,24,1,2,25,0,Regular pass
+Benjamin Pavard,Raphaël Varane,Throw-in,11,0,0,11,0,Throw-in
+Benjamin Pavard,Samuel Yves Umtiti,Regular pass,2,0,0,2,0,Regular pass
+Benjamin Pavard,Steven N''Kemboanza Mike Christopher Nzonzi,Regular pass,3,0,1,3,0,Regular pass
+Blaise Matuidi,Antoine Griezmann,Assist,1,0,0,1,1,Assist
+Blaise Matuidi,Antoine Griezmann,Regular pass,10,3,6,13,0,Regular pass
+Blaise Matuidi,Kylian Mbappé Lottin,Regular pass,11,1,0,12,0,Regular pass
+Blaise Matuidi,Lucas Hernández Pi,Regular pass,15,3,0,18,0,Regular pass
+Blaise Matuidi,N''Golo Kanté,Free Kick,1,0,0,1,0,Free Kick
+Blaise Matuidi,N''Golo Kanté,Regular pass,10,0,3,10,0,Regular pass
+Blaise Matuidi,N''Golo Kanté,Throw-in,1,0,0,1,0,Throw-in
+Blaise Matuidi,Olivier Giroud,Assist,2,0,0,2,2,Assist
+Blaise Matuidi,Olivier Giroud,Regular pass,9,6,1,15,0,Regular pass
+Blaise Matuidi,Paul Pogba,Regular pass,17,0,0,17,0,Regular pass
+Blaise Matuidi,Raphaël Varane,Regular pass,1,0,0,1,0,Regular pass
+Blaise Matuidi,Samuel Yves Umtiti,Regular pass,8,0,0,8,0,Regular pass
+Blaise Matuidi,Steven N''Kemboanza Mike Christopher Nzonzi,Regular pass,2,0,0,2,0,Regular pass
+Corentin Tolisso,Antoine Griezmann,Assist,1,0,0,1,1,Assist
+Corentin Tolisso,Antoine Griezmann,Regular pass,11,4,2,15,0,Regular pass
+Corentin Tolisso,Benjamin Pavard,Regular pass,12,0,3,12,0,Regular pass
+Corentin Tolisso,Kylian Mbappé Lottin,Regular pass,3,1,1,4,0,Regular pass
+Corentin Tolisso,Lucas Hernández Pi,Regular pass,15,0,0,15,0,Regular pass
+Corentin Tolisso,Lucas Hernández Pi,Switch of play,1,0,0,1,0,Switch of play
+Corentin Tolisso,N''Golo Kanté,Regular pass,22,0,0,22,0,Regular pass
+Corentin Tolisso,N''Golo Kanté,Throw-in,1,0,0,1,0,Throw-in
+Corentin Tolisso,Nabil Fekir,Regular pass,3,1,1,4,0,Regular pass
+Corentin Tolisso,Olivier Giroud,Regular pass,4,2,2,6,0,Regular pass
+Corentin Tolisso,Ousmane Dembélé,Regular pass,2,3,0,5,0,Regular pass
+Corentin Tolisso,Paul Pogba,Assist,1,0,0,1,1,Assist
+Corentin Tolisso,Paul Pogba,Regular pass,13,0,4,13,0,Regular pass
+Corentin Tolisso,Raphaël Varane,Regular pass,5,0,0,5,0,Regular pass
+Corentin Tolisso,Raphaël Varane,Switch of play,2,0,0,2,0,Switch of play
+Corentin Tolisso,Samuel Yves Umtiti,Regular pass,3,0,1,3,0,Regular pass
+Corentin Tolisso,Samuel Yves Umtiti,Switch of play,3,0,0,3,0,Switch of play
+Djibril Sidibé,Antoine Griezmann,Assist,1,0,0,1,1,Assist
+Djibril Sidibé,Antoine Griezmann,Regular pass,5,0,1,5,0,Regular pass
+Djibril Sidibé,Benjamin Mendy,Switch of play,1,0,0,1,0,Switch of play
+Djibril Sidibé,Kylian Mbappé Lottin,Regular pass,7,0,1,7,0,Regular pass
+Djibril Sidibé,N''Golo Kanté,Regular pass,14,1,0,15,0,Regular pass
+Djibril Sidibé,Nabil Fekir,Regular pass,4,1,0,5,0,Regular pass
+Djibril Sidibé,Nabil Fekir,Throw-in,1,0,0,1,0,Throw-in
+Djibril Sidibé,Olivier Giroud,Assist,1,0,0,1,1,Assist
+Djibril Sidibé,Olivier Giroud,Regular pass,2,1,0,3,0,Regular pass
+Djibril Sidibé,Ousmane Dembélé,Assist,1,0,0,1,1,Assist
+Djibril Sidibé,Ousmane Dembélé,Regular pass,17,4,3,21,0,Regular pass
+Djibril Sidibé,Presnel Kimpembe,Regular pass,1,0,0,1,0,Regular pass
+Djibril Sidibé,Raphaël Varane,Regular pass,15,0,0,15,0,Regular pass
+Djibril Sidibé,Raphaël Varane,Throw-in,2,0,0,2,0,Throw-in
+Djibril Sidibé,Steve Mandanda,Regular pass,1,0,2,1,0,Regular pass
+Djibril Sidibé,Steven N''Kemboanza Mike Christopher Nzonzi,Regular pass,1,0,0,1,0,Regular pass
+Djibril Sidibé,Thomas Lemar,Regular pass,2,1,0,3,0,Regular pass
+Florian Thauvin,Benjamin Pavard,Regular pass,1,0,0,1,0,Regular pass
+Hugo Lloris,Benjamin Pavard,Regular pass,9,1,0,10,0,Regular pass
+Hugo Lloris,Benjamin Pavard,Switch of play,2,0,0,2,0,Switch of play
+Hugo Lloris,Blaise Matuidi,Goal Kick,1,0,0,1,0,Goal Kick
+Hugo Lloris,Blaise Matuidi,Regular pass,1,2,0,3,0,Regular pass
+Hugo Lloris,Corentin Tolisso,Regular pass,1,0,0,1,0,Regular pass
+Hugo Lloris,Lucas Hernández Pi,Regular pass,1,0,0,1,0,Regular pass
+Hugo Lloris,N''Golo Kanté,Regular pass,6,0,0,6,0,Regular pass
+Hugo Lloris,Nabil Fekir,Free Kick,1,0,0,1,0,Free Kick
+Hugo Lloris,Nabil Fekir,Goal Kick,1,0,0,1,0,Goal Kick
+Hugo Lloris,Olivier Giroud,Free Kick,3,4,0,7,0,Free Kick
+Hugo Lloris,Olivier Giroud,Goal Kick,11,8,0,19,0,Goal Kick
+Hugo Lloris,Olivier Giroud,Regular pass,12,7,0,19,0,Regular pass
+Hugo Lloris,Paul Pogba,Goal Kick,1,1,0,2,0,Goal Kick
+Hugo Lloris,Paul Pogba,Regular pass,6,2,0,8,0,Regular pass
+Hugo Lloris,Raphaël Varane,Goal Kick,3,0,0,3,0,Goal Kick
+Hugo Lloris,Raphaël Varane,Regular pass,11,0,0,11,0,Regular pass
+Hugo Lloris,Samuel Yves Umtiti,Goal Kick,2,0,0,2,0,Goal Kick
+Hugo Lloris,Samuel Yves Umtiti,Regular pass,10,0,1,10,0,Regular pass
+Hugo Lloris,Steven N''Kemboanza Mike Christopher Nzonzi,Goal Kick,1,0,0,1,0,Goal Kick
+Kylian Mbappé Lottin,Antoine Griezmann,Assist,3,0,0,3,3,Assist
+Kylian Mbappé Lottin,Antoine Griezmann,Cross,2,1,0,3,0,Cross
+Kylian Mbappé Lottin,Antoine Griezmann,Regular pass,16,9,4,25,0,Regular pass
+Kylian Mbappé Lottin,Benjamin Pavard,Assist,1,0,0,1,1,Assist
+Kylian Mbappé Lottin,Benjamin Pavard,Regular pass,24,3,0,27,0,Regular pass
+Kylian Mbappé Lottin,Benjamin Pavard,Throw-in,2,1,0,3,0,Throw-in
+Kylian Mbappé Lottin,Blaise Matuidi,Assist,1,0,0,1,1,Assist
+Kylian Mbappé Lottin,Blaise Matuidi,Regular pass,6,2,3,8,0,Regular pass
+Kylian Mbappé Lottin,Corentin Tolisso,Regular pass,3,0,0,3,0,Regular pass
+Kylian Mbappé Lottin,Djibril Sidibé,Regular pass,2,0,0,2,0,Regular pass
+Kylian Mbappé Lottin,Lucas Hernández Pi,Regular pass,1,0,0,1,0,Regular pass
+Kylian Mbappé Lottin,N''Golo Kanté,Regular pass,9,2,4,11,0,Regular pass
+Kylian Mbappé Lottin,Nabil Fekir,Assist,1,0,0,1,1,Assist
+Kylian Mbappé Lottin,Nabil Fekir,Cross,1,0,0,1,0,Cross
+Kylian Mbappé Lottin,Nabil Fekir,Regular pass,2,1,0,3,0,Regular pass
+Kylian Mbappé Lottin,Olivier Giroud,Assist,2,0,0,2,2,Assist
+Kylian Mbappé Lottin,Olivier Giroud,Regular pass,5,6,0,11,0,Regular pass
+Kylian Mbappé Lottin,Ousmane Dembélé,Regular pass,1,1,0,2,0,Regular pass
+Kylian Mbappé Lottin,Paul Pogba,Regular pass,22,0,0,22,0,Regular pass
+Kylian Mbappé Lottin,Paul Pogba,Throw-in,1,0,0,1,0,Throw-in
+Kylian Mbappé Lottin,Raphaël Varane,Assist,1,0,0,1,1,Assist
+Kylian Mbappé Lottin,Raphaël Varane,Regular pass,7,0,1,7,0,Regular pass
+Kylian Mbappé Lottin,Samuel Yves Umtiti,Throw-in,1,0,0,1,0,Throw-in
+Kylian Mbappé Lottin,Steven N''Kemboanza Mike Christopher Nzonzi,Regular pass,3,1,0,4,0,Regular pass
+Kylian Mbappé Lottin,Thomas Lemar,Regular pass,1,0,0,1,0,Regular pass
+Lucas Hernández Pi,Antoine Griezmann,Regular pass,21,5,6,26,0,Regular pass
+Lucas Hernández Pi,Antoine Griezmann,Throw-in,6,1,0,7,0,Throw-in
+Lucas Hernández Pi,Benjamin Pavard,Assist,1,0,0,1,1,Assist
+Lucas Hernández Pi,Blaise Matuidi,Assist,1,0,0,1,1,Assist
+Lucas Hernández Pi,Blaise Matuidi,Regular pass,15,1,1,16,0,Regular pass
+Lucas Hernández Pi,Blaise Matuidi,Throw-in,2,1,0,3,0,Throw-in
+Lucas Hernández Pi,Corentin Tolisso,Regular pass,17,1,1,18,0,Regular pass
+Lucas Hernández Pi,Corentin Tolisso,Throw-in,2,0,0,2,0,Throw-in
+Lucas Hernández Pi,Kylian Mbappé Lottin,Assist,1,0,0,1,1,Assist
+Lucas Hernández Pi,Kylian Mbappé Lottin,Regular pass,5,5,3,10,0,Regular pass
+Lucas Hernández Pi,Kylian Mbappé Lottin,Throw-in,1,0,0,1,0,Throw-in
+Lucas Hernández Pi,N''Golo Kanté,Regular pass,22,0,4,22,0,Regular pass
+Lucas Hernández Pi,N''Golo Kanté,Throw-in,6,0,0,6,0,Throw-in
+Lucas Hernández Pi,Nabil Fekir,Throw-in,1,0,0,1,0,Throw-in
+Lucas Hernández Pi,Olivier Giroud,Assist,1,0,0,1,1,Assist
+Lucas Hernández Pi,Olivier Giroud,Regular pass,4,5,1,9,0,Regular pass
+Lucas Hernández Pi,Olivier Giroud,Throw-in,16,3,0,19,0,Throw-in
+Lucas Hernández Pi,Ousmane Dembélé,Regular pass,5,0,1,5,0,Regular pass
+Lucas Hernández Pi,Paul Pogba,Regular pass,13,2,3,15,0,Regular pass
+Lucas Hernández Pi,Paul Pogba,Throw-in,11,0,0,11,0,Throw-in
+Lucas Hernández Pi,Presnel Kimpembe,Regular pass,9,0,1,9,0,Regular pass
+Lucas Hernández Pi,Presnel Kimpembe,Throw-in,1,0,0,1,0,Throw-in
+Lucas Hernández Pi,Raphaël Varane,Switch of play,1,0,0,1,0,Switch of play
+Lucas Hernández Pi,Raphaël Varane,Throw-in,1,0,0,1,0,Throw-in
+Lucas Hernández Pi,Samuel Yves Umtiti,Regular pass,22,0,2,22,0,Regular pass
+Lucas Hernández Pi,Samuel Yves Umtiti,Throw-in,2,0,0,2,0,Throw-in
+Lucas Hernández Pi,Steven N''Kemboanza Mike Christopher Nzonzi,Regular pass,6,0,1,6,0,Regular pass
+Lucas Hernández Pi,Steven N''Kemboanza Mike Christopher Nzonzi,Throw-in,1,0,0,1,0,Throw-in
+Lucas Hernández Pi,Thomas Lemar,Regular pass,7,0,0,7,0,Regular pass
+Lucas Hernández Pi,Thomas Lemar,Throw-in,2,0,0,2,0,Throw-in
+N''Golo Kanté,Antoine Griezmann,Regular pass,21,1,5,22,0,Regular pass
+N''Golo Kanté,Benjamin Mendy,Regular pass,2,0,0,2,0,Regular pass
+N''Golo Kanté,Benjamin Pavard,Regular pass,26,2,3,28,0,Regular pass
+N''Golo Kanté,Benjamin Pavard,Switch of play,3,1,0,4,0,Switch of play
+N''Golo Kanté,Blaise Matuidi,Regular pass,16,1,4,17,0,Regular pass
+N''Golo Kanté,Corentin Tolisso,Regular pass,21,0,5,21,0,Regular pass
+N''Golo Kanté,Djibril Sidibé,Regular pass,19,0,0,19,0,Regular pass
+N''Golo Kanté,Hugo Lloris,Regular pass,1,0,0,1,0,Regular pass
+N''Golo Kanté,Kylian Mbappé Lottin,Regular pass,15,5,3,20,0,Regular pass
+N''Golo Kanté,Lucas Hernández Pi,Regular pass,25,3,2,28,0,Regular pass
+N''Golo Kanté,Lucas Hernández Pi,Switch of play,8,0,0,8,0,Switch of play
+N''Golo Kanté,Nabil Fekir,Regular pass,1,0,0,1,0,Regular pass
+N''Golo Kanté,Olivier Giroud,Regular pass,4,4,4,8,0,Regular pass
+N''Golo Kanté,Ousmane Dembélé,Regular pass,6,2,2,8,0,Regular pass
+N''Golo Kanté,Paul Pogba,Assist,1,0,0,1,1,Assist
+N''Golo Kanté,Paul Pogba,Regular pass,28,1,7,29,0,Regular pass
+N''Golo Kanté,Presnel Kimpembe,Regular pass,5,0,0,5,0,Regular pass
+N''Golo Kanté,Raphaël Varane,Regular pass,35,0,1,35,0,Regular pass
+N''Golo Kanté,Samuel Yves Umtiti,Regular pass,31,0,1,31,0,Regular pass
+N''Golo Kanté,Steve Mandanda,Regular pass,1,0,0,1,0,Regular pass
+N''Golo Kanté,Steven N''Kemboanza Mike Christopher Nzonzi,Regular pass,9,1,1,10,0,Regular pass
+N''Golo Kanté,Thomas Lemar,Regular pass,2,0,2,2,0,Regular pass
+Nabil Fekir,Benjamin Mendy,Regular pass,1,0,0,1,0,Regular pass
+Nabil Fekir,Benjamin Mendy,Switch of play,1,0,0,1,0,Switch of play
+Nabil Fekir,Benjamin Pavard,Regular pass,3,0,0,3,0,Regular pass
+Nabil Fekir,Corentin Tolisso,Regular pass,1,0,0,1,0,Regular pass
+Nabil Fekir,Djibril Sidibé,Regular pass,3,0,0,3,0,Regular pass
+Nabil Fekir,Florian Thauvin,Regular pass,1,0,0,1,0,Regular pass
+Nabil Fekir,Kylian Mbappé Lottin,Regular pass,3,3,0,6,0,Regular pass
+Nabil Fekir,N''Golo Kanté,Regular pass,1,0,0,1,0,Regular pass
+Nabil Fekir,Olivier Giroud,Throw-in,1,0,0,1,0,Throw-in
+Nabil Fekir,Ousmane Dembélé,Regular pass,3,0,0,3,0,Regular pass
+Nabil Fekir,Paul Pogba,Regular pass,4,0,0,4,0,Regular pass
+Nabil Fekir,Raphaël Varane,Regular pass,1,0,0,1,0,Regular pass
+Nabil Fekir,Steven N''Kemboanza Mike Christopher Nzonzi,Regular pass,3,0,0,3,0,Regular pass
+Nabil Fekir,Thomas Lemar,Regular pass,1,0,0,1,0,Regular pass
+Olivier Giroud,Antoine Griezmann,Assist,2,0,0,2,2,Assist
+Olivier Giroud,Antoine Griezmann,Regular pass,18,8,3,26,0,Regular pass
+Olivier Giroud,Benjamin Pavard,Regular pass,8,0,1,8,0,Regular pass
+Olivier Giroud,Blaise Matuidi,Regular pass,7,5,0,12,0,Regular pass
+Olivier Giroud,Corentin Tolisso,Regular pass,3,2,1,5,0,Regular pass
+Olivier Giroud,Djibril Sidibé,Regular pass,4,0,0,4,0,Regular pass
+Olivier Giroud,Kylian Mbappé Lottin,Assist,2,0,0,2,2,Assist
+Olivier Giroud,Kylian Mbappé Lottin,Regular pass,5,4,1,9,0,Regular pass
+Olivier Giroud,Lucas Hernández Pi,Regular pass,9,1,1,10,0,Regular pass
+Olivier Giroud,N''Golo Kanté,Regular pass,5,1,1,6,0,Regular pass
+Olivier Giroud,Ousmane Dembélé,Assist,1,0,0,1,1,Assist
+Olivier Giroud,Ousmane Dembélé,Regular pass,2,1,1,3,0,Regular pass
+Olivier Giroud,Paul Pogba,Regular pass,6,1,3,7,0,Regular pass
+Olivier Giroud,Raphaël Varane,Regular pass,3,0,0,3,0,Regular pass
+Olivier Giroud,Steven N''Kemboanza Mike Christopher Nzonzi,Regular pass,1,1,0,2,0,Regular pass
+Ousmane Dembélé,Antoine Griezmann,Assist,1,0,0,1,1,Assist
+Ousmane Dembélé,Antoine Griezmann,Regular pass,6,1,0,7,0,Regular pass
+Ousmane Dembélé,Benjamin Pavard,Regular pass,3,0,0,3,0,Regular pass
+Ousmane Dembélé,Corentin Tolisso,Regular pass,2,0,0,2,0,Regular pass
+Ousmane Dembélé,Djibril Sidibé,Regular pass,8,0,0,8,0,Regular pass
+Ousmane Dembélé,Kylian Mbappé Lottin,Regular pass,1,2,1,3,0,Regular pass
+Ousmane Dembélé,Lucas Hernández Pi,Assist,1,0,0,1,1,Assist
+Ousmane Dembélé,Lucas Hernández Pi,Regular pass,3,1,0,4,0,Regular pass
+Ousmane Dembélé,Lucas Hernández Pi,Switch of play,2,0,0,2,0,Switch of play
+Ousmane Dembélé,N''Golo Kanté,Regular pass,6,0,0,6,0,Regular pass
+Ousmane Dembélé,Nabil Fekir,Regular pass,4,3,0,7,0,Regular pass
+Ousmane Dembélé,Olivier Giroud,Regular pass,3,1,0,4,0,Regular pass
+Ousmane Dembélé,Paul Pogba,Regular pass,3,0,0,3,0,Regular pass
+Ousmane Dembélé,Raphaël Varane,Regular pass,2,0,0,2,0,Regular pass
+Ousmane Dembélé,Steven N''Kemboanza Mike Christopher Nzonzi,Regular pass,3,0,0,3,0,Regular pass
+Ousmane Dembélé,Thomas Lemar,Regular pass,4,0,0,4,0,Regular pass
+Ousmane Dembélé,Thomas Lemar,Switch of play,2,0,0,2,0,Switch of play
+Paul Pogba,Antoine Griezmann,Assist,1,0,1,1,2,Assist
+Paul Pogba,Antoine Griezmann,Regular pass,21,6,6,27,0,Regular pass
+Paul Pogba,Benjamin Pavard,Free Kick,1,0,0,1,0,Free Kick
+Paul Pogba,Benjamin Pavard,Regular pass,41,3,4,44,0,Regular pass
+Paul Pogba,Benjamin Pavard,Switch of play,2,0,0,2,0,Switch of play
+Paul Pogba,Blaise Matuidi,Assist,1,0,0,1,1,Assist
+Paul Pogba,Blaise Matuidi,Regular pass,15,4,2,19,0,Regular pass
+Paul Pogba,Corentin Tolisso,Assist,2,0,0,2,2,Assist
+Paul Pogba,Corentin Tolisso,Regular pass,7,0,1,7,0,Regular pass
+Paul Pogba,Kylian Mbappé Lottin,Assist,2,0,0,2,2,Assist
+Paul Pogba,Kylian Mbappé Lottin,Free Kick,1,0,0,1,0,Free Kick
+Paul Pogba,Kylian Mbappé Lottin,Regular pass,24,10,3,34,0,Regular pass
+Paul Pogba,Kylian Mbappé Lottin,Switch of play,2,0,0,2,0,Switch of play
+Paul Pogba,Lucas Hernández Pi,Free Kick,1,0,0,1,0,Free Kick
+Paul Pogba,Lucas Hernández Pi,Regular pass,25,0,1,25,0,Regular pass
+Paul Pogba,Lucas Hernández Pi,Switch of play,6,2,0,8,0,Switch of play
+Paul Pogba,N''Golo Kanté,Free Kick,1,0,0,1,0,Free Kick
+Paul Pogba,N''Golo Kanté,Regular pass,22,1,1,23,0,Regular pass
+Paul Pogba,Nabil Fekir,Regular pass,6,1,0,7,0,Regular pass
+Paul Pogba,Olivier Giroud,Assist,2,0,0,2,2,Assist
+Paul Pogba,Olivier Giroud,Free Kick,1,1,0,2,0,Free Kick
+Paul Pogba,Olivier Giroud,Regular pass,9,5,4,14,0,Regular pass
+Paul Pogba,Ousmane Dembélé,Regular pass,1,1,0,2,0,Regular pass
+Paul Pogba,Raphaël Varane,Regular pass,15,0,1,15,0,Regular pass
+Paul Pogba,Raphaël Varane,Switch of play,2,0,0,2,0,Switch of play
+Paul Pogba,Samuel Yves Umtiti,Free Kick,1,0,0,1,0,Free Kick
+Paul Pogba,Samuel Yves Umtiti,Regular pass,10,1,3,11,0,Regular pass
+Paul Pogba,Steven N''Kemboanza Mike Christopher Nzonzi,Regular pass,5,0,0,5,0,Regular pass
+Presnel Kimpembe,Benjamin Mendy,Regular pass,10,0,1,10,0,Regular pass
+Presnel Kimpembe,Lucas Hernández Pi,Regular pass,8,0,0,8,0,Regular pass
+Presnel Kimpembe,N''Golo Kanté,Regular pass,11,0,0,11,0,Regular pass
+Presnel Kimpembe,Nabil Fekir,Regular pass,1,0,0,1,0,Regular pass
+Presnel Kimpembe,Raphaël Varane,Regular pass,14,0,3,14,0,Regular pass
+Presnel Kimpembe,Raphaël Varane,Switch of play,1,0,0,1,0,Switch of play
+Presnel Kimpembe,Steve Mandanda,Regular pass,4,0,0,4,0,Regular pass
+Presnel Kimpembe,Steven N''Kemboanza Mike Christopher Nzonzi,Regular pass,13,0,0,13,0,Regular pass
+Presnel Kimpembe,Thomas Lemar,Regular pass,2,0,1,2,0,Regular pass
+Raphaël Varane,Antoine Griezmann,Regular pass,7,1,5,8,0,Regular pass
+Raphaël Varane,Antoine Griezmann,Through ball,1,0,0,1,0,Through ball
+Raphaël Varane,Benjamin Mendy,Regular pass,1,0,0,1,0,Regular pass
+Raphaël Varane,Benjamin Mendy,Switch of play,1,0,0,1,0,Switch of play
+Raphaël Varane,Benjamin Pavard,Free Kick,2,0,0,2,0,Free Kick
+Raphaël Varane,Benjamin Pavard,Regular pass,54,1,7,55,0,Regular pass
+Raphaël Varane,Blaise Matuidi,Regular pass,1,0,1,1,0,Regular pass
+Raphaël Varane,Corentin Tolisso,Free Kick,1,0,0,1,0,Free Kick
+Raphaël Varane,Corentin Tolisso,Regular pass,4,0,1,4,0,Regular pass
+Raphaël Varane,Djibril Sidibé,Regular pass,30,1,0,31,0,Regular pass
+Raphaël Varane,Hugo Lloris,Regular pass,15,0,2,15,0,Regular pass
+Raphaël Varane,Kylian Mbappé Lottin,Regular pass,13,0,4,13,0,Regular pass
+Raphaël Varane,Lucas Hernández Pi,Free Kick,1,0,0,1,0,Free Kick
+Raphaël Varane,Lucas Hernández Pi,Switch of play,4,1,0,5,0,Switch of play
+Raphaël Varane,N''Golo Kanté,Free Kick,2,0,0,2,0,Free Kick
+Raphaël Varane,N''Golo Kanté,Regular pass,28,0,2,28,0,Regular pass
+Raphaël Varane,Nabil Fekir,Regular pass,3,0,3,3,0,Regular pass
+Raphaël Varane,Olivier Giroud,Free Kick,1,2,0,3,0,Free Kick
+Raphaël Varane,Olivier Giroud,Regular pass,8,5,3,13,0,Regular pass
+Raphaël Varane,Ousmane Dembélé,Regular pass,7,1,3,8,0,Regular pass
+Raphaël Varane,Paul Pogba,Free Kick,1,0,0,1,0,Free Kick
+Raphaël Varane,Paul Pogba,Regular pass,15,0,6,15,0,Regular pass
+Raphaël Varane,Presnel Kimpembe,Free Kick,1,0,0,1,0,Free Kick
+Raphaël Varane,Presnel Kimpembe,Regular pass,18,0,1,18,0,Regular pass
+Raphaël Varane,Samuel Yves Umtiti,Free Kick,3,0,0,3,0,Free Kick
+Raphaël Varane,Samuel Yves Umtiti,Regular pass,24,0,2,24,0,Regular pass
+Raphaël Varane,Samuel Yves Umtiti,Switch of play,6,0,0,6,0,Switch of play
+Raphaël Varane,Steve Mandanda,Regular pass,1,0,1,1,0,Regular pass
+Raphaël Varane,Steven N''Kemboanza Mike Christopher Nzonzi,Regular pass,4,1,1,5,0,Regular pass
+Raphaël Varane,Thomas Lemar,Regular pass,1,0,0,1,0,Regular pass
+Samuel Yves Umtiti,Antoine Griezmann,Regular pass,7,3,2,10,0,Regular pass
+Samuel Yves Umtiti,Benjamin Pavard,Regular pass,2,0,0,2,0,Regular pass
+Samuel Yves Umtiti,Blaise Matuidi,Regular pass,14,0,1,14,0,Regular pass
+Samuel Yves Umtiti,Corentin Tolisso,Regular pass,5,1,3,6,0,Regular pass
+Samuel Yves Umtiti,Hugo Lloris,Free Kick,2,0,0,2,0,Free Kick
+Samuel Yves Umtiti,Hugo Lloris,Regular pass,14,0,1,14,0,Regular pass
+Samuel Yves Umtiti,Kylian Mbappé Lottin,Regular pass,2,0,0,2,0,Regular pass
+Samuel Yves Umtiti,Lucas Hernández Pi,Regular pass,23,1,3,24,0,Regular pass
+Samuel Yves Umtiti,N''Golo Kanté,Free Kick,2,0,0,2,0,Free Kick
+Samuel Yves Umtiti,N''Golo Kanté,Regular pass,28,1,3,29,0,Regular pass
+Samuel Yves Umtiti,N''Golo Kanté,Switch of play,1,0,0,1,0,Switch of play
+Samuel Yves Umtiti,Olivier Giroud,Assist,1,0,0,1,1,Assist
+Samuel Yves Umtiti,Olivier Giroud,Free Kick,2,1,0,3,0,Free Kick
+Samuel Yves Umtiti,Olivier Giroud,Regular pass,5,0,6,5,0,Regular pass
+Samuel Yves Umtiti,Ousmane Dembélé,Regular pass,1,1,1,2,0,Regular pass
+Samuel Yves Umtiti,Paul Pogba,Regular pass,24,0,5,24,0,Regular pass
+Samuel Yves Umtiti,Raphaël Varane,Free Kick,1,0,0,1,0,Free Kick
+Samuel Yves Umtiti,Raphaël Varane,Regular pass,23,0,2,23,0,Regular pass
+Samuel Yves Umtiti,Raphaël Varane,Switch of play,5,0,0,5,0,Switch of play
+Samuel Yves Umtiti,Steven N''Kemboanza Mike Christopher Nzonzi,Regular pass,2,0,0,2,0,Regular pass
+Steve Mandanda,Djibril Sidibé,Regular pass,1,0,0,1,0,Regular pass
+Steve Mandanda,N''Golo Kanté,Regular pass,1,0,0,1,0,Regular pass
+Steve Mandanda,Olivier Giroud,Free Kick,1,1,0,2,0,Free Kick
+Steve Mandanda,Olivier Giroud,Regular pass,2,1,1,3,0,Regular pass
+Steve Mandanda,Presnel Kimpembe,Regular pass,4,0,0,4,0,Regular pass
+Steve Mandanda,Raphaël Varane,Goal Kick,1,0,0,1,0,Goal Kick
+Steve Mandanda,Raphaël Varane,Regular pass,8,0,1,8,0,Regular pass
+Steven N''Kemboanza Mike Christopher Nzonzi,Antoine Griezmann,Regular pass,10,0,3,10,0,Regular pass
+Steven N''Kemboanza Mike Christopher Nzonzi,Benjamin Mendy,Regular pass,4,0,0,4,0,Regular pass
+Steven N''Kemboanza Mike Christopher Nzonzi,Benjamin Pavard,Regular pass,2,0,0,2,0,Regular pass
+Steven N''Kemboanza Mike Christopher Nzonzi,Benjamin Pavard,Switch of play,1,0,0,1,0,Switch of play
+Steven N''Kemboanza Mike Christopher Nzonzi,Blaise Matuidi,Regular pass,2,0,0,2,0,Regular pass
+Steven N''Kemboanza Mike Christopher Nzonzi,Djibril Sidibé,Regular pass,6,0,0,6,0,Regular pass
+Steven N''Kemboanza Mike Christopher Nzonzi,Djibril Sidibé,Switch of play,1,0,0,1,0,Switch of play
+Steven N''Kemboanza Mike Christopher Nzonzi,Lucas Hernández Pi,Regular pass,9,0,0,9,0,Regular pass
+Steven N''Kemboanza Mike Christopher Nzonzi,Lucas Hernández Pi,Switch of play,1,0,0,1,0,Switch of play
+Steven N''Kemboanza Mike Christopher Nzonzi,N''Golo Kanté,Regular pass,7,0,2,7,0,Regular pass
+Steven N''Kemboanza Mike Christopher Nzonzi,Nabil Fekir,Regular pass,3,0,0,3,0,Regular pass
+Steven N''Kemboanza Mike Christopher Nzonzi,Olivier Giroud,Regular pass,1,0,1,1,0,Regular pass
+Steven N''Kemboanza Mike Christopher Nzonzi,Ousmane Dembélé,Assist,1,0,0,1,1,Assist
+Steven N''Kemboanza Mike Christopher Nzonzi,Ousmane Dembélé,Regular pass,2,0,2,2,0,Regular pass
+Steven N''Kemboanza Mike Christopher Nzonzi,Paul Pogba,Regular pass,5,0,0,5,0,Regular pass
+Steven N''Kemboanza Mike Christopher Nzonzi,Presnel Kimpembe,Free Kick,1,0,0,1,0,Free Kick
+Steven N''Kemboanza Mike Christopher Nzonzi,Presnel Kimpembe,Regular pass,6,0,0,6,0,Regular pass
+Steven N''Kemboanza Mike Christopher Nzonzi,Raphaël Varane,Regular pass,5,0,1,5,0,Regular pass
+Steven N''Kemboanza Mike Christopher Nzonzi,Samuel Yves Umtiti,Regular pass,3,0,0,3,0,Regular pass
+Steven N''Kemboanza Mike Christopher Nzonzi,Thomas Lemar,Regular pass,9,0,1,9,0,Regular pass
+Thomas Lemar,Antoine Griezmann,Regular pass,5,1,0,6,0,Regular pass
+Thomas Lemar,Benjamin Mendy,Regular pass,8,0,0,8,0,Regular pass
+Thomas Lemar,Djibril Sidibé,Regular pass,1,0,0,1,0,Regular pass
+Thomas Lemar,Kylian Mbappé Lottin,Regular pass,1,0,0,1,0,Regular pass
+Thomas Lemar,Lucas Hernández Pi,Regular pass,7,0,0,7,0,Regular pass
+Thomas Lemar,N''Golo Kanté,Regular pass,7,0,0,7,0,Regular pass
+Thomas Lemar,Nabil Fekir,Assist,1,0,0,1,1,Assist
+Thomas Lemar,Nabil Fekir,Regular pass,2,0,0,2,0,Regular pass
+Thomas Lemar,Olivier Giroud,Regular pass,1,0,1,1,0,Regular pass
+Thomas Lemar,Ousmane Dembélé,Regular pass,1,0,0,1,0,Regular pass
+Thomas Lemar,Presnel Kimpembe,Free Kick,1,0,0,1,0,Free Kick
+Thomas Lemar,Presnel Kimpembe,Regular pass,4,0,0,4,0,Regular pass
+Thomas Lemar,Raphaël Varane,Assist,1,0,0,1,1,Assist
+Thomas Lemar,Raphaël Varane,Regular pass,3,0,0,3,0,Regular pass
+Thomas Lemar,Steven N''Kemboanza Mike Christopher Nzonzi,Regular pass,6,0,0,6,0,Regular pass

@@ -1,0 +1,700 @@
+match_id,team,player,pass_recipient,minute,second,period,location,pass_end_location,pass_length,pass_angle,pass_height,pass_type,pass_cross,pass_cut_back,pass_switch,pass_deflected,pass_outcome,pass_shot_assist,pass_assisted_shot_id,under_pressure,play_pattern
+7563,France,Antoine Griezmann,Steven N''Kemboanza Mike Christopher Nzonzi,0,0,1,"[61.0, 40.0]","[45.0, 37.0]",16.27882,-2.9562447,Ground Pass,Kick Off,,,,,,,,,From Kick Off
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Raphaël Varane,0,3,1,"[44.0, 38.0]","[34.0, 51.0]",16.40122,2.226492,Ground Pass,,,,,,,,,True,From Kick Off
+7563,France,Raphaël Varane,Djibril Sidibé,0,5,1,"[33.0, 55.0]","[39.0, 79.0]",24.738634,1.3258177,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Djibril Sidibé,Raphaël Varane,0,6,1,"[38.0, 78.0]","[32.0, 68.0]",11.661903,-2.1112158,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Raphaël Varane,Presnel Kimpembe,0,10,1,"[32.0, 66.0]","[33.0, 32.0]",34.0147,-1.541393,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Presnel Kimpembe,Raphaël Varane,0,15,1,"[40.0, 28.0]","[40.0, 50.0]",22.0,1.5707964,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Raphaël Varane,Djibril Sidibé,0,20,1,"[54.0, 60.0]","[55.0, 78.0]",18.027756,1.5152978,Ground Pass,,,,,,,,,True,From Kick Off
+7563,France,Djibril Sidibé,Raphaël Varane,0,24,1,"[54.0, 79.0]","[42.0, 75.0]",12.649111,-2.819842,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Raphaël Varane,Presnel Kimpembe,0,27,1,"[43.0, 76.0]","[42.0, 41.0]",35.014282,-1.59936,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Presnel Kimpembe,Steven N''Kemboanza Mike Christopher Nzonzi,0,29,1,"[44.0, 37.0]","[55.0, 30.0]",13.038404,-0.5667292,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Presnel Kimpembe,0,30,1,"[54.0, 30.0]","[42.0, 28.0]",12.165525,-2.976444,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Presnel Kimpembe,Lucas Hernández Pi,0,34,1,"[55.0, 15.0]","[76.0, 2.0]",24.698177,-0.5543075,Ground Pass,,,,,,,,,True,From Kick Off
+7563,France,Lucas Hernández Pi,Thomas Lemar,0,37,1,"[80.0, 3.0]","[79.0, 15.0]",12.0415945,1.6539376,Ground Pass,,,,,,,,,True,From Kick Off
+7563,France,Thomas Lemar,N''Golo Kanté,0,40,1,"[80.0, 14.0]","[65.0, 35.0]",25.806976,2.1910458,Ground Pass,,,,,,,,,True,From Kick Off
+7563,France,N''Golo Kanté,Djibril Sidibé,0,44,1,"[72.0, 48.0]","[83.0, 80.0]",33.83785,1.2397002,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Djibril Sidibé,Ousmane Dembélé,0,46,1,"[84.0, 79.0]","[84.0, 72.0]",7.0,-1.5707964,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Ousmane Dembélé,Djibril Sidibé,0,47,1,"[84.0, 74.0]","[77.0, 79.0]",8.602325,2.5213432,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Djibril Sidibé,N''Golo Kanté,0,50,1,"[71.0, 79.0]","[73.0, 67.0]",12.165525,-1.4056476,Ground Pass,,,,,,,,,True,From Kick Off
+7563,France,N''Golo Kanté,Raphaël Varane,0,51,1,"[70.0, 70.0]","[55.0, 58.0]",19.209373,-2.4668517,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Raphaël Varane,Presnel Kimpembe,0,54,1,"[55.0, 54.0]","[58.0, 33.0]",21.213203,-1.4288993,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Presnel Kimpembe,Steven N''Kemboanza Mike Christopher Nzonzi,0,57,1,"[59.0, 32.0]","[69.0, 37.0]",11.18034,0.4636476,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Presnel Kimpembe,0,59,1,"[66.0, 34.0]","[65.0, 16.0]",18.027756,-1.6262949,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Presnel Kimpembe,Lucas Hernández Pi,1,1,1,"[65.0, 15.0]","[82.0, 2.0]",21.400934,-0.65284663,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Lucas Hernández Pi,Presnel Kimpembe,1,4,1,"[79.0, 3.0]","[63.0, 4.0]",16.03122,3.0791738,Ground Pass,,,,,,,,,True,From Kick Off
+7563,France,Presnel Kimpembe,Steve Mandanda,1,6,1,"[59.0, 4.0]","[24.0, 28.0]",42.43819,2.540519,Ground Pass,,,,,,,,,True,From Kick Off
+7563,France,Steve Mandanda,Raphaël Varane,1,11,1,"[25.0, 31.0]","[31.0, 62.0]",31.575306,1.3796118,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Raphaël Varane,N''Golo Kanté,1,16,1,"[52.0, 66.0]","[58.0, 62.0]",7.2111025,-0.5880026,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,N''Golo Kanté,Ousmane Dembélé,1,18,1,"[59.0, 66.0]","[72.0, 79.0]",18.384777,0.7853982,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Ousmane Dembélé,N''Golo Kanté,1,22,1,"[77.0, 79.0]","[68.0, 71.0]",12.0415945,-2.4149504,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,N''Golo Kanté,Djibril Sidibé,1,25,1,"[70.0, 70.0]","[65.0, 79.0]",10.29563,2.077895,Ground Pass,,,,,,,,,True,From Kick Off
+7563,France,Djibril Sidibé,Antoine Griezmann,1,27,1,"[66.0, 79.0]","[79.0, 73.0]",14.3178215,-0.43240777,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Antoine Griezmann,Ousmane Dembélé,1,28,1,"[79.0, 78.0]","[89.0, 79.0]",10.049875,0.09966865,Ground Pass,,,,,,,,,True,From Kick Off
+7563,France,Ousmane Dembélé,,1,32,1,"[88.0, 78.0]","[85.0, 77.0]",3.1622777,-2.819842,Ground Pass,,,,,,Incomplete,,,True,From Kick Off
+7563,France,N''Golo Kanté,Ousmane Dembélé,1,34,1,"[77.0, 76.0]","[81.0, 77.0]",4.1231055,0.24497867,Ground Pass,Recovery,,,,,Incomplete,,,,From Kick Off
+7563,France,Ousmane Dembélé,Antoine Griezmann,1,37,1,"[85.0, 77.0]","[88.0, 79.0]",3.6055512,0.5880026,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Antoine Griezmann,Djibril Sidibé,1,40,1,"[87.0, 79.0]","[107.0, 79.0]",20.0,0.0,Ground Pass,,,,,,,,,,From Kick Off
+7563,France,Djibril Sidibé,,1,42,1,"[109.0, 79.0]","[111.0, 45.0]",34.058773,-1.5120405,Ground Pass,,True,,,,Incomplete,,,,From Kick Off
+7563,France,N''Golo Kanté,Thomas Lemar,2,38,1,"[29.0, 37.0]","[36.0, 28.0]",11.401754,-0.90975314,Low Pass,Recovery,,,,,,,,,From Free Kick
+7563,France,Thomas Lemar,,2,40,1,"[37.0, 29.0]","[56.0, 57.0]",33.83785,0.97459716,High Pass,,,,,,Incomplete,,,,From Free Kick
+7563,France,Presnel Kimpembe,,3,12,1,"[25.0, 20.0]","[21.0, 15.0]",6.4031243,-2.2455373,High Pass,Recovery,,,,,Incomplete,,,True,From Free Kick
+7563,France,Presnel Kimpembe,Lucas Hernández Pi,3,20,1,"[3.0, 23.0]","[8.0, 11.0]",13.0,-1.1760052,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Steve Mandanda,Olivier Giroud,4,1,1,"[10.0, 15.0]","[69.0, 7.0]",59.5399,-0.13477129,High Pass,Free Kick,,,,,,,,,From Free Kick
+7563,France,Olivier Giroud,Antoine Griezmann,4,5,1,"[69.0, 6.0]","[81.0, 16.0]",15.6205,0.69473827,Low Pass,,,,,,,,,,From Free Kick
+7563,France,Antoine Griezmann,Olivier Giroud,4,6,1,"[80.0, 14.0]","[78.0, 9.0]",5.3851647,-1.9513026,Low Pass,,,,,,Incomplete,,,True,From Free Kick
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,,4,9,1,"[69.0, 10.0]","[96.0, 1.0]",28.460499,-0.32175055,High Pass,Interception,,,,,Out,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Thomas Lemar,4,25,1,"[63.0, 7.0]","[71.0, 1.0]",10.0,-0.6435011,Low Pass,Recovery,,,,,Out,,,True,From Throw In
+7563,France,Djibril Sidibé,Steve Mandanda,4,38,1,"[27.0, 40.0]","[10.0, 42.0]",17.117243,3.024484,Ground Pass,Recovery,,,,,,,,,From Throw In
+7563,France,Steve Mandanda,,4,43,1,"[9.0, 40.0]","[62.0, 44.0]",53.15073,0.075328894,High Pass,,,,,,Incomplete,,,True,From Throw In
+7563,France,Djibril Sidibé,Ousmane Dembélé,4,54,1,"[68.0, 80.0]","[80.0, 80.0]",12.0,0.0,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Djibril Sidibé,4,56,1,"[76.0, 79.0]","[66.0, 79.0]",10.0,3.1415927,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Antoine Griezmann,4,56,1,"[67.0, 79.0]","[88.0, 79.0]",21.0,0.0,High Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Raphaël Varane,5,0,1,"[79.0, 79.0]","[57.0, 76.0]",22.203604,-3.006065,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Raphaël Varane,Lucas Hernández Pi,5,4,1,"[63.0, 74.0]","[90.0, 13.0]",66.70832,-1.1540941,High Pass,,,,True,,Incomplete,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,6,28,1,"[41.0, 79.0]","[58.0, 79.0]",17.0,0.0,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Djibril Sidibé,6,30,1,"[56.0, 80.0]","[42.0, 79.0]",14.035668,-3.070285,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Djibril Sidibé,Raphaël Varane,6,32,1,"[42.0, 78.0]","[38.0, 68.0]",10.770329,-1.9513026,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Presnel Kimpembe,6,34,1,"[40.0, 60.0]","[42.0, 27.0]",33.06055,-1.5102643,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Lucas Hernández Pi,6,38,1,"[48.0, 24.0]","[72.0, 2.0]",32.55764,-0.7419473,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Thomas Lemar,6,56,1,"[109.0, 2.0]","[108.0, 10.0]",8.062258,1.6951513,Low Pass,Throw-in,,,,,,,,,From Throw In
+7563,France,Thomas Lemar,Lucas Hernández Pi,6,56,1,"[107.0, 8.0]","[108.0, 2.0]",6.0827627,-1.4056476,Low Pass,,,,,,,,,,From Throw In
+7563,France,Lucas Hernández Pi,Presnel Kimpembe,7,29,1,"[53.0, 6.0]","[40.0, 4.0]",13.152946,-2.9889433,Low Pass,Recovery,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Steve Mandanda,7,32,1,"[37.0, 3.0]","[17.0, 27.0]",31.241,2.2655346,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steve Mandanda,Raphaël Varane,7,35,1,"[16.0, 31.0]","[31.0, 59.0]",31.764761,1.0789871,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Djibril Sidibé,7,39,1,"[37.0, 64.0]","[46.0, 79.0]",17.492855,1.0303768,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Raphaël Varane,7,42,1,"[48.0, 79.0]","[41.0, 66.0]",14.764823,-2.0647378,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Ousmane Dembélé,7,46,1,"[44.0, 68.0]","[68.0, 70.0]",24.083189,0.08314123,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Antoine Griezmann,7,48,1,"[70.0, 71.0]","[107.0, 71.0]",37.0,0.0,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Olivier Giroud,7,51,1,"[108.0, 69.0]","[114.0, 51.0]",18.973665,-1.2490457,Ground Pass,,,,,,Incomplete,,,True,Regular Play
+7563,France,N''Golo Kanté,Olivier Giroud,8,1,1,"[91.0, 75.0]","[113.0, 39.0]",42.190044,-1.022247,High Pass,,True,,,,Incomplete,,,,Regular Play
+7563,France,Lucas Hernández Pi,Olivier Giroud,8,40,1,"[38.0, 2.0]","[55.0, 16.0]",22.022715,0.6889244,High Pass,Throw-in,,,,,,,,,From Throw In
+7563,France,Olivier Giroud,Thomas Lemar,8,41,1,"[54.0, 15.0]","[57.0, 7.0]",8.5440035,-1.2120256,Low Pass,,,,,,Incomplete,,,,From Throw In
+7563,France,Lucas Hernández Pi,Presnel Kimpembe,9,1,1,"[38.0, 2.0]","[24.0, 6.0]",14.56022,2.863293,Low Pass,Throw-in,,,,,,,,,From Throw In
+7563,France,Presnel Kimpembe,Steven N''Kemboanza Mike Christopher Nzonzi,9,5,1,"[24.0, 13.0]","[35.0, 26.0]",17.029387,0.8685394,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Presnel Kimpembe,9,8,1,"[36.0, 24.0]","[36.0, 19.0]",5.0,-1.5707964,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Presnel Kimpembe,Raphaël Varane,9,12,1,"[42.0, 23.0]","[35.0, 54.0]",31.780497,1.7928783,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Raphaël Varane,Ousmane Dembélé,9,15,1,"[37.0, 60.0]","[68.0, 79.0]",36.359318,0.5498532,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Ousmane Dembélé,Lucas Hernández Pi,9,20,1,"[66.0, 61.0]","[70.0, 4.0]",57.14018,-1.5007358,High Pass,,,,True,,,,,,From Throw In
+7563,France,Steve Mandanda,Olivier Giroud,10,29,1,"[13.0, 21.0]","[70.0, 7.0]",58.694122,-0.24084646,High Pass,Free Kick,,,,,Unknown,,,,From Free Kick
+7563,France,Thomas Lemar,Presnel Kimpembe,10,41,1,"[70.0, 4.0]","[53.0, 13.0]",19.235384,2.6546934,Ground Pass,Free Kick,,,,,,,,,From Free Kick
+7563,France,Presnel Kimpembe,Raphaël Varane,10,43,1,"[53.0, 14.0]","[50.0, 50.0]",36.124783,1.6539376,Ground Pass,,,,,,,,,,From Free Kick
+7563,France,Raphaël Varane,Djibril Sidibé,10,47,1,"[50.0, 51.0]","[58.0, 77.0]",27.202942,1.2722974,Ground Pass,,,,,,,,,,From Free Kick
+7563,France,Djibril Sidibé,Olivier Giroud,10,49,1,"[59.0, 78.0]","[120.0, 71.0]",61.400326,-0.114254326,High Pass,,,,,,Out,,,,From Free Kick
+7563,France,Djibril Sidibé,Antoine Griezmann,11,26,1,"[67.0, 77.0]","[82.0, 67.0]",18.027756,-0.5880026,Ground Pass,Interception,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Steve Mandanda,11,32,1,"[36.0, 67.0]","[7.0, 43.0]",37.64306,-2.4502556,Ground Pass,Recovery,,,,,,,,,Regular Play
+7563,France,Steve Mandanda,Olivier Giroud,11,37,1,"[11.0, 43.0]","[69.0, 56.0]",59.439045,0.22049376,High Pass,,,,,,,,,True,Regular Play
+7563,France,Steve Mandanda,N''Golo Kanté,12,3,1,"[15.0, 55.0]","[35.0, 58.0]",20.22375,0.14888994,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Djibril Sidibé,12,7,1,"[41.0, 59.0]","[49.0, 79.0]",21.540659,1.19029,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,N''Golo Kanté,12,10,1,"[50.0, 79.0]","[48.0, 66.0]",13.152946,-1.7234457,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Thomas Lemar,12,14,1,"[54.0, 54.0]","[64.0, 50.0]",10.770329,-0.38050637,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,N''Golo Kanté,12,14,1,"[64.0, 50.0]","[55.0, 54.0]",9.848858,2.7233684,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Djibril Sidibé,12,16,1,"[55.0, 57.0]","[57.0, 78.0]",21.095022,1.4758446,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Djibril Sidibé,Raphaël Varane,12,19,1,"[55.0, 78.0]","[38.0, 59.0]",25.495098,-2.300696,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Presnel Kimpembe,12,21,1,"[38.0, 58.0]","[43.0, 27.0]",31.400637,-1.4108832,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Lucas Hernández Pi,12,25,1,"[55.0, 24.0]","[79.0, 3.0]",31.890438,-0.71883,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Antoine Griezmann,12,29,1,"[88.0, 5.0]","[89.0, 15.0]",10.049875,1.4711276,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Steven N''Kemboanza Mike Christopher Nzonzi,12,31,1,"[88.0, 14.0]","[76.0, 14.0]",12.0,3.1415927,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Antoine Griezmann,12,32,1,"[76.0, 9.0]","[83.0, 7.0]",7.28011,-0.27829966,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Steven N''Kemboanza Mike Christopher Nzonzi,12,33,1,"[83.0, 7.0]","[73.0, 7.0]",10.0,3.1415927,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Antoine Griezmann,12,34,1,"[74.0, 6.0]","[83.0, 3.0]",9.486833,-0.32175055,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Lucas Hernández Pi,12,36,1,"[86.0, 1.0]","[105.0, 13.0]",22.472204,0.5633163,High Pass,,,,,,Incomplete,,,True,Regular Play
+7563,France,Lucas Hernández Pi,Thomas Lemar,12,47,1,"[100.0, 1.0]","[99.0, 12.0]",11.045361,1.6614562,Low Pass,Throw-in,,,,,,,,,From Throw In
+7563,France,Thomas Lemar,Lucas Hernández Pi,12,48,1,"[99.0, 10.0]","[100.0, 2.0]",8.062258,-1.4464413,Low Pass,,,,,,,,,,From Throw In
+7563,France,Antoine Griezmann,Steven N''Kemboanza Mike Christopher Nzonzi,12,52,1,"[95.0, 10.0]","[86.0, 3.0]",11.401754,-2.4805496,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Thomas Lemar,12,54,1,"[83.0, 5.0]","[85.0, 14.0]",9.219544,1.3521274,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Thomas Lemar,Raphaël Varane,12,57,1,"[79.0, 21.0]","[68.0, 44.0]",25.495098,2.016902,Ground Pass,,,,,,,,,True,From Throw In
+7563,France,Raphaël Varane,Djibril Sidibé,12,59,1,"[67.0, 44.0]","[76.0, 77.0]",34.20526,1.3045443,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Djibril Sidibé,Ousmane Dembélé,13,2,1,"[79.0, 78.0]","[90.0, 79.0]",11.045361,0.09065989,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Ousmane Dembélé,Djibril Sidibé,13,6,1,"[88.0, 79.0]","[79.0, 77.0]",9.219544,-2.9229238,Ground Pass,,,,,,,,,True,From Throw In
+7563,France,Djibril Sidibé,Ousmane Dembélé,13,10,1,"[81.0, 78.0]","[83.0, 80.0]",2.828427,0.7853982,Ground Pass,,,,,,,,,True,From Throw In
+7563,France,N''Golo Kanté,Thomas Lemar,13,12,1,"[73.0, 76.0]","[80.0, 65.0]",13.038404,-1.0040671,Ground Pass,Recovery,,,,,Incomplete,,,True,From Throw In
+7563,France,Raphaël Varane,Djibril Sidibé,13,21,1,"[66.0, 79.0]","[66.0, 77.0]",2.0,-1.5707964,Ground Pass,,,,,,Incomplete,,,,From Throw In
+7563,France,Raphaël Varane,Presnel Kimpembe,13,32,1,"[42.0, 66.0]","[45.0, 44.0]",22.203604,-1.4352686,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Steven N''Kemboanza Mike Christopher Nzonzi,13,35,1,"[48.0, 37.0]","[58.0, 26.0]",14.866069,-0.8329813,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Lucas Hernández Pi,13,37,1,"[64.0, 24.0]","[85.0, 3.0]",29.698484,-0.7853982,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Steven N''Kemboanza Mike Christopher Nzonzi,13,42,1,"[87.0, 4.0]","[81.0, 6.0]",6.3245554,2.819842,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Thomas Lemar,13,44,1,"[79.0, 6.0]","[81.0, 19.0]",13.152946,1.418147,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Raphaël Varane,13,49,1,"[70.0, 31.0]","[63.0, 51.0]",21.189621,1.9074712,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Raphaël Varane,Djibril Sidibé,13,54,1,"[83.0, 68.0]","[94.0, 79.0]",15.556349,0.7853982,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Thomas Lemar,13,59,1,"[92.0, 67.0]","[95.0, 61.0]",6.708204,-1.1071488,Ground Pass,,,,,,Incomplete,,,True,Regular Play
+7563,France,Raphaël Varane,Djibril Sidibé,14,4,1,"[83.0, 70.0]","[91.0, 79.0]",12.0415945,0.844154,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,14,6,1,"[91.0, 78.0]","[91.0, 70.0]",8.0,-1.5707964,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Raphaël Varane,14,7,1,"[91.0, 74.0]","[83.0, 76.0]",8.246211,2.896614,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Antoine Griezmann,14,8,1,"[82.0, 76.0]","[86.0, 69.0]",8.062258,-1.0516502,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Thomas Lemar,14,10,1,"[85.0, 69.0]","[90.0, 60.0]",10.29563,-1.0636978,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Thomas Lemar,Steven N''Kemboanza Mike Christopher Nzonzi,14,11,1,"[90.0, 58.0]","[78.0, 53.0]",13.0,-2.7468016,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Lucas Hernández Pi,14,14,1,"[81.0, 51.0]","[107.0, 9.0]",49.396355,-1.0164888,High Pass,,,,True,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Olivier Giroud,14,19,1,"[107.0, 9.0]","[107.0, 28.0]",19.0,1.5707964,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Olivier Giroud,Lucas Hernández Pi,14,20,1,"[107.0, 27.0]","[109.0, 21.0]",6.3245554,-1.2490457,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Lucas Hernández Pi,Olivier Giroud,14,21,1,"[109.0, 23.0]","[106.0, 27.0]",5.0,2.2142975,Ground Pass,,,,,,,True,ecc9f8aa-c409-491d-848b-838822be1e20,,Regular Play
+7563,France,Thomas Lemar,Raphaël Varane,15,30,1,"[120.0, 2.0]","[112.0, 40.0]",38.832977,1.7782925,High Pass,Corner,,,,,,True,2fbd2058-3963-48c2-91ce-15aea79fc5e4,,From Corner
+7563,France,Raphaël Varane,Djibril Sidibé,16,19,1,"[20.0, 70.0]","[28.0, 80.0]",12.806249,0.8960554,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Olivier Giroud,16,22,1,"[30.0, 79.0]","[48.0, 71.0]",19.697716,-0.41822433,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Olivier Giroud,Raphaël Varane,16,23,1,"[48.0, 71.0]","[23.0, 65.0]",25.70992,-2.9060476,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Djibril Sidibé,16,28,1,"[28.0, 62.0]","[48.0, 79.0]",26.24881,0.70449406,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,16,31,1,"[55.0, 79.0]","[69.0, 79.0]",14.0,0.0,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Djibril Sidibé,N''Golo Kanté,16,36,1,"[57.0, 79.0]","[54.0, 71.0]",8.5440035,-1.929567,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Lucas Hernández Pi,16,40,1,"[59.0, 54.0]","[74.0, 2.0]",54.120235,-1.2899586,High Pass,,,,True,,,,,True,Regular Play
+7563,France,Lucas Hernández Pi,Thomas Lemar,16,46,1,"[86.0, 6.0]","[81.0, 8.0]",5.3851647,2.7610862,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Steven N''Kemboanza Mike Christopher Nzonzi,16,48,1,"[83.0, 9.0]","[75.0, 21.0]",14.422205,2.158799,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Lucas Hernández Pi,16,51,1,"[83.0, 15.0]","[89.0, 3.0]",13.416408,-1.1071488,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Presnel Kimpembe,16,53,1,"[86.0, 3.0]","[64.0, 26.0]",31.827662,2.333976,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Presnel Kimpembe,Raphaël Varane,16,57,1,"[70.0, 33.0]","[64.0, 51.0]",18.973665,1.8925469,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Antoine Griezmann,17,1,1,"[71.0, 56.0]","[82.0, 50.0]",12.529964,-0.49934673,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Thomas Lemar,17,2,1,"[82.0, 52.0]","[67.0, 30.0]",26.627054,-2.1692152,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Thomas Lemar,Antoine Griezmann,17,5,1,"[70.0, 32.0]","[77.0, 38.0]",9.219544,0.7086263,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Thomas Lemar,17,7,1,"[72.0, 30.0]","[79.0, 22.0]",10.630146,-0.8519663,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Lucas Hernández Pi,17,10,1,"[87.0, 14.0]","[103.0, 3.0]",19.416489,-0.60228735,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Thomas Lemar,17,13,1,"[101.0, 3.0]","[88.0, 5.0]",13.152946,2.9889433,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Antoine Griezmann,17,15,1,"[89.0, 6.0]","[104.0, 14.0]",17.0,0.48995733,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Thomas Lemar,17,17,1,"[106.0, 13.0]","[95.0, 29.0]",19.416489,2.1730838,Ground Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Steve Mandanda,Djibril Sidibé,17,43,1,"[8.0, 39.0]","[46.0, 78.0]",54.451813,0.7983844,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,17,51,1,"[79.0, 79.0]","[89.0, 64.0]",18.027756,-0.98279375,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Djibril Sidibé,17,54,1,"[97.0, 62.0]","[118.0, 65.0]",21.213203,0.14189705,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Olivier Giroud,17,56,1,"[118.0, 65.0]","[113.0, 49.0]",16.763054,-1.8736812,High Pass,,True,,,,Incomplete,,,,Regular Play
+7563,France,N''Golo Kanté,Antoine Griezmann,18,4,1,"[83.0, 48.0]","[83.0, 54.0]",6.0,1.5707964,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Ousmane Dembélé,18,6,1,"[83.0, 56.0]","[92.0, 55.0]",9.055386,-0.11065722,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Ousmane Dembélé,Djibril Sidibé,18,8,1,"[91.0, 55.0]","[94.0, 79.0]",24.186773,1.4464413,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Antoine Griezmann,18,9,1,"[94.0, 79.0]","[111.0, 61.0]",24.758837,-0.8139618,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steve Mandanda,Raphaël Varane,19,3,1,"[6.0, 34.0]","[17.0, 63.0]",31.016125,1.2082521,Ground Pass,Goal Kick,,,,,,,,,From Goal Kick
+7563,France,Raphaël Varane,N''Golo Kanté,19,9,1,"[34.0, 64.0]","[45.0, 58.0]",12.529964,-0.49934673,Ground Pass,,,,,,,,,,From Goal Kick
+7563,France,N''Golo Kanté,Antoine Griezmann,19,13,1,"[52.0, 52.0]","[57.0, 50.0]",5.3851647,-0.38050637,Ground Pass,,,,,,,,,,From Goal Kick
+7563,France,Antoine Griezmann,Raphaël Varane,19,14,1,"[56.0, 49.0]","[53.0, 67.0]",18.248287,1.735945,Ground Pass,,,,,,,,,,From Goal Kick
+7563,France,Raphaël Varane,N''Golo Kanté,19,17,1,"[55.0, 64.0]","[54.0, 54.0]",10.049875,-1.670465,Ground Pass,,,,,,,,,,From Goal Kick
+7563,France,N''Golo Kanté,Raphaël Varane,19,19,1,"[54.0, 57.0]","[54.0, 67.0]",10.0,1.5707964,Ground Pass,,,,,,,,,,From Goal Kick
+7563,France,Raphaël Varane,,19,21,1,"[57.0, 67.0]","[109.0, 40.0]",58.59181,-0.4789136,High Pass,,,,,,Unknown,,,,From Goal Kick
+7563,France,Lucas Hernández Pi,Steven N''Kemboanza Mike Christopher Nzonzi,20,1,1,"[35.0, 2.0]","[44.0, 10.0]",12.0415945,0.7266424,Low Pass,Throw-in,,,,,,,,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Lucas Hernández Pi,20,2,1,"[42.0, 8.0]","[36.0, 2.0]",8.485281,-2.3561945,Ground Pass,,,,,,,,,True,From Throw In
+7563,France,Lucas Hernández Pi,Antoine Griezmann,20,3,1,"[36.0, 2.0]","[48.0, 20.0]",21.633308,0.98279375,Ground Pass,,,,,,,,,True,From Throw In
+7563,France,Antoine Griezmann,Steven N''Kemboanza Mike Christopher Nzonzi,20,5,1,"[44.0, 15.0]","[48.0, 7.0]",8.944272,-1.1071488,Ground Pass,,,,,,,,,True,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Lucas Hernández Pi,20,6,1,"[48.0, 7.0]","[36.0, 3.0]",12.649111,-2.819842,Ground Pass,,,,,,,,,True,From Throw In
+7563,France,Lucas Hernández Pi,Presnel Kimpembe,20,10,1,"[33.0, 4.0]","[20.0, 11.0]",14.764823,2.6476512,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Presnel Kimpembe,Steve Mandanda,20,11,1,"[20.0, 11.0]","[9.0, 30.0]",21.954498,2.095592,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Steve Mandanda,Olivier Giroud,20,16,1,"[8.0, 37.0]","[70.0, 37.0]",62.0,0.0,High Pass,,,,,,Incomplete,,,,From Throw In
+7563,France,Djibril Sidibé,,20,31,1,"[75.0, 51.0]","[86.0, 40.0]",15.556349,-0.7853982,Low Pass,Interception,,,,,Incomplete,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,20,39,1,"[55.0, 69.0]","[67.0, 69.0]",12.0,0.0,Low Pass,Recovery,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Antoine Griezmann,20,44,1,"[68.0, 52.0]","[74.0, 44.0]",10.0,-0.9272952,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Thomas Lemar,20,44,1,"[74.0, 44.0]","[75.0, 33.0]",11.045361,-1.4801364,Ground Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Lucas Hernández Pi,Antoine Griezmann,22,47,1,"[30.0, 2.0]","[40.0, 5.0]",10.440307,0.2914568,High Pass,Throw-in,,,,,,,,,From Throw In
+7563,France,Antoine Griezmann,Steven N''Kemboanza Mike Christopher Nzonzi,22,48,1,"[39.0, 3.0]","[46.0, 6.0]",7.615773,0.4048918,High Pass,,,,,,,,,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,,22,49,1,"[45.0, 5.0]","[61.0, 6.0]",16.03122,0.06241881,High Pass,,,,,,Incomplete,,,,From Throw In
+7563,France,Antoine Griezmann,Steven N''Kemboanza Mike Christopher Nzonzi,22,52,1,"[45.0, 11.0]","[51.0, 9.0]",6.3245554,-0.32175055,High Pass,Recovery,,,,,Incomplete,,,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Olivier Giroud,22,57,1,"[52.0, 3.0]","[57.0, 3.0]",5.0,0.0,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Olivier Giroud,Lucas Hernández Pi,22,57,1,"[57.0, 4.0]","[53.0, 3.0]",4.1231055,-2.896614,Ground Pass,,,,,,,,,True,From Throw In
+7563,France,Presnel Kimpembe,Raphaël Varane,23,21,1,"[50.0, 10.0]","[41.0, 50.0]",41.0,1.7921108,Ground Pass,,,,True,,,,,,Regular Play
+7563,France,Raphaël Varane,Djibril Sidibé,23,24,1,"[42.0, 51.0]","[55.0, 78.0]",29.966648,1.1220729,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,23,27,1,"[55.0, 78.0]","[68.0, 78.0]",13.0,0.0,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Djibril Sidibé,23,28,1,"[67.0, 79.0]","[54.0, 79.0]",13.0,3.1415927,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Djibril Sidibé,Raphaël Varane,23,32,1,"[51.0, 78.0]","[36.0, 69.0]",17.492855,-2.6011732,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Presnel Kimpembe,23,33,1,"[38.0, 67.0]","[43.0, 32.0]",35.35534,-1.4288993,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Lucas Hernández Pi,23,39,1,"[60.0, 25.0]","[82.0, 2.0]",31.827662,-0.8076167,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Antoine Griezmann,23,43,1,"[82.0, 2.0]","[82.0, 14.0]",12.0,1.5707964,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Thomas Lemar,23,44,1,"[81.0, 11.0]","[66.0, 3.0]",17.0,-2.6516354,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Thomas Lemar,Raphaël Varane,23,46,1,"[66.0, 4.0]","[50.0, 38.0]",37.576588,2.010639,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,N''Golo Kanté,23,50,1,"[51.0, 43.0]","[66.0, 48.0]",15.811388,0.32175055,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Djibril Sidibé,23,53,1,"[68.0, 53.0]","[69.0, 79.0]",26.019224,1.5323538,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,N''Golo Kanté,23,55,1,"[68.0, 78.0]","[72.0, 71.0]",8.062258,-1.0516502,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Ousmane Dembélé,23,56,1,"[71.0, 71.0]","[80.0, 71.0]",9.0,0.0,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Ousmane Dembélé,Olivier Giroud,23,58,1,"[83.0, 69.0]","[93.0, 69.0]",10.0,0.0,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Olivier Giroud,Djibril Sidibé,24,0,1,"[92.0, 66.0]","[105.0, 64.0]",13.152946,-0.15264933,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,,24,2,1,"[104.0, 63.0]","[107.0, 59.0]",5.0,-0.9272952,Low Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Raphaël Varane,Steve Mandanda,24,22,1,"[50.0, 76.0]","[17.0, 43.0]",46.66905,-2.3561945,Ground Pass,Recovery,,,,,,,,,Regular Play
+7563,France,Steve Mandanda,Raphaël Varane,24,26,1,"[16.0, 48.0]","[35.0, 68.0]",27.58623,0.81103355,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,N''Golo Kanté,24,29,1,"[36.0, 72.0]","[56.0, 79.0]",21.189621,0.3366748,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Steven N''Kemboanza Mike Christopher Nzonzi,24,31,1,"[58.0, 77.0]","[66.0, 60.0]",18.788294,-1.1309538,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,N''Golo Kanté,24,35,1,"[68.0, 60.0]","[68.0, 71.0]",11.0,1.5707964,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Steven N''Kemboanza Mike Christopher Nzonzi,24,38,1,"[67.0, 69.0]","[70.0, 62.0]",7.615773,-1.1659045,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Thomas Lemar,24,40,1,"[71.0, 61.0]","[70.0, 36.0]",25.019993,-1.610775,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Lucas Hernández Pi,24,44,1,"[69.0, 21.0]","[85.0, 4.0]",23.345236,-0.81569195,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Presnel Kimpembe,24,49,1,"[78.0, 7.0]","[59.0, 23.0]",24.839485,2.4416997,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Presnel Kimpembe,N''Golo Kanté,24,52,1,"[59.0, 21.0]","[66.0, 49.0]",28.86174,1.3258177,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Ousmane Dembélé,24,57,1,"[82.0, 54.0]","[86.0, 61.0]",8.062258,1.0516502,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Lucas Hernández Pi,25,0,1,"[91.0, 61.0]","[113.0, 14.0]",51.894123,-1.133005,Ground Pass,,,,True,,,,,True,Regular Play
+7563,France,Lucas Hernández Pi,,25,5,1,"[118.0, 16.0]","[107.0, 32.0]",19.416489,2.1730838,Ground Pass,,True,True,,,Incomplete,,,,Regular Play
+7563,France,Raphaël Varane,Steven N''Kemboanza Mike Christopher Nzonzi,25,12,1,"[74.0, 28.0]","[82.0, 14.0]",16.124516,-1.0516502,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Lucas Hernández Pi,25,14,1,"[83.0, 13.0]","[98.0, 2.0]",18.601076,-0.63274884,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Steven N''Kemboanza Mike Christopher Nzonzi,25,19,1,"[97.0, 11.0]","[88.0, 11.0]",9.0,3.1415927,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Antoine Griezmann,25,21,1,"[87.0, 10.0]","[87.0, 19.0]",9.0,1.5707964,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Thomas Lemar,25,22,1,"[87.0, 17.0]","[93.0, 13.0]",7.2111025,-0.5880026,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Thomas Lemar,,26,24,1,"[92.0, 19.0]","[115.0, 45.0]",34.713108,0.84654635,High Pass,Free Kick,,,,,Incomplete,,,,From Free Kick
+7563,France,Ousmane Dembélé,,26,53,1,"[119.0, 79.0]","[113.0, 39.0]",40.4475,-1.7196863,High Pass,Corner,True,,True,,Incomplete,,,,From Corner
+7563,France,Lucas Hernández Pi,N''Golo Kanté,27,0,1,"[65.0, 31.0]","[56.0, 49.0]",20.12461,2.0344439,Ground Pass,Recovery,,,,,,,,,From Corner
+7563,France,N''Golo Kanté,Steve Mandanda,27,2,1,"[56.0, 49.0]","[20.0, 40.0]",37.107952,-2.896614,Ground Pass,,,,,,,,,True,From Corner
+7563,France,Steve Mandanda,Raphaël Varane,28,2,1,"[17.0, 40.0]","[32.0, 63.0]",27.45906,0.9928944,Ground Pass,,,,,,,,,,Other
+7563,France,Raphaël Varane,Presnel Kimpembe,28,6,1,"[38.0, 61.0]","[42.0, 27.0]",34.234486,-1.4536875,Ground Pass,,,,,,,,,,Other
+7563,France,Presnel Kimpembe,Steven N''Kemboanza Mike Christopher Nzonzi,28,10,1,"[47.0, 25.0]","[57.0, 29.0]",10.770329,0.38050637,Ground Pass,,,,,,,,,,Other
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Presnel Kimpembe,28,10,1,"[56.0, 28.0]","[48.0, 21.0]",10.630146,-2.4227626,Ground Pass,,,,,,,,,,Other
+7563,France,Presnel Kimpembe,N''Golo Kanté,28,13,1,"[50.0, 26.0]","[56.0, 45.0]",19.924858,1.2649175,Ground Pass,,,,,,,,,,Other
+7563,France,N''Golo Kanté,Antoine Griezmann,28,17,1,"[66.0, 48.0]","[80.0, 40.0]",16.124516,-0.5191461,Low Pass,,,,,,,,,,Other
+7563,France,Antoine Griezmann,Thomas Lemar,28,19,1,"[82.0, 32.0]","[92.0, 27.0]",11.18034,-0.4636476,Ground Pass,,,,,,,,,,Other
+7563,France,Thomas Lemar,Antoine Griezmann,28,21,1,"[91.0, 25.0]","[94.0, 22.0]",4.2426405,-0.7853982,Ground Pass,,,,,,,,,True,Other
+7563,France,Antoine Griezmann,Thomas Lemar,28,22,1,"[95.0, 22.0]","[100.0, 18.0]",6.4031243,-0.67474097,Ground Pass,,,,,,,,,,Other
+7563,France,Thomas Lemar,Antoine Griezmann,28,26,1,"[108.0, 4.0]","[103.0, 8.0]",6.4031243,2.4668517,Ground Pass,,,,,,,,,True,Other
+7563,France,Antoine Griezmann,,28,30,1,"[105.0, 18.0]","[112.0, 51.0]",33.734257,1.3617734,High Pass,,,,,,Incomplete,,,True,Other
+7563,France,Lucas Hernández Pi,,28,58,1,"[24.0, 8.0]","[57.0, 55.0]",57.428215,0.95864385,High Pass,,,,True,,Incomplete,,,,Regular Play
+7563,France,Thomas Lemar,Ousmane Dembélé,29,10,1,"[63.0, 51.0]","[68.0, 68.0]",17.720045,1.2847449,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Thomas Lemar,29,16,1,"[92.0, 61.0]","[96.0, 44.0]",17.464249,-1.3397057,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Olivier Giroud,29,18,1,"[96.0, 44.0]","[104.0, 44.0]",8.0,0.0,Low Pass,,,,,,,,,True,Regular Play
+7563,France,N''Golo Kanté,Djibril Sidibé,29,26,1,"[76.0, 73.0]","[91.0, 78.0]",15.811388,0.32175055,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,29,29,1,"[96.0, 79.0]","[111.0, 74.0]",15.811388,-0.32175055,Ground Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Raphaël Varane,Presnel Kimpembe,29,39,1,"[30.0, 66.0]","[46.0, 33.0]",36.67424,-1.1193433,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Steven N''Kemboanza Mike Christopher Nzonzi,29,45,1,"[55.0, 29.0]","[66.0, 37.0]",13.601471,0.6287963,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Raphaël Varane,29,46,1,"[66.0, 36.0]","[51.0, 61.0]",29.15476,2.1112158,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Raphaël Varane,N''Golo Kanté,29,49,1,"[51.0, 61.0]","[63.0, 67.0]",13.416408,0.4636476,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Djibril Sidibé,29,52,1,"[68.0, 70.0]","[79.0, 79.0]",14.21267,0.6857295,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,N''Golo Kanté,29,53,1,"[78.0, 79.0]","[70.0, 72.0]",10.630146,-2.4227626,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Ousmane Dembélé,29,54,1,"[71.0, 73.0]","[84.0, 75.0]",13.152946,0.15264933,Ground Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Raphaël Varane,,30,30,1,"[38.0, 78.0]","[43.0, 73.0]",7.071068,-0.7853982,Low Pass,Recovery,,,,,Incomplete,,,,Regular Play
+7563,France,Raphaël Varane,,30,31,1,"[37.0, 75.0]","[49.0, 75.0]",12.0,0.0,High Pass,Recovery,,,,,Incomplete,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,N''Golo Kanté,30,35,1,"[35.0, 66.0]","[42.0, 68.0]",7.28011,0.27829966,High Pass,Recovery,,,,,,,,True,Regular Play
+7563,France,N''Golo Kanté,Antoine Griezmann,30,36,1,"[42.0, 66.0]","[41.0, 54.0]",12.0415945,-1.6539376,Low Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Lucas Hernández Pi,30,37,1,"[42.0, 54.0]","[32.0, 36.0]",20.59126,-2.077895,Low Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Thomas Lemar,30,43,1,"[60.0, 19.0]","[79.0, 4.0]",24.207438,-0.6682894,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Antoine Griezmann,31,43,1,"[86.0, 1.0]","[83.0, 15.0]",14.3178215,1.7818897,High Pass,Throw-in,,,,,,,,,From Throw In
+7563,France,Antoine Griezmann,Djibril Sidibé,31,46,1,"[85.0, 24.0]","[67.0, 51.0]",32.449963,2.158799,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Djibril Sidibé,Ousmane Dembélé,31,49,1,"[67.0, 54.0]","[82.0, 76.0]",26.627054,0.9723774,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Olivier Giroud,32,14,1,"[55.0, 57.0]","[75.0, 61.0]",20.396078,0.19739556,Low Pass,Recovery,,,,,Incomplete,,,,From Throw In
+7563,France,Lucas Hernández Pi,Steven N''Kemboanza Mike Christopher Nzonzi,32,22,1,"[35.0, 19.0]","[42.0, 24.0]",8.602325,0.6202495,High Pass,Recovery,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,,32,24,1,"[42.0, 22.0]","[49.0, 27.0]",8.602325,0.6202495,High Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,32,34,1,"[55.0, 76.0]","[66.0, 75.0]",11.045361,-0.09065989,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Olivier Giroud,32,39,1,"[80.0, 75.0]","[101.0, 68.0]",22.135944,-0.32175055,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Olivier Giroud,Djibril Sidibé,32,42,1,"[108.0, 77.0]","[98.0, 79.0]",10.198039,2.9441972,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,32,44,1,"[99.0, 79.0]","[90.0, 72.0]",11.401754,-2.4805496,Ground Pass,,,,,,,True,2bf724ad-bd38-45a4-9f8d-236e4f4be78d,,Regular Play
+7563,France,Presnel Kimpembe,,33,16,1,"[37.0, 15.0]","[51.0, 13.0]",14.142136,-0.14189705,Low Pass,Recovery,,,,,Incomplete,,,,Regular Play
+7563,France,Steve Mandanda,Presnel Kimpembe,33,56,1,"[15.0, 47.0]","[23.0, 29.0]",19.697716,-1.152572,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,N''Golo Kanté,34,4,1,"[38.0, 28.0]","[44.0, 21.0]",9.219544,-0.86217004,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Lucas Hernández Pi,34,6,1,"[48.0, 18.0]","[63.0, 3.0]",21.213203,-0.7853982,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Olivier Giroud,34,9,1,"[65.0, 3.0]","[96.0, 15.0]",33.24154,0.36933365,Ground Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Lucas Hernández Pi,N''Golo Kanté,34,23,1,"[89.0, 1.0]","[75.0, 3.0]",14.142136,2.9996955,Low Pass,Throw-in,,,,,,,,,From Throw In
+7563,France,N''Golo Kanté,Antoine Griezmann,34,26,1,"[76.0, 10.0]","[83.0, 16.0]",9.219544,0.7086263,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Antoine Griezmann,N''Golo Kanté,34,27,1,"[83.0, 17.0]","[78.0, 10.0]",8.602325,-2.1910458,Ground Pass,,,,,,,,,True,From Throw In
+7563,France,N''Golo Kanté,Steven N''Kemboanza Mike Christopher Nzonzi,34,29,1,"[78.0, 11.0]","[81.0, 22.0]",11.401754,1.3045443,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,N''Golo Kanté,34,32,1,"[79.0, 21.0]","[71.0, 10.0]",13.601471,-2.1995926,Ground Pass,,,,,,,,,,From Throw In
+7563,France,N''Golo Kanté,Raphaël Varane,34,33,1,"[68.0, 16.0]","[63.0, 43.0]",27.45906,1.7539071,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Raphaël Varane,Djibril Sidibé,34,36,1,"[62.0, 48.0]","[73.0, 78.0]",31.95309,1.2193515,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Djibril Sidibé,Raphaël Varane,34,40,1,"[72.0, 78.0]","[65.0, 54.0]",25.0,-1.8545904,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Raphaël Varane,Ousmane Dembélé,34,44,1,"[66.0, 57.0]","[83.0, 63.0]",18.027756,0.33929262,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Ousmane Dembélé,Lucas Hernández Pi,34,51,1,"[75.0, 41.0]","[100.0, 3.0]",45.486263,-0.9888912,High Pass,,,,,,,,,,From Throw In
+7563,France,Lucas Hernández Pi,Olivier Giroud,34,55,1,"[104.0, 13.0]","[113.0, 36.0]",24.698177,1.1978086,Low Pass,,True,,,,Incomplete,,,,From Throw In
+7563,France,Steve Mandanda,Raphaël Varane,35,3,1,"[34.0, 34.0]","[50.0, 54.0]",25.612497,0.8960554,Ground Pass,Recovery,,,,,,,,,From Throw In
+7563,France,Raphaël Varane,Djibril Sidibé,35,6,1,"[52.0, 53.0]","[64.0, 71.0]",21.633308,0.98279375,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Djibril Sidibé,Steven N''Kemboanza Mike Christopher Nzonzi,35,8,1,"[65.0, 70.0]","[64.0, 52.0]",18.027756,-1.6262949,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Presnel Kimpembe,35,11,1,"[64.0, 50.0]","[56.0, 28.0]",23.409399,-1.9195673,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Presnel Kimpembe,N''Golo Kanté,35,14,1,"[59.0, 27.0]","[68.0, 15.0]",15.0,-0.9272952,Ground Pass,,,,,,,,,,From Throw In
+7563,France,N''Golo Kanté,Lucas Hernández Pi,35,16,1,"[70.0, 10.0]","[88.0, 2.0]",19.697716,-0.41822433,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Lucas Hernández Pi,Thomas Lemar,35,18,1,"[86.0, 2.0]","[86.0, 15.0]",13.0,1.5707964,Ground Pass,,,,,,,,,True,From Throw In
+7563,France,Thomas Lemar,N''Golo Kanté,35,20,1,"[84.0, 14.0]","[79.0, 17.0]",5.8309517,2.6011732,Ground Pass,,,,,,,,,,From Throw In
+7563,France,N''Golo Kanté,Olivier Giroud,35,22,1,"[83.0, 20.0]","[92.0, 32.0]",15.0,0.9272952,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Olivier Giroud,Antoine Griezmann,35,24,1,"[95.0, 32.0]","[115.0, 33.0]",20.024984,0.049958397,High Pass,,,,,,Incomplete,,,,From Throw In
+7563,France,Presnel Kimpembe,,35,45,1,"[44.0, 37.0]","[55.0, 35.0]",11.18034,-0.1798535,High Pass,Recovery,,,,,Incomplete,,,True,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Ousmane Dembélé,35,49,1,"[50.0, 46.0]","[54.0, 48.0]",4.472136,0.4636476,Ground Pass,Recovery,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Thomas Lemar,35,51,1,"[53.0, 45.0]","[57.0, 28.0]",17.464249,-1.3397057,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Thomas Lemar,Steven N''Kemboanza Mike Christopher Nzonzi,35,58,1,"[68.0, 31.0]","[65.0, 52.0]",21.213203,1.7126933,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Djibril Sidibé,36,1,1,"[65.0, 52.0]","[83.0, 77.0]",30.805843,0.9467733,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,36,3,1,"[83.0, 78.0]","[80.0, 70.0]",8.5440035,-1.929567,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Steven N''Kemboanza Mike Christopher Nzonzi,36,6,1,"[79.0, 68.0]","[74.0, 64.0]",6.4031243,-2.4668517,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Ousmane Dembélé,36,8,1,"[77.0, 64.0]","[83.0, 71.0]",9.219544,0.86217004,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Olivier Giroud,36,11,1,"[83.0, 67.0]","[96.0, 59.0]",15.264338,-0.551655,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Presnel Kimpembe,36,21,1,"[57.0, 75.0]","[41.0, 54.0]",26.400757,-2.221873,Ground Pass,Recovery,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,N''Golo Kanté,36,27,1,"[38.0, 51.0]","[51.0, 28.0]",26.41969,-1.056345,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Lucas Hernández Pi,36,30,1,"[56.0, 28.0]","[68.0, 2.0]",28.635643,-1.1383885,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,N''Golo Kanté,36,34,1,"[69.0, 3.0]","[64.0, 15.0]",13.0,1.9655875,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Antoine Griezmann,36,36,1,"[66.0, 17.0]","[109.0, 11.0]",43.416588,-0.13863973,High Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Lucas Hernández Pi,N''Golo Kanté,36,48,1,"[107.0, 1.0]","[87.0, 6.0]",20.615528,2.896614,Low Pass,Throw-in,,,,,,,,,From Throw In
+7563,France,N''Golo Kanté,Thomas Lemar,36,52,1,"[88.0, 7.0]","[94.0, 6.0]",6.0827627,-0.16514868,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Thomas Lemar,N''Golo Kanté,36,52,1,"[94.0, 6.0]","[87.0, 8.0]",7.28011,2.863293,Ground Pass,,,,,,,,,,From Throw In
+7563,France,N''Golo Kanté,Raphaël Varane,36,54,1,"[85.0, 18.0]","[72.0, 47.0]",31.780497,1.9922155,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Raphaël Varane,Djibril Sidibé,37,0,1,"[88.0, 63.0]","[95.0, 79.0]",17.464249,1.1583859,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Djibril Sidibé,Raphaël Varane,37,2,1,"[96.0, 79.0]","[82.0, 72.0]",15.652476,-2.6779451,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Raphaël Varane,Presnel Kimpembe,37,5,1,"[79.0, 69.0]","[68.0, 47.0]",24.596748,-2.0344439,Ground Pass,,,,,,,,,True,From Throw In
+7563,France,Presnel Kimpembe,N''Golo Kanté,37,8,1,"[68.0, 44.0]","[72.0, 32.0]",12.649111,-1.2490457,Ground Pass,,,,,,,,,,From Throw In
+7563,France,N''Golo Kanté,Steven N''Kemboanza Mike Christopher Nzonzi,37,14,1,"[84.0, 35.0]","[81.0, 44.0]",9.486833,1.8925469,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Djibril Sidibé,37,18,1,"[83.0, 49.0]","[93.0, 79.0]",31.622776,1.2490457,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Djibril Sidibé,Antoine Griezmann,37,21,1,"[93.0, 78.0]","[88.0, 70.0]",9.433981,-2.1293957,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Antoine Griezmann,Djibril Sidibé,37,22,1,"[89.0, 72.0]","[89.0, 79.0]",7.0,1.5707964,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Djibril Sidibé,Ousmane Dembélé,37,23,1,"[89.0, 79.0]","[94.0, 79.0]",5.0,0.0,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Ousmane Dembélé,Antoine Griezmann,37,23,1,"[94.0, 79.0]","[101.0, 77.0]",7.28011,-0.27829966,Ground Pass,,,,,,,,,True,From Throw In
+7563,France,Antoine Griezmann,Djibril Sidibé,37,25,1,"[101.0, 77.0]","[95.0, 72.0]",7.81025,-2.4468544,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Djibril Sidibé,N''Golo Kanté,37,26,1,"[96.0, 68.0]","[99.0, 62.0]",6.708204,-1.1071488,Ground Pass,,,,,,Incomplete,,,True,From Throw In
+7563,France,Presnel Kimpembe,Steven N''Kemboanza Mike Christopher Nzonzi,37,36,1,"[52.0, 14.0]","[63.0, 26.0]",16.27882,0.8288491,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Lucas Hernández Pi,37,38,1,"[62.0, 26.0]","[69.0, 3.0]",24.04163,-1.2753555,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Lucas Hernández Pi,Presnel Kimpembe,37,41,1,"[68.0, 2.0]","[54.0, 15.0]",19.104973,2.3932147,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Presnel Kimpembe,Raphaël Varane,37,44,1,"[54.0, 23.0]","[50.0, 48.0]",25.317978,1.7294515,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Raphaël Varane,N''Golo Kanté,37,46,1,"[50.0, 48.0]","[60.0, 61.0]",16.40122,0.9151007,Ground Pass,,,,,,,,,,From Throw In
+7563,France,N''Golo Kanté,Antoine Griezmann,37,50,1,"[69.0, 61.0]","[79.0, 62.0]",10.049875,0.09966865,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Antoine Griezmann,Lucas Hernández Pi,37,54,1,"[70.0, 52.0]","[89.0, 1.0]",54.42426,-1.2141762,High Pass,,,,True,,Out,,,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,,38,22,1,"[49.0, 32.0]","[57.0, 32.0]",8.0,0.0,Low Pass,Recovery,,,,,Incomplete,,,True,Regular Play
+7563,France,Thomas Lemar,Djibril Sidibé,38,42,1,"[46.0, 46.0]","[57.0, 64.0]",21.095022,1.022247,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,38,44,1,"[57.0, 62.0]","[76.0, 68.0]",19.924858,0.30587888,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Antoine Griezmann,38,49,1,"[88.0, 61.0]","[102.0, 56.0]",14.866069,-0.34302393,Ground Pass,,,,,,,True,712450fa-43a7-41c2-a20d-495cd0f5c087,,Regular Play
+7563,France,Lucas Hernández Pi,,39,19,1,"[9.0, 15.0]","[45.0, 7.0]",36.878178,-0.21866895,High Pass,Recovery,,,,,Incomplete,,,,From Keeper
+7563,France,Steve Mandanda,Raphaël Varane,40,5,1,"[8.0, 38.0]","[19.0, 59.0]",23.70654,1.0882831,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Djibril Sidibé,40,9,1,"[21.0, 61.0]","[45.0, 79.0]",30.0,0.6435011,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,40,13,1,"[58.0, 79.0]","[102.0, 68.0]",45.35416,-0.24497867,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Olivier Giroud,40,18,1,"[118.0, 59.0]","[113.0, 35.0]",24.5153,-1.7761917,High Pass,,True,,,,Incomplete,,,True,Regular Play
+7563,France,Steve Mandanda,Raphaël Varane,41,6,1,"[11.0, 50.0]","[23.0, 64.0]",18.439089,0.86217004,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,N''Golo Kanté,41,10,1,"[32.0, 66.0]","[38.0, 60.0]",8.485281,-0.7853982,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Djibril Sidibé,41,16,1,"[54.0, 60.0]","[56.0, 78.0]",18.110771,1.4601392,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Raphaël Varane,41,18,1,"[55.0, 79.0]","[48.0, 67.0]",13.892444,-2.0988708,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Presnel Kimpembe,41,21,1,"[49.0, 62.0]","[49.0, 30.0]",32.0,-1.5707964,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Lucas Hernández Pi,41,26,1,"[67.0, 20.0]","[87.0, 2.0]",26.907248,-0.7328151,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Presnel Kimpembe,41,29,1,"[84.0, 3.0]","[66.0, 9.0]",18.973665,2.819842,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Raphaël Varane,41,32,1,"[66.0, 15.0]","[58.0, 36.0]",22.472204,1.9347752,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Djibril Sidibé,41,37,1,"[68.0, 52.0]","[67.0, 76.0]",24.020824,1.6124389,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,41,39,1,"[67.0, 79.0]","[79.0, 79.0]",12.0,0.0,Ground Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Olivier Giroud,Ousmane Dembélé,42,4,1,"[47.0, 75.0]","[65.0, 77.0]",18.110771,0.11065722,Low Pass,Recovery,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,N''Golo Kanté,42,6,1,"[65.0, 79.0]","[62.0, 67.0]",12.369317,-1.815775,Low Pass,,,,,True,,,,True,Regular Play
+7563,France,N''Golo Kanté,Steven N''Kemboanza Mike Christopher Nzonzi,42,9,1,"[67.0, 60.0]","[65.0, 48.0]",12.165525,-1.735945,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Thomas Lemar,42,12,1,"[67.0, 41.0]","[76.0, 35.0]",10.816654,-0.5880026,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Lucas Hernández Pi,42,15,1,"[82.0, 28.0]","[94.0, 14.0]",18.439089,-0.86217004,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Lucas Hernández Pi,Antoine Griezmann,42,18,1,"[97.0, 14.0]","[108.0, 16.0]",11.18034,0.1798535,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Thomas Lemar,42,21,1,"[103.0, 13.0]","[91.0, 9.0]",12.649111,-2.819842,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Steven N''Kemboanza Mike Christopher Nzonzi,42,26,1,"[89.0, 8.0]","[79.0, 10.0]",10.198039,2.9441972,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Antoine Griezmann,42,30,1,"[82.0, 11.0]","[86.0, 8.0]",5.0,-0.6435011,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Steven N''Kemboanza Mike Christopher Nzonzi,42,31,1,"[86.0, 8.0]","[79.0, 11.0]",7.615773,2.7367008,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Lucas Hernández Pi,42,35,1,"[83.0, 11.0]","[89.0, 4.0]",9.219544,-0.86217004,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Presnel Kimpembe,42,37,1,"[83.0, 5.0]","[64.0, 25.0]",27.58623,2.330559,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Raphaël Varane,42,41,1,"[68.0, 30.0]","[60.0, 51.0]",22.472204,1.9347752,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Djibril Sidibé,42,43,1,"[64.0, 53.0]","[85.0, 78.0]",32.649654,0.8721365,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,N''Golo Kanté,42,46,1,"[84.0, 76.0]","[78.0, 66.0]",11.661903,-2.1112158,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Raphaël Varane,42,48,1,"[74.0, 64.0]","[65.0, 54.0]",13.453624,-2.3036115,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Djibril Sidibé,42,52,1,"[68.0, 54.0]","[82.0, 80.0]",29.529646,1.076855,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,N''Golo Kanté,42,55,1,"[80.0, 78.0]","[72.0, 70.0]",11.313708,-2.3561945,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Raphaël Varane,42,56,1,"[71.0, 72.0]","[63.0, 63.0]",12.0415945,-2.2974386,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Thomas Lemar,42,59,1,"[64.0, 55.0]","[71.0, 34.0]",22.135944,-1.2490457,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Antoine Griezmann,43,3,1,"[72.0, 34.0]","[109.0, 49.0]",39.92493,0.3851575,High Pass,,,,,,Pass Offside,,,,Regular Play
+7563,France,Steve Mandanda,Raphaël Varane,44,7,1,"[15.0, 44.0]","[26.0, 61.0]",20.248457,0.9964915,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,N''Golo Kanté,44,10,1,"[26.0, 61.0]","[42.0, 58.0]",16.27882,-0.18534794,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Antoine Griezmann,44,13,1,"[52.0, 53.0]","[56.0, 51.0]",4.472136,-0.4636476,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,N''Golo Kanté,44,14,1,"[56.0, 51.0]","[51.0, 53.0]",5.3851647,2.7610862,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Presnel Kimpembe,44,15,1,"[50.0, 51.0]","[47.0, 26.0]",25.179358,-1.6902252,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Lucas Hernández Pi,44,18,1,"[47.0, 26.0]","[66.0, 3.0]",29.832869,-0.8803499,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Presnel Kimpembe,44,21,1,"[64.0, 4.0]","[52.0, 13.0]",15.0,2.4980915,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Presnel Kimpembe,Raphaël Varane,44,25,1,"[55.0, 20.0]","[51.0, 57.0]",37.215588,1.6784862,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Ousmane Dembélé,44,29,1,"[63.0, 59.0]","[78.0, 79.0]",25.0,0.9272952,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Steven N''Kemboanza Mike Christopher Nzonzi,44,32,1,"[88.0, 79.0]","[82.0, 55.0]",24.738634,-1.815775,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,N''Golo Kanté,44,37,1,"[89.0, 57.0]","[79.0, 63.0]",11.661903,2.6011732,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Antoine Griezmann,44,38,1,"[80.0, 64.0]","[80.0, 57.0]",7.0,-1.5707964,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Djibril Sidibé,44,40,1,"[82.0, 62.0]","[86.0, 78.0]",16.492422,1.3258177,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,44,42,1,"[87.0, 79.0]","[93.0, 79.0]",6.0,0.0,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Steven N''Kemboanza Mike Christopher Nzonzi,44,43,1,"[94.0, 79.0]","[100.0, 69.0]",11.661903,-1.0303768,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Ousmane Dembélé,44,44,1,"[100.0, 70.0]","[95.0, 69.0]",5.0990195,-2.9441972,Ground Pass,,,,,,,True,ae7a339f-d14c-4d46-b608-768b9b442a2d,,Regular Play
+7563,France,Raphaël Varane,Antoine Griezmann,45,20,1,"[33.0, 39.0]","[48.0, 32.0]",16.552946,-0.43662715,Low Pass,Recovery,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Ousmane Dembélé,45,22,1,"[48.0, 33.0]","[60.0, 47.0]",18.439089,0.86217004,Low Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,N''Golo Kanté,45,29,1,"[79.0, 64.0]","[79.0, 54.0]",10.0,-1.5707964,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,N''Golo Kanté,Lucas Hernández Pi,45,32,1,"[81.0, 52.0]","[76.0, 2.0]",50.24938,-1.670465,Ground Pass,,,,True,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Thomas Lemar,45,39,1,"[73.0, 4.0]","[87.0, 3.0]",14.035668,-0.071307465,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Antoine Griezmann,45,47,1,"[99.0, 16.0]","[102.0, 21.0]",5.8309517,1.0303768,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,,45,48,1,"[101.0, 20.0]","[118.0, 32.0]",20.808653,0.61466295,Ground Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Presnel Kimpembe,,46,12,1,"[23.0, 34.0]","[31.0, 29.0]",9.433981,-0.5585993,Low Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Raphaël Varane,,45,6,2,"[32.0, 56.0]","[48.0, 80.0]",28.84441,0.98279375,Low Pass,Recovery,,,,,Out,,,True,From Kick Off
+7563,France,Presnel Kimpembe,,45,29,2,"[18.0, 56.0]","[36.0, 77.0]",27.658634,0.86217004,Low Pass,Recovery,,,,,Incomplete,,,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,,45,43,2,"[53.0, 33.0]","[64.0, 1.0]",33.83785,-1.2397002,High Pass,Recovery,,,,,Out,,,,From Throw In
+7563,France,Raphaël Varane,Djibril Sidibé,46,8,2,"[49.0, 51.0]","[41.0, 77.0]",27.202942,1.8692952,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Steve Mandanda,46,12,2,"[39.0, 75.0]","[13.0, 49.0]",36.769554,-2.3561945,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steve Mandanda,Presnel Kimpembe,46,16,2,"[15.0, 47.0]","[27.0, 21.0]",28.635643,-1.1383885,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,N''Golo Kanté,46,21,2,"[40.0, 21.0]","[45.0, 41.0]",20.615528,1.3258177,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Djibril Sidibé,46,24,2,"[48.0, 49.0]","[53.0, 75.0]",26.476404,1.380808,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,N''Golo Kanté,46,26,2,"[56.0, 79.0]","[53.0, 61.0]",18.248287,-1.735945,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Presnel Kimpembe,46,29,2,"[52.0, 56.0]","[49.0, 25.0]",31.144823,-1.6672701,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Steven N''Kemboanza Mike Christopher Nzonzi,46,34,2,"[55.0, 27.0]","[65.0, 30.0]",10.440307,0.2914568,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Lucas Hernández Pi,46,36,2,"[65.0, 23.0]","[68.0, 1.0]",22.203604,-1.4352686,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Presnel Kimpembe,46,41,2,"[66.0, 5.0]","[53.0, 12.0]",14.764823,2.6476512,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,N''Golo Kanté,46,43,2,"[54.0, 15.0]","[53.0, 38.0]",23.021729,1.6142472,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Ousmane Dembélé,46,46,2,"[55.0, 45.0]","[78.0, 54.0]",24.698177,0.37298772,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,46,49,2,"[66.0, 70.0]","[68.0, 58.0]",12.165525,-1.4056476,Ground Pass,Recovery,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Thomas Lemar,46,52,2,"[67.0, 50.0]","[76.0, 1.0]",49.819675,-1.3891475,High Pass,,,,True,,,,,,Regular Play
+7563,France,Thomas Lemar,Lucas Hernández Pi,46,55,2,"[76.0, 1.0]","[72.0, 3.0]",4.472136,2.6779451,Low Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,Thomas Lemar,46,58,2,"[77.0, 2.0]","[87.0, 2.0]",10.0,0.0,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Lucas Hernández Pi,47,1,2,"[84.0, 5.0]","[89.0, 2.0]",5.8309517,-0.5404195,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Lucas Hernández Pi,N''Golo Kanté,47,4,2,"[86.0, 2.0]","[83.0, 17.0]",15.297058,1.7681919,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,N''Golo Kanté,,47,7,2,"[87.0, 20.0]","[97.0, 22.0]",10.198039,0.19739556,High Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Antoine Griezmann,47,9,2,"[80.0, 20.0]","[86.0, 3.0]",18.027756,-1.2315037,Low Pass,Recovery,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,,47,13,2,"[93.0, 6.0]","[115.0, 49.0]",48.30114,1.0978898,High Pass,,True,,True,,Unknown,,,,Regular Play
+7563,France,Raphaël Varane,Ousmane Dembélé,47,56,2,"[27.0, 44.0]","[42.0, 46.0]",15.132746,0.13255154,High Pass,Recovery,,,,,,,,,From Counter
+7563,France,Ousmane Dembélé,Antoine Griezmann,48,2,2,"[62.0, 44.0]","[71.0, 34.0]",13.453624,-0.8379812,Ground Pass,,,,,,,,,True,From Counter
+7563,France,N''Golo Kanté,Ousmane Dembélé,48,33,2,"[54.0, 56.0]","[64.0, 65.0]",13.453624,0.7328151,Ground Pass,Interception,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Antoine Griezmann,48,34,2,"[64.0, 65.0]","[80.0, 51.0]",21.260292,-0.71883,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,,48,37,2,"[81.0, 58.0]","[80.0, 58.0]",1.0,3.1415927,Ground Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,49,0,2,"[58.0, 63.0]","[77.0, 76.0]",23.021729,0.6000502,High Pass,Recovery,,,,,,,,True,From Throw In
+7563,France,Ousmane Dembélé,Antoine Griezmann,49,2,2,"[76.0, 75.0]","[76.0, 56.0]",19.0,-1.5707964,High Pass,,,,,,Incomplete,,,,From Throw In
+7563,France,Raphaël Varane,Presnel Kimpembe,50,0,2,"[67.0, 67.0]","[51.0, 48.0]",24.839485,-2.2706892,Ground Pass,Free Kick,,,,,,,,,From Free Kick
+7563,France,Presnel Kimpembe,Benjamin Mendy,50,5,2,"[43.0, 26.0]","[55.0, 6.0]",23.323807,-1.0303768,Ground Pass,,,,,,,,,,From Free Kick
+7563,France,Benjamin Mendy,Presnel Kimpembe,50,7,2,"[56.0, 6.0]","[46.0, 21.0]",18.027756,2.158799,Ground Pass,,,,,,,,,,From Free Kick
+7563,France,Presnel Kimpembe,Steven N''Kemboanza Mike Christopher Nzonzi,50,11,2,"[47.0, 21.0]","[56.0, 21.0]",9.0,0.0,Ground Pass,,,,,,,,,,From Free Kick
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Thomas Lemar,50,13,2,"[56.0, 22.0]","[71.0, 21.0]",15.033297,-0.066568166,Ground Pass,,,,,,,,,,From Free Kick
+7563,France,N''Golo Kanté,Djibril Sidibé,50,19,2,"[72.0, 52.0]","[87.0, 77.0]",29.15476,1.0303768,Ground Pass,,,,,,,,,,From Free Kick
+7563,France,Djibril Sidibé,Antoine Griezmann,50,22,2,"[88.0, 77.0]","[95.0, 53.0]",25.0,-1.2870022,Ground Pass,,,,,,,,,,From Free Kick
+7563,France,Antoine Griezmann,Ousmane Dembélé,50,24,2,"[95.0, 49.0]","[106.0, 51.0]",11.18034,0.1798535,Ground Pass,,,,,,Incomplete,,,,From Free Kick
+7563,France,Presnel Kimpembe,Raphaël Varane,50,33,2,"[46.0, 41.0]","[55.0, 52.0]",14.21267,0.8850668,Ground Pass,,,,,,,,,,From Free Kick
+7563,France,Raphaël Varane,Djibril Sidibé,50,35,2,"[55.0, 54.0]","[86.0, 75.0]",37.44329,0.59540987,Ground Pass,,,,,,,,,,From Free Kick
+7563,France,Djibril Sidibé,Antoine Griezmann,50,37,2,"[86.0, 70.0]","[91.0, 60.0]",11.18034,-1.1071488,Ground Pass,,,,,,,True,b6e09942-62b7-4a3c-ab2f-55350a2a3072,,From Free Kick
+7563,France,Benjamin Mendy,,51,3,2,"[26.0, 22.0]","[58.0, 26.0]",32.24903,0.124354996,Low Pass,Recovery,,,,,Incomplete,,,,From Keeper
+7563,France,Benjamin Mendy,Thomas Lemar,51,23,2,"[35.0, 7.0]","[35.0, 2.0]",5.0,-1.5707964,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Presnel Kimpembe,51,25,2,"[35.0, 2.0]","[20.0, 16.0]",20.518284,2.3906636,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Presnel Kimpembe,N''Golo Kanté,51,27,2,"[20.0, 16.0]","[29.0, 16.0]",9.0,0.0,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Ousmane Dembélé,51,30,2,"[35.0, 18.0]","[44.0, 42.0]",25.632011,1.2120256,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Ousmane Dembélé,Thomas Lemar,51,37,2,"[81.0, 49.0]","[88.0, 24.0]",25.96151,-1.2977877,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Thomas Lemar,Benjamin Mendy,51,42,2,"[86.0, 21.0]","[99.0, 3.0]",22.203604,-0.9453113,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Benjamin Mendy,Olivier Giroud,51,45,2,"[101.0, 2.0]","[107.0, 26.0]",24.738634,1.3258177,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Olivier Giroud,Antoine Griezmann,51,46,2,"[107.0, 27.0]","[108.0, 32.0]",5.0990195,1.3734008,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Antoine Griezmann,Thomas Lemar,51,48,2,"[105.0, 36.0]","[104.0, 31.0]",5.0990195,-1.7681919,Ground Pass,,,,,,Incomplete,,,True,Regular Play
+7563,France,Steve Mandanda,,53,57,2,"[14.0, 43.0]","[83.0, 46.0]",69.065186,0.043450896,High Pass,,,,,,Incomplete,,,,From Keeper
+7563,France,Raphaël Varane,Djibril Sidibé,54,9,2,"[46.0, 53.0]","[54.0, 78.0]",26.24881,1.2610934,Ground Pass,,,,,,,,,,From Keeper
+7563,France,Djibril Sidibé,Raphaël Varane,54,12,2,"[53.0, 78.0]","[42.0, 60.0]",21.095022,-2.1193457,Ground Pass,,,,,,,,,True,From Keeper
+7563,France,Raphaël Varane,N''Golo Kanté,54,15,2,"[43.0, 55.0]","[53.0, 26.0]",30.675724,-1.2387369,Ground Pass,,,,,,,,,,From Keeper
+7563,France,N''Golo Kanté,Benjamin Mendy,54,17,2,"[54.0, 22.0]","[76.0, 2.0]",29.732138,-0.7378151,Ground Pass,,,,,,,,,,From Keeper
+7563,France,Benjamin Mendy,Ousmane Dembélé,54,20,2,"[76.0, 1.0]","[86.0, 2.0]",10.049875,0.09966865,Ground Pass,,,,,,,,,,From Keeper
+7563,France,Ousmane Dembélé,Thomas Lemar,54,23,2,"[89.0, 5.0]","[91.0, 47.0]",42.047592,1.5232133,Ground Pass,,,,True,True,,,,,From Keeper
+7563,France,Benjamin Mendy,Ousmane Dembélé,54,39,2,"[63.0, 1.0]","[74.0, 2.0]",11.045361,0.09065989,Ground Pass,,,,,,,,,,From Keeper
+7563,France,Ousmane Dembélé,N''Golo Kanté,54,40,2,"[73.0, 1.0]","[66.0, 14.0]",14.764823,2.0647378,Ground Pass,,,,,,,,,,From Keeper
+7563,France,N''Golo Kanté,Steven N''Kemboanza Mike Christopher Nzonzi,54,42,2,"[66.0, 14.0]","[67.0, 29.0]",15.033297,1.5042281,Ground Pass,,,,,,,,,,From Keeper
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Djibril Sidibé,54,44,2,"[68.0, 32.0]","[83.0, 61.0]",32.649654,1.0934509,Ground Pass,,,,,,,,,,From Keeper
+7563,France,Djibril Sidibé,Thomas Lemar,54,49,2,"[94.0, 59.0]","[90.0, 52.0]",8.062258,-2.0899425,Ground Pass,,,,,,,,,,From Keeper
+7563,France,Thomas Lemar,Presnel Kimpembe,54,52,2,"[89.0, 52.0]","[66.0, 32.0]",30.479502,-2.425849,Ground Pass,,,,,,,,,True,From Keeper
+7563,France,Presnel Kimpembe,Benjamin Mendy,54,56,2,"[72.0, 26.0]","[89.0, 2.0]",29.410883,-0.95449936,Ground Pass,,,,,,,,,,From Keeper
+7563,France,Benjamin Mendy,Ousmane Dembélé,54,59,2,"[92.0, 1.0]","[95.0, 12.0]",11.401754,1.3045443,Ground Pass,,,,,,,,,,From Keeper
+7563,France,Ousmane Dembélé,N''Golo Kanté,55,1,2,"[93.0, 13.0]","[86.0, 15.0]",7.28011,2.863293,Ground Pass,,,,,,,,,,From Keeper
+7563,France,N''Golo Kanté,Steven N''Kemboanza Mike Christopher Nzonzi,55,2,2,"[85.0, 16.0]","[88.0, 26.0]",10.440307,1.2793396,Ground Pass,,,,,,,,,,From Keeper
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Ousmane Dembélé,55,4,2,"[88.0, 26.0]","[96.0, 18.0]",11.313708,-0.7853982,Ground Pass,,,,,,,,,,From Keeper
+7563,France,Presnel Kimpembe,Raphaël Varane,56,33,2,"[52.0, 30.0]","[51.0, 35.0]",5.0990195,1.7681919,Ground Pass,Recovery,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Steven N''Kemboanza Mike Christopher Nzonzi,56,35,2,"[53.0, 37.0]","[63.0, 51.0]",17.20465,0.95054686,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Raphaël Varane,56,42,2,"[66.0, 48.0]","[56.0, 44.0]",10.770329,-2.7610862,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,N''Golo Kanté,56,44,2,"[57.0, 43.0]","[63.0, 10.0]",33.54102,-1.3909428,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Benjamin Mendy,56,47,2,"[65.0, 9.0]","[82.0, 1.0]",18.788294,-0.43984258,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Benjamin Mendy,N''Golo Kanté,56,48,2,"[82.0, 2.0]","[72.0, 5.0]",10.440307,2.8501358,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Presnel Kimpembe,56,52,2,"[70.0, 10.0]","[58.0, 18.0]",14.422205,2.55359,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,,56,55,2,"[63.0, 24.0]","[104.0, 58.0]",53.263496,0.6923344,High Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Benjamin Mendy,Steve Mandanda,57,22,2,"[16.0, 18.0]","[3.0, 32.0]",19.104973,2.3191743,Low Pass,Recovery,,,,,,,,,Regular Play
+7563,France,Steve Mandanda,Olivier Giroud,57,38,2,"[16.0, 44.0]","[79.0, 29.0]",64.7611,-0.23374318,High Pass,,,,,,,,,,Regular Play
+7563,France,Olivier Giroud,,57,42,2,"[84.0, 38.0]","[89.0, 48.0]",11.18034,1.1071488,Low Pass,,,,,,Incomplete,,,True,Regular Play
+7563,France,N''Golo Kanté,Steven N''Kemboanza Mike Christopher Nzonzi,57,46,2,"[66.0, 42.0]","[70.0, 44.0]",4.472136,0.4636476,Ground Pass,Interception,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Djibril Sidibé,57,48,2,"[70.0, 47.0]","[73.0, 61.0]",14.3178215,1.359703,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,57,51,2,"[73.0, 63.0]","[78.0, 60.0]",5.8309517,-0.5404195,Ground Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Steve Mandanda,57,55,2,"[56.0, 79.0]","[23.0, 59.0]",38.587563,-2.5967288,Ground Pass,Recovery,,,,,,,,,Regular Play
+7563,France,Steve Mandanda,,57,58,2,"[22.0, 59.0]","[66.0, 78.0]",47.92703,0.40763152,High Pass,,,,,,Incomplete,,,True,Regular Play
+7563,France,Djibril Sidibé,,58,13,2,"[18.0, 64.0]","[20.0, 52.0]",12.165525,-1.4056476,High Pass,Recovery,,,,,Incomplete,,,,Regular Play
+7563,France,Presnel Kimpembe,Thomas Lemar,58,35,2,"[29.0, 18.0]","[65.0, 1.0]",39.812057,-0.44117948,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Benjamin Mendy,58,39,2,"[66.0, 3.0]","[60.0, 5.0]",6.3245554,2.819842,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Benjamin Mendy,Steven N''Kemboanza Mike Christopher Nzonzi,58,43,2,"[65.0, 6.0]","[63.0, 22.0]",16.124516,1.6951513,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Benjamin Mendy,58,46,2,"[66.0, 20.0]","[68.0, 6.0]",14.142136,-1.4288993,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Benjamin Mendy,Thomas Lemar,58,48,2,"[66.0, 5.0]","[81.0, 2.0]",15.297058,-0.19739556,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Benjamin Mendy,58,55,2,"[89.0, 5.0]","[94.0, 1.0]",6.4031243,-0.67474097,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,,59,47,2,"[66.0, 12.0]","[108.0, 4.0]",42.755116,-0.1882215,High Pass,Recovery,,,,,Incomplete,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,,60,0,2,"[82.0, 4.0]","[89.0, 1.0]",7.615773,-0.4048918,Low Pass,Recovery,,,,,Out,,,True,Regular Play
+7563,France,Presnel Kimpembe,,60,47,2,"[13.0, 29.0]","[70.0, 54.0]",62.241467,0.4133304,High Pass,,,,,,Incomplete,,,,From Throw In
+7563,France,Antoine Griezmann,Ousmane Dembélé,62,27,2,"[27.0, 22.0]","[53.0, 3.0]",32.202484,-0.6310794,Ground Pass,,,,,,,,,,From Corner
+7563,France,Ousmane Dembélé,Benjamin Mendy,62,35,2,"[81.0, 15.0]","[99.0, 10.0]",18.681541,-0.27094686,Ground Pass,,,,,,Incomplete,,,True,From Corner
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,N''Golo Kanté,62,43,2,"[55.0, 18.0]","[54.0, 33.0]",15.033297,1.6373645,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Djibril Sidibé,62,46,2,"[56.0, 48.0]","[65.0, 56.0]",12.0415945,0.7266424,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Thomas Lemar,62,49,2,"[65.0, 59.0]","[71.0, 50.0]",10.816654,-0.98279375,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,,62,53,2,"[71.0, 47.0]","[62.0, 1.0]",46.872166,-1.7640078,High Pass,,,,True,,Out,,,,Regular Play
+7563,France,Raphaël Varane,Djibril Sidibé,63,37,2,"[37.0, 60.0]","[54.0, 78.0]",24.758837,0.8139618,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Raphaël Varane,63,39,2,"[54.0, 78.0]","[40.0, 65.0]",19.104973,-2.3932147,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Raphaël Varane,Djibril Sidibé,63,42,2,"[46.0, 64.0]","[55.0, 78.0]",16.643316,0.99945885,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Raphaël Varane,63,44,2,"[55.0, 77.0]","[46.0, 66.0]",14.21267,-2.2565258,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Raphaël Varane,Presnel Kimpembe,63,47,2,"[51.0, 57.0]","[51.0, 27.0]",30.0,-1.5707964,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Benjamin Mendy,63,51,2,"[53.0, 28.0]","[72.0, 2.0]",32.202484,-0.93971694,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Benjamin Mendy,Presnel Kimpembe,63,54,2,"[73.0, 2.0]","[57.0, 14.0]",20.0,2.4980915,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Raphaël Varane,63,58,2,"[57.0, 20.0]","[54.0, 47.0]",27.166155,1.6814536,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Djibril Sidibé,64,0,2,"[55.0, 50.0]","[58.0, 67.0]",17.262676,1.3961241,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,N''Golo Kanté,64,4,2,"[60.0, 67.0]","[66.0, 59.0]",10.0,-0.9272952,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Djibril Sidibé,64,5,2,"[65.0, 60.0]","[56.0, 70.0]",13.453624,2.3036115,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Djibril Sidibé,Olivier Giroud,64,6,2,"[56.0, 70.0]","[79.0, 63.0]",24.04163,-0.29544082,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Olivier Giroud,N''Golo Kanté,64,8,2,"[79.0, 61.0]","[71.0, 65.0]",8.944272,2.6779451,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,N''Golo Kanté,Djibril Sidibé,64,11,2,"[78.0, 67.0]","[86.0, 78.0]",13.601471,0.94200003,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,64,13,2,"[86.0, 78.0]","[91.0, 68.0]",11.18034,-1.1071488,Ground Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Raphaël Varane,,64,32,2,"[24.0, 72.0]","[29.0, 79.0]",8.602325,0.95054686,Low Pass,Recovery,,,,,Out,,,,Regular Play
+7563,France,Thomas Lemar,Olivier Giroud,66,1,2,"[18.0, 2.0]","[48.0, 4.0]",30.066593,0.066568166,Ground Pass,Recovery,,,,,Incomplete,,,,From Throw In
+7563,France,Djibril Sidibé,,66,30,2,"[46.0, 68.0]","[62.0, 52.0]",22.627417,-0.7853982,High Pass,Recovery,,,,,Incomplete,,,,From Throw In
+7563,France,Raphaël Varane,Djibril Sidibé,67,4,2,"[29.0, 62.0]","[43.0, 76.0]",19.79899,0.7853982,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Raphaël Varane,67,8,2,"[47.0, 78.0]","[39.0, 66.0]",14.422205,-2.158799,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Steven N''Kemboanza Mike Christopher Nzonzi,67,10,2,"[40.0, 60.0]","[41.0, 40.0]",20.024984,-1.5208379,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Presnel Kimpembe,67,13,2,"[40.0, 37.0]","[44.0, 21.0]",16.492422,-1.3258177,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Benjamin Mendy,67,15,2,"[47.0, 21.0]","[66.0, 1.0]",27.58623,-0.81103355,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Benjamin Mendy,Thomas Lemar,67,18,2,"[64.0, 2.0]","[71.0, 12.0]",12.206555,0.9600704,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Benjamin Mendy,67,20,2,"[76.0, 7.0]","[100.0, 2.0]",24.5153,-0.20539539,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Benjamin Mendy,,67,26,2,"[120.0, 15.0]","[94.0, 54.0]",46.872166,2.158799,High Pass,,,,,,Unknown,,,,Regular Play
+7563,France,Raphaël Varane,Ousmane Dembélé,68,27,2,"[32.0, 54.0]","[50.0, 62.0]",19.697716,0.41822433,Low Pass,Recovery,,,,,Incomplete,,,,From Free Kick
+7563,France,Raphaël Varane,Presnel Kimpembe,68,57,2,"[25.0, 68.0]","[34.0, 40.0]",29.410883,-1.259798,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Steven N''Kemboanza Mike Christopher Nzonzi,69,1,2,"[39.0, 36.0]","[53.0, 41.0]",14.866069,0.34302393,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Nabil Fekir,69,4,2,"[53.0, 42.0]","[64.0, 45.0]",11.401754,0.26625204,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Nabil Fekir,Steven N''Kemboanza Mike Christopher Nzonzi,69,4,2,"[64.0, 45.0]","[54.0, 43.0]",10.198039,-2.9441972,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,N''Golo Kanté,69,8,2,"[63.0, 41.0]","[62.0, 54.0]",13.038404,1.6475682,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Djibril Sidibé,69,10,2,"[65.0, 56.0]","[67.0, 78.0]",22.090721,1.4801364,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Nabil Fekir,69,12,2,"[67.0, 77.0]","[87.0, 65.0]",23.323807,-0.5404195,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Nabil Fekir,Ousmane Dembélé,69,15,2,"[89.0, 70.0]","[89.0, 78.0]",8.0,1.5707964,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Djibril Sidibé,69,16,2,"[89.0, 79.0]","[85.0, 59.0]",20.396078,-1.7681919,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Djibril Sidibé,Presnel Kimpembe,69,19,2,"[90.0, 52.0]","[66.0, 34.0]",30.0,-2.4980915,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Presnel Kimpembe,Steven N''Kemboanza Mike Christopher Nzonzi,69,22,2,"[67.0, 34.0]","[77.0, 35.0]",10.049875,0.09966865,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Thomas Lemar,69,24,2,"[76.0, 26.0]","[85.0, 2.0]",25.632011,-1.2120256,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Thomas Lemar,Nabil Fekir,69,27,2,"[89.0, 4.0]","[97.0, 18.0]",16.124516,1.0516502,Ground Pass,,,,,,,True,38b28753-0c6e-4455-8384-df9592f93221,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Raphaël Varane,70,15,2,"[38.0, 20.0]","[21.0, 31.0]",20.248457,2.567288,High Pass,Recovery,,,,,,,,True,Regular Play
+7563,France,Raphaël Varane,Steven N''Kemboanza Mike Christopher Nzonzi,70,18,2,"[21.0, 31.0]","[35.0, 31.0]",14.0,0.0,High Pass,,,,,,Unknown,,,,Regular Play
+7563,France,Djibril Sidibé,Nabil Fekir,70,51,2,"[49.0, 60.0]","[56.0, 55.0]",8.602325,-0.6202495,Ground Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Raphaël Varane,,71,38,2,"[14.0, 51.0]","[36.0, 53.0]",22.090721,0.09065989,Ground Pass,Recovery,,,,,Incomplete,,,,From Throw In
+7563,France,Presnel Kimpembe,Benjamin Mendy,72,11,2,"[36.0, 17.0]","[41.0, 5.0]",13.0,-1.1760052,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Benjamin Mendy,N''Golo Kanté,72,13,2,"[47.0, 11.0]","[49.0, 51.0]",40.04997,1.5208379,Ground Pass,,,,True,,,,,,Regular Play
+7563,France,N''Golo Kanté,Djibril Sidibé,72,20,2,"[71.0, 55.0]","[69.0, 78.0]",23.086792,1.6575347,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,N''Golo Kanté,72,22,2,"[70.0, 77.0]","[73.0, 65.0]",12.369317,-1.3258177,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,N''Golo Kanté,Djibril Sidibé,72,25,2,"[72.0, 64.0]","[67.0, 77.0]",13.928389,1.9379702,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,N''Golo Kanté,72,27,2,"[67.0, 78.0]","[67.0, 63.0]",15.0,-1.5707964,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Steven N''Kemboanza Mike Christopher Nzonzi,72,28,2,"[67.0, 65.0]","[80.0, 56.0]",15.811388,-0.6055447,Ground Pass,,,,,,Incomplete,,,True,Regular Play
+7563,France,Raphaël Varane,Presnel Kimpembe,72,38,2,"[28.0, 75.0]","[33.0, 40.0]",35.35534,-1.4288993,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,N''Golo Kanté,72,43,2,"[41.0, 41.0]","[55.0, 51.0]",17.20465,0.6202495,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Steven N''Kemboanza Mike Christopher Nzonzi,72,45,2,"[58.0, 51.0]","[57.0, 30.0]",21.023796,-1.6183795,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Benjamin Mendy,72,48,2,"[62.0, 25.0]","[81.0, 2.0]",29.832869,-0.8803499,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Benjamin Mendy,Thomas Lemar,72,52,2,"[85.0, 2.0]","[89.0, 10.0]",8.944272,1.1071488,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,N''Golo Kanté,72,56,2,"[91.0, 20.0]","[76.0, 45.0]",29.15476,2.1112158,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,N''Golo Kanté,Djibril Sidibé,72,59,2,"[76.0, 46.0]","[79.0, 63.0]",17.262676,1.3961241,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Ousmane Dembélé,73,3,2,"[82.0, 61.0]","[95.0, 78.0]",21.400934,0.9179497,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Ousmane Dembélé,Nabil Fekir,73,10,2,"[97.0, 56.0]","[108.0, 26.0]",31.95309,-1.2193515,High Pass,,,,,,Incomplete,,,True,Regular Play
+7563,France,Benjamin Mendy,Steven N''Kemboanza Mike Christopher Nzonzi,73,17,2,"[86.0, 1.0]","[79.0, 22.0]",22.135944,1.8925469,Low Pass,Throw-in,,,,,,,,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Thomas Lemar,73,20,2,"[79.0, 20.0]","[87.0, 15.0]",9.433981,-0.5585993,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Thomas Lemar,Nabil Fekir,73,22,2,"[88.0, 13.0]","[95.0, 6.0]",9.899495,-0.7853982,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Nabil Fekir,Thomas Lemar,73,25,2,"[98.0, 6.0]","[91.0, 11.0]",8.602325,2.5213432,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Thomas Lemar,Benjamin Mendy,73,28,2,"[89.0, 8.0]","[99.0, 1.0]",12.206555,-0.61072594,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Benjamin Mendy,Olivier Giroud,73,32,2,"[104.0, 2.0]","[108.0, 33.0]",31.257,1.442473,High Pass,,True,,,,,True,bbfde3a8-797b-4d86-8a8a-153299109630,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,,75,6,2,"[52.0, 33.0]","[67.0, 29.0]",15.524175,-0.26060238,Low Pass,Recovery,,,,,Incomplete,,,True,From Goal Kick
+7563,France,Presnel Kimpembe,Benjamin Mendy,75,40,2,"[18.0, 28.0]","[24.0, 20.0]",10.0,-0.9272952,Low Pass,Recovery,,,,,Incomplete,,,,From Goal Kick
+7563,France,Steve Mandanda,Olivier Giroud,75,46,2,"[4.0, 55.0]","[54.0, 50.0]",50.24938,-0.09966865,High Pass,Recovery,,,,,,,,,Regular Play
+7563,France,Olivier Giroud,Ousmane Dembélé,75,48,2,"[54.0, 51.0]","[46.0, 48.0]",8.5440035,-2.782822,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Ousmane Dembélé,Thomas Lemar,75,51,2,"[48.0, 32.0]","[53.0, 17.0]",15.811388,-1.2490457,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Ousmane Dembélé,Nabil Fekir,75,56,2,"[85.0, 10.0]","[113.0, 9.0]",28.01785,-0.035699114,Ground Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Djibril Sidibé,Raphaël Varane,77,54,2,"[27.0, 80.0]","[11.0, 78.0]",16.124516,-3.0172377,Low Pass,Throw-in,,,,,,,,,From Throw In
+7563,France,Raphaël Varane,Steve Mandanda,77,56,2,"[8.0, 75.0]","[5.0, 47.0]",28.160255,-1.677532,Ground Pass,,,,,,,,,True,From Throw In
+7563,France,Steve Mandanda,Presnel Kimpembe,77,59,2,"[7.0, 42.0]","[22.0, 29.0]",19.849434,-0.7140907,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Presnel Kimpembe,Benjamin Mendy,78,3,2,"[29.0, 18.0]","[54.0, 2.0]",29.681644,-0.56931317,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Benjamin Mendy,Thomas Lemar,78,7,2,"[58.0, 3.0]","[66.0, 14.0]",13.601471,0.94200003,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Thomas Lemar,N''Golo Kanté,78,11,2,"[69.0, 29.0]","[69.0, 50.0]",21.0,1.5707964,Ground Pass,,,,,,,,,,From Throw In
+7563,France,N''Golo Kanté,Kylian Mbappé Lottin,78,14,2,"[73.0, 51.0]","[88.0, 78.0]",30.88689,1.0636978,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Kylian Mbappé Lottin,Djibril Sidibé,78,18,2,"[89.0, 65.0]","[94.0, 78.0]",13.928389,1.2036225,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Djibril Sidibé,N''Golo Kanté,78,21,2,"[95.0, 78.0]","[89.0, 61.0]",18.027756,-1.9100889,Ground Pass,,,,,,,,,,From Throw In
+7563,France,N''Golo Kanté,Olivier Giroud,78,23,2,"[94.0, 52.0]","[101.0, 52.0]",7.0,0.0,Low Pass,,,,,,,,,True,From Throw In
+7563,France,Olivier Giroud,Djibril Sidibé,78,24,2,"[101.0, 52.0]","[100.0, 62.0]",10.049875,1.670465,Low Pass,,,,,,,,,True,From Throw In
+7563,France,Djibril Sidibé,Olivier Giroud,78,26,2,"[101.0, 63.0]","[104.0, 52.0]",11.401754,-1.3045443,High Pass,,,,,,,True,9050a249-c0b2-4660-8cca-c0f361843827,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,,79,7,2,"[46.0, 6.0]","[57.0, 2.0]",11.7046995,-0.348771,High Pass,Recovery,,,,,Incomplete,,,True,From Goal Kick
+7563,France,N''Golo Kanté,,79,32,2,"[18.0, 23.0]","[38.0, 24.0]",20.024984,0.049958397,High Pass,Recovery,,,,,Incomplete,,,,From Throw In
+7563,France,Presnel Kimpembe,Raphaël Varane,80,4,2,"[48.0, 28.0]","[31.0, 27.0]",17.029387,-3.0828369,High Pass,Recovery,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Benjamin Mendy,80,6,2,"[32.0, 26.0]","[32.0, 14.0]",12.0,-1.5707964,High Pass,,,,,,,,,,Regular Play
+7563,France,Benjamin Mendy,,80,8,2,"[31.0, 9.0]","[106.0, 27.0]",77.12976,0.23554498,High Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Raphaël Varane,Nabil Fekir,80,49,2,"[46.0, 37.0]","[75.0, 41.0]",29.274563,0.13706617,High Pass,Recovery,,,,,,,,True,Regular Play
+7563,France,Nabil Fekir,Olivier Giroud,80,54,2,"[74.0, 35.0]","[86.0, 8.0]",29.546574,-1.152572,Ground Pass,,,,,,Incomplete,,,True,Regular Play
+7563,France,Benjamin Mendy,N''Golo Kanté,80,59,2,"[55.0, 18.0]","[56.0, 40.0]",22.022715,1.5253731,Ground Pass,Recovery,,,,,Incomplete,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Presnel Kimpembe,81,16,2,"[64.0, 33.0]","[65.0, 19.0]",14.035668,-1.4994888,Ground Pass,Free Kick,,,,,,,,,From Free Kick
+7563,France,Presnel Kimpembe,Steven N''Kemboanza Mike Christopher Nzonzi,81,20,2,"[65.0, 21.0]","[59.0, 27.0]",8.485281,2.3561945,Ground Pass,,,,,,,,,,From Free Kick
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Djibril Sidibé,81,23,2,"[60.0, 28.0]","[64.0, 60.0]",32.24903,1.4464413,Ground Pass,,,,,,,,,,From Free Kick
+7563,France,Djibril Sidibé,Kylian Mbappé Lottin,81,26,2,"[66.0, 62.0]","[80.0, 79.0]",22.022715,0.88187194,Ground Pass,,,,,,,,,,From Free Kick
+7563,France,Kylian Mbappé Lottin,Nabil Fekir,81,33,2,"[95.0, 75.0]","[89.0, 75.0]",6.0,3.1415927,Ground Pass,,,,,,,,,,From Free Kick
+7563,France,Nabil Fekir,Djibril Sidibé,81,34,2,"[90.0, 72.0]","[89.0, 59.0]",13.038404,-1.6475682,Ground Pass,,,,,,,,,,From Free Kick
+7563,France,Djibril Sidibé,Kylian Mbappé Lottin,81,36,2,"[89.0, 61.0]","[93.0, 77.0]",16.492422,1.3258177,Ground Pass,,,,,,,,,,From Free Kick
+7563,France,Kylian Mbappé Lottin,Djibril Sidibé,81,44,2,"[105.0, 64.0]","[109.0, 75.0]",11.7046995,1.2220253,Ground Pass,,,,,,,,,True,From Free Kick
+7563,France,Djibril Sidibé,Kylian Mbappé Lottin,81,46,2,"[112.0, 70.0]","[103.0, 67.0]",9.486833,-2.819842,Ground Pass,,,,,,,,,,From Free Kick
+7563,France,Kylian Mbappé Lottin,Nabil Fekir,81,51,2,"[99.0, 64.0]","[94.0, 53.0]",12.083046,-1.9974238,Ground Pass,,,,,,,True,3fbdf09d-cd94-4b69-913a-27748e67bef6,True,From Free Kick
+7563,France,Benjamin Mendy,Presnel Kimpembe,82,12,2,"[78.0, 2.0]","[56.0, 5.0]",22.203604,3.006065,Low Pass,Throw-in,,,,,,,,,From Throw In
+7563,France,Presnel Kimpembe,Raphaël Varane,82,15,2,"[56.0, 9.0]","[59.0, 48.0]",39.115215,1.4940244,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Raphaël Varane,Djibril Sidibé,82,18,2,"[64.0, 49.0]","[71.0, 67.0]",19.313208,1.199905,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Djibril Sidibé,Nabil Fekir,82,21,2,"[73.0, 69.0]","[80.0, 58.0]",13.038404,-1.0040671,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Nabil Fekir,Djibril Sidibé,82,25,2,"[80.0, 71.0]","[71.0, 78.0]",11.401754,2.4805496,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Djibril Sidibé,Raphaël Varane,82,27,2,"[71.0, 77.0]","[59.0, 57.0]",23.323807,-2.1112158,Ground Pass,,,,,,,,,True,From Throw In
+7563,France,Raphaël Varane,Presnel Kimpembe,82,30,2,"[57.0, 56.0]","[58.0, 33.0]",23.021729,-1.5273454,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Presnel Kimpembe,Benjamin Mendy,82,35,2,"[76.0, 18.0]","[103.0, 2.0]",31.38471,-0.5349551,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Benjamin Mendy,,82,38,2,"[104.0, 2.0]","[106.0, 54.0]",52.03845,1.5323538,High Pass,,True,,True,,Incomplete,,,,From Throw In
+7563,France,Djibril Sidibé,Nabil Fekir,82,45,2,"[101.0, 75.0]","[95.0, 67.0]",10.0,-2.2142975,Ground Pass,,,,,,,,,True,From Throw In
+7563,France,Nabil Fekir,Kylian Mbappé Lottin,82,47,2,"[98.0, 64.0]","[101.0, 52.0]",12.369317,-1.3258177,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Kylian Mbappé Lottin,Nabil Fekir,82,48,2,"[100.0, 52.0]","[106.0, 54.0]",6.3245554,0.32175055,Ground Pass,,,,,,Incomplete,,,True,From Throw In
+7563,France,Djibril Sidibé,Kylian Mbappé Lottin,82,51,2,"[105.0, 57.0]","[99.0, 52.0]",7.81025,-2.4468544,Ground Pass,Recovery,,,,,,,,,From Throw In
+7563,France,Kylian Mbappé Lottin,Steven N''Kemboanza Mike Christopher Nzonzi,82,53,2,"[98.0, 49.0]","[90.0, 40.0]",12.0415945,-2.2974386,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Thomas Lemar,82,55,2,"[91.0, 38.0]","[93.0, 27.0]",11.18034,-1.3909428,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Thomas Lemar,Steven N''Kemboanza Mike Christopher Nzonzi,82,57,2,"[91.0, 29.0]","[85.0, 34.0]",7.81025,2.4468544,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,N''Golo Kanté,82,58,2,"[85.0, 32.0]","[87.0, 52.0]",20.09975,1.4711276,Low Pass,,,,,,,,,,From Throw In
+7563,France,N''Golo Kanté,Djibril Sidibé,83,1,2,"[88.0, 57.0]","[101.0, 74.0]",21.400934,0.9179497,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Djibril Sidibé,,83,3,2,"[105.0, 68.0]","[112.0, 40.0]",28.86174,-1.3258177,High Pass,,True,,,,Incomplete,,,,From Throw In
+7563,France,Nabil Fekir,Kylian Mbappé Lottin,83,11,2,"[96.0, 51.0]","[100.0, 46.0]",6.4031243,-0.8960554,Low Pass,,,,,,,,,True,From Throw In
+7563,France,Kylian Mbappé Lottin,Olivier Giroud,83,14,2,"[102.0, 44.0]","[104.0, 45.0]",2.236068,0.4636476,Ground Pass,,,,,,Incomplete,,,True,From Throw In
+7563,France,Raphaël Varane,Presnel Kimpembe,83,35,2,"[56.0, 69.0]","[55.0, 38.0]",31.016125,-1.6030432,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Benjamin Mendy,83,38,2,"[57.0, 31.0]","[83.0, 2.0]",38.948685,-0.83988965,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Benjamin Mendy,Thomas Lemar,83,42,2,"[91.0, 2.0]","[85.0, 5.0]",6.708204,2.6779451,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Benjamin Mendy,83,45,2,"[92.0, 7.0]","[105.0, 1.0]",14.3178215,-0.43240777,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Benjamin Mendy,Olivier Giroud,83,47,2,"[105.0, 2.0]","[111.0, 21.0]",19.924858,1.2649175,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Steven N''Kemboanza Mike Christopher Nzonzi,84,27,2,"[64.0, 9.0]","[66.0, 26.0]",17.117243,1.4536875,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,N''Golo Kanté,84,29,2,"[63.0, 26.0]","[65.0, 52.0]",26.076809,1.4940244,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Djibril Sidibé,84,32,2,"[69.0, 54.0]","[80.0, 76.0]",24.596748,1.1071488,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,N''Golo Kanté,84,35,2,"[81.0, 76.0]","[75.0, 62.0]",15.231546,-1.9756881,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Kylian Mbappé Lottin,84,37,2,"[75.0, 62.0]","[84.0, 48.0]",16.643316,-0.99945885,Ground Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Nabil Fekir,84,50,2,"[17.0, 77.0]","[30.0, 76.0]",13.038404,-0.07677189,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Nabil Fekir,Benjamin Mendy,84,58,2,"[46.0, 51.0]","[62.0, 7.0]",46.818798,-1.2220253,Ground Pass,,,,True,,,,,,Regular Play
+7563,France,Benjamin Mendy,Thomas Lemar,85,3,2,"[80.0, 2.0]","[78.0, 11.0]",9.219544,1.7894653,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Kylian Mbappé Lottin,85,6,2,"[84.0, 13.0]","[91.0, 21.0]",10.630146,0.8519663,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Kylian Mbappé Lottin,Thomas Lemar,85,7,2,"[91.0, 21.0]","[95.0, 17.0]",5.656854,-0.7853982,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Steve Mandanda,Raphaël Varane,85,52,2,"[6.0, 26.0]","[23.0, 51.0]",30.232433,0.97361964,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Djibril Sidibé,85,56,2,"[26.0, 55.0]","[42.0, 73.0]",24.083189,0.844154,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Benjamin Mendy,86,5,2,"[65.0, 66.0]","[74.0, 2.0]",64.629715,-1.4310875,High Pass,,,,True,,,,,,Regular Play
+7563,France,Benjamin Mendy,Thomas Lemar,86,11,2,"[77.0, 2.0]","[85.0, 14.0]",14.422205,0.98279375,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Nabil Fekir,86,12,2,"[85.0, 11.0]","[82.0, 8.0]",4.2426405,-2.3561945,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Nabil Fekir,Steven N''Kemboanza Mike Christopher Nzonzi,86,14,2,"[74.0, 9.0]","[79.0, 16.0]",8.602325,0.95054686,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Djibril Sidibé,86,18,2,"[85.0, 26.0]","[97.0, 73.0]",48.507732,1.3208177,Ground Pass,,,,True,,,,,True,Regular Play
+7563,France,Djibril Sidibé,,86,22,2,"[103.0, 69.0]","[104.0, 46.0]",23.021729,-1.5273454,High Pass,,True,,,,Incomplete,,,,Regular Play
+7563,France,N''Golo Kanté,Raphaël Varane,86,27,2,"[76.0, 55.0]","[66.0, 46.0]",13.453624,-2.4087775,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,N''Golo Kanté,86,29,2,"[66.0, 47.0]","[71.0, 59.0]",13.0,1.1760052,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Nabil Fekir,86,32,2,"[73.0, 60.0]","[79.0, 66.0]",8.485281,0.7853982,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Nabil Fekir,Kylian Mbappé Lottin,86,34,2,"[83.0, 65.0]","[89.0, 53.0]",13.416408,-1.1071488,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Kylian Mbappé Lottin,Olivier Giroud,86,37,2,"[94.0, 49.0]","[99.0, 50.0]",5.0990195,0.19739556,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Olivier Giroud,Djibril Sidibé,86,37,2,"[100.0, 49.0]","[101.0, 67.0]",18.027756,1.5152978,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Djibril Sidibé,Nabil Fekir,86,41,2,"[101.0, 69.0]","[113.0, 68.0]",12.0415945,-0.08314123,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Nabil Fekir,Djibril Sidibé,86,50,2,"[104.0, 79.0]","[97.0, 74.0]",8.602325,-2.5213432,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Djibril Sidibé,N''Golo Kanté,86,53,2,"[95.0, 71.0]","[86.0, 74.0]",9.486833,2.819842,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Raphaël Varane,86,55,2,"[86.0, 74.0]","[77.0, 48.0]",27.513634,-1.9040406,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Benjamin Mendy,86,58,2,"[81.0, 42.0]","[95.0, 2.0]",42.379242,-1.2341216,Ground Pass,,,,True,,,,,,Regular Play
+7563,France,Benjamin Mendy,,87,2,2,"[99.0, 4.0]","[108.0, 26.0]",23.769728,1.1824776,High Pass,,,,,,Incomplete,,,,Regular Play
+7563,France,Presnel Kimpembe,Thomas Lemar,87,7,2,"[66.0, 14.0]","[71.0, 3.0]",12.083046,-1.1441689,Ground Pass,Recovery,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Benjamin Mendy,87,9,2,"[75.0, 5.0]","[91.0, 2.0]",16.27882,-0.18534794,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Benjamin Mendy,Thomas Lemar,87,12,2,"[89.0, 2.0]","[83.0, 3.0]",6.0827627,2.976444,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Steven N''Kemboanza Mike Christopher Nzonzi,87,14,2,"[84.0, 3.0]","[80.0, 14.0]",11.7046995,1.9195673,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Thomas Lemar,87,16,2,"[80.0, 14.0]","[85.0, 9.0]",7.071068,-0.7853982,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Benjamin Mendy,87,17,2,"[88.0, 13.0]","[101.0, 2.0]",17.029387,-0.7022569,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Benjamin Mendy,Olivier Giroud,87,20,2,"[105.0, 2.0]","[108.0, 38.0]",36.124783,1.487655,High Pass,,True,,,,Incomplete,,,,Regular Play
+7563,France,Djibril Sidibé,Raphaël Varane,87,59,2,"[65.0, 77.0]","[51.0, 57.0]",24.41311,-2.1815224,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Presnel Kimpembe,88,2,2,"[50.0, 54.0]","[54.0, 35.0]",19.416489,-1.3633001,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Benjamin Mendy,88,8,2,"[79.0, 14.0]","[99.0, 2.0]",23.323807,-0.5404195,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Benjamin Mendy,Presnel Kimpembe,88,14,2,"[103.0, 8.0]","[83.0, 8.0]",20.0,3.1415927,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Presnel Kimpembe,Thomas Lemar,88,17,2,"[83.0, 7.0]","[89.0, 8.0]",6.0827627,0.16514868,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,Presnel Kimpembe,88,18,2,"[89.0, 7.0]","[79.0, 11.0]",10.770329,2.7610862,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,N''Golo Kanté,88,20,2,"[81.0, 15.0]","[77.0, 42.0]",27.294687,1.7178746,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Presnel Kimpembe,88,23,2,"[77.0, 44.0]","[78.0, 30.0]",14.035668,-1.4994888,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Nabil Fekir,88,26,2,"[79.0, 29.0]","[86.0, 26.0]",7.615773,-0.4048918,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Nabil Fekir,Benjamin Mendy,88,28,2,"[86.0, 19.0]","[102.0, 2.0]",23.345236,-0.81569195,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Benjamin Mendy,Thomas Lemar,88,35,2,"[103.0, 3.0]","[89.0, 9.0]",15.231546,2.7367008,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Thomas Lemar,N''Golo Kanté,88,38,2,"[88.0, 13.0]","[90.0, 21.0]",8.246211,1.3258177,Ground Pass,,,,,,,,,,Regular Play
+7563,France,N''Golo Kanté,Presnel Kimpembe,88,39,2,"[89.0, 21.0]","[79.0, 16.0]",11.18034,-2.6779451,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Raphaël Varane,88,40,2,"[79.0, 17.0]","[73.0, 42.0]",25.70992,1.8063413,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Raphaël Varane,Djibril Sidibé,88,42,2,"[73.0, 42.0]","[72.0, 55.0]",13.038404,1.6475682,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Djibril Sidibé,Kylian Mbappé Lottin,88,44,2,"[73.0, 56.0]","[95.0, 78.0]",31.112698,0.7853982,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Kylian Mbappé Lottin,Steven N''Kemboanza Mike Christopher Nzonzi,88,49,2,"[99.0, 65.0]","[94.0, 55.0]",11.18034,-2.0344439,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Djibril Sidibé,88,50,2,"[94.0, 58.0]","[100.0, 78.0]",20.880613,1.2793396,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Djibril Sidibé,Kylian Mbappé Lottin,88,53,2,"[101.0, 72.0]","[108.0, 54.0]",19.313208,-1.199905,Low Pass,,,,,,,,,True,Regular Play
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,,89,29,2,"[50.0, 28.0]","[61.0, 32.0]",11.7046995,0.348771,High Pass,Recovery,,,,,Incomplete,,,True,From Goal Kick
+7563,France,Presnel Kimpembe,Steve Mandanda,89,50,2,"[26.0, 15.0]","[3.0, 29.0]",26.925823,2.5948038,Ground Pass,,,,,,,,,True,Regular Play
+7563,France,Steve Mandanda,Presnel Kimpembe,89,54,2,"[5.0, 29.0]","[17.0, 14.0]",19.209373,-0.8960554,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Raphaël Varane,89,59,2,"[29.0, 17.0]","[33.0, 47.0]",30.265491,1.4382448,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Djibril Sidibé,90,1,2,"[34.0, 47.0]","[50.0, 74.0]",31.38471,1.0358412,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Djibril Sidibé,Kylian Mbappé Lottin,90,4,2,"[54.0, 71.0]","[74.0, 79.0]",21.540659,0.38050637,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Kylian Mbappé Lottin,Olivier Giroud,90,14,2,"[111.0, 54.0]","[112.0, 44.0]",10.049875,-1.4711276,Ground Pass,,,,,,Incomplete,,,True,Regular Play
+7563,France,Djibril Sidibé,Nabil Fekir,90,24,2,"[115.0, 80.0]","[104.0, 75.0]",12.083046,-2.714965,Low Pass,Throw-in,,,,,,,,,From Throw In
+7563,France,Nabil Fekir,,90,27,2,"[102.0, 73.0]","[108.0, 50.0]",23.769728,-1.315614,High Pass,,True,,,,Incomplete,,,,From Throw In
+7563,France,Djibril Sidibé,Raphaël Varane,91,54,2,"[105.0, 80.0]","[78.0, 73.0]",27.89265,-2.8879185,Low Pass,Throw-in,,,,,,,,,From Throw In
+7563,France,Raphaël Varane,Presnel Kimpembe,91,57,2,"[78.0, 65.0]","[74.0, 37.0]",28.284271,-1.7126933,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Presnel Kimpembe,Benjamin Mendy,92,1,2,"[85.0, 22.0]","[104.0, 4.0]",26.172504,-0.75837773,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Benjamin Mendy,,92,4,2,"[104.0, 4.0]","[106.0, 36.0]",32.06244,1.5083776,Low Pass,,True,,,,Incomplete,,,,From Throw In
+7563,France,Presnel Kimpembe,Raphaël Varane,92,9,2,"[59.0, 26.0]","[59.0, 42.0]",16.0,1.5707964,Ground Pass,Recovery,,,,,,,,,From Throw In
+7563,France,Raphaël Varane,Djibril Sidibé,92,13,2,"[66.0, 47.0]","[77.0, 78.0]",32.89377,1.2298174,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Djibril Sidibé,Kylian Mbappé Lottin,92,16,2,"[78.0, 77.0]","[95.0, 60.0]",24.04163,-0.7853982,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Kylian Mbappé Lottin,Steven N''Kemboanza Mike Christopher Nzonzi,92,19,2,"[91.0, 49.0]","[79.0, 27.0]",25.059929,-2.070143,Ground Pass,,,,,,,,,True,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Benjamin Mendy,92,21,2,"[79.0, 27.0]","[95.0, 2.0]",29.681644,-1.0014831,High Pass,,,,,,,,,,From Throw In
+7563,France,Benjamin Mendy,Steven N''Kemboanza Mike Christopher Nzonzi,92,29,2,"[99.0, 4.0]","[90.0, 6.0]",9.219544,2.9229238,Ground Pass,,,,,,,,,,From Throw In
+7563,France,Steven N''Kemboanza Mike Christopher Nzonzi,Benjamin Mendy,92,32,2,"[96.0, 8.0]","[109.0, 2.0]",14.3178215,-0.43240777,Ground Pass,,,,,,,,,True,From Throw In
+7563,France,Benjamin Mendy,Olivier Giroud,92,34,2,"[110.0, 2.0]","[111.0, 6.0]",4.1231055,1.3258177,Ground Pass,,,,,,Incomplete,,,,From Throw In
+7563,France,Thomas Lemar,Presnel Kimpembe,92,43,2,"[80.0, 4.0]","[71.0, 26.0]",23.769728,1.959115,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Presnel Kimpembe,Raphaël Varane,92,45,2,"[71.0, 24.0]","[73.0, 52.0]",28.071337,1.4994888,Ground Pass,,,,,,,,,,Regular Play
+7563,France,Raphaël Varane,Djibril Sidibé,92,48,2,"[79.0, 60.0]","[83.0, 72.0]",12.649111,1.2490457,Ground Pass,,,,,,,,,,Regular Play

@@ -1,0 +1,293 @@
+match_id,team,player,pass_recipient,minute,second,period,location,pass_end_location,pass_length,pass_angle,pass_height,pass_type,pass_cross,pass_cut_back,pass_switch,pass_deflected,pass_outcome,pass_shot_assist,pass_goal_assist,pass_assisted_shot_id,under_pressure,play_pattern
+8658,France,Raphaël Varane,,0,13,1,"[48.0, 50.0]","[48.0, 60.0]",10.0,1.5707964,High Pass,Recovery,,,,,Incomplete,,,,True,From Kick Off
+8658,France,Benjamin Pavard,N''Golo Kanté,0,54,1,"[49.0, 80.0]","[46.0, 61.0]",19.235384,-1.7273982,Low Pass,Throw-in,,,,,,,,,,From Throw In
+8658,France,N''Golo Kanté,Paul Pogba,0,56,1,"[65.0, 64.0]","[66.0, 69.0]",5.0990195,1.3734008,High Pass,,,,,,Incomplete,,,,True,From Throw In
+8658,France,Antoine Griezmann,Kylian Mbappé Lottin,1,1,1,"[63.0, 73.0]","[65.0, 79.0]",6.3245554,1.2490457,Ground Pass,,,,,,,,,,,From Throw In
+8658,France,Benjamin Pavard,Raphaël Varane,1,10,1,"[58.0, 79.0]","[26.0, 69.0]",33.526108,-2.8387077,Low Pass,Throw-in,,,,,,,,,,From Throw In
+8658,France,Raphaël Varane,Hugo Lloris,1,14,1,"[26.0, 69.0]","[8.0, 43.0]",31.622776,-2.176341,Ground Pass,,,,,,,,,,True,From Throw In
+8658,France,Hugo Lloris,Samuel Yves Umtiti,1,17,1,"[8.0, 43.0]","[19.0, 29.0]",17.804493,-0.9048271,Ground Pass,,,,,,,,,,,From Throw In
+8658,France,Samuel Yves Umtiti,Blaise Matuidi,1,36,1,"[41.0, 30.0]","[56.0, 28.0]",15.132746,-0.13255154,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Blaise Matuidi,Samuel Yves Umtiti,1,39,1,"[55.0, 27.0]","[39.0, 23.0]",16.492422,-2.896614,Ground Pass,,,,,,,,,,True,Regular Play
+8658,France,Samuel Yves Umtiti,Olivier Giroud,1,41,1,"[42.0, 25.0]","[69.0, 26.0]",27.018513,0.037020117,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Olivier Giroud,Blaise Matuidi,1,42,1,"[69.0, 26.0]","[65.0, 26.0]",4.0,3.1415927,Low Pass,,,,,,,,,,,Regular Play
+8658,France,Blaise Matuidi,Olivier Giroud,1,43,1,"[65.0, 26.0]","[61.0, 31.0]",6.4031243,2.2455373,Low Pass,,,,,,,,,,,Regular Play
+8658,France,Olivier Giroud,Raphaël Varane,1,45,1,"[61.0, 31.0]","[45.0, 48.0]",23.345236,2.3259008,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Raphaël Varane,Paul Pogba,1,47,1,"[45.0, 48.0]","[55.0, 66.0]",20.59126,1.0636978,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Paul Pogba,Antoine Griezmann,1,51,1,"[57.0, 76.0]","[98.0, 66.0]",42.201897,-0.2392316,High Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,Kylian Mbappé Lottin,Benjamin Pavard,2,42,1,"[74.0, 79.0]","[62.0, 75.0]",12.649111,-2.819842,High Pass,Throw-in,,,,,Incomplete,,,,,From Throw In
+8658,France,Samuel Yves Umtiti,,2,53,1,"[2.0, 62.0]","[7.0, 80.0]",18.681541,1.2998495,Ground Pass,,,,,,Out,,,,True,From Throw In
+8658,France,Kylian Mbappé Lottin,,3,19,1,"[12.0, 64.0]","[40.0, 80.0]",32.24903,0.5191461,High Pass,Recovery,,,,,Out,,,,,From Throw In
+8658,France,Blaise Matuidi,N''Golo Kanté,4,19,1,"[11.0, 5.0]","[8.0, 15.0]",10.440307,1.8622531,Ground Pass,Recovery,,,,,,,,,,Regular Play
+8658,France,N''Golo Kanté,Lucas Hernández Pi,4,20,1,"[9.0, 15.0]","[11.0, 3.0]",12.165525,-1.4056476,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Lucas Hernández Pi,N''Golo Kanté,4,21,1,"[11.0, 3.0]","[8.0, 13.0]",10.440307,1.8622531,Ground Pass,,,,,,,,,,True,Regular Play
+8658,France,N''Golo Kanté,Olivier Giroud,4,24,1,"[9.0, 16.0]","[55.0, 18.0]",46.043457,0.043450896,High Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,N''Golo Kanté,Samuel Yves Umtiti,4,53,1,"[26.0, 4.0]","[14.0, 14.0]",15.6205,2.4468544,Ground Pass,,,,,,,,,,True,Regular Play
+8658,France,Samuel Yves Umtiti,N''Golo Kanté,4,54,1,"[14.0, 13.0]","[15.0, 11.0]",2.236068,-1.1071488,Ground Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,Hugo Lloris,Raphaël Varane,5,13,1,"[4.0, 38.0]","[15.0, 65.0]",29.15476,1.1839206,Ground Pass,Goal Kick,,,,,,,,,,From Goal Kick
+8658,France,Raphaël Varane,Paul Pogba,5,18,1,"[26.0, 64.0]","[35.0, 55.0]",12.727922,-0.7853982,Ground Pass,,,,,,,,,,,From Goal Kick
+8658,France,Paul Pogba,Samuel Yves Umtiti,5,20,1,"[34.0, 55.0]","[26.0, 29.0]",27.202942,-1.8692952,Ground Pass,,,,,,,,,,True,From Goal Kick
+8658,France,Samuel Yves Umtiti,N''Golo Kanté,5,45,1,"[47.0, 8.0]","[55.0, 12.0]",8.944272,0.4636476,Ground Pass,Free Kick,,,,,,,,,,From Free Kick
+8658,France,N''Golo Kanté,Samuel Yves Umtiti,5,45,1,"[55.0, 12.0]","[47.0, 10.0]",8.246211,-2.896614,Ground Pass,,,,,,,,,,,From Free Kick
+8658,France,Samuel Yves Umtiti,N''Golo Kanté,5,46,1,"[47.0, 10.0]","[55.0, 10.0]",8.0,0.0,Ground Pass,,,,,,,,,,,From Free Kick
+8658,France,N''Golo Kanté,Paul Pogba,5,48,1,"[54.0, 15.0]","[45.0, 41.0]",27.513634,1.9040406,Ground Pass,,,,,,,,,,,From Free Kick
+8658,France,Paul Pogba,Benjamin Pavard,5,53,1,"[54.0, 46.0]","[60.0, 74.0]",28.635643,1.359703,Ground Pass,,,,,,,,,,,From Free Kick
+8658,France,Benjamin Pavard,Raphaël Varane,5,57,1,"[57.0, 71.0]","[46.0, 64.0]",13.038404,-2.5748634,Ground Pass,,,,,,,,,,True,From Free Kick
+8658,France,Raphaël Varane,Samuel Yves Umtiti,5,59,1,"[45.0, 60.0]","[41.0, 31.0]",29.274563,-1.7078625,Ground Pass,,,,,,,,,,True,From Free Kick
+8658,France,Samuel Yves Umtiti,Blaise Matuidi,6,2,1,"[45.0, 30.0]","[55.0, 5.0]",26.925823,-1.19029,Ground Pass,,,,,,,,,,,From Free Kick
+8658,France,Blaise Matuidi,Lucas Hernández Pi,6,5,1,"[57.0, 4.0]","[99.0, 1.0]",42.107006,-0.071307465,High Pass,,,,,,Out,,,,True,From Free Kick
+8658,France,N''Golo Kanté,,8,7,1,"[20.0, 7.0]","[22.0, 7.0]",2.0,0.0,High Pass,,,,,,Incomplete,,,,,From Corner
+8658,France,Olivier Giroud,Paul Pogba,8,20,1,"[25.0, 33.0]","[27.0, 27.0]",6.3245554,-1.2490457,Low Pass,Recovery,,,,,Incomplete,,,,,From Throw In
+8658,France,Hugo Lloris,Olivier Giroud,8,48,1,"[29.0, 36.0]","[94.0, 43.0]",65.37584,0.10727885,High Pass,Free Kick,,,,,,,,,,From Free Kick
+8658,France,Olivier Giroud,,8,51,1,"[94.0, 43.0]","[85.0, 40.0]",9.486833,-2.819842,High Pass,,,,,,Incomplete,,,,,From Free Kick
+8658,France,Hugo Lloris,N''Golo Kanté,9,32,1,"[10.0, 32.0]","[33.0, 22.0]",25.079872,-0.41012734,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Hugo Lloris,Olivier Giroud,11,16,1,"[7.0, 42.0]","[76.0, 49.0]",69.354164,0.10110337,High Pass,Goal Kick,,,,,,,,,,From Goal Kick
+8658,France,Olivier Giroud,Paul Pogba,11,20,1,"[76.0, 49.0]","[68.0, 53.0]",8.944272,2.6779451,Low Pass,,,,,,,,,,,From Goal Kick
+8658,France,Paul Pogba,Lucas Hernández Pi,11,21,1,"[68.0, 53.0]","[80.0, 20.0]",35.1141,-1.2220253,High Pass,,,,,,,,,,,From Goal Kick
+8658,France,Lucas Hernández Pi,Blaise Matuidi,11,42,1,"[101.0, 1.0]","[104.0, 12.0]",11.401754,1.3045443,Low Pass,Throw-in,,,,,Incomplete,,,,,From Throw In
+8658,France,Paul Pogba,Samuel Yves Umtiti,11,47,1,"[78.0, 5.0]","[62.0, 6.0]",16.03122,3.0791738,Ground Pass,Recovery,,,,,,,,,,From Throw In
+8658,France,Samuel Yves Umtiti,Raphaël Varane,11,48,1,"[63.0, 8.0]","[57.0, 34.0]",26.683329,1.7975951,Ground Pass,,,,,,,,,,,From Throw In
+8658,France,Raphaël Varane,Benjamin Pavard,11,52,1,"[58.0, 47.0]","[67.0, 78.0]",32.280025,1.2882414,Ground Pass,,,,,,,,,,,From Throw In
+8658,France,Benjamin Pavard,Raphaël Varane,11,56,1,"[67.0, 70.0]","[54.0, 64.0]",14.3178215,-2.709185,Ground Pass,,,,,,,,,,,From Throw In
+8658,France,Raphaël Varane,Benjamin Pavard,11,59,1,"[51.0, 60.0]","[58.0, 66.0]",9.219544,0.7086263,Ground Pass,,,,,,,,,,,From Throw In
+8658,France,Benjamin Pavard,Hugo Lloris,12,2,1,"[49.0, 67.0]","[14.0, 52.0]",38.078865,-2.7367008,Ground Pass,,,,,,,,,,True,From Throw In
+8658,France,Hugo Lloris,Blaise Matuidi,12,7,1,"[14.0, 43.0]","[72.0, 28.0]",59.908264,-0.25307566,High Pass,,,,,,Incomplete,,,,,From Throw In
+8658,France,Blaise Matuidi,Lucas Hernández Pi,12,17,1,"[54.0, 28.0]","[56.0, 3.0]",25.079872,-1.4909663,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Lucas Hernández Pi,Antoine Griezmann,12,19,1,"[56.0, 3.0]","[66.0, 6.0]",10.440307,0.2914568,Ground Pass,,,,,,,,,,True,Regular Play
+8658,France,Antoine Griezmann,Blaise Matuidi,12,20,1,"[66.0, 6.0]","[52.0, 9.0]",14.3178215,2.9304993,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Blaise Matuidi,Samuel Yves Umtiti,12,22,1,"[52.0, 9.0]","[44.0, 26.0]",18.788294,2.010639,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Samuel Yves Umtiti,Raphaël Varane,12,24,1,"[44.0, 26.0]","[46.0, 49.0]",23.086792,1.484058,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Raphaël Varane,Kylian Mbappé Lottin,12,28,1,"[52.0, 53.0]","[65.0, 79.0]",29.068884,1.1071488,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Benjamin Pavard,Raphaël Varane,12,38,1,"[62.0, 79.0]","[43.0, 74.0]",19.646883,-2.884269,Low Pass,Throw-in,,,,,,,,,,From Throw In
+8658,France,Raphaël Varane,Samuel Yves Umtiti,12,41,1,"[42.0, 71.0]","[41.0, 34.0]",37.01351,-1.5978168,Ground Pass,,,,,,,,,,,From Throw In
+8658,France,Samuel Yves Umtiti,Olivier Giroud,12,48,1,"[56.0, 27.0]","[120.0, 74.0]",79.40403,0.6334259,High Pass,,,,True,,Out,,,,True,From Throw In
+8658,France,Hugo Lloris,,14,9,1,"[7.0, 44.0]","[77.0, 54.0]",70.71068,0.14189705,High Pass,Goal Kick,,,,,Incomplete,,,,,From Goal Kick
+8658,France,Lucas Hernández Pi,N''Golo Kanté,15,47,1,"[36.0, 3.0]","[35.0, 12.0]",9.055386,1.6814536,Ground Pass,,,,,,,,,,True,Regular Play
+8658,France,N''Golo Kanté,Blaise Matuidi,15,47,1,"[35.0, 12.0]","[43.0, 5.0]",10.630146,-0.71883,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Blaise Matuidi,Paul Pogba,15,49,1,"[44.0, 7.0]","[50.0, 31.0]",24.738634,1.3258177,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Paul Pogba,Kylian Mbappé Lottin,15,51,1,"[48.0, 34.0]","[56.0, 75.0]",41.773197,1.3780956,Low Pass,,,,True,,,,,,,Regular Play
+8658,France,Kylian Mbappé Lottin,,15,54,1,"[55.0, 73.0]","[56.0, 72.0]",1.4142135,-0.7853982,Ground Pass,,,,,,Incomplete,,,,True,Regular Play
+8658,France,Kylian Mbappé Lottin,Raphaël Varane,15,56,1,"[45.0, 63.0]","[29.0, 54.0]",18.35756,-2.629203,Ground Pass,Recovery,,,,,,,,,,Regular Play
+8658,France,Raphaël Varane,N''Golo Kanté,15,59,1,"[27.0, 53.0]","[39.0, 31.0]",25.059929,-1.0714496,Ground Pass,,,,,,,,,,True,Regular Play
+8658,France,N''Golo Kanté,Blaise Matuidi,16,2,1,"[45.0, 30.0]","[53.0, 29.0]",8.062258,-0.124354996,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Blaise Matuidi,N''Golo Kanté,16,3,1,"[53.0, 29.0]","[46.0, 23.0]",9.219544,-2.4329665,Ground Pass,,,,,,,,,,True,Regular Play
+8658,France,N''Golo Kanté,Kylian Mbappé Lottin,16,5,1,"[49.0, 24.0]","[98.0, 50.0]",55.470715,0.48783645,High Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,Olivier Giroud,Raphaël Varane,16,20,1,"[91.0, 78.0]","[57.0, 64.0]",36.769554,-2.7509856,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Raphaël Varane,Lucas Hernández Pi,16,24,1,"[57.0, 55.0]","[66.0, 7.0]",48.83646,-1.3854483,Ground Pass,,,,True,,,,,,,Regular Play
+8658,France,Lucas Hernández Pi,Olivier Giroud,16,29,1,"[79.0, 6.0]","[102.0, 44.0]",44.418465,1.0265158,High Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,Antoine Griezmann,Kylian Mbappé Lottin,16,33,1,"[95.0, 51.0]","[107.0, 66.0]",19.209373,0.8960554,Low Pass,Recovery,,,,,,,,,,Regular Play
+8658,France,Kylian Mbappé Lottin,Antoine Griezmann,16,40,1,"[118.0, 61.0]","[115.0, 56.0]",5.8309517,-2.1112158,Ground Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,Raphaël Varane,Antoine Griezmann,16,52,1,"[81.0, 69.0]","[92.0, 56.0]",17.029387,-0.8685394,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Antoine Griezmann,,17,55,1,"[93.0, 56.0]","[113.0, 40.0]",25.612497,-0.67474097,High Pass,Free Kick,,,,,Incomplete,,,,,From Free Kick
+8658,France,Lucas Hernández Pi,N''Golo Kanté,19,42,1,"[20.0, 18.0]","[33.0, 17.0]",13.038404,-0.07677189,Ground Pass,Interception,,,,,,,,,,Regular Play
+8658,France,N''Golo Kanté,Blaise Matuidi,19,45,1,"[34.0, 12.0]","[34.0, 2.0]",10.0,-1.5707964,Ground Pass,,,,,,,,,,True,Regular Play
+8658,France,Blaise Matuidi,Olivier Giroud,19,45,1,"[34.0, 2.0]","[45.0, 10.0]",13.601471,0.6287963,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Hugo Lloris,Olivier Giroud,21,17,1,"[6.0, 42.0]","[79.0, 39.0]",73.061615,-0.04107278,High Pass,Goal Kick,,,,,,,,,,From Goal Kick
+8658,France,Lucas Hernández Pi,Samuel Yves Umtiti,21,45,1,"[91.0, 1.0]","[54.0, 3.0]",37.054016,3.0875912,High Pass,Throw-in,,,,,,,,,,From Throw In
+8658,France,Samuel Yves Umtiti,Hugo Lloris,21,49,1,"[48.0, 3.0]","[25.0, 30.0]",35.468296,2.2763646,Ground Pass,,,,,,,,,,,From Throw In
+8658,France,Hugo Lloris,,21,52,1,"[25.0, 30.0]","[79.0, 3.0]",60.373837,-0.4636476,High Pass,,,,,,Incomplete,,,,True,From Throw In
+8658,France,Blaise Matuidi,,21,57,1,"[67.0, 4.0]","[87.0, 25.0]",29.0,0.8097836,High Pass,Recovery,,,,,Incomplete,,,,,From Throw In
+8658,France,Blaise Matuidi,Paul Pogba,22,21,1,"[57.0, 25.0]","[64.0, 35.0]",12.206555,0.9600704,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Paul Pogba,Kylian Mbappé Lottin,22,23,1,"[64.0, 35.0]","[90.0, 50.0]",30.016663,0.5232783,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Hugo Lloris,,24,8,1,"[7.0, 43.0]","[77.0, 50.0]",70.34913,0.09966865,High Pass,Goal Kick,,,,,Incomplete,,,,,From Goal Kick
+8658,France,Antoine Griezmann,Lucas Hernández Pi,24,17,1,"[81.0, 27.0]","[85.0, 3.0]",24.33105,-1.4056476,Ground Pass,,,,,,,,,,True,From Goal Kick
+8658,France,Lucas Hernández Pi,Antoine Griezmann,24,18,1,"[85.0, 3.0]","[110.0, 16.0]",28.178005,0.47951928,Ground Pass,,,,,,Incomplete,,,,,From Goal Kick
+8658,France,Blaise Matuidi,Antoine Griezmann,24,51,1,"[68.0, 6.0]","[81.0, 26.0]",23.853722,0.9944211,High Pass,Recovery,,,,,,,,,,From Throw In
+8658,France,Antoine Griezmann,Kylian Mbappé Lottin,24,53,1,"[81.0, 26.0]","[80.0, 55.0]",29.017237,1.6052654,High Pass,,,,,,Incomplete,,,,True,From Throw In
+8658,France,Benjamin Pavard,,24,58,1,"[68.0, 78.0]","[94.0, 54.0]",35.383614,-0.7454195,High Pass,Recovery,,,,,Incomplete,,,,,From Throw In
+8658,France,Samuel Yves Umtiti,Olivier Giroud,25,12,1,"[43.0, 17.0]","[66.0, 24.0]",24.04163,0.29544082,High Pass,Recovery,,,,,,,,,,From Counter
+8658,France,Olivier Giroud,,25,14,1,"[66.0, 24.0]","[73.0, 25.0]",7.071068,0.14189705,High Pass,,,,,,Incomplete,,,,,From Counter
+8658,France,Raphaël Varane,Samuel Yves Umtiti,25,34,1,"[32.0, 51.0]","[32.0, 16.0]",35.0,-1.5707964,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Samuel Yves Umtiti,,25,38,1,"[32.0, 5.0]","[35.0, 4.0]",3.1622777,-0.32175055,High Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,Lucas Hernández Pi,Olivier Giroud,25,57,1,"[40.0, 1.0]","[64.0, 4.0]",24.186773,0.124354996,High Pass,Throw-in,,,,,,,,,,From Throw In
+8658,France,Lucas Hernández Pi,Blaise Matuidi,26,26,1,"[53.0, 1.0]","[67.0, 12.0]",17.804493,0.66596925,High Pass,Throw-in,,,,,,,,,,From Throw In
+8658,France,Blaise Matuidi,Olivier Giroud,26,27,1,"[67.0, 12.0]","[79.0, 6.0]",13.416408,-0.4636476,Low Pass,,,,,,Incomplete,,,,,From Throw In
+8658,France,Antoine Griezmann,Benjamin Pavard,26,30,1,"[63.0, 26.0]","[48.0, 72.0]",48.38388,1.886011,Ground Pass,,,,True,,,,,,,From Throw In
+8658,France,Benjamin Pavard,Kylian Mbappé Lottin,26,36,1,"[54.0, 75.0]","[67.0, 79.0]",13.601471,0.29849893,Ground Pass,,,,,,,,,,,From Throw In
+8658,France,Kylian Mbappé Lottin,Benjamin Pavard,26,37,1,"[67.0, 79.0]","[70.0, 71.0]",8.5440035,-1.2120256,Low Pass,,,,,,,,,,,From Throw In
+8658,France,Benjamin Pavard,Kylian Mbappé Lottin,26,38,1,"[70.0, 71.0]","[104.0, 76.0]",34.36568,0.14601226,Ground Pass,,,,,,Incomplete,,,,True,From Throw In
+8658,France,Benjamin Pavard,Paul Pogba,29,17,1,"[98.0, 79.0]","[101.0, 72.0]",7.615773,-1.1659045,Low Pass,Throw-in,,,,,Incomplete,,,,,From Throw In
+8658,France,Benjamin Pavard,Olivier Giroud,29,36,1,"[110.0, 80.0]","[111.0, 62.0]",18.027756,-1.5152978,High Pass,Throw-in,,,,,,,,,,From Throw In
+8658,France,Raphaël Varane,Hugo Lloris,29,44,1,"[69.0, 44.0]","[16.0, 41.0]",53.08484,-3.0850492,Ground Pass,,,,,,,,,,True,From Throw In
+8658,France,Hugo Lloris,Benjamin Pavard,29,49,1,"[18.0, 43.0]","[70.0, 74.0]",60.53924,0.5375866,High Pass,,,,,,,,,,,From Throw In
+8658,France,Benjamin Pavard,Kylian Mbappé Lottin,29,51,1,"[70.0, 74.0]","[91.0, 56.0]",27.658634,-0.7086263,High Pass,,,,,,Pass Offside,,,,,From Throw In
+8658,France,Lucas Hernández Pi,Paul Pogba,30,38,1,"[23.0, 2.0]","[36.0, 8.0]",14.3178215,0.43240777,High Pass,Throw-in,,,,,,,,,,From Throw In
+8658,France,Paul Pogba,Antoine Griezmann,30,40,1,"[37.0, 8.0]","[46.0, 20.0]",15.0,0.9272952,Low Pass,,,,,,,,,,,From Throw In
+8658,France,Lucas Hernández Pi,Olivier Giroud,31,33,1,"[16.0, 1.0]","[33.0, 2.0]",17.029387,0.058755822,High Pass,Throw-in,,,,,Incomplete,,,,,From Throw In
+8658,France,Lucas Hernández Pi,Olivier Giroud,31,49,1,"[35.0, 2.0]","[55.0, 3.0]",20.024984,0.049958397,High Pass,Throw-in,,,,,,,,,,From Throw In
+8658,France,Blaise Matuidi,,32,5,1,"[53.0, 2.0]","[56.0, 1.0]",3.1622777,-0.32175055,Low Pass,Recovery,,,,,Out,,,,True,Regular Play
+8658,France,Hugo Lloris,Kylian Mbappé Lottin,32,40,1,"[18.0, 39.0]","[89.0, 58.0]",73.4983,0.2614788,High Pass,,,,,,Incomplete,,,,,From Keeper
+8658,France,Antoine Griezmann,,33,35,1,"[120.0, 79.0]","[118.0, 49.0]",30.066593,-1.6373645,High Pass,Corner,,,,,Unknown,,,,,From Corner
+8658,France,Hugo Lloris,Olivier Giroud,39,42,1,"[15.0, 51.0]","[75.0, 60.0]",60.671246,0.14888994,High Pass,,,,,,,,,,,Regular Play
+8658,France,Olivier Giroud,Kylian Mbappé Lottin,39,45,1,"[74.0, 60.0]","[73.0, 77.0]",17.029387,1.6295521,High Pass,,,,,,,,,,True,Regular Play
+8658,France,Kylian Mbappé Lottin,,39,53,1,"[119.0, 75.0]","[108.0, 48.0]",29.15476,-1.957672,Ground Pass,,True,True,,,Incomplete,,,,,Regular Play
+8658,France,Benjamin Pavard,,41,36,1,"[28.0, 49.0]","[77.0, 55.0]",49.365982,0.12184244,Low Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,Hugo Lloris,,45,56,1,"[7.0, 45.0]","[68.0, 46.0]",61.008198,0.016391974,High Pass,Goal Kick,,,,,Incomplete,,,,,From Goal Kick
+8658,France,Raphaël Varane,Antoine Griezmann,46,5,1,"[42.0, 38.0]","[56.0, 29.0]",16.643316,-0.57133746,Ground Pass,Recovery,,,,,,,,,,Regular Play
+8658,France,Antoine Griezmann,Blaise Matuidi,46,7,1,"[52.0, 29.0]","[48.0, 32.0]",5.0,2.4980915,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Blaise Matuidi,Samuel Yves Umtiti,46,8,1,"[48.0, 32.0]","[38.0, 34.0]",10.198039,2.9441972,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Samuel Yves Umtiti,Paul Pogba,46,10,1,"[38.0, 34.0]","[65.0, 51.0]",31.906113,0.56192154,High Pass,,,,,,,,,,,Regular Play
+8658,France,Hugo Lloris,Olivier Giroud,46,35,1,"[18.0, 34.0]","[97.0, 47.0]",80.06248,0.1630953,High Pass,,,,,,,,,,,Regular Play
+8658,France,Olivier Giroud,Lucas Hernández Pi,47,6,1,"[70.0, 22.0]","[70.0, 28.0]",6.0,1.5707964,Ground Pass,Recovery,,,,,,,,,,Regular Play
+8658,France,Lucas Hernández Pi,Kylian Mbappé Lottin,47,9,1,"[80.0, 38.0]","[120.0, 61.0]",46.141087,0.52183425,Ground Pass,,,,,,Out,,,,,Regular Play
+8658,France,Raphaël Varane,,48,23,1,"[23.0, 77.0]","[58.0, 73.0]",35.22783,-0.11379201,High Pass,Free Kick,,,,,Unknown,,,,,From Free Kick
+8658,France,Antoine Griezmann,Raphaël Varane,45,0,2,"[61.0, 41.0]","[24.0, 49.0]",37.85499,2.9286542,Ground Pass,Kick Off,,,,,,,,,,From Kick Off
+8658,France,Raphaël Varane,,45,4,2,"[24.0, 49.0]","[83.0, 78.0]",65.74192,0.456845,High Pass,,,,,,Incomplete,,,,,From Kick Off
+8658,France,Benjamin Pavard,Kylian Mbappé Lottin,45,13,2,"[71.0, 78.0]","[81.0, 73.0]",11.18034,-0.4636476,High Pass,Recovery,,,,,,,,,,From Kick Off
+8658,France,Kylian Mbappé Lottin,Antoine Griezmann,45,14,2,"[81.0, 73.0]","[76.0, 59.0]",14.866069,-1.9138203,High Pass,,,,,,,,,,,From Kick Off
+8658,France,Antoine Griezmann,Paul Pogba,45,15,2,"[76.0, 59.0]","[68.0, 61.0]",8.246211,2.896614,Ground Pass,,,,,,,,,,True,From Kick Off
+8658,France,Raphaël Varane,Samuel Yves Umtiti,45,29,2,"[66.0, 59.0]","[56.0, 32.0]",28.79236,-1.925502,Ground Pass,Free Kick,,,,,,,,,,From Free Kick
+8658,France,Samuel Yves Umtiti,Antoine Griezmann,45,34,2,"[65.0, 24.0]","[76.0, 30.0]",12.529964,0.49934673,Ground Pass,,,,,,,,,,True,From Free Kick
+8658,France,Antoine Griezmann,Blaise Matuidi,45,35,2,"[76.0, 30.0]","[82.0, 25.0]",7.81025,-0.69473827,Ground Pass,,,,,,Incomplete,,,,,From Free Kick
+8658,France,Hugo Lloris,Paul Pogba,45,51,2,"[13.0, 37.0]","[36.0, 61.0]",33.24154,0.80667156,Low Pass,,,,,,,,,,,From Keeper
+8658,France,Paul Pogba,Benjamin Pavard,45,54,2,"[38.0, 61.0]","[38.0, 77.0]",16.0,1.5707964,Ground Pass,,,,,,,,,,True,From Keeper
+8658,France,Benjamin Pavard,Paul Pogba,45,57,2,"[44.0, 77.0]","[42.0, 70.0]",7.28011,-1.849096,Ground Pass,,,,,,,,,,,From Keeper
+8658,France,Paul Pogba,Benjamin Pavard,46,0,2,"[43.0, 68.0]","[49.0, 78.0]",11.661903,1.0303768,Ground Pass,,,,,,,,,,,From Keeper
+8658,France,Benjamin Pavard,Olivier Giroud,46,3,2,"[56.0, 77.0]","[99.0, 58.0]",47.010635,-0.4160645,High Pass,,,,,,,,,,,From Keeper
+8658,France,Olivier Giroud,Antoine Griezmann,46,8,2,"[102.0, 56.0]","[95.0, 43.0]",14.764823,-2.0647378,Ground Pass,,,,,,,True,,57a6526e-9652-4195-8151-674c888e04d3,,From Keeper
+8658,France,Hugo Lloris,Olivier Giroud,48,4,2,"[6.0, 43.0]","[68.0, 48.0]",62.201286,0.08047101,High Pass,Goal Kick,,,,,,,,,,From Goal Kick
+8658,France,Olivier Giroud,Antoine Griezmann,48,8,2,"[68.0, 48.0]","[68.0, 36.0]",12.0,-1.5707964,High Pass,,,,,,,,,,,From Goal Kick
+8658,France,Antoine Griezmann,Lucas Hernández Pi,48,10,2,"[68.0, 36.0]","[66.0, 4.0]",32.06244,-1.6332152,High Pass,,,,,,,,,,True,From Goal Kick
+8658,France,Lucas Hernández Pi,Antoine Griezmann,48,14,2,"[67.0, 2.0]","[72.0, 10.0]",9.433981,1.012197,Ground Pass,,,,,True,,,,,True,From Goal Kick
+8658,France,Hugo Lloris,,48,28,2,"[27.0, 30.0]","[83.0, 26.0]",56.142673,-0.071307465,High Pass,,,,,,Incomplete,,,,,From Keeper
+8658,France,Samuel Yves Umtiti,Paul Pogba,48,37,2,"[56.0, 25.0]","[64.0, 37.0]",14.422205,0.98279375,Ground Pass,,,,,,,,,,True,From Keeper
+8658,France,Paul Pogba,Kylian Mbappé Lottin,48,39,2,"[64.0, 38.0]","[80.0, 63.0]",29.681644,1.0014831,Ground Pass,,,,,,Incomplete,,,,,From Keeper
+8658,France,Paul Pogba,Benjamin Pavard,48,53,2,"[22.0, 54.0]","[18.0, 63.0]",9.848858,1.9890207,Ground Pass,Recovery,,,,,,,,,,From Keeper
+8658,France,Benjamin Pavard,,48,54,2,"[18.0, 63.0]","[45.0, 1.0]",67.62396,-1.1600794,High Pass,,,,True,,Out,,,,True,From Keeper
+8658,France,Hugo Lloris,Olivier Giroud,49,58,2,"[6.0, 44.0]","[73.0, 55.0]",67.89698,0.16272737,High Pass,Goal Kick,,,,,,,,,,From Goal Kick
+8658,France,Olivier Giroud,,50,2,2,"[73.0, 55.0]","[67.0, 55.0]",6.0,3.1415927,High Pass,,,,,,Incomplete,,,,,From Goal Kick
+8658,France,Blaise Matuidi,,50,59,2,"[36.0, 4.0]","[35.0, 12.0]",8.062258,1.6951513,Ground Pass,,,,,,Incomplete,,,,True,From Throw In
+8658,France,Blaise Matuidi,N''Golo Kanté,51,13,2,"[27.0, 6.0]","[25.0, 15.0]",9.219544,1.7894653,Ground Pass,,,,,,,,,,,From Throw In
+8658,France,Olivier Giroud,Paul Pogba,51,26,2,"[46.0, 40.0]","[36.0, 42.0]",10.198039,2.9441972,Ground Pass,Recovery,,,,,,,,,,Regular Play
+8658,France,Paul Pogba,Kylian Mbappé Lottin,51,30,2,"[47.0, 53.0]","[98.0, 75.0]",55.542778,0.40725586,Ground Pass,,,,,,,True,,aa64cb60-6e81-4def-8972-1d013adf5091,,Regular Play
+8658,France,Kylian Mbappé Lottin,,52,45,2,"[45.0, 72.0]","[47.0, 75.0]",3.6055512,0.98279375,Ground Pass,Recovery,,,,,Injury Clearance,,,,,Other
+8658,France,Benjamin Pavard,,53,9,2,"[3.0, 77.0]","[18.0, 79.0]",15.132746,0.13255154,Ground Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,Olivier Giroud,,54,18,2,"[85.0, 62.0]","[91.0, 67.0]",7.81025,0.69473827,High Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,Paul Pogba,,54,23,2,"[65.0, 53.0]","[78.0, 49.0]",13.601471,-0.29849893,High Pass,Recovery,,,,,Incomplete,,,,,Regular Play
+8658,France,Steven N''Kemboanza Mike Christopher Nzonzi,Antoine Griezmann,54,28,2,"[73.0, 43.0]","[85.0, 43.0]",12.0,0.0,High Pass,Recovery,,,,,,,,,,Regular Play
+8658,France,Antoine Griezmann,Blaise Matuidi,54,33,2,"[92.0, 34.0]","[101.0, 22.0]",15.0,-0.9272952,Ground Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,Lucas Hernández Pi,,56,4,2,"[70.0, 1.0]","[97.0, 11.0]",28.79236,0.35470566,High Pass,Throw-in,,,,,Incomplete,,,,,From Throw In
+8658,France,Samuel Yves Umtiti,Paul Pogba,56,18,2,"[45.0, 28.0]","[56.0, 35.0]",13.038404,0.5667292,Ground Pass,,,,,,,,,,,From Throw In
+8658,France,Paul Pogba,Benjamin Pavard,56,21,2,"[56.0, 40.0]","[66.0, 74.0]",35.44009,1.2847449,Ground Pass,,,,,,,,,,,From Throw In
+8658,France,Benjamin Pavard,Kylian Mbappé Lottin,56,27,2,"[70.0, 76.0]","[82.0, 78.0]",12.165525,0.16514868,Ground Pass,,,,,,,,,,,From Throw In
+8658,France,Hugo Lloris,,57,19,2,"[16.0, 22.0]","[74.0, 30.0]",58.549126,0.13706617,High Pass,,,,,,Unknown,,,,,From Keeper
+8658,France,Lucas Hernández Pi,Olivier Giroud,58,11,2,"[14.0, 2.0]","[36.0, 4.0]",22.090721,0.09065989,High Pass,Throw-in,,,,,,,,,,From Throw In
+8658,France,Olivier Giroud,Steven N''Kemboanza Mike Christopher Nzonzi,58,14,2,"[36.0, 4.0]","[32.0, 7.0]",5.0,2.4980915,High Pass,,,,,,,,,,,From Throw In
+8658,France,Steven N''Kemboanza Mike Christopher Nzonzi,Antoine Griezmann,58,14,2,"[32.0, 7.0]","[48.0, 5.0]",16.124516,-0.124354996,High Pass,,,,,,,,,,,From Throw In
+8658,France,Antoine Griezmann,Paul Pogba,58,15,2,"[48.0, 5.0]","[39.0, 25.0]",21.931713,1.9936502,High Pass,,,,,,,,,,,From Throw In
+8658,France,Paul Pogba,Kylian Mbappé Lottin,58,18,2,"[39.0, 25.0]","[101.0, 69.0]",76.02631,0.6171914,Low Pass,,,,True,,,,,,True,From Throw In
+8658,France,Kylian Mbappé Lottin,Antoine Griezmann,58,28,2,"[116.0, 57.0]","[111.0, 45.0]",13.0,-1.9655875,Low Pass,,True,True,,,,,,,,From Throw In
+8658,France,Antoine Griezmann,Paul Pogba,58,31,2,"[106.0, 44.0]","[99.0, 41.0]",7.615773,-2.7367008,Ground Pass,,,,,,,True,,22024b1a-a3c4-49e9-a004-dbd45e451b31,True,From Throw In
+8658,France,Benjamin Pavard,Paul Pogba,60,24,2,"[47.0, 76.0]","[52.0, 57.0]",19.646883,-1.3134726,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Paul Pogba,Blaise Matuidi,60,28,2,"[58.0, 50.0]","[65.0, 20.0]",30.805843,-1.3415644,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Blaise Matuidi,Steven N''Kemboanza Mike Christopher Nzonzi,60,31,2,"[66.0, 21.0]","[57.0, 28.0]",11.401754,2.4805496,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Steven N''Kemboanza Mike Christopher Nzonzi,Lucas Hernández Pi,60,34,2,"[59.0, 16.0]","[68.0, 3.0]",15.811388,-0.9652517,Ground Pass,,,,,,,,,,True,Regular Play
+8658,France,Lucas Hernández Pi,Paul Pogba,60,36,2,"[68.0, 5.0]","[64.0, 25.0]",20.396078,1.7681919,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Paul Pogba,Blaise Matuidi,60,38,2,"[64.0, 26.0]","[98.0, 15.0]",35.735138,-0.31290123,High Pass,,,,,,,,,,,Regular Play
+8658,France,Blaise Matuidi,,60,43,2,"[109.0, 4.0]","[113.0, 41.0]",37.215588,1.4631065,High Pass,,True,,,,Incomplete,,,,,Regular Play
+8658,France,Antoine Griezmann,,61,23,2,"[120.0, 79.0]","[117.0, 49.0]",30.149628,-1.670465,High Pass,Corner,,,,,Incomplete,,,,,From Corner
+8658,France,Benjamin Pavard,,61,47,2,"[98.0, 79.0]","[103.0, 76.0]",5.8309517,-0.5404195,High Pass,Throw-in,,,,,Unknown,,,,,From Throw In
+8658,France,Olivier Giroud,Benjamin Pavard,61,50,2,"[111.0, 77.0]","[106.0, 72.0]",7.071068,-2.3561945,High Pass,,,,,,,,,,,Regular Play
+8658,France,Benjamin Pavard,Olivier Giroud,61,51,2,"[106.0, 72.0]","[113.0, 76.0]",8.062258,0.5191461,High Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,Blaise Matuidi,Antoine Griezmann,64,7,2,"[66.0, 28.0]","[76.0, 45.0]",19.723083,1.0390723,Low Pass,,,,,,,,,,True,Regular Play
+8658,France,Antoine Griezmann,Steven N''Kemboanza Mike Christopher Nzonzi,64,11,2,"[75.0, 48.0]","[55.0, 43.0]",20.615528,-2.896614,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Steven N''Kemboanza Mike Christopher Nzonzi,Paul Pogba,64,13,2,"[55.0, 43.0]","[64.0, 30.0]",15.811388,-0.9652517,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Paul Pogba,Lucas Hernández Pi,64,15,2,"[64.0, 30.0]","[65.0, 7.0]",23.021729,-1.5273454,Ground Pass,,,,,,,,,,True,Regular Play
+8658,France,Lucas Hernández Pi,Blaise Matuidi,64,19,2,"[70.0, 6.0]","[78.0, 3.0]",8.5440035,-0.35877067,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Blaise Matuidi,Paul Pogba,64,20,2,"[78.0, 3.0]","[58.0, 5.0]",20.09975,3.041924,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Paul Pogba,Steven N''Kemboanza Mike Christopher Nzonzi,64,23,2,"[59.0, 7.0]","[56.0, 19.0]",12.369317,1.815775,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Steven N''Kemboanza Mike Christopher Nzonzi,Paul Pogba,64,24,2,"[56.0, 19.0]","[56.0, 6.0]",13.0,-1.5707964,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Paul Pogba,Lucas Hernández Pi,64,26,2,"[55.0, 6.0]","[68.0, 4.0]",13.152946,-0.15264933,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Lucas Hernández Pi,Kylian Mbappé Lottin,64,33,2,"[93.0, 14.0]","[92.0, 38.0]",24.020824,1.6124389,Ground Pass,,,,,,,,True,8b3b883a-7cca-4677-bfde-e4f9c3ce8aac,,Regular Play
+8658,France,Paul Pogba,Antoine Griezmann,66,30,2,"[26.0, 48.0]","[35.0, 42.0]",10.816654,-0.5880026,Low Pass,Recovery,,,,,,,,,,Regular Play
+8658,France,Antoine Griezmann,Steven N''Kemboanza Mike Christopher Nzonzi,66,31,2,"[35.0, 42.0]","[28.0, 41.0]",7.071068,-2.9996955,Low Pass,,,,,,,,,,True,Regular Play
+8658,France,Steven N''Kemboanza Mike Christopher Nzonzi,Blaise Matuidi,66,32,2,"[28.0, 41.0]","[32.0, 31.0]",10.770329,-1.19029,High Pass,,,,,,,,,,,Regular Play
+8658,France,Blaise Matuidi,Lucas Hernández Pi,66,36,2,"[30.0, 19.0]","[25.0, 17.0]",5.3851647,-2.7610862,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Lucas Hernández Pi,Steven N''Kemboanza Mike Christopher Nzonzi,66,38,2,"[27.0, 18.0]","[28.0, 26.0]",8.062258,1.4464413,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Steven N''Kemboanza Mike Christopher Nzonzi,Blaise Matuidi,66,42,2,"[40.0, 25.0]","[35.0, 5.0]",20.615528,-1.815775,Ground Pass,,,,,,,,,,True,Regular Play
+8658,France,Blaise Matuidi,Lucas Hernández Pi,66,43,2,"[35.0, 5.0]","[26.0, 7.0]",9.219544,2.9229238,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Lucas Hernández Pi,Blaise Matuidi,66,45,2,"[26.0, 7.0]","[35.0, 4.0]",9.486833,-0.32175055,High Pass,,,,,,,,,,True,Regular Play
+8658,France,Samuel Yves Umtiti,Paul Pogba,66,56,2,"[21.0, 27.0]","[25.0, 36.0]",9.848858,1.152572,High Pass,Recovery,,,,,,,,,,Regular Play
+8658,France,Paul Pogba,Kylian Mbappé Lottin,67,0,2,"[39.0, 42.0]","[60.0, 78.0]",41.677334,1.0427219,Ground Pass,,,,,,,,,,True,Regular Play
+8658,France,Kylian Mbappé Lottin,Paul Pogba,67,4,2,"[61.0, 78.0]","[55.0, 66.0]",13.416408,-2.0344439,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Paul Pogba,Steven N''Kemboanza Mike Christopher Nzonzi,67,7,2,"[55.0, 65.0]","[48.0, 43.0]",23.086792,-1.8788491,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Steven N''Kemboanza Mike Christopher Nzonzi,Samuel Yves Umtiti,67,11,2,"[50.0, 43.0]","[47.0, 27.0]",16.27882,-1.7561443,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Samuel Yves Umtiti,Steven N''Kemboanza Mike Christopher Nzonzi,67,13,2,"[47.0, 27.0]","[53.0, 40.0]",14.3178215,1.1383885,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Steven N''Kemboanza Mike Christopher Nzonzi,Raphaël Varane,67,15,2,"[53.0, 40.0]","[47.0, 53.0]",14.3178215,2.003204,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Raphaël Varane,Benjamin Pavard,67,17,2,"[47.0, 58.0]","[57.0, 79.0]",23.259407,1.1263771,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Benjamin Pavard,Raphaël Varane,67,19,2,"[55.0, 77.0]","[44.0, 72.0]",12.083046,-2.714965,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Raphaël Varane,Steven N''Kemboanza Mike Christopher Nzonzi,67,22,2,"[42.0, 71.0]","[51.0, 50.0]",22.847319,-1.1659045,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Steven N''Kemboanza Mike Christopher Nzonzi,Paul Pogba,67,23,2,"[51.0, 50.0]","[60.0, 59.0]",12.727922,0.7853982,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Paul Pogba,Steven N''Kemboanza Mike Christopher Nzonzi,67,25,2,"[61.0, 59.0]","[68.0, 51.0]",10.630146,-0.8519663,Ground Pass,,,,,,,,,,True,Regular Play
+8658,France,Paul Pogba,Olivier Giroud,67,48,2,"[70.0, 52.0]","[106.0, 31.0]",41.677334,-0.52807444,High Pass,Free Kick,,,,,,,,,,From Free Kick
+8658,France,Lucas Hernández Pi,Samuel Yves Umtiti,68,0,2,"[69.0, 7.0]","[40.0, 20.0]",31.780497,2.7201734,Low Pass,Recovery,,,,,,,,,,Regular Play
+8658,France,Samuel Yves Umtiti,Hugo Lloris,68,4,2,"[29.0, 26.0]","[5.0, 38.0]",26.832815,2.6779451,Ground Pass,,,,,,,,,,True,Regular Play
+8658,France,Benjamin Pavard,Paul Pogba,69,46,2,"[11.0, 80.0]","[17.0, 77.0]",6.708204,-0.4636476,Low Pass,Throw-in,,,,,,,,,,From Throw In
+8658,France,Paul Pogba,Benjamin Pavard,69,47,2,"[17.0, 77.0]","[9.0, 78.0]",8.062258,3.0172377,Low Pass,,,,,,,,,,True,From Throw In
+8658,France,Benjamin Pavard,,69,48,2,"[9.0, 78.0]","[64.0, 49.0]",62.177166,-0.485227,High Pass,,,,,,Incomplete,,,,True,From Throw In
+8658,France,Hugo Lloris,Steven N''Kemboanza Mike Christopher Nzonzi,70,50,2,"[7.0, 43.0]","[70.0, 37.0]",63.28507,-0.094951704,High Pass,Goal Kick,,,,,,,,,,From Goal Kick
+8658,France,Steven N''Kemboanza Mike Christopher Nzonzi,,70,54,2,"[70.0, 37.0]","[83.0, 41.0]",13.601471,0.29849893,High Pass,,,,,,Incomplete,,,,,From Goal Kick
+8658,France,Blaise Matuidi,Steven N''Kemboanza Mike Christopher Nzonzi,71,1,2,"[82.0, 12.0]","[79.0, 18.0]",6.708204,2.0344439,Ground Pass,,,,,,,,,,,From Goal Kick
+8658,France,Hugo Lloris,Antoine Griezmann,71,25,2,"[22.0, 29.0]","[88.0, 26.0]",66.068146,-0.04542328,High Pass,Recovery,,,,,,,,,,Other
+8658,France,Antoine Griezmann,,71,28,2,"[88.0, 26.0]","[97.0, 17.0]",12.727922,-0.7853982,High Pass,,,,,,Incomplete,,,,,Other
+8658,France,Samuel Yves Umtiti,,71,34,2,"[57.0, 25.0]","[79.0, 37.0]",25.059929,0.49934673,High Pass,Recovery,,,,,Unknown,,,,True,Other
+8658,France,Corentin Tolisso,Lucas Hernández Pi,73,0,2,"[56.0, 16.0]","[45.0, 5.0]",15.556349,-2.3561945,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Lucas Hernández Pi,,73,2,2,"[42.0, 3.0]","[73.0, 3.0]",31.0,0.0,Low Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,Lucas Hernández Pi,Antoine Griezmann,73,21,2,"[70.0, 2.0]","[83.0, 5.0]",13.341664,0.22679885,High Pass,Throw-in,,,,,,,,,,From Throw In
+8658,France,Antoine Griezmann,,73,22,2,"[83.0, 5.0]","[89.0, 7.0]",6.3245554,0.32175055,High Pass,,,,,,Incomplete,,,,,From Throw In
+8658,France,Lucas Hernández Pi,,73,24,2,"[68.0, 7.0]","[107.0, 5.0]",39.051247,-0.051237166,High Pass,Recovery,,,,,Incomplete,,,,,From Throw In
+8658,France,Corentin Tolisso,,73,29,2,"[79.0, 4.0]","[105.0, 7.0]",26.172504,0.114876606,Ground Pass,Recovery,,,,,Incomplete,,,,,From Throw In
+8658,France,Hugo Lloris,,73,46,2,"[17.0, 29.0]","[87.0, 45.0]",71.80529,0.22471116,High Pass,,,,,,Incomplete,,,,,From Throw In
+8658,France,Paul Pogba,Kylian Mbappé Lottin,73,52,2,"[73.0, 49.0]","[82.0, 76.0]",28.460499,1.2490457,Ground Pass,Recovery,,,,,,,,,,From Throw In
+8658,France,Kylian Mbappé Lottin,Benjamin Pavard,73,57,2,"[82.0, 78.0]","[65.0, 77.0]",17.029387,-3.0828369,Ground Pass,,,,,,,,,,,From Throw In
+8658,France,Benjamin Pavard,Steven N''Kemboanza Mike Christopher Nzonzi,73,59,2,"[65.0, 77.0]","[57.0, 58.0]",20.615528,-1.9693187,Ground Pass,,,,,,,,,,,From Throw In
+8658,France,Steven N''Kemboanza Mike Christopher Nzonzi,Antoine Griezmann,74,0,2,"[57.0, 58.0]","[89.0, 60.0]",32.06244,0.06241881,High Pass,,,,,,,,,,True,From Throw In
+8658,France,Antoine Griezmann,Corentin Tolisso,74,2,2,"[89.0, 60.0]","[80.0, 45.0]",17.492855,-2.1112158,High Pass,,,,,,,,,,,From Throw In
+8658,France,Corentin Tolisso,Olivier Giroud,74,6,2,"[88.0, 40.0]","[95.0, 27.0]",14.764823,-1.076855,Ground Pass,,,,,,,,,,True,From Throw In
+8658,France,Olivier Giroud,Paul Pogba,74,8,2,"[92.0, 26.0]","[91.0, 27.0]",1.4142135,2.3561945,Ground Pass,,,,,,Incomplete,,,,True,From Throw In
+8658,France,Olivier Giroud,Antoine Griezmann,74,47,2,"[27.0, 47.0]","[24.0, 46.0]",3.1622777,-2.819842,Low Pass,Recovery,,,,,,,,,,Regular Play
+8658,France,Antoine Griezmann,Olivier Giroud,74,48,2,"[24.0, 46.0]","[26.0, 49.0]",3.6055512,0.98279375,Ground Pass,,,,,,,,,,True,Regular Play
+8658,France,Olivier Giroud,Antoine Griezmann,74,49,2,"[26.0, 49.0]","[35.0, 45.0]",9.848858,-0.41822433,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Olivier Giroud,Antoine Griezmann,75,34,2,"[74.0, 57.0]","[78.0, 46.0]",11.7046995,-1.2220253,High Pass,,,,,,,,,,,Regular Play
+8658,France,Antoine Griezmann,Corentin Tolisso,75,35,2,"[78.0, 46.0]","[73.0, 38.0]",9.433981,-2.1293957,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Corentin Tolisso,Antoine Griezmann,75,40,2,"[83.0, 28.0]","[113.0, 14.0]",33.105892,-0.43662715,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Lucas Hernández Pi,Olivier Giroud,76,4,2,"[98.0, 2.0]","[103.0, 14.0]",13.0,1.1760052,Low Pass,Throw-in,,,,,,,,,,From Throw In
+8658,France,Olivier Giroud,Lucas Hernández Pi,76,5,2,"[103.0, 14.0]","[101.0, 1.0]",13.152946,-1.7234457,High Pass,,,,,,Out,,,,,From Throw In
+8658,France,Lucas Hernández Pi,,76,26,2,"[53.0, 26.0]","[79.0, 27.0]",26.019224,0.03844259,High Pass,Recovery,,,,,Incomplete,,,,,From Throw In
+8658,France,Olivier Giroud,,77,46,2,"[75.0, 53.0]","[81.0, 51.0]",6.3245554,-0.32175055,High Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,Raphaël Varane,,77,50,2,"[45.0, 49.0]","[103.0, 47.0]",58.034473,-0.0344691,High Pass,Recovery,,,,,Incomplete,,,,,Regular Play
+8658,France,Benjamin Pavard,Kylian Mbappé Lottin,78,21,2,"[2.0, 77.0]","[13.0, 77.0]",11.0,0.0,Ground Pass,,,,,True,,,,,,Regular Play
+8658,France,Kylian Mbappé Lottin,Raphaël Varane,78,23,2,"[10.0, 78.0]","[11.0, 64.0]",14.035668,-1.4994888,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Raphaël Varane,Olivier Giroud,78,25,2,"[11.0, 64.0]","[45.0, 69.0]",34.36568,0.14601226,High Pass,,,,,,,,,,,Regular Play
+8658,France,Olivier Giroud,Antoine Griezmann,78,27,2,"[45.0, 69.0]","[47.0, 78.0]",9.219544,1.3521274,Low Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,Paul Pogba,Kylian Mbappé Lottin,81,20,2,"[17.0, 46.0]","[47.0, 44.0]",30.066593,-0.066568166,High Pass,,,,,,,,,,True,Regular Play
+8658,France,Paul Pogba,,82,15,2,"[63.0, 44.0]","[87.0, 61.0]",29.410883,0.61629695,High Pass,Recovery,,,,,Incomplete,,,,,Regular Play
+8658,France,Paul Pogba,Nabil Fekir,84,10,2,"[30.0, 76.0]","[35.0, 78.0]",5.3851647,0.38050637,High Pass,,,,,,,,,,,Regular Play
+8658,France,Nabil Fekir,,84,14,2,"[29.0, 78.0]","[61.0, 77.0]",32.01562,-0.031239834,High Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,Kylian Mbappé Lottin,,84,48,2,"[35.0, 49.0]","[39.0, 49.0]",4.0,0.0,Low Pass,Recovery,,,,,Incomplete,,,,True,Regular Play
+8658,France,Hugo Lloris,Nabil Fekir,85,24,2,"[6.0, 44.0]","[71.0, 73.0]",71.17584,0.41965085,High Pass,Goal Kick,,,,,,,,,,From Goal Kick
+8658,France,Nabil Fekir,,85,28,2,"[72.0, 70.0]","[99.0, 67.0]",27.166155,-0.11065722,Low Pass,,,,,,Incomplete,,,,,From Goal Kick
+8658,France,Paul Pogba,Nabil Fekir,85,42,2,"[56.0, 65.0]","[74.0, 77.0]",21.633308,0.5880026,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Paul Pogba,Nabil Fekir,86,19,2,"[82.0, 77.0]","[103.0, 75.0]",21.095022,-0.094951704,High Pass,Free Kick,,,,,Incomplete,,,,,From Free Kick
+8658,France,Hugo Lloris,,87,22,2,"[18.0, 27.0]","[107.0, 53.0]",92.72001,0.28422552,High Pass,,,,,,Incomplete,,,,,From Keeper
+8658,France,Hugo Lloris,Paul Pogba,88,38,2,"[6.0, 40.0]","[66.0, 60.0]",63.245552,0.32175055,High Pass,Goal Kick,,,,,,,,,,From Goal Kick
+8658,France,Paul Pogba,Antoine Griezmann,88,42,2,"[67.0, 61.0]","[70.0, 71.0]",10.440307,1.2793396,High Pass,,,,,,,,,,True,From Goal Kick
+8658,France,Antoine Griezmann,Nabil Fekir,88,44,2,"[70.0, 71.0]","[77.0, 76.0]",8.602325,0.6202495,High Pass,,,,,,,,,,,From Goal Kick
+8658,France,Nabil Fekir,Steven N''Kemboanza Mike Christopher Nzonzi,88,48,2,"[75.0, 77.0]","[81.0, 67.0]",11.661903,-1.0303768,Ground Pass,,,,,,,,,,True,From Goal Kick
+8658,France,Steven N''Kemboanza Mike Christopher Nzonzi,Nabil Fekir,88,50,2,"[86.0, 69.0]","[105.0, 78.0]",21.023796,0.44237423,Ground Pass,,,,,,,,,,,From Goal Kick
+8658,France,Lucas Hernández Pi,,89,6,2,"[58.0, 27.0]","[81.0, 12.0]",27.45906,-0.57790196,High Pass,Recovery,,,,,Incomplete,,,,,Regular Play
+8658,France,Samuel Yves Umtiti,Lucas Hernández Pi,90,8,2,"[25.0, 24.0]","[38.0, 8.0]",20.615528,-0.88847977,Ground Pass,Recovery,,,,,,,,,,Regular Play
+8658,France,Lucas Hernández Pi,Steven N''Kemboanza Mike Christopher Nzonzi,90,9,2,"[38.0, 8.0]","[35.0, 23.0]",15.297058,1.7681919,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Steven N''Kemboanza Mike Christopher Nzonzi,Antoine Griezmann,90,11,2,"[37.0, 24.0]","[45.0, 27.0]",8.5440035,0.35877067,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Antoine Griezmann,Corentin Tolisso,90,13,2,"[48.0, 19.0]","[65.0, 3.0]",23.345236,-0.7551044,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Antoine Griezmann,Lucas Hernández Pi,90,34,2,"[65.0, 3.0]","[64.0, 4.0]",1.4142135,2.3561945,Ground Pass,Free Kick,,,,,Incomplete,,,,,From Free Kick
+8658,France,Lucas Hernández Pi,Antoine Griezmann,90,48,2,"[66.0, 2.0]","[83.0, 4.0]",17.117243,0.11710875,Low Pass,Throw-in,,,,,,,,,,From Throw In
+8658,France,Kylian Mbappé Lottin,Paul Pogba,91,10,2,"[86.0, 53.0]","[108.0, 61.0]",23.409399,0.348771,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Lucas Hernández Pi,Antoine Griezmann,91,29,2,"[41.0, 3.0]","[56.0, 4.0]",15.033297,0.066568166,Ground Pass,,,,,,,,,,,Regular Play
+8658,France,Kylian Mbappé Lottin,Paul Pogba,92,30,2,"[102.0, 3.0]","[109.0, 44.0]",41.59327,1.4016951,High Pass,Free Kick,True,,True,,Incomplete,,,,,From Free Kick
+8658,France,Corentin Tolisso,Kylian Mbappé Lottin,92,41,2,"[79.0, 11.0]","[95.0, 5.0]",17.088007,-0.35877067,Ground Pass,Recovery,,,,,Incomplete,,,,,Regular Play
+8658,France,Raphaël Varane,,92,47,2,"[35.0, 49.0]","[51.0, 47.0]",16.124516,-0.124354996,High Pass,Recovery,,,,,Incomplete,,,,,Regular Play
+8658,France,Steven N''Kemboanza Mike Christopher Nzonzi,Antoine Griezmann,92,51,2,"[34.0, 47.0]","[36.0, 42.0]",5.3851647,-1.19029,Low Pass,Recovery,,,,,,,,,,Regular Play
+8658,France,Benjamin Pavard,,93,10,2,"[15.0, 79.0]","[63.0, 79.0]",48.0,0.0,High Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,Nabil Fekir,Kylian Mbappé Lottin,94,16,2,"[70.0, 58.0]","[97.0, 66.0]",28.160255,0.28805545,High Pass,,,,,,Incomplete,,,,,Regular Play
+8658,France,Raphaël Varane,,94,27,2,"[31.0, 61.0]","[68.0, 80.0]",41.59327,0.4743999,High Pass,,,,,,Out,,,,,Regular Play
+8658,France,Hugo Lloris,,95,1,2,"[18.0, 31.0]","[52.0, 25.0]",34.525352,-0.1746722,High Pass,,,,,,Unknown,,,,,From Keeper

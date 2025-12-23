@@ -1,0 +1,178 @@
+Source,Target,pass_category,Weight,failed_passes,recovery_interception_pass,total_passes,assist_count,label
+Aymeric Laporte,Daniel Olmo Carvajal,Regular pass,1,0,0,1,0,Regular pass
+Aymeric Laporte,Fabián Ruiz Peña,Regular pass,9,0,0,9,0,Regular pass
+Aymeric Laporte,José Ignacio Fernández Iglesias,Free Kick,1,0,0,1,0,Free Kick
+Aymeric Laporte,José Ignacio Fernández Iglesias,Regular pass,3,0,1,3,0,Regular pass
+Aymeric Laporte,Lamine Yamal Nasraoui Ebana,Switch of play,1,0,0,1,0,Switch of play
+Aymeric Laporte,Marc Cucurella Saseta,Free Kick,1,0,0,1,0,Free Kick
+Aymeric Laporte,Marc Cucurella Saseta,Regular pass,10,0,0,10,0,Regular pass
+Aymeric Laporte,Mikel Merino Zazón,Regular pass,2,1,1,3,0,Regular pass
+Aymeric Laporte,Nicholas Williams Arthuer,Regular pass,3,0,1,3,0,Regular pass
+Aymeric Laporte,Robin Aime Robert Le Normand,Regular pass,5,0,0,5,0,Regular pass
+Aymeric Laporte,Rodrigo Hernández Cascante,Free Kick,1,0,0,1,0,Free Kick
+Aymeric Laporte,Rodrigo Hernández Cascante,Regular pass,6,0,2,6,0,Regular pass
+Aymeric Laporte,Unai Simón Mendibil,Free Kick,2,0,0,2,0,Free Kick
+Aymeric Laporte,Unai Simón Mendibil,Goal Kick,2,0,0,2,0,Goal Kick
+Aymeric Laporte,Unai Simón Mendibil,Regular pass,8,0,1,8,0,Regular pass
+Aymeric Laporte,Álvaro Borja Morata Martín,Regular pass,2,0,1,2,0,Regular pass
+Daniel Carvajal Ramos,Daniel Olmo Carvajal,Regular pass,3,0,1,3,0,Regular pass
+Daniel Carvajal Ramos,Daniel Olmo Carvajal,Throw-in,1,0,0,1,0,Throw-in
+Daniel Carvajal Ramos,Fabián Ruiz Peña,Regular pass,5,0,1,5,0,Regular pass
+Daniel Carvajal Ramos,Fabián Ruiz Peña,Throw-in,1,0,0,1,0,Throw-in
+Daniel Carvajal Ramos,Ferrán Torres García,Regular pass,2,1,1,3,0,Regular pass
+Daniel Carvajal Ramos,José Ignacio Fernández Iglesias,Regular pass,1,0,3,1,0,Regular pass
+Daniel Carvajal Ramos,José Luis Sanmartín Mato,Throw-in,1,0,0,1,0,Throw-in
+Daniel Carvajal Ramos,Lamine Yamal Nasraoui Ebana,Regular pass,6,0,0,6,0,Regular pass
+Daniel Carvajal Ramos,Marc Cucurella Saseta,Switch of play,1,0,0,1,0,Switch of play
+Daniel Carvajal Ramos,Mikel Merino Zazón,Regular pass,2,0,0,2,0,Regular pass
+Daniel Carvajal Ramos,Mikel Oyarzabal Ugarte,Assist,1,0,0,1,1,Assist
+Daniel Carvajal Ramos,Mikel Oyarzabal Ugarte,Regular pass,2,1,0,3,0,Regular pass
+Daniel Carvajal Ramos,Robin Aime Robert Le Normand,Regular pass,3,0,0,3,0,Regular pass
+Daniel Carvajal Ramos,Rodrigo Hernández Cascante,Regular pass,2,0,1,2,0,Regular pass
+Daniel Carvajal Ramos,Unai Simón Mendibil,Regular pass,1,0,1,1,0,Regular pass
+Daniel Carvajal Ramos,Álvaro Borja Morata Martín,Throw-in,1,0,0,1,0,Throw-in
+Daniel Olmo Carvajal,Aymeric Laporte,Free Kick,1,0,0,1,0,Free Kick
+Daniel Olmo Carvajal,Aymeric Laporte,Regular pass,1,0,0,1,0,Regular pass
+Daniel Olmo Carvajal,Fabián Ruiz Peña,Free Kick,1,0,0,1,0,Free Kick
+Daniel Olmo Carvajal,Fabián Ruiz Peña,Regular pass,3,0,1,3,0,Regular pass
+Daniel Olmo Carvajal,Ferrán Torres García,Assist,1,0,0,1,1,Assist
+Daniel Olmo Carvajal,Ferrán Torres García,Regular pass,2,0,0,2,0,Regular pass
+Daniel Olmo Carvajal,Ferrán Torres García,Switch of play,1,0,0,1,0,Switch of play
+Daniel Olmo Carvajal,José Ignacio Fernández Iglesias,Regular pass,1,0,0,1,0,Regular pass
+Daniel Olmo Carvajal,Lamine Yamal Nasraoui Ebana,Regular pass,1,0,0,1,0,Regular pass
+Daniel Olmo Carvajal,Marc Cucurella Saseta,Regular pass,5,0,1,5,0,Regular pass
+Daniel Olmo Carvajal,Mikel Merino Zazón,Assist,1,0,0,1,1,Assist
+Daniel Olmo Carvajal,Mikel Merino Zazón,Regular pass,4,0,0,4,0,Regular pass
+Daniel Olmo Carvajal,Mikel Oyarzabal Ugarte,Regular pass,4,0,0,4,0,Regular pass
+Daniel Olmo Carvajal,Nicholas Williams Arthuer,Regular pass,2,1,0,3,0,Regular pass
+Daniel Olmo Carvajal,Rodrigo Hernández Cascante,Regular pass,3,0,0,3,0,Regular pass
+Daniel Olmo Carvajal,Álvaro Borja Morata Martín,Assist,1,0,0,1,1,Assist
+Fabián Ruiz Peña,Aymeric Laporte,Assist,1,0,0,1,1,Assist
+Fabián Ruiz Peña,Aymeric Laporte,Regular pass,8,0,0,8,0,Regular pass
+Fabián Ruiz Peña,Daniel Carvajal Ramos,Free Kick,1,0,0,1,0,Free Kick
+Fabián Ruiz Peña,Daniel Carvajal Ramos,Regular pass,6,0,0,6,0,Regular pass
+Fabián Ruiz Peña,Daniel Olmo Carvajal,Regular pass,5,0,0,5,0,Regular pass
+Fabián Ruiz Peña,Ferrán Torres García,Regular pass,2,0,0,2,0,Regular pass
+Fabián Ruiz Peña,José Ignacio Fernández Iglesias,Regular pass,3,0,0,3,0,Regular pass
+Fabián Ruiz Peña,Lamine Yamal Nasraoui Ebana,Assist,1,0,0,1,1,Assist
+Fabián Ruiz Peña,Marc Cucurella Saseta,Regular pass,10,1,0,11,0,Regular pass
+Fabián Ruiz Peña,Mikel Merino Zazón,Regular pass,2,0,0,2,0,Regular pass
+Fabián Ruiz Peña,Mikel Oyarzabal Ugarte,Regular pass,1,0,0,1,0,Regular pass
+Fabián Ruiz Peña,Nicholas Williams Arthuer,Assist,1,0,0,1,1,Assist
+Fabián Ruiz Peña,Nicholas Williams Arthuer,Regular pass,6,0,1,6,0,Regular pass
+Fabián Ruiz Peña,Robin Aime Robert Le Normand,Regular pass,5,0,2,5,0,Regular pass
+Fabián Ruiz Peña,Rodrigo Hernández Cascante,Free Kick,1,0,0,1,0,Free Kick
+Fabián Ruiz Peña,Rodrigo Hernández Cascante,Regular pass,6,1,0,7,0,Regular pass
+Fabián Ruiz Peña,Unai Simón Mendibil,Regular pass,1,0,0,1,0,Regular pass
+Fabián Ruiz Peña,Álvaro Borja Morata Martín,Regular pass,5,0,0,5,0,Regular pass
+Ferrán Torres García,Aymeric Laporte,Cross,1,0,0,1,0,Cross
+Ferrán Torres García,Aymeric Laporte,Switch of play,1,0,0,1,0,Switch of play
+Ferrán Torres García,Daniel Carvajal Ramos,Regular pass,5,0,0,5,0,Regular pass
+Ferrán Torres García,Rodrigo Hernández Cascante,Regular pass,5,0,0,5,0,Regular pass
+Ferrán Torres García,Unai Simón Mendibil,Regular pass,1,0,0,1,0,Regular pass
+José Ignacio Fernández Iglesias,Aymeric Laporte,Free Kick,2,0,0,2,0,Free Kick
+José Ignacio Fernández Iglesias,Aymeric Laporte,Regular pass,3,0,0,3,0,Regular pass
+José Ignacio Fernández Iglesias,Daniel Carvajal Ramos,Regular pass,4,0,0,4,0,Regular pass
+José Ignacio Fernández Iglesias,Daniel Olmo Carvajal,Regular pass,1,0,0,1,0,Regular pass
+José Ignacio Fernández Iglesias,Fabián Ruiz Peña,Free Kick,2,0,0,2,0,Free Kick
+José Ignacio Fernández Iglesias,Fabián Ruiz Peña,Regular pass,1,0,1,1,0,Regular pass
+José Ignacio Fernández Iglesias,Ferrán Torres García,Regular pass,1,0,0,1,0,Regular pass
+José Ignacio Fernández Iglesias,Marc Cucurella Saseta,Regular pass,2,0,0,2,0,Regular pass
+José Ignacio Fernández Iglesias,Mikel Merino Zazón,Regular pass,1,0,0,1,0,Regular pass
+José Ignacio Fernández Iglesias,Mikel Oyarzabal Ugarte,Regular pass,1,0,0,1,0,Regular pass
+José Ignacio Fernández Iglesias,Rodrigo Hernández Cascante,Regular pass,4,0,0,4,0,Regular pass
+José Ignacio Fernández Iglesias,Unai Simón Mendibil,Regular pass,3,0,0,3,0,Regular pass
+José Ignacio Fernández Iglesias,Álvaro Borja Morata Martín,Regular pass,1,0,0,1,0,Regular pass
+Lamine Yamal Nasraoui Ebana,Daniel Carvajal Ramos,Free Kick,1,0,0,1,0,Free Kick
+Lamine Yamal Nasraoui Ebana,Daniel Carvajal Ramos,Regular pass,2,0,0,2,0,Regular pass
+Lamine Yamal Nasraoui Ebana,Daniel Olmo Carvajal,Assist,1,0,0,1,1,Assist
+Lamine Yamal Nasraoui Ebana,Daniel Olmo Carvajal,Regular pass,1,0,0,1,0,Regular pass
+Lamine Yamal Nasraoui Ebana,Fabián Ruiz Peña,Assist,1,0,0,1,1,Assist
+Lamine Yamal Nasraoui Ebana,Nicholas Williams Arthuer,Regular pass,1,0,0,1,0,Regular pass
+Lamine Yamal Nasraoui Ebana,Robin Aime Robert Le Normand,Regular pass,1,0,0,1,0,Regular pass
+Lamine Yamal Nasraoui Ebana,Rodrigo Hernández Cascante,Regular pass,1,0,0,1,0,Regular pass
+Lamine Yamal Nasraoui Ebana,Álvaro Borja Morata Martín,Assist,1,0,0,1,1,Assist
+Lamine Yamal Nasraoui Ebana,Álvaro Borja Morata Martín,Regular pass,1,0,1,1,0,Regular pass
+Marc Cucurella Saseta,Aymeric Laporte,Regular pass,11,0,0,11,0,Regular pass
+Marc Cucurella Saseta,Aymeric Laporte,Throw-in,1,0,0,1,0,Throw-in
+Marc Cucurella Saseta,Daniel Olmo Carvajal,Regular pass,13,0,1,13,0,Regular pass
+Marc Cucurella Saseta,Daniel Olmo Carvajal,Throw-in,1,0,0,1,0,Throw-in
+Marc Cucurella Saseta,Fabián Ruiz Peña,Regular pass,6,0,0,6,0,Regular pass
+Marc Cucurella Saseta,Fabián Ruiz Peña,Throw-in,1,0,0,1,0,Throw-in
+Marc Cucurella Saseta,Mikel Oyarzabal Ugarte,Regular pass,1,0,0,1,0,Regular pass
+Marc Cucurella Saseta,Nicholas Williams Arthuer,Regular pass,4,2,1,6,0,Regular pass
+Marc Cucurella Saseta,Rodrigo Hernández Cascante,Regular pass,3,0,0,3,0,Regular pass
+Marc Cucurella Saseta,Unai Simón Mendibil,Regular pass,2,0,1,2,0,Regular pass
+Marc Cucurella Saseta,Álvaro Borja Morata Martín,Regular pass,4,1,0,5,0,Regular pass
+Mikel Merino Zazón,Aymeric Laporte,Regular pass,1,0,0,1,0,Regular pass
+Mikel Merino Zazón,Daniel Carvajal Ramos,Regular pass,1,0,0,1,0,Regular pass
+Mikel Merino Zazón,Daniel Olmo Carvajal,Assist,1,0,0,1,1,Assist
+Mikel Merino Zazón,Daniel Olmo Carvajal,Regular pass,3,0,0,3,0,Regular pass
+Mikel Merino Zazón,Fabián Ruiz Peña,Assist,1,0,0,1,1,Assist
+Mikel Merino Zazón,Fabián Ruiz Peña,Regular pass,4,0,0,4,0,Regular pass
+Mikel Merino Zazón,José Ignacio Fernández Iglesias,Regular pass,1,0,0,1,0,Regular pass
+Mikel Merino Zazón,Marc Cucurella Saseta,Regular pass,4,0,0,4,0,Regular pass
+Mikel Merino Zazón,Mikel Oyarzabal Ugarte,Regular pass,2,2,0,4,0,Regular pass
+Mikel Merino Zazón,Rodrigo Hernández Cascante,Regular pass,2,0,0,2,0,Regular pass
+Mikel Oyarzabal Ugarte,Daniel Olmo Carvajal,Regular pass,5,0,0,5,0,Regular pass
+Mikel Oyarzabal Ugarte,Fabián Ruiz Peña,Regular pass,1,0,0,1,0,Regular pass
+Mikel Oyarzabal Ugarte,Ferrán Torres García,Regular pass,3,0,0,3,0,Regular pass
+Mikel Oyarzabal Ugarte,Mikel Merino Zazón,Regular pass,3,0,0,3,0,Regular pass
+Mikel Oyarzabal Ugarte,Rodrigo Hernández Cascante,Free Kick,1,0,0,1,0,Free Kick
+Mikel Oyarzabal Ugarte,Rodrigo Hernández Cascante,Regular pass,3,0,0,3,0,Regular pass
+Nicholas Williams Arthuer,Fabián Ruiz Peña,Regular pass,3,0,0,3,0,Regular pass
+Nicholas Williams Arthuer,Lamine Yamal Nasraoui Ebana,Regular pass,5,0,0,5,0,Regular pass
+Nicholas Williams Arthuer,Marc Cucurella Saseta,Regular pass,3,0,0,3,0,Regular pass
+Nicholas Williams Arthuer,Rodrigo Hernández Cascante,Regular pass,3,0,0,3,0,Regular pass
+Nicholas Williams Arthuer,Álvaro Borja Morata Martín,Cross,1,0,0,1,0,Cross
+Nicholas Williams Arthuer,Álvaro Borja Morata Martín,Regular pass,5,0,0,5,0,Regular pass
+Robin Aime Robert Le Normand,Aymeric Laporte,Regular pass,8,0,0,8,0,Regular pass
+Robin Aime Robert Le Normand,Daniel Carvajal Ramos,Regular pass,4,0,0,4,0,Regular pass
+Robin Aime Robert Le Normand,Fabián Ruiz Peña,Regular pass,3,0,0,3,0,Regular pass
+Robin Aime Robert Le Normand,Rodrigo Hernández Cascante,Regular pass,6,0,0,6,0,Regular pass
+Robin Aime Robert Le Normand,Unai Simón Mendibil,Regular pass,2,0,0,2,0,Regular pass
+Rodrigo Hernández Cascante,Aymeric Laporte,Free Kick,1,0,0,1,0,Free Kick
+Rodrigo Hernández Cascante,Aymeric Laporte,Regular pass,12,0,1,12,0,Regular pass
+Rodrigo Hernández Cascante,Daniel Carvajal Ramos,Regular pass,6,0,0,6,0,Regular pass
+Rodrigo Hernández Cascante,Daniel Olmo Carvajal,Regular pass,2,1,0,3,0,Regular pass
+Rodrigo Hernández Cascante,Fabián Ruiz Peña,Free Kick,1,0,0,1,0,Free Kick
+Rodrigo Hernández Cascante,Fabián Ruiz Peña,Regular pass,11,0,0,11,0,Regular pass
+Rodrigo Hernández Cascante,Ferrán Torres García,Regular pass,2,0,0,2,0,Regular pass
+Rodrigo Hernández Cascante,José Ignacio Fernández Iglesias,Regular pass,2,0,1,2,0,Regular pass
+Rodrigo Hernández Cascante,Lamine Yamal Nasraoui Ebana,Regular pass,1,0,0,1,0,Regular pass
+Rodrigo Hernández Cascante,Marc Cucurella Saseta,Free Kick,1,0,0,1,0,Free Kick
+Rodrigo Hernández Cascante,Marc Cucurella Saseta,Regular pass,2,0,1,2,0,Regular pass
+Rodrigo Hernández Cascante,Marc Cucurella Saseta,Switch of play,1,0,0,1,0,Switch of play
+Rodrigo Hernández Cascante,Mikel Merino Zazón,Regular pass,7,0,1,7,0,Regular pass
+Rodrigo Hernández Cascante,Mikel Oyarzabal Ugarte,Assist,1,0,1,1,2,Assist
+Rodrigo Hernández Cascante,Mikel Oyarzabal Ugarte,Regular pass,1,0,0,1,0,Regular pass
+Rodrigo Hernández Cascante,Nicholas Williams Arthuer,Regular pass,2,0,1,2,0,Regular pass
+Rodrigo Hernández Cascante,Pedro González López,Regular pass,1,0,0,1,0,Regular pass
+Rodrigo Hernández Cascante,Robin Aime Robert Le Normand,Regular pass,4,0,1,4,0,Regular pass
+Rodrigo Hernández Cascante,Unai Simón Mendibil,Regular pass,2,0,1,2,0,Regular pass
+Rodrigo Hernández Cascante,Álvaro Borja Morata Martín,Regular pass,1,0,0,1,0,Regular pass
+Unai Simón Mendibil,Aymeric Laporte,Goal Kick,1,0,0,1,0,Goal Kick
+Unai Simón Mendibil,Aymeric Laporte,Regular pass,2,0,0,2,0,Regular pass
+Unai Simón Mendibil,Daniel Carvajal Ramos,Regular pass,3,0,0,3,0,Regular pass
+Unai Simón Mendibil,Daniel Olmo Carvajal,Regular pass,5,3,0,8,0,Regular pass
+Unai Simón Mendibil,Fabián Ruiz Peña,Goal Kick,1,0,0,1,0,Goal Kick
+Unai Simón Mendibil,Fabián Ruiz Peña,Regular pass,3,0,0,3,0,Regular pass
+Unai Simón Mendibil,José Ignacio Fernández Iglesias,Regular pass,4,0,0,4,0,Regular pass
+Unai Simón Mendibil,José Luis Sanmartín Mato,Goal Kick,1,0,0,1,0,Goal Kick
+Unai Simón Mendibil,Marc Cucurella Saseta,Regular pass,3,0,0,3,0,Regular pass
+Unai Simón Mendibil,Mikel Merino Zazón,Goal Kick,1,0,0,1,0,Goal Kick
+Unai Simón Mendibil,Mikel Merino Zazón,Regular pass,2,0,0,2,0,Regular pass
+Unai Simón Mendibil,Mikel Oyarzabal Ugarte,Free Kick,1,0,0,1,0,Free Kick
+Unai Simón Mendibil,Mikel Oyarzabal Ugarte,Regular pass,1,0,0,1,0,Regular pass
+Unai Simón Mendibil,Nicholas Williams Arthuer,Regular pass,3,2,0,5,0,Regular pass
+Unai Simón Mendibil,Robin Aime Robert Le Normand,Regular pass,2,0,0,2,0,Regular pass
+Unai Simón Mendibil,Rodrigo Hernández Cascante,Regular pass,2,0,0,2,0,Regular pass
+Unai Simón Mendibil,Álvaro Borja Morata Martín,Regular pass,2,2,0,4,0,Regular pass
+Álvaro Borja Morata Martín,Daniel Olmo Carvajal,Regular pass,1,2,0,3,0,Regular pass
+Álvaro Borja Morata Martín,Fabián Ruiz Peña,Regular pass,2,0,0,2,0,Regular pass
+Álvaro Borja Morata Martín,Ferrán Torres García,Regular pass,1,0,0,1,0,Regular pass
+Álvaro Borja Morata Martín,Lamine Yamal Nasraoui Ebana,Regular pass,3,1,0,4,0,Regular pass
+Álvaro Borja Morata Martín,Marc Cucurella Saseta,Regular pass,2,0,0,2,0,Regular pass
+Álvaro Borja Morata Martín,Nicholas Williams Arthuer,Regular pass,2,2,0,4,0,Regular pass
+Álvaro Borja Morata Martín,Pedro González López,Assist,1,0,0,1,1,Assist
+Álvaro Borja Morata Martín,Rodrigo Hernández Cascante,Regular pass,2,0,0,2,0,Regular pass

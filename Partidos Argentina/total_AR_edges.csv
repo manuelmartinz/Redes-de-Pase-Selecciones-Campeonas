@@ -1,0 +1,536 @@
+Source,Target,pass_category,Weight,failed_passes,recovery_interception_pass,total_passes,assist_count,label
+Alejandro Darío Gómez,Alexis Mac Allister,Regular pass,2,0,0,2,0,Regular pass
+Alejandro Darío Gómez,Cristian Gabriel Romero,Regular pass,4,0,0,4,0,Regular pass
+Alejandro Darío Gómez,Enzo Fernandez,Regular pass,4,0,0,4,0,Regular pass
+Alejandro Darío Gómez,Julián Álvarez,Regular pass,2,1,0,3,0,Regular pass
+Alejandro Darío Gómez,Leandro Daniel Paredes,Regular pass,6,0,0,6,0,Regular pass
+Alejandro Darío Gómez,Lionel Andrés Messi Cuccittini,Regular pass,10,0,2,10,0,Regular pass
+Alejandro Darío Gómez,Marcos Javier Acuña,Regular pass,4,0,0,4,0,Regular pass
+Alejandro Darío Gómez,Nahuel Molina Lucero,Regular pass,4,0,0,4,0,Regular pass
+Alejandro Darío Gómez,Nicolás Alejandro Tagliafico,Regular pass,4,0,0,4,0,Regular pass
+Alejandro Darío Gómez,Nicolás Hernán Otamendi,Regular pass,3,0,0,3,0,Regular pass
+Alejandro Darío Gómez,Rodrigo Javier De Paul,Regular pass,6,0,0,6,0,Regular pass
+Alejandro Darío Gómez,Ángel Fabián Di María Hernández,Switch of play,1,0,0,1,0,Switch of play
+Alexis Mac Allister,Alejandro Darío Gómez,Regular pass,1,0,1,1,0,Regular pass
+Alexis Mac Allister,Cristian Gabriel Romero,Regular pass,3,0,0,3,0,Regular pass
+Alexis Mac Allister,Enzo Fernandez,Assist,1,0,0,1,1,Assist
+Alexis Mac Allister,Enzo Fernandez,Regular pass,28,0,3,28,0,Regular pass
+Alexis Mac Allister,Exequiel Alejandro Palacios,Regular pass,2,0,0,2,0,Regular pass
+Alexis Mac Allister,Germán Alejandro Pezzella,Regular pass,1,0,0,1,0,Regular pass
+Alexis Mac Allister,Gonzalo Ariel Montiel,Regular pass,4,1,0,5,0,Regular pass
+Alexis Mac Allister,Gonzalo Ariel Montiel,Switch of play,1,0,0,1,0,Switch of play
+Alexis Mac Allister,Guido Rodríguez,Regular pass,5,0,0,5,0,Regular pass
+Alexis Mac Allister,Julián Álvarez,Assist,2,0,0,2,2,Assist
+Alexis Mac Allister,Julián Álvarez,Regular pass,11,2,1,13,0,Regular pass
+Alexis Mac Allister,Lautaro Javier Martínez,Regular pass,4,1,2,5,0,Regular pass
+Alexis Mac Allister,Leandro Daniel Paredes,Regular pass,13,0,0,13,0,Regular pass
+Alexis Mac Allister,Lionel Andrés Messi Cuccittini,Assist,1,0,1,1,2,Assist
+Alexis Mac Allister,Lionel Andrés Messi Cuccittini,Regular pass,27,7,0,34,0,Regular pass
+Alexis Mac Allister,Lisandro Martínez,Regular pass,9,1,0,10,0,Regular pass
+Alexis Mac Allister,Marcos Javier Acuña,Regular pass,38,2,1,40,0,Regular pass
+Alexis Mac Allister,Nahuel Molina Lucero,Regular pass,6,0,0,6,0,Regular pass
+Alexis Mac Allister,Nicolás Alejandro Tagliafico,Regular pass,9,1,1,10,0,Regular pass
+Alexis Mac Allister,Nicolás Hernán Otamendi,Regular pass,23,0,1,23,0,Regular pass
+Alexis Mac Allister,Rodrigo Javier De Paul,Assist,2,0,0,2,2,Assist
+Alexis Mac Allister,Rodrigo Javier De Paul,Cross,1,0,0,1,0,Cross
+Alexis Mac Allister,Rodrigo Javier De Paul,Regular pass,26,3,1,29,0,Regular pass
+Alexis Mac Allister,Ángel Fabián Di María Hernández,Assist,1,0,0,1,1,Assist
+Alexis Mac Allister,Ángel Fabián Di María Hernández,Regular pass,12,1,1,13,0,Regular pass
+Cristian Gabriel Romero,Alejandro Darío Gómez,Regular pass,3,0,0,3,0,Regular pass
+Cristian Gabriel Romero,Alexis Mac Allister,Regular pass,3,1,3,4,0,Regular pass
+Cristian Gabriel Romero,Alexis Mac Allister,Throw-in,1,0,0,1,0,Throw-in
+Cristian Gabriel Romero,Damián Emiliano Martínez,Goal Kick,1,0,0,1,0,Goal Kick
+Cristian Gabriel Romero,Damián Emiliano Martínez,Regular pass,20,0,4,20,0,Regular pass
+Cristian Gabriel Romero,Enzo Fernandez,Free Kick,2,0,0,2,0,Free Kick
+Cristian Gabriel Romero,Enzo Fernandez,Regular pass,27,1,4,28,0,Regular pass
+Cristian Gabriel Romero,Germán Alejandro Pezzella,Regular pass,2,0,0,2,0,Regular pass
+Cristian Gabriel Romero,Gonzalo Ariel Montiel,Regular pass,2,0,1,2,0,Regular pass
+Cristian Gabriel Romero,Julián Álvarez,Regular pass,4,3,1,7,0,Regular pass
+Cristian Gabriel Romero,Lautaro Javier Martínez,Regular pass,1,0,2,1,0,Regular pass
+Cristian Gabriel Romero,Leandro Daniel Paredes,Free Kick,1,0,0,1,0,Free Kick
+Cristian Gabriel Romero,Leandro Daniel Paredes,Regular pass,20,0,1,20,0,Regular pass
+Cristian Gabriel Romero,Leandro Daniel Paredes,Throw-in,1,0,0,1,0,Throw-in
+Cristian Gabriel Romero,Lionel Andrés Messi Cuccittini,Free Kick,1,1,0,2,0,Free Kick
+Cristian Gabriel Romero,Lionel Andrés Messi Cuccittini,Regular pass,25,5,1,30,0,Regular pass
+Cristian Gabriel Romero,Marcos Javier Acuña,Switch of play,1,1,0,2,0,Switch of play
+Cristian Gabriel Romero,Nahuel Molina Lucero,Regular pass,35,1,7,36,0,Regular pass
+Cristian Gabriel Romero,Nicolás Alejandro Tagliafico,Regular pass,1,0,0,1,0,Regular pass
+Cristian Gabriel Romero,Nicolás Hernán Otamendi,Regular pass,67,0,6,67,0,Regular pass
+Cristian Gabriel Romero,Nicolás Hernán Otamendi,Switch of play,1,0,0,1,0,Switch of play
+Cristian Gabriel Romero,Paulo Bruno Exequiel Dybala,Regular pass,1,0,0,1,0,Regular pass
+Cristian Gabriel Romero,Rodrigo Javier De Paul,Free Kick,1,0,0,1,0,Free Kick
+Cristian Gabriel Romero,Rodrigo Javier De Paul,Regular pass,66,0,6,66,0,Regular pass
+Cristian Gabriel Romero,Ángel Fabián Di María Hernández,Regular pass,6,0,0,6,0,Regular pass
+Cristian Gabriel Romero,Ángel Fabián Di María Hernández,Switch of play,2,1,0,3,0,Switch of play
+Damián Emiliano Martínez,Alejandro Darío Gómez,Regular pass,1,0,0,1,0,Regular pass
+Damián Emiliano Martínez,Alexis Mac Allister,Goal Kick,2,3,0,5,0,Goal Kick
+Damián Emiliano Martínez,Alexis Mac Allister,Regular pass,1,0,0,1,0,Regular pass
+Damián Emiliano Martínez,Cristian Gabriel Romero,Free Kick,2,0,0,2,0,Free Kick
+Damián Emiliano Martínez,Cristian Gabriel Romero,Goal Kick,3,0,0,3,0,Goal Kick
+Damián Emiliano Martínez,Cristian Gabriel Romero,Regular pass,12,0,0,12,0,Regular pass
+Damián Emiliano Martínez,Enzo Fernandez,Goal Kick,1,0,0,1,0,Goal Kick
+Damián Emiliano Martínez,Enzo Fernandez,Regular pass,5,0,0,5,0,Regular pass
+Damián Emiliano Martínez,Germán Alejandro Pezzella,Goal Kick,2,0,0,2,0,Goal Kick
+Damián Emiliano Martínez,Germán Alejandro Pezzella,Regular pass,2,0,0,2,0,Regular pass
+Damián Emiliano Martínez,Gonzalo Ariel Montiel,Goal Kick,1,0,0,1,0,Goal Kick
+Damián Emiliano Martínez,Gonzalo Ariel Montiel,Regular pass,4,0,0,4,0,Regular pass
+Damián Emiliano Martínez,Guido Rodríguez,Regular pass,1,0,0,1,0,Regular pass
+Damián Emiliano Martínez,Julián Álvarez,Free Kick,2,3,0,5,0,Free Kick
+Damián Emiliano Martínez,Julián Álvarez,Goal Kick,1,3,0,4,0,Goal Kick
+Damián Emiliano Martínez,Julián Álvarez,Regular pass,1,7,0,8,0,Regular pass
+Damián Emiliano Martínez,Lautaro Javier Martínez,Goal Kick,1,0,0,1,0,Goal Kick
+Damián Emiliano Martínez,Lautaro Javier Martínez,Regular pass,2,1,0,3,0,Regular pass
+Damián Emiliano Martínez,Leandro Daniel Paredes,Goal Kick,1,0,0,1,0,Goal Kick
+Damián Emiliano Martínez,Leandro Daniel Paredes,Regular pass,3,0,0,3,0,Regular pass
+Damián Emiliano Martínez,Lionel Andrés Messi Cuccittini,Regular pass,1,3,0,4,0,Regular pass
+Damián Emiliano Martínez,Lisandro Martínez,Goal Kick,2,0,0,2,0,Goal Kick
+Damián Emiliano Martínez,Lisandro Martínez,Regular pass,4,0,0,4,0,Regular pass
+Damián Emiliano Martínez,Marcos Javier Acuña,Regular pass,5,2,0,7,0,Regular pass
+Damián Emiliano Martínez,Marcos Javier Acuña,Switch of play,1,1,0,2,0,Switch of play
+Damián Emiliano Martínez,Nahuel Molina Lucero,Regular pass,7,3,0,10,0,Regular pass
+Damián Emiliano Martínez,Nahuel Molina Lucero,Switch of play,1,0,0,1,0,Switch of play
+Damián Emiliano Martínez,Nicolás Alejandro Tagliafico,Goal Kick,1,0,0,1,0,Goal Kick
+Damián Emiliano Martínez,Nicolás Alejandro Tagliafico,Regular pass,2,1,0,3,0,Regular pass
+Damián Emiliano Martínez,Nicolás Hernán Otamendi,Goal Kick,6,0,0,6,0,Goal Kick
+Damián Emiliano Martínez,Nicolás Hernán Otamendi,Regular pass,37,0,0,37,0,Regular pass
+Damián Emiliano Martínez,Paulo Bruno Exequiel Dybala,Goal Kick,1,2,0,3,0,Goal Kick
+Damián Emiliano Martínez,Paulo Bruno Exequiel Dybala,Regular pass,2,1,0,3,0,Regular pass
+Damián Emiliano Martínez,Rodrigo Javier De Paul,Regular pass,2,0,0,2,0,Regular pass
+Damián Emiliano Martínez,Ángel Fabián Di María Hernández,Regular pass,2,3,0,5,0,Regular pass
+Damián Emiliano Martínez,Ángel Fabián Di María Hernández,Switch of play,1,0,0,1,0,Switch of play
+Enzo Fernandez,Alejandro Darío Gómez,Regular pass,1,0,0,1,0,Regular pass
+Enzo Fernandez,Alejandro Darío Gómez,Switch of play,2,0,0,2,0,Switch of play
+Enzo Fernandez,Alexis Mac Allister,Regular pass,32,3,2,35,0,Regular pass
+Enzo Fernandez,Cristian Gabriel Romero,Free Kick,3,0,0,3,0,Free Kick
+Enzo Fernandez,Cristian Gabriel Romero,Regular pass,41,1,0,42,0,Regular pass
+Enzo Fernandez,Cristian Gabriel Romero,Switch of play,1,0,0,1,0,Switch of play
+Enzo Fernandez,Damián Emiliano Martínez,Regular pass,1,0,0,1,0,Regular pass
+Enzo Fernandez,Exequiel Alejandro Palacios,Regular pass,5,0,1,5,0,Regular pass
+Enzo Fernandez,Germán Alejandro Pezzella,Free Kick,1,0,0,1,0,Free Kick
+Enzo Fernandez,Germán Alejandro Pezzella,Regular pass,4,0,0,4,0,Regular pass
+Enzo Fernandez,Gonzalo Ariel Montiel,Regular pass,8,0,0,8,0,Regular pass
+Enzo Fernandez,Gonzalo Ariel Montiel,Switch of play,1,0,0,1,0,Switch of play
+Enzo Fernandez,Gonzalo Ariel Montiel,Throw-in,1,0,0,1,0,Throw-in
+Enzo Fernandez,Julián Álvarez,Assist,1,0,0,1,1,Assist
+Enzo Fernandez,Julián Álvarez,Regular pass,16,5,2,21,0,Regular pass
+Enzo Fernandez,Julián Álvarez,Through ball,3,0,0,3,0,Through ball
+Enzo Fernandez,Lautaro Javier Martínez,Assist,2,0,0,2,2,Assist
+Enzo Fernandez,Lautaro Javier Martínez,Regular pass,2,2,1,4,0,Regular pass
+Enzo Fernandez,Leandro Daniel Paredes,Regular pass,14,0,1,14,0,Regular pass
+Enzo Fernandez,Lionel Andrés Messi Cuccittini,Assist,3,0,0,3,3,Assist
+Enzo Fernandez,Lionel Andrés Messi Cuccittini,Free Kick,2,0,0,2,0,Free Kick
+Enzo Fernandez,Lionel Andrés Messi Cuccittini,Regular pass,40,4,5,44,0,Regular pass
+Enzo Fernandez,Lisandro Martínez,Regular pass,8,0,1,8,0,Regular pass
+Enzo Fernandez,Marcos Javier Acuña,Regular pass,14,1,1,15,0,Regular pass
+Enzo Fernandez,Marcos Javier Acuña,Switch of play,3,0,0,3,0,Switch of play
+Enzo Fernandez,Nahuel Molina Lucero,Regular pass,41,2,0,43,0,Regular pass
+Enzo Fernandez,Nahuel Molina Lucero,Switch of play,2,1,0,3,0,Switch of play
+Enzo Fernandez,Nicolás Alejandro Tagliafico,Regular pass,15,0,0,15,0,Regular pass
+Enzo Fernandez,Nicolás Alejandro Tagliafico,Switch of play,1,0,0,1,0,Switch of play
+Enzo Fernandez,Nicolás Hernán Otamendi,Free Kick,3,0,0,3,0,Free Kick
+Enzo Fernandez,Nicolás Hernán Otamendi,Regular pass,53,0,1,53,0,Regular pass
+Enzo Fernandez,Rodrigo Javier De Paul,Free Kick,1,0,0,1,0,Free Kick
+Enzo Fernandez,Rodrigo Javier De Paul,Regular pass,65,5,4,70,0,Regular pass
+Enzo Fernandez,Rodrigo Javier De Paul,Switch of play,1,0,0,1,0,Switch of play
+Enzo Fernandez,Rodrigo Javier De Paul,Throw-in,1,0,0,1,0,Throw-in
+Enzo Fernandez,Ángel Fabián Di María Hernández,Regular pass,10,0,0,10,0,Regular pass
+Exequiel Alejandro Palacios,Alexis Mac Allister,Regular pass,3,0,1,3,0,Regular pass
+Exequiel Alejandro Palacios,Cristian Gabriel Romero,Regular pass,1,0,0,1,0,Regular pass
+Exequiel Alejandro Palacios,Enzo Fernandez,Free Kick,1,0,0,1,0,Free Kick
+Exequiel Alejandro Palacios,Enzo Fernandez,Regular pass,4,0,0,4,0,Regular pass
+Exequiel Alejandro Palacios,Juan Marcos Foyth,Regular pass,1,0,0,1,0,Regular pass
+Exequiel Alejandro Palacios,Julián Álvarez,Regular pass,1,0,0,1,0,Regular pass
+Exequiel Alejandro Palacios,Lionel Andrés Messi Cuccittini,Assist,1,0,0,1,1,Assist
+Exequiel Alejandro Palacios,Lionel Andrés Messi Cuccittini,Regular pass,5,2,2,7,0,Regular pass
+Exequiel Alejandro Palacios,Marcos Javier Acuña,Regular pass,1,0,0,1,0,Regular pass
+Exequiel Alejandro Palacios,Paulo Bruno Exequiel Dybala,Regular pass,1,0,0,1,0,Regular pass
+Germán Alejandro Pezzella,Cristian Gabriel Romero,Regular pass,3,0,0,3,0,Regular pass
+Germán Alejandro Pezzella,Damián Emiliano Martínez,Regular pass,2,0,0,2,0,Regular pass
+Germán Alejandro Pezzella,Enzo Fernandez,Regular pass,5,0,0,5,0,Regular pass
+Germán Alejandro Pezzella,Gonzalo Ariel Montiel,Regular pass,1,0,0,1,0,Regular pass
+Germán Alejandro Pezzella,Leandro Daniel Paredes,Free Kick,3,0,0,3,0,Free Kick
+Germán Alejandro Pezzella,Leandro Daniel Paredes,Regular pass,10,0,0,10,0,Regular pass
+Germán Alejandro Pezzella,Lionel Andrés Messi Cuccittini,Regular pass,1,1,0,2,0,Regular pass
+Germán Alejandro Pezzella,Nahuel Molina Lucero,Regular pass,1,1,0,2,0,Regular pass
+Germán Alejandro Pezzella,Nicolás Alejandro Tagliafico,Regular pass,1,0,0,1,0,Regular pass
+Germán Alejandro Pezzella,Nicolás Hernán Otamendi,Free Kick,1,0,0,1,0,Free Kick
+Germán Alejandro Pezzella,Nicolás Hernán Otamendi,Regular pass,12,0,1,12,0,Regular pass
+Germán Alejandro Pezzella,Rodrigo Javier De Paul,Regular pass,4,0,0,4,0,Regular pass
+Germán Alejandro Pezzella,Ángel Fabián Di María Hernández,Regular pass,1,0,0,1,0,Regular pass
+Gonzalo Ariel Montiel,Alexis Mac Allister,Regular pass,1,0,0,1,0,Regular pass
+Gonzalo Ariel Montiel,Enzo Fernandez,Regular pass,4,1,0,5,0,Regular pass
+Gonzalo Ariel Montiel,Germán Alejandro Pezzella,Regular pass,1,0,0,1,0,Regular pass
+Gonzalo Ariel Montiel,Guido Rodríguez,Throw-in,2,0,0,2,0,Throw-in
+Gonzalo Ariel Montiel,Lautaro Javier Martínez,Assist,2,0,0,2,2,Assist
+Gonzalo Ariel Montiel,Lautaro Javier Martínez,Regular pass,2,0,0,2,0,Regular pass
+Gonzalo Ariel Montiel,Lautaro Javier Martínez,Throw-in,2,0,0,2,0,Throw-in
+Gonzalo Ariel Montiel,Leandro Daniel Paredes,Regular pass,3,0,0,3,0,Regular pass
+Gonzalo Ariel Montiel,Lionel Andrés Messi Cuccittini,Assist,1,0,0,1,1,Assist
+Gonzalo Ariel Montiel,Lionel Andrés Messi Cuccittini,Free Kick,1,0,0,1,0,Free Kick
+Gonzalo Ariel Montiel,Lionel Andrés Messi Cuccittini,Regular pass,8,1,0,9,0,Regular pass
+Gonzalo Ariel Montiel,Lionel Andrés Messi Cuccittini,Throw-in,1,0,0,1,0,Throw-in
+Gonzalo Ariel Montiel,Lisandro Martínez,Regular pass,1,0,0,1,0,Regular pass
+Gonzalo Ariel Montiel,Nicolás Hernán Otamendi,Regular pass,9,0,0,9,0,Regular pass
+Gonzalo Ariel Montiel,Nicolás Hernán Otamendi,Throw-in,4,0,0,4,0,Throw-in
+Gonzalo Ariel Montiel,Rodrigo Javier De Paul,Free Kick,1,0,0,1,0,Free Kick
+Gonzalo Ariel Montiel,Rodrigo Javier De Paul,Regular pass,10,2,1,12,0,Regular pass
+Gonzalo Ariel Montiel,Rodrigo Javier De Paul,Throw-in,1,0,0,1,0,Throw-in
+Gonzalo Ariel Montiel,Ángel Fabián Di María Hernández,Regular pass,13,0,2,13,0,Regular pass
+Guido Rodríguez,Alexis Mac Allister,Regular pass,7,0,0,7,0,Regular pass
+Guido Rodríguez,Gonzalo Ariel Montiel,Regular pass,2,0,1,2,0,Regular pass
+Guido Rodríguez,Gonzalo Ariel Montiel,Switch of play,2,1,0,3,0,Switch of play
+Guido Rodríguez,Lionel Andrés Messi Cuccittini,Regular pass,7,0,2,7,0,Regular pass
+Guido Rodríguez,Lisandro Martínez,Regular pass,10,2,0,12,0,Regular pass
+Guido Rodríguez,Marcos Javier Acuña,Regular pass,2,0,0,2,0,Regular pass
+Guido Rodríguez,Nicolás Hernán Otamendi,Free Kick,1,0,0,1,0,Free Kick
+Guido Rodríguez,Nicolás Hernán Otamendi,Regular pass,12,0,0,12,0,Regular pass
+Guido Rodríguez,Rodrigo Javier De Paul,Regular pass,7,0,0,7,0,Regular pass
+Guido Rodríguez,Rodrigo Javier De Paul,Switch of play,1,0,0,1,0,Switch of play
+Guido Rodríguez,Ángel Fabián Di María Hernández,Regular pass,2,0,1,2,0,Regular pass
+Juan Marcos Foyth,Cristian Gabriel Romero,Regular pass,1,0,0,1,0,Regular pass
+Juan Marcos Foyth,Exequiel Alejandro Palacios,Regular pass,1,0,1,1,0,Regular pass
+Juan Marcos Foyth,Paulo Bruno Exequiel Dybala,Throw-in,1,0,0,1,0,Throw-in
+Julián Álvarez,Alexis Mac Allister,Regular pass,15,5,2,20,0,Regular pass
+Julián Álvarez,Cristian Gabriel Romero,Regular pass,1,0,0,1,0,Regular pass
+Julián Álvarez,Enzo Fernandez,Regular pass,9,3,2,12,0,Regular pass
+Julián Álvarez,Enzo Fernandez,Throw-in,1,0,0,1,0,Throw-in
+Julián Álvarez,Leandro Daniel Paredes,Regular pass,1,0,0,1,0,Regular pass
+Julián Álvarez,Lionel Andrés Messi Cuccittini,Assist,1,0,0,1,1,Assist
+Julián Álvarez,Lionel Andrés Messi Cuccittini,Cross,2,0,0,2,0,Cross
+Julián Álvarez,Lionel Andrés Messi Cuccittini,Regular pass,17,5,3,22,0,Regular pass
+Julián Álvarez,Lisandro Martínez,Regular pass,1,0,1,1,0,Regular pass
+Julián Álvarez,Marcos Javier Acuña,Regular pass,8,1,2,9,0,Regular pass
+Julián Álvarez,Nahuel Molina Lucero,Regular pass,4,0,0,4,0,Regular pass
+Julián Álvarez,Nahuel Molina Lucero,Switch of play,2,0,0,2,0,Switch of play
+Julián Álvarez,Nicolás Alejandro Tagliafico,Regular pass,2,2,0,4,0,Regular pass
+Julián Álvarez,Nicolás Hernán Otamendi,Regular pass,1,0,1,1,0,Regular pass
+Julián Álvarez,Rodrigo Javier De Paul,Regular pass,12,1,1,13,0,Regular pass
+Julián Álvarez,Rodrigo Javier De Paul,Switch of play,1,0,0,1,0,Switch of play
+Julián Álvarez,Ángel Fabián Di María Hernández,Regular pass,1,0,1,1,0,Regular pass
+Julián Álvarez,Ángel Fabián Di María Hernández,Throw-in,1,0,0,1,0,Throw-in
+Lautaro Javier Martínez,Alexis Mac Allister,Regular pass,2,0,0,2,0,Regular pass
+Lautaro Javier Martínez,Enzo Fernandez,Regular pass,3,1,1,4,0,Regular pass
+Lautaro Javier Martínez,Exequiel Alejandro Palacios,Regular pass,2,3,0,5,0,Regular pass
+Lautaro Javier Martínez,Germán Alejandro Pezzella,Regular pass,3,0,0,3,0,Regular pass
+Lautaro Javier Martínez,Guido Rodríguez,Regular pass,2,1,0,3,0,Regular pass
+Lautaro Javier Martínez,Leandro Daniel Paredes,Regular pass,8,0,0,8,0,Regular pass
+Lautaro Javier Martínez,Lionel Andrés Messi Cuccittini,Regular pass,5,3,3,8,0,Regular pass
+Lautaro Javier Martínez,Lisandro Martínez,Regular pass,1,0,0,1,0,Regular pass
+Lautaro Javier Martínez,Marcos Javier Acuña,Regular pass,1,0,1,1,0,Regular pass
+Lautaro Javier Martínez,Nahuel Molina Lucero,Regular pass,3,0,0,3,0,Regular pass
+Lautaro Javier Martínez,Nicolás Alejandro Tagliafico,Regular pass,3,0,1,3,0,Regular pass
+Lautaro Javier Martínez,Nicolás Hernán Otamendi,Regular pass,1,0,0,1,0,Regular pass
+Lautaro Javier Martínez,Rodrigo Javier De Paul,Regular pass,4,1,1,5,0,Regular pass
+Lautaro Javier Martínez,Thiago Ezequiel Almada,Regular pass,2,0,0,2,0,Regular pass
+Lautaro Javier Martínez,Ángel Fabián Di María Hernández,Regular pass,1,0,0,1,0,Regular pass
+Leandro Daniel Paredes,Alejandro Darío Gómez,Regular pass,7,0,0,7,0,Regular pass
+Leandro Daniel Paredes,Alexis Mac Allister,Regular pass,17,0,0,17,0,Regular pass
+Leandro Daniel Paredes,Cristian Gabriel Romero,Free Kick,1,0,0,1,0,Free Kick
+Leandro Daniel Paredes,Cristian Gabriel Romero,Regular pass,16,0,0,16,0,Regular pass
+Leandro Daniel Paredes,Cristian Gabriel Romero,Switch of play,2,0,0,2,0,Switch of play
+Leandro Daniel Paredes,Enzo Fernandez,Free Kick,4,0,0,4,0,Free Kick
+Leandro Daniel Paredes,Enzo Fernandez,Regular pass,30,1,3,31,0,Regular pass
+Leandro Daniel Paredes,Germán Alejandro Pezzella,Free Kick,1,0,0,1,0,Free Kick
+Leandro Daniel Paredes,Germán Alejandro Pezzella,Regular pass,4,0,1,4,0,Regular pass
+Leandro Daniel Paredes,Germán Alejandro Pezzella,Switch of play,1,0,0,1,0,Switch of play
+Leandro Daniel Paredes,Gonzalo Ariel Montiel,Regular pass,2,0,0,2,0,Regular pass
+Leandro Daniel Paredes,Julián Álvarez,Regular pass,1,0,1,1,0,Regular pass
+Leandro Daniel Paredes,Lautaro Javier Martínez,Regular pass,7,0,1,7,0,Regular pass
+Leandro Daniel Paredes,Lionel Andrés Messi Cuccittini,Assist,1,0,0,1,1,Assist
+Leandro Daniel Paredes,Lionel Andrés Messi Cuccittini,Free Kick,2,0,0,2,0,Free Kick
+Leandro Daniel Paredes,Lionel Andrés Messi Cuccittini,Regular pass,17,3,2,20,0,Regular pass
+Leandro Daniel Paredes,Lionel Andrés Messi Cuccittini,Switch of play,3,0,0,3,0,Switch of play
+Leandro Daniel Paredes,Lisandro Martínez,Free Kick,1,0,0,1,0,Free Kick
+Leandro Daniel Paredes,Lisandro Martínez,Regular pass,2,0,0,2,0,Regular pass
+Leandro Daniel Paredes,Marcos Javier Acuña,Regular pass,2,0,0,2,0,Regular pass
+Leandro Daniel Paredes,Nahuel Molina Lucero,Regular pass,7,2,1,9,0,Regular pass
+Leandro Daniel Paredes,Nicolás Alejandro Tagliafico,Regular pass,14,0,0,14,0,Regular pass
+Leandro Daniel Paredes,Nicolás Hernán Otamendi,Free Kick,2,0,0,2,0,Free Kick
+Leandro Daniel Paredes,Nicolás Hernán Otamendi,Regular pass,28,0,1,28,0,Regular pass
+Leandro Daniel Paredes,Rodrigo Javier De Paul,Free Kick,1,0,0,1,0,Free Kick
+Leandro Daniel Paredes,Rodrigo Javier De Paul,Regular pass,34,0,2,34,0,Regular pass
+Leandro Daniel Paredes,Thiago Ezequiel Almada,Regular pass,6,0,0,6,0,Regular pass
+Leandro Daniel Paredes,Ángel Fabián Di María Hernández,Regular pass,3,1,0,4,0,Regular pass
+Lionel Andrés Messi Cuccittini,Alejandro Darío Gómez,Assist,1,0,0,1,1,Assist
+Lionel Andrés Messi Cuccittini,Alejandro Darío Gómez,Free Kick,1,0,0,1,0,Free Kick
+Lionel Andrés Messi Cuccittini,Alejandro Darío Gómez,Regular pass,10,2,0,12,0,Regular pass
+Lionel Andrés Messi Cuccittini,Alexis Mac Allister,Assist,1,0,0,1,1,Assist
+Lionel Andrés Messi Cuccittini,Alexis Mac Allister,Free Kick,2,0,0,2,0,Free Kick
+Lionel Andrés Messi Cuccittini,Alexis Mac Allister,Regular pass,32,5,1,37,0,Regular pass
+Lionel Andrés Messi Cuccittini,Cristian Gabriel Romero,Free Kick,1,0,0,1,0,Free Kick
+Lionel Andrés Messi Cuccittini,Cristian Gabriel Romero,Regular pass,8,0,0,8,0,Regular pass
+Lionel Andrés Messi Cuccittini,Enzo Fernandez,Assist,5,0,0,5,5,Assist
+Lionel Andrés Messi Cuccittini,Enzo Fernandez,Regular pass,34,2,0,36,0,Regular pass
+Lionel Andrés Messi Cuccittini,Enzo Fernandez,Switch of play,2,0,0,2,0,Switch of play
+Lionel Andrés Messi Cuccittini,Exequiel Alejandro Palacios,Regular pass,3,0,0,3,0,Regular pass
+Lionel Andrés Messi Cuccittini,Germán Alejandro Pezzella,Regular pass,1,0,0,1,0,Regular pass
+Lionel Andrés Messi Cuccittini,Gonzalo Ariel Montiel,Regular pass,5,1,0,6,0,Regular pass
+Lionel Andrés Messi Cuccittini,Guido Rodríguez,Regular pass,2,0,1,2,0,Regular pass
+Lionel Andrés Messi Cuccittini,Julián Álvarez,Assist,2,0,0,2,2,Assist
+Lionel Andrés Messi Cuccittini,Julián Álvarez,Regular pass,14,5,0,19,0,Regular pass
+Lionel Andrés Messi Cuccittini,Lautaro Javier Martínez,Assist,6,0,0,6,6,Assist
+Lionel Andrés Messi Cuccittini,Lautaro Javier Martínez,Regular pass,7,2,0,9,0,Regular pass
+Lionel Andrés Messi Cuccittini,Lautaro Javier Martínez,Through ball,1,3,0,4,0,Through ball
+Lionel Andrés Messi Cuccittini,Leandro Daniel Paredes,Free Kick,2,0,0,2,0,Free Kick
+Lionel Andrés Messi Cuccittini,Leandro Daniel Paredes,Regular pass,10,0,0,10,0,Regular pass
+Lionel Andrés Messi Cuccittini,Lisandro Martínez,Regular pass,5,0,0,5,0,Regular pass
+Lionel Andrés Messi Cuccittini,Marcos Javier Acuña,Assist,1,0,0,1,1,Assist
+Lionel Andrés Messi Cuccittini,Marcos Javier Acuña,Free Kick,1,0,0,1,0,Free Kick
+Lionel Andrés Messi Cuccittini,Marcos Javier Acuña,Regular pass,13,1,0,14,0,Regular pass
+Lionel Andrés Messi Cuccittini,Marcos Javier Acuña,Switch of play,1,0,0,1,0,Switch of play
+Lionel Andrés Messi Cuccittini,Nahuel Molina Lucero,Assist,1,0,0,1,1,Assist
+Lionel Andrés Messi Cuccittini,Nahuel Molina Lucero,Free Kick,1,0,0,1,0,Free Kick
+Lionel Andrés Messi Cuccittini,Nahuel Molina Lucero,Regular pass,25,4,1,29,0,Regular pass
+Lionel Andrés Messi Cuccittini,Nicolás Alejandro Tagliafico,Regular pass,9,3,0,12,0,Regular pass
+Lionel Andrés Messi Cuccittini,Nicolás Alejandro Tagliafico,Switch of play,1,0,0,1,0,Switch of play
+Lionel Andrés Messi Cuccittini,Nicolás Hernán Otamendi,Regular pass,13,1,1,14,0,Regular pass
+Lionel Andrés Messi Cuccittini,Nicolás Hernán Otamendi,Switch of play,1,0,0,1,0,Switch of play
+Lionel Andrés Messi Cuccittini,Paulo Bruno Exequiel Dybala,Free Kick,1,0,0,1,0,Free Kick
+Lionel Andrés Messi Cuccittini,Paulo Bruno Exequiel Dybala,Regular pass,3,0,0,3,0,Regular pass
+Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,Free Kick,3,0,0,3,0,Free Kick
+Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,Regular pass,49,2,3,51,0,Regular pass
+Lionel Andrés Messi Cuccittini,Thiago Ezequiel Almada,Regular pass,1,0,0,1,0,Regular pass
+Lionel Andrés Messi Cuccittini,Ángel Fabián Di María Hernández,Assist,2,0,0,2,2,Assist
+Lionel Andrés Messi Cuccittini,Ángel Fabián Di María Hernández,Regular pass,16,2,0,18,0,Regular pass
+Lionel Andrés Messi Cuccittini,Ángel Fabián Di María Hernández,Switch of play,2,0,0,2,0,Switch of play
+Lisandro Martínez,Alexis Mac Allister,Regular pass,8,0,2,8,0,Regular pass
+Lisandro Martínez,Cristian Gabriel Romero,Regular pass,1,0,0,1,0,Regular pass
+Lisandro Martínez,Cristian Gabriel Romero,Switch of play,2,0,0,2,0,Switch of play
+Lisandro Martínez,Damián Emiliano Martínez,Regular pass,6,0,1,6,0,Regular pass
+Lisandro Martínez,Enzo Fernandez,Free Kick,1,0,0,1,0,Free Kick
+Lisandro Martínez,Enzo Fernandez,Regular pass,15,0,0,15,0,Regular pass
+Lisandro Martínez,Enzo Fernandez,Throw-in,1,0,0,1,0,Throw-in
+Lisandro Martínez,Exequiel Alejandro Palacios,Regular pass,1,0,0,1,0,Regular pass
+Lisandro Martínez,Gonzalo Ariel Montiel,Regular pass,2,0,0,2,0,Regular pass
+Lisandro Martínez,Guido Rodríguez,Regular pass,14,0,0,14,0,Regular pass
+Lisandro Martínez,Julián Álvarez,Free Kick,1,0,0,1,0,Free Kick
+Lisandro Martínez,Julián Álvarez,Regular pass,1,3,0,4,0,Regular pass
+Lisandro Martínez,Lautaro Javier Martínez,Regular pass,2,3,5,5,0,Regular pass
+Lisandro Martínez,Leandro Daniel Paredes,Free Kick,1,0,0,1,0,Free Kick
+Lisandro Martínez,Leandro Daniel Paredes,Regular pass,1,0,0,1,0,Regular pass
+Lisandro Martínez,Lionel Andrés Messi Cuccittini,Regular pass,2,0,0,2,0,Regular pass
+Lisandro Martínez,Marcos Javier Acuña,Regular pass,17,1,4,18,0,Regular pass
+Lisandro Martínez,Nahuel Molina Lucero,Switch of play,1,0,0,1,0,Switch of play
+Lisandro Martínez,Nicolás Alejandro Tagliafico,Regular pass,6,4,1,10,0,Regular pass
+Lisandro Martínez,Nicolás Hernán Otamendi,Free Kick,1,0,0,1,0,Free Kick
+Lisandro Martínez,Nicolás Hernán Otamendi,Regular pass,26,0,1,26,0,Regular pass
+Lisandro Martínez,Rodrigo Javier De Paul,Free Kick,1,0,0,1,0,Free Kick
+Lisandro Martínez,Rodrigo Javier De Paul,Regular pass,7,0,2,7,0,Regular pass
+Lisandro Martínez,Rodrigo Javier De Paul,Switch of play,1,0,0,1,0,Switch of play
+Lisandro Martínez,Ángel Fabián Di María Hernández,Regular pass,3,0,0,3,0,Regular pass
+Lisandro Martínez,Ángel Martín Correa,Regular pass,1,0,0,1,0,Regular pass
+Marcos Javier Acuña,Alejandro Darío Gómez,Regular pass,4,0,1,4,0,Regular pass
+Marcos Javier Acuña,Alejandro Darío Gómez,Switch of play,1,0,0,1,0,Switch of play
+Marcos Javier Acuña,Alexis Mac Allister,Cross,1,2,0,3,0,Cross
+Marcos Javier Acuña,Alexis Mac Allister,Regular pass,24,6,4,30,0,Regular pass
+Marcos Javier Acuña,Alexis Mac Allister,Throw-in,1,1,0,2,0,Throw-in
+Marcos Javier Acuña,Cristian Gabriel Romero,Regular pass,1,0,0,1,0,Regular pass
+Marcos Javier Acuña,Damián Emiliano Martínez,Regular pass,3,0,1,3,0,Regular pass
+Marcos Javier Acuña,Enzo Fernandez,Assist,2,0,0,2,2,Assist
+Marcos Javier Acuña,Enzo Fernandez,Free Kick,1,0,0,1,0,Free Kick
+Marcos Javier Acuña,Enzo Fernandez,Regular pass,19,1,2,20,0,Regular pass
+Marcos Javier Acuña,Enzo Fernandez,Throw-in,3,0,0,3,0,Throw-in
+Marcos Javier Acuña,Guido Rodríguez,Regular pass,3,0,0,3,0,Regular pass
+Marcos Javier Acuña,Guido Rodríguez,Throw-in,1,0,0,1,0,Throw-in
+Marcos Javier Acuña,Julián Álvarez,Regular pass,8,5,2,13,0,Regular pass
+Marcos Javier Acuña,Julián Álvarez,Throw-in,6,2,0,8,0,Throw-in
+Marcos Javier Acuña,Lautaro Javier Martínez,Assist,1,0,0,1,1,Assist
+Marcos Javier Acuña,Lautaro Javier Martínez,Regular pass,3,0,1,3,0,Regular pass
+Marcos Javier Acuña,Lautaro Javier Martínez,Throw-in,6,0,0,6,0,Throw-in
+Marcos Javier Acuña,Lionel Andrés Messi Cuccittini,Regular pass,8,1,0,9,0,Regular pass
+Marcos Javier Acuña,Lisandro Martínez,Free Kick,1,0,0,1,0,Free Kick
+Marcos Javier Acuña,Lisandro Martínez,Regular pass,16,0,1,16,0,Regular pass
+Marcos Javier Acuña,Lisandro Martínez,Throw-in,2,0,0,2,0,Throw-in
+Marcos Javier Acuña,Nahuel Molina Lucero,Assist,1,0,0,1,1,Assist
+Marcos Javier Acuña,Nicolás Alejandro Tagliafico,Regular pass,2,1,0,3,0,Regular pass
+Marcos Javier Acuña,Nicolás Hernán Otamendi,Assist,1,0,0,1,1,Assist
+Marcos Javier Acuña,Nicolás Hernán Otamendi,Free Kick,2,0,0,2,0,Free Kick
+Marcos Javier Acuña,Nicolás Hernán Otamendi,Regular pass,24,1,1,25,0,Regular pass
+Marcos Javier Acuña,Nicolás Hernán Otamendi,Throw-in,2,0,0,2,0,Throw-in
+Marcos Javier Acuña,Paulo Bruno Exequiel Dybala,Regular pass,1,0,0,1,0,Regular pass
+Marcos Javier Acuña,Rodrigo Javier De Paul,Regular pass,5,0,2,5,0,Regular pass
+Marcos Javier Acuña,Rodrigo Javier De Paul,Throw-in,1,0,0,1,0,Throw-in
+Marcos Javier Acuña,Ángel Fabián Di María Hernández,Regular pass,4,1,1,5,0,Regular pass
+Nahuel Molina Lucero,Alejandro Darío Gómez,Regular pass,5,1,1,6,0,Regular pass
+Nahuel Molina Lucero,Alejandro Darío Gómez,Throw-in,1,0,0,1,0,Throw-in
+Nahuel Molina Lucero,Alexis Mac Allister,Assist,1,0,0,1,1,Assist
+Nahuel Molina Lucero,Alexis Mac Allister,Regular pass,5,0,1,5,0,Regular pass
+Nahuel Molina Lucero,Cristian Gabriel Romero,Regular pass,27,0,2,27,0,Regular pass
+Nahuel Molina Lucero,Cristian Gabriel Romero,Throw-in,5,0,0,5,0,Throw-in
+Nahuel Molina Lucero,Damián Emiliano Martínez,Regular pass,10,0,1,10,0,Regular pass
+Nahuel Molina Lucero,Damián Emiliano Martínez,Switch of play,1,0,0,1,0,Switch of play
+Nahuel Molina Lucero,Enzo Fernandez,Regular pass,21,1,5,22,0,Regular pass
+Nahuel Molina Lucero,Enzo Fernandez,Throw-in,5,0,0,5,0,Throw-in
+Nahuel Molina Lucero,Julián Álvarez,Assist,1,0,0,1,1,Assist
+Nahuel Molina Lucero,Julián Álvarez,Regular pass,6,4,1,10,0,Regular pass
+Nahuel Molina Lucero,Julián Álvarez,Throw-in,4,2,0,6,0,Throw-in
+Nahuel Molina Lucero,Lautaro Javier Martínez,Regular pass,2,0,0,2,0,Regular pass
+Nahuel Molina Lucero,Lautaro Javier Martínez,Throw-in,2,0,0,2,0,Throw-in
+Nahuel Molina Lucero,Leandro Daniel Paredes,Regular pass,7,0,1,7,0,Regular pass
+Nahuel Molina Lucero,Leandro Daniel Paredes,Throw-in,1,0,0,1,0,Throw-in
+Nahuel Molina Lucero,Lionel Andrés Messi Cuccittini,Free Kick,1,0,0,1,0,Free Kick
+Nahuel Molina Lucero,Lionel Andrés Messi Cuccittini,Regular pass,29,9,8,38,0,Regular pass
+Nahuel Molina Lucero,Lionel Andrés Messi Cuccittini,Throw-in,8,3,0,11,0,Throw-in
+Nahuel Molina Lucero,Lisandro Martínez,Regular pass,1,0,0,1,0,Regular pass
+Nahuel Molina Lucero,Marcos Javier Acuña,Cross,1,0,0,1,0,Cross
+Nahuel Molina Lucero,Marcos Javier Acuña,Regular pass,1,0,0,1,0,Regular pass
+Nahuel Molina Lucero,Nicolás Hernán Otamendi,Regular pass,7,0,0,7,0,Regular pass
+Nahuel Molina Lucero,Nicolás Hernán Otamendi,Switch of play,2,0,0,2,0,Switch of play
+Nahuel Molina Lucero,Nicolás Hernán Otamendi,Throw-in,4,0,0,4,0,Throw-in
+Nahuel Molina Lucero,Paulo Bruno Exequiel Dybala,Regular pass,1,0,0,1,0,Regular pass
+Nahuel Molina Lucero,Rodrigo Javier De Paul,Regular pass,67,10,9,77,0,Regular pass
+Nahuel Molina Lucero,Rodrigo Javier De Paul,Throw-in,25,0,0,25,0,Throw-in
+Nahuel Molina Lucero,Ángel Fabián Di María Hernández,Regular pass,20,5,2,25,0,Regular pass
+Nahuel Molina Lucero,Ángel Fabián Di María Hernández,Throw-in,2,0,0,2,0,Throw-in
+Nicolás Alejandro Tagliafico,Alejandro Darío Gómez,Regular pass,3,0,1,3,0,Regular pass
+Nicolás Alejandro Tagliafico,Alexis Mac Allister,Assist,2,0,0,2,2,Assist
+Nicolás Alejandro Tagliafico,Alexis Mac Allister,Regular pass,22,2,4,24,0,Regular pass
+Nicolás Alejandro Tagliafico,Alexis Mac Allister,Throw-in,6,1,0,7,0,Throw-in
+Nicolás Alejandro Tagliafico,Cristian Gabriel Romero,Regular pass,1,0,0,1,0,Regular pass
+Nicolás Alejandro Tagliafico,Damián Emiliano Martínez,Regular pass,1,0,0,1,0,Regular pass
+Nicolás Alejandro Tagliafico,Enzo Fernandez,Free Kick,1,0,0,1,0,Free Kick
+Nicolás Alejandro Tagliafico,Enzo Fernandez,Regular pass,15,0,3,15,0,Regular pass
+Nicolás Alejandro Tagliafico,Germán Alejandro Pezzella,Throw-in,1,0,0,1,0,Throw-in
+Nicolás Alejandro Tagliafico,Gonzalo Ariel Montiel,Regular pass,1,0,0,1,0,Regular pass
+Nicolás Alejandro Tagliafico,Julián Álvarez,Regular pass,4,2,2,6,0,Regular pass
+Nicolás Alejandro Tagliafico,Julián Álvarez,Throw-in,4,1,0,5,0,Throw-in
+Nicolás Alejandro Tagliafico,Lautaro Javier Martínez,Regular pass,4,1,2,5,0,Regular pass
+Nicolás Alejandro Tagliafico,Lautaro Javier Martínez,Throw-in,3,1,0,4,0,Throw-in
+Nicolás Alejandro Tagliafico,Leandro Daniel Paredes,Free Kick,1,0,0,1,0,Free Kick
+Nicolás Alejandro Tagliafico,Leandro Daniel Paredes,Regular pass,12,0,1,12,0,Regular pass
+Nicolás Alejandro Tagliafico,Leandro Daniel Paredes,Throw-in,3,0,0,3,0,Throw-in
+Nicolás Alejandro Tagliafico,Lionel Andrés Messi Cuccittini,Regular pass,1,0,0,1,0,Regular pass
+Nicolás Alejandro Tagliafico,Lisandro Martínez,Regular pass,4,0,0,4,0,Regular pass
+Nicolás Alejandro Tagliafico,Lisandro Martínez,Throw-in,2,0,0,2,0,Throw-in
+Nicolás Alejandro Tagliafico,Marcos Javier Acuña,Regular pass,2,1,2,3,0,Regular pass
+Nicolás Alejandro Tagliafico,Nicolás Hernán Otamendi,Free Kick,1,0,0,1,0,Free Kick
+Nicolás Alejandro Tagliafico,Nicolás Hernán Otamendi,Regular pass,28,0,0,28,0,Regular pass
+Nicolás Alejandro Tagliafico,Nicolás Hernán Otamendi,Throw-in,7,0,0,7,0,Throw-in
+Nicolás Alejandro Tagliafico,Rodrigo Javier De Paul,Regular pass,2,1,1,3,0,Regular pass
+Nicolás Alejandro Tagliafico,Thiago Ezequiel Almada,Regular pass,1,0,0,1,0,Regular pass
+Nicolás Alejandro Tagliafico,Ángel Fabián Di María Hernández,Regular pass,5,1,3,6,0,Regular pass
+Nicolás Alejandro Tagliafico,Ángel Martín Correa,Regular pass,1,0,0,1,0,Regular pass
+Nicolás Alejandro Tagliafico,Ángel Martín Correa,Throw-in,1,0,0,1,0,Throw-in
+Nicolás Hernán Otamendi,Alejandro Darío Gómez,Regular pass,4,0,2,4,0,Regular pass
+Nicolás Hernán Otamendi,Alexis Mac Allister,Regular pass,23,1,8,24,0,Regular pass
+Nicolás Hernán Otamendi,Cristian Gabriel Romero,Free Kick,2,0,0,2,0,Free Kick
+Nicolás Hernán Otamendi,Cristian Gabriel Romero,Regular pass,84,0,3,84,0,Regular pass
+Nicolás Hernán Otamendi,Cristian Gabriel Romero,Throw-in,1,0,0,1,0,Throw-in
+Nicolás Hernán Otamendi,Damián Emiliano Martínez,Goal Kick,1,0,0,1,0,Goal Kick
+Nicolás Hernán Otamendi,Damián Emiliano Martínez,Regular pass,26,0,2,26,0,Regular pass
+Nicolás Hernán Otamendi,Enzo Fernandez,Free Kick,2,0,0,2,0,Free Kick
+Nicolás Hernán Otamendi,Enzo Fernandez,Regular pass,68,1,9,69,0,Regular pass
+Nicolás Hernán Otamendi,Germán Alejandro Pezzella,Regular pass,8,0,0,8,0,Regular pass
+Nicolás Hernán Otamendi,Gonzalo Ariel Montiel,Regular pass,16,1,1,17,0,Regular pass
+Nicolás Hernán Otamendi,Gonzalo Ariel Montiel,Switch of play,1,0,0,1,0,Switch of play
+Nicolás Hernán Otamendi,Guido Rodríguez,Free Kick,2,0,0,2,0,Free Kick
+Nicolás Hernán Otamendi,Guido Rodríguez,Regular pass,13,0,0,13,0,Regular pass
+Nicolás Hernán Otamendi,Julián Álvarez,Regular pass,4,1,0,5,0,Regular pass
+Nicolás Hernán Otamendi,Julián Álvarez,Switch of play,1,0,0,1,0,Switch of play
+Nicolás Hernán Otamendi,Lautaro Javier Martínez,Regular pass,1,1,4,2,0,Regular pass
+Nicolás Hernán Otamendi,Leandro Daniel Paredes,Regular pass,47,0,1,47,0,Regular pass
+Nicolás Hernán Otamendi,Lionel Andrés Messi Cuccittini,Assist,1,0,0,1,1,Assist
+Nicolás Hernán Otamendi,Lionel Andrés Messi Cuccittini,Regular pass,8,1,4,9,0,Regular pass
+Nicolás Hernán Otamendi,Lisandro Martínez,Assist,1,0,0,1,1,Assist
+Nicolás Hernán Otamendi,Lisandro Martínez,Free Kick,1,0,0,1,0,Free Kick
+Nicolás Hernán Otamendi,Lisandro Martínez,Regular pass,38,0,2,38,0,Regular pass
+Nicolás Hernán Otamendi,Lisandro Martínez,Switch of play,1,0,0,1,0,Switch of play
+Nicolás Hernán Otamendi,Marcos Javier Acuña,Regular pass,29,1,2,30,0,Regular pass
+Nicolás Hernán Otamendi,Marcos Javier Acuña,Switch of play,1,0,0,1,0,Switch of play
+Nicolás Hernán Otamendi,Nahuel Molina Lucero,Regular pass,13,1,0,14,0,Regular pass
+Nicolás Hernán Otamendi,Nahuel Molina Lucero,Switch of play,4,1,0,5,0,Switch of play
+Nicolás Hernán Otamendi,Nicolás Alejandro Tagliafico,Free Kick,2,0,0,2,0,Free Kick
+Nicolás Hernán Otamendi,Nicolás Alejandro Tagliafico,Regular pass,38,1,0,39,0,Regular pass
+Nicolás Hernán Otamendi,Paulo Bruno Exequiel Dybala,Regular pass,1,0,0,1,0,Regular pass
+Nicolás Hernán Otamendi,Rodrigo Javier De Paul,Free Kick,1,0,0,1,0,Free Kick
+Nicolás Hernán Otamendi,Rodrigo Javier De Paul,Regular pass,31,0,9,31,0,Regular pass
+Nicolás Hernán Otamendi,Rodrigo Javier De Paul,Throw-in,1,0,0,1,0,Throw-in
+Nicolás Hernán Otamendi,Ángel Fabián Di María Hernández,Regular pass,15,0,1,15,0,Regular pass
+Paulo Bruno Exequiel Dybala,Alexis Mac Allister,Assist,1,0,0,1,1,Assist
+Paulo Bruno Exequiel Dybala,Cristian Gabriel Romero,Regular pass,1,0,0,1,0,Regular pass
+Paulo Bruno Exequiel Dybala,Enzo Fernandez,Regular pass,1,0,0,1,0,Regular pass
+Paulo Bruno Exequiel Dybala,Exequiel Alejandro Palacios,Regular pass,3,0,0,3,0,Regular pass
+Paulo Bruno Exequiel Dybala,Juan Marcos Foyth,Regular pass,2,0,0,2,0,Regular pass
+Rodrigo Javier De Paul,Alejandro Darío Gómez,Regular pass,7,3,0,10,0,Regular pass
+Rodrigo Javier De Paul,Alexis Mac Allister,Regular pass,11,1,4,12,0,Regular pass
+Rodrigo Javier De Paul,Cristian Gabriel Romero,Free Kick,5,0,0,5,0,Free Kick
+Rodrigo Javier De Paul,Cristian Gabriel Romero,Regular pass,44,1,3,45,0,Regular pass
+Rodrigo Javier De Paul,Cristian Gabriel Romero,Switch of play,1,0,0,1,0,Switch of play
+Rodrigo Javier De Paul,Cristian Gabriel Romero,Throw-in,1,0,0,1,0,Throw-in
+Rodrigo Javier De Paul,Damián Emiliano Martínez,Regular pass,2,0,0,2,0,Regular pass
+Rodrigo Javier De Paul,Damián Emiliano Martínez,Switch of play,1,0,0,1,0,Switch of play
+Rodrigo Javier De Paul,Enzo Fernandez,Regular pass,51,0,2,51,0,Regular pass
+Rodrigo Javier De Paul,Enzo Fernandez,Throw-in,1,0,0,1,0,Throw-in
+Rodrigo Javier De Paul,Exequiel Alejandro Palacios,Regular pass,1,0,0,1,0,Regular pass
+Rodrigo Javier De Paul,Exequiel Alejandro Palacios,Throw-in,1,0,0,1,0,Throw-in
+Rodrigo Javier De Paul,Germán Alejandro Pezzella,Regular pass,6,0,0,6,0,Regular pass
+Rodrigo Javier De Paul,Gonzalo Ariel Montiel,Regular pass,7,3,0,10,0,Regular pass
+Rodrigo Javier De Paul,Gonzalo Ariel Montiel,Throw-in,1,0,0,1,0,Throw-in
+Rodrigo Javier De Paul,Guido Rodríguez,Free Kick,1,0,0,1,0,Free Kick
+Rodrigo Javier De Paul,Guido Rodríguez,Regular pass,6,0,1,6,0,Regular pass
+Rodrigo Javier De Paul,Julián Álvarez,Regular pass,12,3,1,15,0,Regular pass
+Rodrigo Javier De Paul,Julián Álvarez,Throw-in,1,0,0,1,0,Throw-in
+Rodrigo Javier De Paul,Lautaro Javier Martínez,Assist,1,0,0,1,1,Assist
+Rodrigo Javier De Paul,Lautaro Javier Martínez,Free Kick,1,0,0,1,0,Free Kick
+Rodrigo Javier De Paul,Lautaro Javier Martínez,Regular pass,1,0,4,1,0,Regular pass
+Rodrigo Javier De Paul,Leandro Daniel Paredes,Assist,1,0,0,1,1,Assist
+Rodrigo Javier De Paul,Leandro Daniel Paredes,Regular pass,20,0,3,20,0,Regular pass
+Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,Assist,4,0,0,4,4,Assist
+Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,Cross,1,2,0,3,0,Cross
+Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,Free Kick,1,0,0,1,0,Free Kick
+Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,Regular pass,75,17,6,92,0,Regular pass
+Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,Through ball,2,1,0,3,0,Through ball
+Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,Throw-in,1,0,0,1,0,Throw-in
+Rodrigo Javier De Paul,Lisandro Martínez,Free Kick,2,0,0,2,0,Free Kick
+Rodrigo Javier De Paul,Lisandro Martínez,Regular pass,6,0,0,6,0,Regular pass
+Rodrigo Javier De Paul,Marcos Javier Acuña,Regular pass,6,0,0,6,0,Regular pass
+Rodrigo Javier De Paul,Marcos Javier Acuña,Switch of play,1,1,1,2,0,Switch of play
+Rodrigo Javier De Paul,Nahuel Molina Lucero,Regular pass,62,11,6,73,0,Regular pass
+Rodrigo Javier De Paul,Nahuel Molina Lucero,Switch of play,2,0,0,2,0,Switch of play
+Rodrigo Javier De Paul,Nahuel Molina Lucero,Throw-in,1,0,0,1,0,Throw-in
+Rodrigo Javier De Paul,Nicolás Alejandro Tagliafico,Switch of play,1,0,0,1,0,Switch of play
+Rodrigo Javier De Paul,Nicolás Hernán Otamendi,Free Kick,5,0,0,5,0,Free Kick
+Rodrigo Javier De Paul,Nicolás Hernán Otamendi,Regular pass,54,0,3,54,0,Regular pass
+Rodrigo Javier De Paul,Nicolás Hernán Otamendi,Switch of play,1,0,0,1,0,Switch of play
+Rodrigo Javier De Paul,Thiago Ezequiel Almada,Regular pass,2,0,0,2,0,Regular pass
+Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,Assist,1,0,0,1,1,Assist
+Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,Free Kick,1,0,0,1,0,Free Kick
+Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,Regular pass,30,8,3,38,0,Regular pass
+Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,Throw-in,1,0,0,1,0,Throw-in
+Thiago Ezequiel Almada,Germán Alejandro Pezzella,Regular pass,2,0,0,2,0,Regular pass
+Thiago Ezequiel Almada,Leandro Daniel Paredes,Regular pass,4,0,0,4,0,Regular pass
+Thiago Ezequiel Almada,Lionel Andrés Messi Cuccittini,Regular pass,1,0,0,1,0,Regular pass
+Thiago Ezequiel Almada,Nahuel Molina Lucero,Regular pass,1,0,0,1,0,Regular pass
+Thiago Ezequiel Almada,Nicolás Alejandro Tagliafico,Assist,1,0,0,1,1,Assist
+Thiago Ezequiel Almada,Nicolás Alejandro Tagliafico,Regular pass,1,0,0,1,0,Regular pass
+Thiago Ezequiel Almada,Nicolás Hernán Otamendi,Regular pass,1,0,0,1,0,Regular pass
+Thiago Ezequiel Almada,Rodrigo Javier De Paul,Regular pass,1,0,0,1,0,Regular pass
+Ángel Fabián Di María Hernández,Alejandro Darío Gómez,Cross,1,0,0,1,0,Cross
+Ángel Fabián Di María Hernández,Alexis Mac Allister,Regular pass,6,2,0,8,0,Regular pass
+Ángel Fabián Di María Hernández,Cristian Gabriel Romero,Regular pass,2,0,0,2,0,Regular pass
+Ángel Fabián Di María Hernández,Enzo Fernandez,Regular pass,8,0,0,8,0,Regular pass
+Ángel Fabián Di María Hernández,Enzo Fernandez,Throw-in,2,0,0,2,0,Throw-in
+Ángel Fabián Di María Hernández,Germán Alejandro Pezzella,Assist,1,0,0,1,1,Assist
+Ángel Fabián Di María Hernández,Gonzalo Ariel Montiel,Regular pass,4,0,0,4,0,Regular pass
+Ángel Fabián Di María Hernández,Guido Rodríguez,Regular pass,1,0,0,1,0,Regular pass
+Ángel Fabián Di María Hernández,Julián Álvarez,Assist,2,0,0,2,2,Assist
+Ángel Fabián Di María Hernández,Julián Álvarez,Cross,1,1,0,2,0,Cross
+Ángel Fabián Di María Hernández,Julián Álvarez,Regular pass,1,0,1,1,0,Regular pass
+Ángel Fabián Di María Hernández,Lautaro Javier Martínez,Assist,1,0,0,1,1,Assist
+Ángel Fabián Di María Hernández,Lautaro Javier Martínez,Cross,1,6,0,7,0,Cross
+Ángel Fabián Di María Hernández,Lautaro Javier Martínez,Regular pass,1,2,0,3,0,Regular pass
+Ángel Fabián Di María Hernández,Lionel Andrés Messi Cuccittini,Assist,5,0,0,5,5,Assist
+Ángel Fabián Di María Hernández,Lionel Andrés Messi Cuccittini,Regular pass,27,2,1,29,0,Regular pass
+Ángel Fabián Di María Hernández,Marcos Javier Acuña,Regular pass,3,1,0,4,0,Regular pass
+Ángel Fabián Di María Hernández,Marcos Javier Acuña,Switch of play,1,0,0,1,0,Switch of play
+Ángel Fabián Di María Hernández,Nahuel Molina Lucero,Regular pass,14,0,0,14,0,Regular pass
+Ángel Fabián Di María Hernández,Nahuel Molina Lucero,Switch of play,3,0,0,3,0,Switch of play
+Ángel Fabián Di María Hernández,Nicolás Alejandro Tagliafico,Regular pass,5,1,0,6,0,Regular pass
+Ángel Fabián Di María Hernández,Nicolás Hernán Otamendi,Free Kick,1,0,0,1,0,Free Kick
+Ángel Fabián Di María Hernández,Nicolás Hernán Otamendi,Regular pass,7,0,0,7,0,Regular pass
+Ángel Fabián Di María Hernández,Rodrigo Javier De Paul,Assist,2,0,0,2,2,Assist
+Ángel Fabián Di María Hernández,Rodrigo Javier De Paul,Regular pass,22,1,1,23,0,Regular pass
+Ángel Martín Correa,Exequiel Alejandro Palacios,Free Kick,1,0,0,1,0,Free Kick
+Ángel Martín Correa,Exequiel Alejandro Palacios,Regular pass,1,0,0,1,0,Regular pass
+Ángel Martín Correa,Lionel Andrés Messi Cuccittini,Regular pass,1,0,0,1,0,Regular pass
+Ángel Martín Correa,Nicolás Alejandro Tagliafico,Regular pass,1,0,0,1,0,Regular pass

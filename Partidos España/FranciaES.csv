@@ -1,0 +1,543 @@
+match_id,team,player,pass_recipient,minute,second,period,location,pass_end_location,pass_length,pass_angle,pass_height,pass_type,pass_technique,pass_cross,pass_cut_back,pass_switch,pass_outcome,pass_shot_assist,pass_goal_assist,pass_assisted_shot_id,under_pressure,play_pattern
+3942752,Spain,Álvaro Borja Morata Martín,Daniel Olmo Carvajal,0,16,1,"[69.3, 12.4]","[64.0, 11.1]",5.4571056,-2.9010584,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Olmo Carvajal,Rodrigo Hernández Cascante,0,17,1,"[64.2, 12.0]","[64.3, 31.0]",19.000263,1.5655332,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Jesús Navas González,Daniel Olmo Carvajal,0,50,1,"[68.7, 80.0]","[76.7, 69.5]",13.200378,-0.9197196,Low Pass,Throw-in,,,,,,,,,,From Throw In
+3942752,Spain,Daniel Olmo Carvajal,Jesús Navas González,0,51,1,"[75.9, 69.7]","[70.9, 77.7]",9.433981,2.1293957,Low Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Jesús Navas González,Aymeric Laporte,0,53,1,"[70.9, 77.7]","[37.3, 38.8]",51.402042,-2.2832208,High Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,Nicholas Williams Arthuer,1,5,1,"[70.1, 12.4]","[81.7, 17.4]",12.631706,0.4069708,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Nicholas Williams Arthuer,Marc Cucurella Saseta,1,6,1,"[81.7, 17.4]","[88.2, 2.5]",16.256075,-1.1594425,Low Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,1,27,1,"[66.1, 0.1]","[42.0, 8.8]",25.622255,2.7951558,Low Pass,Throw-in,,,,,,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,José Ignacio Fernández Iglesias,1,34,1,"[52.9, 12.2]","[44.0, 37.5]",26.819769,1.9090548,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,José Ignacio Fernández Iglesias,Aymeric Laporte,1,44,1,"[51.7, 49.9]","[49.8, 20.0]",29.960306,-1.6342561,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,Lamine Yamal Nasraoui Ebana,1,48,1,"[55.7, 16.1]","[103.4, 72.2]",73.63763,0.86614704,High Pass,,,,,True,,,,,,From Throw In
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Jesús Navas González,1,55,1,"[107.9, 72.8]","[101.2, 73.1]",6.706713,3.0968463,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Jesús Navas González,Lamine Yamal Nasraoui Ebana,1,59,1,"[106.8, 71.7]","[99.7, 73.5]",7.324616,2.8933027,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Nicholas Williams Arthuer,2,4,1,"[88.1, 54.5]","[92.8, 7.2]",47.532936,-1.4717557,Ground Pass,,,,,True,,,,,,From Throw In
+3942752,Spain,Nicholas Williams Arthuer,Fabián Ruiz Peña,2,9,1,"[97.6, 3.8]","[112.9, 16.6]",19.948183,0.6966638,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Fabián Ruiz Peña,Lamine Yamal Nasraoui Ebana,2,12,1,"[113.7, 19.4]","[120.0, 53.3]",34.48043,1.3870518,High Pass,,,True,,,Out,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,Álvaro Borja Morata Martín,3,41,1,"[52.5, 11.1]","[81.4, 4.2]",29.712288,-0.23436682,High Pass,Recovery,,,,,Incomplete,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Fabián Ruiz Peña,3,51,1,"[66.8, 5.2]","[71.8, 8.5]",5.990826,0.583373,Low Pass,Interception,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,José Ignacio Fernández Iglesias,3,54,1,"[68.9, 16.3]","[51.7, 24.1]",18.885973,2.7158415,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,José Ignacio Fernández Iglesias,Aymeric Laporte,3,56,1,"[51.7, 24.1]","[52.3, 9.1]",15.011995,-1.5308176,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Nicholas Williams Arthuer,3,59,1,"[55.4, 7.8]","[83.7, 1.0]",29.105497,-0.23581225,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Nicholas Williams Arthuer,Marc Cucurella Saseta,4,2,1,"[81.1, 2.8]","[68.6, 2.8]",12.5,3.1415927,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,4,4,1,"[68.6, 2.8]","[54.8, 8.9]",15.088075,2.725387,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,José Ignacio Fernández Iglesias,4,7,1,"[56.5, 13.5]","[52.3, 39.5]",26.337046,1.7309513,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,José Ignacio Fernández Iglesias,Rodrigo Hernández Cascante,4,13,1,"[75.7, 41.6]","[64.7, 38.3]",11.484337,-2.8501358,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Marc Cucurella Saseta,4,15,1,"[65.6, 39.2]","[65.0, 12.8]",26.406816,-1.5935197,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,4,20,1,"[65.0, 12.8]","[54.3, 21.3]",13.665284,2.4702802,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,José Ignacio Fernández Iglesias,4,25,1,"[62.9, 22.8]","[55.0, 39.2]",18.203571,2.019703,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,José Ignacio Fernández Iglesias,Aymeric Laporte,4,26,1,"[55.0, 39.2]","[61.1, 22.7]",17.591475,-1.216683,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Daniel Olmo Carvajal,4,29,1,"[63.1, 22.7]","[78.4, 28.8]",16.471188,0.37937897,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Olmo Carvajal,Nicholas Williams Arthuer,4,32,1,"[78.1, 23.1]","[91.1, 10.8]",17.896648,-0.7577372,Low Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Nicholas Williams Arthuer,Marc Cucurella Saseta,4,34,1,"[90.9, 10.5]","[96.8, 3.0]",9.542537,-0.9042385,Ground Pass,,,,,,,,,,True,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Fabián Ruiz Peña,4,36,1,"[98.9, 3.0]","[81.8, 6.3]",17.41551,2.9509537,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Daniel Olmo Carvajal,4,39,1,"[89.2, 11.7]","[97.6, 21.3]",12.756175,0.8519663,Ground Pass,,,,,,Incomplete,,,,,Regular Play
+3942752,Spain,Nicholas Williams Arthuer,Lamine Yamal Nasraoui Ebana,4,43,1,"[112.0, 8.8]","[113.1, 58.5]",49.71217,1.5486672,High Pass,,,True,,True,,,,,,Regular Play
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Fabián Ruiz Peña,4,48,1,"[111.1, 58.5]","[115.4, 35.9]",23.005434,-1.3827782,High Pass,,,True,,,,True,,e0519573-3f59-4ccb-a5c0-49988c77ff67,,Regular Play
+3942752,Spain,Aymeric Laporte,Fabián Ruiz Peña,5,20,1,"[53.7, 22.8]","[72.0, 26.4]",18.650738,0.194241,High Pass,Recovery,,,,,Incomplete,,,,,From Goal Kick
+3942752,Spain,Marc Cucurella Saseta,Rodrigo Hernández Cascante,5,56,1,"[19.3, 8.3]","[29.0, 13.8]",11.1507845,0.51580906,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Marc Cucurella Saseta,6,1,1,"[45.1, 17.7]","[43.9, 1.9]",15.845504,-1.6466001,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,6,4,1,"[50.4, 3.9]","[45.9, 12.0]",9.2660675,2.077895,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Nicholas Williams Arthuer,6,5,1,"[42.2, 10.8]","[64.8, 2.5]",24.075922,-0.35196474,Low Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Nicholas Williams Arthuer,Daniel Olmo Carvajal,6,9,1,"[73.4, 3.6]","[81.1, 23.8]",21.617817,1.2066115,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Olmo Carvajal,Álvaro Borja Morata Martín,6,10,1,"[81.1, 23.8]","[100.7, 17.7]",20.527298,-0.3017224,Ground Pass,,,,,,Incomplete,,,,,Regular Play
+3942752,Spain,Álvaro Borja Morata Martín,Rodrigo Hernández Cascante,9,38,1,"[60.0, 40.0]","[48.0, 36.9]",12.39395,-2.8887863,Ground Pass,Kick Off,,,,,,,,,,From Kick Off
+3942752,Spain,Rodrigo Hernández Cascante,Fabián Ruiz Peña,9,40,1,"[51.8, 38.9]","[52.3, 21.3]",17.607101,-1.5423949,Ground Pass,,,,,,,,,,,From Kick Off
+3942752,Spain,Fabián Ruiz Peña,José Ignacio Fernández Iglesias,9,42,1,"[51.2, 22.8]","[44.0, 49.4]",27.557213,1.8351388,Ground Pass,,,,,,,,,,,From Kick Off
+3942752,Spain,José Ignacio Fernández Iglesias,Aymeric Laporte,9,47,1,"[47.6, 52.5]","[46.4, 22.0]",30.523598,-1.6101203,Ground Pass,,,,,,,,,,,From Kick Off
+3942752,Spain,Aymeric Laporte,José Ignacio Fernández Iglesias,9,52,1,"[55.6, 24.9]","[54.5, 47.4]",22.526873,1.6196463,Ground Pass,,,,,,,,,,,From Kick Off
+3942752,Spain,José Ignacio Fernández Iglesias,Aymeric Laporte,9,54,1,"[55.6, 46.3]","[55.6, 16.6]",29.7,-1.5707964,Ground Pass,,,,,,,,,,,From Kick Off
+3942752,Spain,Aymeric Laporte,Marc Cucurella Saseta,9,56,1,"[55.7, 16.6]","[72.5, 3.0]",21.614809,-0.68052125,Ground Pass,,,,,,,,,,,From Kick Off
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,9,59,1,"[73.1, 2.5]","[57.5, 6.3]",16.056152,2.9026563,Ground Pass,,,,,,,,,,,From Kick Off
+3942752,Spain,Aymeric Laporte,José Ignacio Fernández Iglesias,10,3,1,"[63.4, 8.5]","[57.5, 39.2]",31.261797,1.7606637,Ground Pass,,,,,,,,,,,From Kick Off
+3942752,Spain,José Ignacio Fernández Iglesias,Daniel Olmo Carvajal,10,7,1,"[60.7, 44.9]","[71.5, 52.2]",13.03572,0.5943855,Ground Pass,,,,,,,,,,,From Kick Off
+3942752,Spain,Daniel Olmo Carvajal,Jesús Navas González,10,10,1,"[67.3, 53.8]","[83.1, 74.4]",25.96151,0.9165098,Ground Pass,,,,,,,,,,,From Kick Off
+3942752,Spain,Jesús Navas González,Nicholas Williams Arthuer,10,13,1,"[88.2, 71.6]","[100.6, 22.0]",51.12651,-1.3258177,High Pass,,,,,True,Incomplete,,,,True,From Kick Off
+3942752,Spain,Rodrigo Hernández Cascante,Marc Cucurella Saseta,10,24,1,"[94.3, 10.0]","[79.8, 6.9]",14.827677,-2.9309704,Low Pass,,,,,,,,,,True,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,10,26,1,"[74.0, 7.5]","[62.6, 10.2]",11.715375,2.9090357,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Rodrigo Hernández Cascante,10,33,1,"[69.2, 12.4]","[72.2, 5.5]",7.5239615,-1.160669,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Aymeric Laporte,10,34,1,"[72.2, 5.5]","[68.9, 11.1]",6.5,2.1033003,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,José Ignacio Fernández Iglesias,10,36,1,"[67.9, 11.6]","[63.1, 38.1]",26.93121,1.7499856,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,José Ignacio Fernández Iglesias,Fabián Ruiz Peña,10,39,1,"[64.3, 39.9]","[77.3, 39.1]",13.024592,-0.061460957,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Lamine Yamal Nasraoui Ebana,10,41,1,"[81.4, 41.0]","[94.0, 67.2]",29.072323,1.1225321,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Daniel Olmo Carvajal,10,46,1,"[98.1, 74.2]","[106.8, 51.9]",23.937,-1.1988235,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Olmo Carvajal,Álvaro Borja Morata Martín,10,47,1,"[106.8, 51.9]","[108.7, 41.6]",10.473777,-1.3883809,Ground Pass,,,,,,Incomplete,,,,,Regular Play
+3942752,Spain,Daniel Olmo Carvajal,Álvaro Borja Morata Martín,10,50,1,"[114.7, 56.0]","[112.0, 43.0]",13.277425,-1.7755773,Ground Pass,,,True,True,,Incomplete,,,,True,Regular Play
+3942752,Spain,Jesús Navas González,Fabián Ruiz Peña,10,53,1,"[95.0, 59.2]","[95.0, 48.3]",10.9,-1.5707964,Low Pass,Interception,,,,,,,,,True,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Nicholas Williams Arthuer,10,55,1,"[94.7, 47.4]","[100.9, 36.6]",12.453112,-1.0496582,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Nicholas Williams Arthuer,Álvaro Borja Morata Martín,10,56,1,"[100.7, 36.6]","[104.8, 46.6]",10.807867,1.181699,Ground Pass,,,,,,Incomplete,,,,True,Regular Play
+3942752,Spain,Aymeric Laporte,Unai Simón Mendibil,11,0,1,"[73.4, 34.5]","[30.7, 39.2]",42.957886,3.0319638,Ground Pass,,,,,,,,,,True,Regular Play
+3942752,Spain,Unai Simón Mendibil,José Ignacio Fernández Iglesias,11,4,1,"[33.2, 40.8]","[49.0, 50.3]",18.436106,0.5413497,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,José Ignacio Fernández Iglesias,Rodrigo Hernández Cascante,11,7,1,"[49.0, 50.3]","[64.2, 52.5]",15.358385,0.14373867,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Lamine Yamal Nasraoui Ebana,11,11,1,"[74.2, 52.8]","[92.2, 73.6]",27.50709,0.8574382,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Daniel Olmo Carvajal,11,17,1,"[93.6, 57.4]","[87.8, 46.9]",11.995416,-2.0754657,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Olmo Carvajal,Fabián Ruiz Peña,11,18,1,"[88.1, 47.4]","[88.2, 28.6]",18.800266,-1.5654773,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Nicholas Williams Arthuer,11,19,1,"[88.4, 28.6]","[98.9, 24.7]",11.200892,-0.35563588,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Nicholas Williams Arthuer,Marc Cucurella Saseta,11,20,1,"[99.5, 23.8]","[100.0, 7.7]",16.107761,-1.5397505,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,11,27,1,"[85.7, 14.4]","[70.1, 21.4]",17.098537,2.7198055,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Marc Cucurella Saseta,11,32,1,"[76.5, 24.9]","[79.8, 6.4]",18.792019,-1.3942746,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Nicholas Williams Arthuer,11,34,1,"[79.8, 6.4]","[94.2, 3.8]",14.63284,-0.17863101,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Nicholas Williams Arthuer,Marc Cucurella Saseta,11,37,1,"[99.5, 3.8]","[88.4, 11.0]",13.230646,2.566168,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Daniel Olmo Carvajal,11,40,1,"[89.8, 14.1]","[92.8, 23.9]",10.248902,1.2737321,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Olmo Carvajal,Aymeric Laporte,11,41,1,"[92.8, 23.9]","[78.1, 11.7]",19.103142,-2.4488652,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Nicholas Williams Arthuer,11,43,1,"[78.1, 11.7]","[98.2, 2.8]",21.982265,-0.41683865,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Nicholas Williams Arthuer,Fabián Ruiz Peña,11,46,1,"[104.2, 3.3]","[110.7, 23.8]",21.505814,1.2637506,High Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Álvaro Borja Morata Martín,11,48,1,"[110.7, 23.8]","[112.9, 36.0]",12.396773,1.3923858,High Pass,,,True,,,Incomplete,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Unai Simón Mendibil,12,5,1,"[52.5, 33.8]","[12.0, 27.7]",40.956806,-2.992099,Ground Pass,Recovery,,,,,,,,,,Regular Play
+3942752,Spain,Unai Simón Mendibil,José Ignacio Fernández Iglesias,12,11,1,"[13.9, 33.6]","[31.4, 56.0]",28.425516,0.9075933,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,José Ignacio Fernández Iglesias,Rodrigo Hernández Cascante,12,14,1,"[32.9, 57.8]","[47.3, 57.4]",14.405555,-0.027770637,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Aymeric Laporte,12,17,1,"[52.9, 55.3]","[51.5, 21.6]",33.72907,-1.6123155,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Marc Cucurella Saseta,12,24,1,"[66.4, 12.8]","[94.0, 4.5]",28.821,-0.29212147,High Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Nicholas Williams Arthuer,12,27,1,"[98.1, 3.6]","[100.3, 11.6]",8.296988,1.3024302,Ground Pass,,,,,,,,,,True,Regular Play
+3942752,Spain,Nicholas Williams Arthuer,Marc Cucurella Saseta,12,29,1,"[98.9, 10.0]","[89.5, 0.1]",13.65174,-2.3302937,Ground Pass,,,,,,Out,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Álvaro Borja Morata Martín,16,22,1,"[21.8, 0.1]","[38.7, 1.9]",16.995588,0.106108844,High Pass,Throw-in,,,,,,,,,,From Throw In
+3942752,Spain,Álvaro Borja Morata Martín,Rodrigo Hernández Cascante,16,24,1,"[38.6, 1.7]","[31.5, 17.5]",17.32195,1.9931238,High Pass,,,,,,Incomplete,,,,True,From Throw In
+3942752,Spain,José Ignacio Fernández Iglesias,Nicholas Williams Arthuer,16,27,1,"[22.5, 28.3]","[45.9, 7.7]",31.17563,-0.7218475,High Pass,Recovery,,,,,Incomplete,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Daniel Olmo Carvajal,16,30,1,"[26.4, 11.0]","[40.7, 35.5]",28.367939,1.0424682,High Pass,Recovery,,,,,,,,,,From Throw In
+3942752,Spain,Daniel Olmo Carvajal,Jesús Navas González,16,33,1,"[40.7, 35.5]","[31.1, 50.6]",17.893295,2.137097,Low Pass,,,,,,,,,,True,From Throw In
+3942752,Spain,Jesús Navas González,Daniel Olmo Carvajal,16,39,1,"[32.0, 76.3]","[81.1, 69.5]",49.568638,-0.13761748,High Pass,,,,,,Incomplete,,,,,From Throw In
+3942752,Spain,Jesús Navas González,José Ignacio Fernández Iglesias,17,6,1,"[42.5, 80.0]","[28.2, 65.2]",20.579845,-2.339014,Low Pass,Throw-in,,,,,,,,,,From Throw In
+3942752,Spain,José Ignacio Fernández Iglesias,Aymeric Laporte,17,9,1,"[25.1, 60.5]","[29.7, 23.8]",36.98716,-1.446106,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,José Ignacio Fernández Iglesias,17,15,1,"[41.5, 19.2]","[45.3, 48.1]",29.148756,1.4400585,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,José Ignacio Fernández Iglesias,Aymeric Laporte,17,22,1,"[48.7, 50.2]","[45.1, 19.2]",31.208332,-1.6864074,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,Marc Cucurella Saseta,17,32,1,"[66.7, 10.0]","[76.1, 1.3]",12.808201,-0.7467434,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,17,34,1,"[76.4, 3.1]","[59.2, 4.4]",17.249058,3.0661547,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,Rodrigo Hernández Cascante,17,39,1,"[62.9, 5.8]","[70.7, 2.5]",8.469357,-0.40024066,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Rodrigo Hernández Cascante,Aymeric Laporte,17,40,1,"[70.7, 2.5]","[62.6, 10.0]",11.0390215,2.394637,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,José Ignacio Fernández Iglesias,17,42,1,"[64.2, 12.0]","[64.0, 39.9]",27.900717,1.5779647,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,José Ignacio Fernández Iglesias,Lamine Yamal Nasraoui Ebana,17,47,1,"[69.3, 52.0]","[77.9, 56.6]",9.752948,0.4911636,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Fabián Ruiz Peña,17,48,1,"[77.9, 56.4]","[76.1, 43.5]",13.024976,-1.709436,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Fabián Ruiz Peña,Marc Cucurella Saseta,17,50,1,"[74.2, 44.4]","[101.5, 3.8]",48.924942,-0.9788255,High Pass,,,,,True,,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Nicholas Williams Arthuer,17,53,1,"[102.0, 4.9]","[104.2, 19.2]",14.468241,1.418147,High Pass,,,,,,Incomplete,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,18,55,1,"[25.4, 0.1]","[9.5, 6.4]",17.10263,2.7643435,Low Pass,Throw-in,,,,,,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,Marc Cucurella Saseta,18,56,1,"[9.3, 6.3]","[20.3, 1.6]",11.962023,-0.40379408,Ground Pass,,,,,,,,,,True,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,18,58,1,"[19.2, 2.2]","[7.8, 0.1]",11.591807,-2.9594243,Ground Pass,,,,,,Out,,,,True,From Throw In
+3942752,Spain,Unai Simón Mendibil,José Ignacio Fernández Iglesias,19,40,1,"[6.0, 42.2]","[17.8, 52.5]",15.663013,0.7176288,Ground Pass,Goal Kick,,,,,,,,,,From Goal Kick
+3942752,Spain,José Ignacio Fernández Iglesias,Aymeric Laporte,19,46,1,"[31.7, 52.0]","[30.7, 22.7]",29.31706,-1.6049128,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Aymeric Laporte,José Ignacio Fernández Iglesias,19,49,1,"[32.2, 23.9]","[40.7, 44.1]",21.91552,1.1724952,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,José Ignacio Fernández Iglesias,Rodrigo Hernández Cascante,19,53,1,"[47.8, 52.5]","[54.8, 31.1]",22.515772,-1.2546637,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Rodrigo Hernández Cascante,Marc Cucurella Saseta,19,57,1,"[62.9, 21.6]","[74.7, 4.2]",21.023796,-0.9748783,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Marc Cucurella Saseta,Rodrigo Hernández Cascante,19,59,1,"[75.4, 4.4]","[60.7, 6.1]",14.797973,3.0264578,Ground Pass,,,,,,,,,,True,From Goal Kick
+3942752,Spain,Rodrigo Hernández Cascante,Aymeric Laporte,20,1,1,"[56.2, 6.6]","[46.7, 24.7]",20.441624,2.054135,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Aymeric Laporte,José Ignacio Fernández Iglesias,20,6,1,"[45.3, 35.6]","[51.5, 48.9]",14.674127,1.1345809,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,José Ignacio Fernández Iglesias,Daniel Olmo Carvajal,20,8,1,"[54.5, 49.2]","[80.0, 40.8]",26.847904,-0.318217,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Daniel Olmo Carvajal,Álvaro Borja Morata Martín,20,10,1,"[85.3, 34.5]","[91.5, 43.6]",11.011357,0.9727185,Ground Pass,,,,,,Incomplete,,,,True,From Goal Kick
+3942752,Spain,Fabián Ruiz Peña,José Ignacio Fernández Iglesias,21,44,1,"[40.9, 13.6]","[35.0, 39.5]",26.563509,1.7947735,Ground Pass,Recovery,,,,,,,,,,Regular Play
+3942752,Spain,José Ignacio Fernández Iglesias,Rodrigo Hernández Cascante,21,49,1,"[38.9, 42.8]","[53.9, 43.0]",15.001333,0.013332543,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Aymeric Laporte,21,51,1,"[57.0, 43.6]","[47.0, 23.5]",22.450167,-2.0324519,Ground Pass,,,,,,,,,,True,Regular Play
+3942752,Spain,Aymeric Laporte,Nicholas Williams Arthuer,21,59,1,"[68.1, 16.6]","[80.6, 13.0]",13.008075,-0.2804116,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Nicholas Williams Arthuer,Álvaro Borja Morata Martín,22,0,1,"[81.4, 16.9]","[90.3, 22.8]",10.678015,0.58540523,Ground Pass,,,,,,,,,,True,Regular Play
+3942752,Spain,Álvaro Borja Morata Martín,Rodrigo Hernández Cascante,22,1,1,"[92.2, 22.8]","[77.8, 27.7]",15.210852,2.813605,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Lamine Yamal Nasraoui Ebana,22,3,1,"[74.0, 31.3]","[90.9, 64.5]",37.25386,1.0999459,Low Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Jesús Navas González,22,7,1,"[96.1, 67.8]","[116.2, 64.9]",20.308126,-0.1432898,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Jesús Navas González,Álvaro Borja Morata Martín,22,9,1,"[116.8, 64.9]","[117.2, 61.9]",3.026549,-1.4382448,Ground Pass,,,,,,Incomplete,,,,True,Regular Play
+3942752,Spain,Nicholas Williams Arthuer,Aymeric Laporte,22,39,1,"[120.0, 80.0]","[107.9, 41.6]",40.261272,-1.8760519,High Pass,Corner,Outswinging,,,,Incomplete,,,,,From Corner
+3942752,Spain,Daniel Olmo Carvajal,Fabián Ruiz Peña,22,44,1,"[97.5, 9.1]","[88.9, 12.7]",9.32309,2.7451513,Ground Pass,Recovery,,,,,,,,,,From Corner
+3942752,Spain,Fabián Ruiz Peña,José Ignacio Fernández Iglesias,22,46,1,"[88.9, 12.7]","[120.0, 46.7]",46.078304,0.8299156,High Pass,,,True,,,Out,,,,,From Corner
+3942752,Spain,Rodrigo Hernández Cascante,Nicholas Williams Arthuer,23,12,1,"[97.9, 31.9]","[84.7, 32.0]",13.200378,3.134017,Low Pass,Recovery,,,,,,,,,,Regular Play
+3942752,Spain,Nicholas Williams Arthuer,Fabián Ruiz Peña,23,16,1,"[88.6, 36.6]","[105.1, 45.3]",18.65315,0.485227,Ground Pass,,,,,,Incomplete,,,,,Regular Play
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Fabián Ruiz Peña,23,19,1,"[90.1, 47.0]","[109.3, 33.1]",23.703375,-0.62662506,High Pass,,,,,,Incomplete,,,,True,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Marc Cucurella Saseta,23,30,1,"[93.6, 9.4]","[77.9, 5.2]",16.252077,-2.8801975,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Daniel Olmo Carvajal,23,34,1,"[77.9, 5.2]","[79.3, 16.6]",11.485643,1.4486011,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Olmo Carvajal,Aymeric Laporte,23,35,1,"[79.0, 16.1]","[55.6, 10.2]",24.132343,-2.894604,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Rodrigo Hernández Cascante,23,40,1,"[66.2, 11.4]","[72.0, 6.1]",7.856844,-0.74038357,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,José Ignacio Fernández Iglesias,23,42,1,"[69.8, 13.6]","[62.6, 36.0]",23.528706,1.8817946,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,José Ignacio Fernández Iglesias,Aymeric Laporte,23,46,1,"[62.6, 36.3]","[62.0, 14.9]",21.40841,-1.5988264,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Daniel Olmo Carvajal,23,52,1,"[81.8, 10.8]","[95.3, 14.9]",14.108863,0.2948512,Ground Pass,,,,,,Incomplete,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,23,59,1,"[80.6, 0.1]","[69.5, 4.5]",11.940268,2.7641966,Low Pass,Throw-in,,,,,,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,Fabián Ruiz Peña,24,2,1,"[69.5, 4.5]","[81.1, 11.4]",13.497037,0.53660756,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Fabián Ruiz Peña,José Ignacio Fernández Iglesias,24,5,1,"[74.2, 14.4]","[63.1, 37.2]",25.35843,2.0238624,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,José Ignacio Fernández Iglesias,Lamine Yamal Nasraoui Ebana,24,10,1,"[67.6, 46.0]","[80.9, 55.8]",16.520594,0.63502675,Ground Pass,,,,,,,,,,True,From Throw In
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Daniel Olmo Carvajal,24,14,1,"[80.3, 39.2]","[91.4, 43.6]",11.940268,0.37739596,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Daniel Olmo Carvajal,Jesús Navas González,24,16,1,"[93.4, 48.8]","[106.7, 66.0]",21.742355,0.91257685,Ground Pass,,,,,,,,,,True,From Throw In
+3942752,Spain,Jesús Navas González,Álvaro Borja Morata Martín,24,19,1,"[106.7, 66.0]","[113.1, 41.6]",25.225384,-1.3142797,High Pass,,,True,,,Incomplete,,,,,From Throw In
+3942752,Spain,Unai Simón Mendibil,Aymeric Laporte,26,21,1,"[6.0, 34.9]","[15.9, 29.7]",11.182576,-0.48364493,Ground Pass,Goal Kick,,,,,,,,,,From Goal Kick
+3942752,Spain,Aymeric Laporte,Jesús Navas González,26,25,1,"[17.9, 25.8]","[28.7, 79.4]",54.677235,1.371966,High Pass,,,,,True,Out,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,Aymeric Laporte,28,51,1,"[6.0, 36.3]","[22.5, 22.8]",21.319006,-0.6857295,Ground Pass,Goal Kick,,,,,,,,,,From Goal Kick
+3942752,Spain,Aymeric Laporte,Unai Simón Mendibil,29,5,1,"[23.7, 22.8]","[10.0, 36.0]",19.024458,2.3747797,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,José Ignacio Fernández Iglesias,29,9,1,"[8.7, 41.4]","[14.5, 52.0]",12.083046,1.0701286,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,José Ignacio Fernández Iglesias,Unai Simón Mendibil,29,12,1,"[15.9, 53.5]","[7.2, 40.8]",15.394155,-2.1714108,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,Aymeric Laporte,29,14,1,"[7.3, 40.5]","[19.8, 13.0]",30.207615,-1.1441689,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Aymeric Laporte,Unai Simón Mendibil,29,17,1,"[19.3, 13.0]","[4.0, 34.4]",26.306843,2.1914878,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,José Ignacio Fernández Iglesias,29,19,1,"[4.7, 34.5]","[6.8, 53.5]",19.1157,1.4607168,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,José Ignacio Fernández Iglesias,Lamine Yamal Nasraoui Ebana,29,23,1,"[16.5, 64.5]","[34.2, 53.8]",20.682842,-0.5437362,Ground Pass,,,,,,,,,,True,From Goal Kick
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Unai Simón Mendibil,29,27,1,"[21.1, 64.2]","[4.2, 41.1]",28.622019,-2.202418,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,Aymeric Laporte,29,29,1,"[2.9, 41.0]","[6.1, 20.6]",20.649456,-1.4152015,Ground Pass,,,,,,,,,,True,From Goal Kick
+3942752,Spain,Aymeric Laporte,Marc Cucurella Saseta,29,32,1,"[11.1, 20.5]","[31.1, 4.2]",25.800968,-0.6838206,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,29,36,1,"[32.3, 3.6]","[15.7, 10.3]",17.901117,2.7579741,Ground Pass,,,,,,,,,,True,From Goal Kick
+3942752,Spain,Aymeric Laporte,Unai Simón Mendibil,29,37,1,"[12.0, 9.4]","[2.8, 33.9]",26.170403,1.9300143,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,Rodrigo Hernández Cascante,29,40,1,"[4.7, 34.2]","[27.6, 33.0]",22.93142,-0.052353863,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Rodrigo Hernández Cascante,Lamine Yamal Nasraoui Ebana,29,43,1,"[40.4, 38.5]","[55.9, 55.2]",22.784643,0.822648,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Jesús Navas González,29,47,1,"[75.4, 55.5]","[90.7, 74.4]",24.316662,0.8902751,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Jesús Navas González,Lamine Yamal Nasraoui Ebana,29,50,1,"[92.8, 74.4]","[88.2, 65.0]",10.46518,-2.025897,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Daniel Olmo Carvajal,29,52,1,"[88.6, 65.2]","[92.8, 52.0]",13.852076,-1.2627436,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Rodrigo Hernández Cascante,Fabián Ruiz Peña,30,8,1,"[20.9, 53.5]","[33.4, 43.5]",16.00781,-0.67474097,Ground Pass,Recovery,,,,,,,,,,From Goal Kick
+3942752,Spain,Fabián Ruiz Peña,Rodrigo Hernández Cascante,30,14,1,"[32.3, 35.6]","[37.2, 49.4]",14.644112,1.2296097,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Rodrigo Hernández Cascante,Daniel Olmo Carvajal,30,17,1,"[41.5, 48.9]","[57.6, 50.6]",16.189503,0.105200246,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Daniel Olmo Carvajal,Marc Cucurella Saseta,30,21,1,"[57.5, 44.1]","[70.1, 6.4]",39.749844,-1.2482502,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Marc Cucurella Saseta,Daniel Olmo Carvajal,30,28,1,"[90.4, 3.3]","[79.8, 9.4]",12.229881,2.6194038,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Daniel Olmo Carvajal,Fabián Ruiz Peña,30,30,1,"[79.3, 6.4]","[69.2, 5.5]",10.140019,-3.0527184,Ground Pass,,,,,,,,,,True,From Goal Kick
+3942752,Spain,Fabián Ruiz Peña,Daniel Olmo Carvajal,30,33,1,"[69.2, 6.1]","[73.4, 8.5]",4.8373547,0.5191461,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Daniel Olmo Carvajal,Aymeric Laporte,30,35,1,"[72.0, 10.5]","[58.9, 18.6]",15.401948,2.587811,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Aymeric Laporte,Fabián Ruiz Peña,30,39,1,"[61.5, 21.3]","[69.8, 9.1]",14.755677,-0.9733955,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Fabián Ruiz Peña,Nicholas Williams Arthuer,30,42,1,"[74.7, 8.3]","[83.6, 8.3]",8.9,0.0,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Nicholas Williams Arthuer,Fabián Ruiz Peña,30,43,1,"[83.6, 8.3]","[75.7, 7.5]",7.940403,-3.0406709,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Fabián Ruiz Peña,Nicholas Williams Arthuer,30,44,1,"[75.7, 7.5]","[82.9, 10.8]",7.920227,0.42976227,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Nicholas Williams Arthuer,Daniel Olmo Carvajal,30,45,1,"[83.1, 8.9]","[82.3, 12.7]",3.8832977,1.7782925,Ground Pass,,,,,,Incomplete,,,,True,From Goal Kick
+3942752,Spain,Nicholas Williams Arthuer,Álvaro Borja Morata Martín,30,51,1,"[105.4, 38.5]","[104.7, 34.4]",4.159327,-1.7398976,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Marc Cucurella Saseta,Daniel Olmo Carvajal,32,1,1,"[18.6, 4.4]","[32.2, 1.9]",13.82787,-0.18179399,Low Pass,Interception,,,,,Incomplete,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Fabián Ruiz Peña,32,27,1,"[26.1, 3.1]","[33.6, 10.2]",10.327633,0.75800776,Ground Pass,Free Kick,,,,,,,,,,From Free Kick
+3942752,Spain,Fabián Ruiz Peña,Jesús Navas González,32,30,1,"[35.3, 10.0]","[41.8, 70.8]",61.146465,1.464293,High Pass,,,,,True,,,,,,From Free Kick
+3942752,Spain,Jesús Navas González,José Ignacio Fernández Iglesias,32,36,1,"[46.1, 65.8]","[32.8, 54.1]",17.713837,-2.4201074,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,José Ignacio Fernández Iglesias,Jesús Navas González,32,47,1,"[51.8, 56.4]","[64.2, 72.4]",20.242529,0.91148627,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Jesús Navas González,José Ignacio Fernández Iglesias,32,50,1,"[55.9, 71.7]","[35.3, 67.7]",20.984756,-2.9498045,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,José Ignacio Fernández Iglesias,Unai Simón Mendibil,32,59,1,"[29.5, 59.9]","[10.0, 42.4]",26.201145,-2.410196,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Unai Simón Mendibil,Aymeric Laporte,33,3,1,"[14.3, 44.9]","[24.8, 17.7]",29.156303,-1.2023913,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Aymeric Laporte,Rodrigo Hernández Cascante,33,13,1,"[53.9, 14.4]","[57.6, 30.3]",16.324827,1.3421609,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Rodrigo Hernández Cascante,Aymeric Laporte,33,14,1,"[57.6, 30.3]","[51.7, 18.6]",13.103435,-2.0378568,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Aymeric Laporte,Álvaro Borja Morata Martín,33,16,1,"[54.8, 10.3]","[72.5, 31.7]",27.771389,0.8797464,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Álvaro Borja Morata Martín,Lamine Yamal Nasraoui Ebana,33,16,1,"[71.8, 30.3]","[88.9, 58.5]",32.979538,1.0256966,Low Pass,,,,,,Incomplete,,,,,From Free Kick
+3942752,Spain,Jesús Navas González,Daniel Olmo Carvajal,34,15,1,"[12.6, 80.0]","[27.8, 76.4]",15.6205,-0.23255694,Low Pass,Throw-in,,,,,Incomplete,,,,,From Throw In
+3942752,Spain,Rodrigo Hernández Cascante,Jesús Navas González,34,21,1,"[23.7, 63.0]","[19.0, 68.5]",7.2346387,2.2779233,Ground Pass,,,,,,,,,,True,From Throw In
+3942752,Spain,Jesús Navas González,Daniel Olmo Carvajal,34,22,1,"[19.0, 68.5]","[26.4, 75.0]",9.849365,0.7207402,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Daniel Olmo Carvajal,Lamine Yamal Nasraoui Ebana,34,24,1,"[26.4, 74.7]","[34.8, 75.8]",8.471718,0.13021144,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,José Ignacio Fernández Iglesias,Fabián Ruiz Peña,35,8,1,"[40.1, 76.1]","[49.7, 67.8]",12.690548,-0.71289974,Ground Pass,Free Kick,,,,,,,,,,From Free Kick
+3942752,Spain,Fabián Ruiz Peña,Rodrigo Hernández Cascante,35,9,1,"[49.7, 67.8]","[31.7, 60.0]",19.61734,-2.7326849,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Rodrigo Hernández Cascante,Aymeric Laporte,35,12,1,"[32.9, 56.6]","[37.2, 15.6]",41.224873,-1.4663002,Ground Pass,,,,,True,,,,,,From Free Kick
+3942752,Spain,Aymeric Laporte,Nicholas Williams Arthuer,35,19,1,"[53.1, 2.8]","[68.1, 7.7]",15.78005,0.3157386,Ground Pass,,,,,,,,,,True,From Free Kick
+3942752,Spain,Nicholas Williams Arthuer,Fabián Ruiz Peña,35,21,1,"[64.8, 7.2]","[52.5, 11.1]",12.903488,2.8345468,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Fabián Ruiz Peña,José Ignacio Fernández Iglesias,35,23,1,"[52.5, 11.1]","[56.5, 36.3]",25.515486,1.4133794,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,José Ignacio Fernández Iglesias,Lamine Yamal Nasraoui Ebana,35,30,1,"[81.2, 38.8]","[92.8, 56.6]",21.246176,0.9932372,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Fabián Ruiz Peña,35,33,1,"[94.3, 55.8]","[97.5, 37.8]",18.282232,-1.3948567,Ground Pass,,,,,,,True,,47535878-788d-40b0-9853-792bd47184cd,,From Free Kick
+3942752,Spain,Nicholas Williams Arthuer,,36,26,1,"[120.0, 0.1]","[117.2, 33.1]",33.118576,1.6554421,High Pass,Corner,Inswinging,,,,Incomplete,,,,,From Corner
+3942752,Spain,Nicholas Williams Arthuer,Fabián Ruiz Peña,36,30,1,"[90.1, 31.0]","[81.4, 61.1]",31.332092,1.8521649,High Pass,Recovery,,,,,,,,,,From Corner
+3942752,Spain,Fabián Ruiz Peña,Daniel Olmo Carvajal,36,36,1,"[84.7, 62.7]","[93.4, 39.1]",25.152534,-1.2176096,High Pass,,,,,,Incomplete,,,,,From Corner
+3942752,Spain,Marc Cucurella Saseta,Lamine Yamal Nasraoui Ebana,36,38,1,"[79.7, 24.7]","[89.0, 24.5]",9.302151,-0.021502063,Low Pass,Recovery,,,,,,,,,True,From Corner
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Álvaro Borja Morata Martín,36,40,1,"[94.7, 22.2]","[120.0, 73.6]",57.289177,1.1133938,High Pass,,,,,True,Out,,,,,From Corner
+3942752,Spain,Daniel Olmo Carvajal,Fabián Ruiz Peña,39,42,1,"[4.8, 19.9]","[24.2, 1.7]",26.600752,-0.7534941,High Pass,Recovery,,,,,Incomplete,,,,,From Corner
+3942752,Spain,Daniel Olmo Carvajal,Nicholas Williams Arthuer,39,46,1,"[17.2, 1.1]","[40.0, 3.1]",22.88755,0.08749534,High Pass,Recovery,,,,,,,,,True,Regular Play
+3942752,Spain,Nicholas Williams Arthuer,Lamine Yamal Nasraoui Ebana,39,55,1,"[93.4, 13.0]","[93.7, 57.4]",44.401012,1.5640397,Low Pass,,,,,True,,True,,3c24ca24-6156-4228-8b3e-fd44f06f8a8a,,Regular Play
+3942752,Spain,Nicholas Williams Arthuer,,40,41,1,"[120.0, 0.1]","[116.5, 41.7]",41.746975,1.6547333,High Pass,Corner,Inswinging,,,True,Incomplete,,,,,From Corner
+3942752,Spain,Marc Cucurella Saseta,Lamine Yamal Nasraoui Ebana,40,51,1,"[42.8, 10.0]","[55.7, 8.1]",13.039172,-0.14623542,Low Pass,Recovery,,,,,,,,,,From Keeper
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Nicholas Williams Arthuer,40,53,1,"[56.8, 8.5]","[82.9, 8.1]",26.103065,-0.015324471,High Pass,,,,,,Incomplete,,,,,From Keeper
+3942752,Spain,Fabián Ruiz Peña,Lamine Yamal Nasraoui Ebana,41,36,1,"[23.6, 40.5]","[35.9, 73.8]",35.499016,1.2169712,High Pass,Recovery,,,,,,,,,,Regular Play
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Fabián Ruiz Peña,41,43,1,"[53.7, 75.0]","[47.0, 67.2]",10.28251,-2.2804775,Ground Pass,,,,,,,,,,True,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Rodrigo Hernández Cascante,41,45,1,"[48.2, 67.7]","[38.1, 58.5]",13.661991,-2.402793,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Aymeric Laporte,41,50,1,"[42.6, 56.4]","[37.9, 18.1]",38.587303,-1.6929013,Low Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Marc Cucurella Saseta,42,3,1,"[63.1, 6.9]","[74.0, 9.1]",11.119802,0.19915922,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,42,4,1,"[74.0, 9.1]","[64.2, 7.0]",10.022474,-2.9304993,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Fabián Ruiz Peña,42,6,1,"[64.2, 7.0]","[51.1, 10.5]",13.559499,2.880515,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Aymeric Laporte,42,12,1,"[57.0, 10.8]","[50.9, 5.0]",8.417244,-2.3813992,Ground Pass,,,,,,,,,,True,Regular Play
+3942752,Spain,Aymeric Laporte,Nicholas Williams Arthuer,42,14,1,"[50.9, 5.0]","[76.7, 3.9]",25.823439,-0.04260985,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Nicholas Williams Arthuer,Aymeric Laporte,42,18,1,"[72.2, 8.3]","[53.2, 8.1]",19.001053,-3.1310668,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Marc Cucurella Saseta,42,22,1,"[53.2, 8.1]","[75.1, 1.9]",22.760712,-0.27588567,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Nicholas Williams Arthuer,42,24,1,"[77.9, 3.0]","[80.3, 22.8]",19.944923,1.4501727,High Pass,,,,,,Incomplete,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Fabián Ruiz Peña,44,2,1,"[19.7, 45.6]","[25.6, 24.9]",21.524405,-1.2931348,High Pass,Recovery,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Daniel Olmo Carvajal,44,8,1,"[38.6, 24.5]","[37.5, 15.0]",9.563472,-1.6860725,Ground Pass,,,,,,Incomplete,,,,True,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Daniel Olmo Carvajal,44,37,1,"[61.1, 0.1]","[67.5, 7.0]",9.411163,0.82297444,Low Pass,Throw-in,,,,,,,,,,From Throw In
+3942752,Spain,Daniel Olmo Carvajal,Marc Cucurella Saseta,44,38,1,"[67.6, 7.2]","[62.2, 2.4]",7.2249565,-2.4149504,Low Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Nicholas Williams Arthuer,Daniel Olmo Carvajal,44,45,1,"[86.4, 1.9]","[77.2, 2.2]",9.20489,3.1089954,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Daniel Olmo Carvajal,Lamine Yamal Nasraoui Ebana,44,47,1,"[78.7, 3.1]","[87.0, 48.3]",45.955738,1.3891912,High Pass,,,,,True,Incomplete,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,45,31,1,"[33.2, 3.8]","[22.6, 16.1]",16.237303,2.2820947,Ground Pass,Free Kick,,,,,,,,,,From Free Kick
+3942752,Spain,Aymeric Laporte,Unai Simón Mendibil,45,32,1,"[17.8, 11.7]","[5.4, 31.7]",23.532106,2.125792,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Unai Simón Mendibil,Lamine Yamal Nasraoui Ebana,45,36,1,"[4.7, 33.0]","[45.3, 69.9]",54.863194,0.7376925,High Pass,,,,,,,,,,True,From Free Kick
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Daniel Olmo Carvajal,45,42,1,"[41.4, 61.1]","[59.0, 53.9]",19.015783,-0.38831872,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,José Ignacio Fernández Iglesias,Fabián Ruiz Peña,46,21,1,"[54.8, 52.8]","[61.5, 33.1]",20.808172,-1.2429668,Ground Pass,Free Kick,,,,,,,,,,From Free Kick
+3942752,Spain,Fabián Ruiz Peña,Aymeric Laporte,46,22,1,"[61.5, 33.1]","[45.9, 18.3]",21.503489,-2.3825042,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Aymeric Laporte,Unai Simón Mendibil,46,25,1,"[40.0, 13.5]","[15.1, 37.7]",34.72247,2.3704503,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Unai Simón Mendibil,José Ignacio Fernández Iglesias,46,28,1,"[14.0, 37.7]","[19.8, 56.6]",19.769926,1.2730411,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Álvaro Borja Morata Martín,Daniel Olmo Carvajal,45,0,2,"[61.0, 40.1]","[58.0, 45.3]",6.0033326,2.0940747,Ground Pass,Kick Off,,,,,,,,,,From Kick Off
+3942752,Spain,Daniel Olmo Carvajal,Rodrigo Hernández Cascante,45,2,2,"[56.9, 45.3]","[49.0, 44.2]",7.9762144,-3.0032418,Ground Pass,,,,,,,,,,,From Kick Off
+3942752,Spain,Rodrigo Hernández Cascante,Fabián Ruiz Peña,45,3,2,"[49.0, 44.2]","[49.5, 24.8]",19.406443,-1.5450288,Ground Pass,,,,,,,,,,,From Kick Off
+3942752,Spain,Fabián Ruiz Peña,Marc Cucurella Saseta,45,8,2,"[56.7, 16.6]","[52.0, 6.4]",11.230762,-2.0025823,Ground Pass,,,,,,,,,,,From Kick Off
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,45,9,2,"[51.5, 6.9]","[27.5, 19.4]",27.060118,2.6614177,Ground Pass,,,,,,,,,,,From Kick Off
+3942752,Spain,Aymeric Laporte,Unai Simón Mendibil,45,17,2,"[28.8, 20.1]","[12.9, 35.4]",22.065811,2.375423,Ground Pass,,,,,,,,,,,From Kick Off
+3942752,Spain,Unai Simón Mendibil,Jesús Navas González,45,23,2,"[14.9, 38.5]","[42.6, 77.7]",47.99927,0.95563275,High Pass,,,,,,,,,,,From Kick Off
+3942752,Spain,Jesús Navas González,José Ignacio Fernández Iglesias,45,27,2,"[35.9, 78.1]","[2.2, 68.2]",35.124065,-2.8558626,High Pass,,,,,,,,,,,From Kick Off
+3942752,Spain,José Ignacio Fernández Iglesias,,45,30,2,"[2.2, 68.2]","[6.2, 80.0]",12.459535,1.2439697,High Pass,,,,,,Out,,,,,From Kick Off
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Daniel Olmo Carvajal,45,47,2,"[8.4, 77.0]","[14.9, 74.5]",6.9641943,-0.36717382,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Olmo Carvajal,Rodrigo Hernández Cascante,45,48,2,"[14.9, 74.3]","[9.6, 67.0]",9.021087,-2.1987777,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Álvaro Borja Morata Martín,45,49,2,"[9.6, 67.0]","[28.8, 66.8]",19.201042,-0.01041629,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Álvaro Borja Morata Martín,Fabián Ruiz Peña,45,51,2,"[27.9, 63.1]","[43.0, 55.5]",16.904734,-0.4662931,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Nicholas Williams Arthuer,45,53,2,"[42.8, 55.3]","[91.1, 8.7]",67.1152,-0.7674865,High Pass,,,,,True,,,,,,Regular Play
+3942752,Spain,Unai Simón Mendibil,Aymeric Laporte,47,7,2,"[6.8, 44.7]","[25.4, 63.5]",26.44617,0.79074574,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Lamine Yamal Nasraoui Ebana,47,9,2,"[25.4, 62.8]","[32.3, 66.2]",7.692204,0.4578337,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Lamine Yamal Nasraoui Ebana,José Ignacio Fernández Iglesias,47,10,2,"[32.1, 66.2]","[24.8, 64.1]",7.5960517,-2.8614848,Ground Pass,,,,,,,,,,True,Regular Play
+3942752,Spain,José Ignacio Fernández Iglesias,Jesús Navas González,47,11,2,"[24.6, 64.1]","[49.9, 77.3]",28.536469,0.4808873,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Lamine Yamal Nasraoui Ebana,47,31,2,"[42.1, 74.5]","[63.4, 75.2]",21.311499,0.032852028,Ground Pass,Free Kick,,,,,,,,,,From Free Kick
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Jesús Navas González,47,33,2,"[59.6, 72.6]","[57.0, 78.9]",6.8154235,1.9622015,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Jesús Navas González,Lamine Yamal Nasraoui Ebana,47,35,2,"[59.8, 78.3]","[56.3, 75.5]",4.482187,-2.4668517,Ground Pass,,,,,,,,,,True,From Free Kick
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Daniel Olmo Carvajal,47,36,2,"[56.9, 74.1]","[56.3, 67.2]",6.926038,-1.6575347,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Daniel Olmo Carvajal,Rodrigo Hernández Cascante,47,37,2,"[56.3, 66.8]","[46.5, 71.9]",11.047625,2.6617522,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Rodrigo Hernández Cascante,Fabián Ruiz Peña,47,39,2,"[46.3, 70.4]","[52.1, 42.1]",28.888233,-1.3686486,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Fabián Ruiz Peña,Aymeric Laporte,47,41,2,"[52.1, 42.1]","[32.9, 41.1]",19.226025,-3.0895565,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Aymeric Laporte,Nicholas Williams Arthuer,47,46,2,"[42.8, 15.6]","[105.1, 26.9]",63.316505,0.17942971,High Pass,,,,,,Incomplete,,,,,From Free Kick
+3942752,Spain,Jesús Navas González,Rodrigo Hernández Cascante,48,35,2,"[63.8, 80.0]","[64.5, 70.2]",9.824968,-1.4994888,Low Pass,Throw-in,,,,,,,,,,From Throw In
+3942752,Spain,Rodrigo Hernández Cascante,Lamine Yamal Nasraoui Ebana,48,36,2,"[70.9, 71.9]","[68.5, 77.9]",6.462198,1.9513026,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Daniel Olmo Carvajal,48,37,2,"[69.8, 78.1]","[91.1, 67.4]",23.836527,-0.46552378,High Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Daniel Olmo Carvajal,Jesús Navas González,48,41,2,"[94.2, 67.9]","[106.8, 75.2]",14.561936,0.5251086,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Jesús Navas González,Álvaro Borja Morata Martín,48,43,2,"[106.8, 75.2]","[113.8, 35.2]",40.60788,-1.3975507,High Pass,,,True,,True,Incomplete,,,,,From Throw In
+3942752,Spain,Nicholas Williams Arthuer,Marc Cucurella Saseta,48,51,2,"[114.8, 12.3]","[92.2, 19.9]",23.843657,2.8171897,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,48,53,2,"[88.9, 19.6]","[71.3, 32.2]",21.645323,2.5202692,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,Unai Simón Mendibil,48,56,2,"[71.3, 32.4]","[43.9, 45.7]",30.457348,2.689692,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Unai Simón Mendibil,Aymeric Laporte,49,1,2,"[48.1, 45.5]","[56.1, 25.3]",21.726482,-1.1937088,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,Nicholas Williams Arthuer,49,6,2,"[70.1, 23.1]","[85.3, 3.2]",25.040966,-0.9185095,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Nicholas Williams Arthuer,Daniel Olmo Carvajal,49,9,2,"[87.1, 3.9]","[88.1, 20.1]",16.230835,1.5091462,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Daniel Olmo Carvajal,Fabián Ruiz Peña,49,12,2,"[95.6, 18.0]","[99.0, 8.8]",9.80816,-1.2167989,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Fabián Ruiz Peña,Marc Cucurella Saseta,49,15,2,"[86.1, 6.3]","[79.0, 3.3]",7.7077885,-2.7418115,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,49,17,2,"[77.4, 3.2]","[48.5, 12.6]",30.390295,2.827126,Ground Pass,,,,,,,,,,True,From Throw In
+3942752,Spain,Aymeric Laporte,José Ignacio Fernández Iglesias,49,22,2,"[28.4, 19.9]","[37.7, 38.7]",20.974508,1.1114131,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,José Ignacio Fernández Iglesias,Fabián Ruiz Peña,49,25,2,"[36.8, 38.5]","[46.1, 38.0]",9.313431,-0.05371173,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Fabián Ruiz Peña,Daniel Olmo Carvajal,49,27,2,"[50.5, 32.0]","[69.8, 27.6]",19.795202,-0.22414835,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Daniel Olmo Carvajal,Marc Cucurella Saseta,49,29,2,"[69.8, 27.6]","[99.3, 9.7]",34.505943,-0.54538965,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Álvaro Borja Morata Martín,49,33,2,"[112.6, 11.2]","[114.8, 37.8]",26.690823,1.4882773,Ground Pass,,,True,,,Incomplete,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Daniel Olmo Carvajal,49,51,2,"[105.9, 0.1]","[103.9, 13.6]",13.647344,1.7178746,Low Pass,Throw-in,,,,,,,,,,From Throw In
+3942752,Spain,Daniel Olmo Carvajal,Marc Cucurella Saseta,49,52,2,"[103.9, 13.6]","[105.3, 4.1]",9.602604,-1.424481,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Nicholas Williams Arthuer,49,55,2,"[105.1, 5.1]","[111.2, 5.9]",6.1522355,0.13040331,Ground Pass,,,,,,,,,,True,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,50,14,2,"[106.8, 0.1]","[77.4, 8.7]",30.63201,2.8570151,Low Pass,Throw-in,,,,,,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,José Ignacio Fernández Iglesias,50,19,2,"[74.9, 12.3]","[64.5, 30.7]",21.135752,2.0852478,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,José Ignacio Fernández Iglesias,Fabián Ruiz Peña,50,20,2,"[64.5, 30.7]","[74.9, 34.7]",11.142711,0.36717382,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Fabián Ruiz Peña,Aymeric Laporte,50,25,2,"[75.3, 40.0]","[63.2, 21.6]",22.022034,-2.1525018,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,Nicholas Williams Arthuer,50,31,2,"[92.4, 23.6]","[117.6, 9.7]",28.779333,-0.50406104,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Rodrigo Hernández Cascante,Jesús Navas González,51,1,2,"[43.9, 3.7]","[42.2, 3.9]",1.7117243,3.024484,Ground Pass,,,,,,Incomplete,,,,True,From Throw In
+3942752,Spain,Unai Simón Mendibil,Aymeric Laporte,51,58,2,"[6.6, 37.1]","[13.5, 29.8]",10.044899,-0.8135597,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Nicholas Williams Arthuer,52,2,2,"[27.5, 15.8]","[48.1, 17.2]",20.647518,0.067856826,Ground Pass,,,,,,,,,,True,Regular Play
+3942752,Spain,Unai Simón Mendibil,Fabián Ruiz Peña,53,2,2,"[6.4, 36.7]","[29.1, 36.4]",22.701982,-0.01321509,Ground Pass,,,,,,,,,,,From Keeper
+3942752,Spain,Fabián Ruiz Peña,Aymeric Laporte,53,4,2,"[28.6, 34.2]","[20.6, 19.0]",17.17673,-2.0552742,Ground Pass,,,,,,,,,,,From Keeper
+3942752,Spain,Aymeric Laporte,Marc Cucurella Saseta,53,12,2,"[64.5, 12.5]","[87.3, 6.5]",23.57626,-0.2573237,Ground Pass,,,,,,,,,,,From Keeper
+3942752,Spain,Marc Cucurella Saseta,Daniel Olmo Carvajal,53,22,2,"[92.2, 43.8]","[87.5, 53.1]",10.420173,2.0387359,Ground Pass,,,,,,,,,,,From Keeper
+3942752,Spain,Daniel Olmo Carvajal,Lamine Yamal Nasraoui Ebana,53,24,2,"[90.1, 54.0]","[92.6, 61.9]",8.286133,1.2643118,Ground Pass,,,,,,,,,,,From Keeper
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Jesús Navas González,53,25,2,"[92.6, 66.2]","[105.7, 68.8]",13.355523,0.19592713,Ground Pass,,,,,,,,,,,From Keeper
+3942752,Spain,Jesús Navas González,Rodrigo Hernández Cascante,54,54,2,"[4.6, 80.0]","[10.6, 72.4]",9.682975,-0.9025069,Low Pass,Throw-in,,,,,,,,,,From Throw In
+3942752,Spain,Rodrigo Hernández Cascante,Lamine Yamal Nasraoui Ebana,54,57,2,"[14.9, 77.5]","[36.8, 77.9]",21.903652,0.01826281,Ground Pass,,,,,,,,,,True,From Throw In
+3942752,Spain,Rodrigo Hernández Cascante,José Ignacio Fernández Iglesias,55,32,2,"[28.4, 54.4]","[21.1, 53.5]",7.3552704,-3.018924,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,José Ignacio Fernández Iglesias,Rodrigo Hernández Cascante,55,33,2,"[21.1, 53.5]","[27.7, 55.7]",6.9570107,0.32175055,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Fabián Ruiz Peña,55,34,2,"[27.7, 55.5]","[30.6, 47.8]",8.228001,-1.2106032,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Nicholas Williams Arthuer,55,36,2,"[35.9, 43.7]","[100.8, 25.3]",67.45792,-0.27626342,Low Pass,,,,,,Incomplete,,,,,Regular Play
+3942752,Spain,Unai Simón Mendibil,José Ignacio Fernández Iglesias,58,19,2,"[13.9, 42.9]","[14.7, 58.4]",15.520632,1.5192292,Ground Pass,,,,,,,,,,,Other
+3942752,Spain,José Ignacio Fernández Iglesias,Lamine Yamal Nasraoui Ebana,58,25,2,"[29.9, 67.9]","[48.5, 73.2]",19.340372,0.27758944,Ground Pass,,,,,,,,,,,Other
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Daniel Olmo Carvajal,58,28,2,"[43.6, 71.0]","[47.9, 51.8]",19.67562,-1.3504735,Ground Pass,,,,,,,,,,,Other
+3942752,Spain,Daniel Olmo Carvajal,Nicholas Williams Arthuer,58,30,2,"[49.4, 46.7]","[70.7, 4.3]",47.449448,-1.1052637,Ground Pass,,,,,True,,,,,,Other
+3942752,Spain,Nicholas Williams Arthuer,Marc Cucurella Saseta,58,37,2,"[78.6, 4.3]","[64.7, 5.7]",13.970325,3.0412118,Ground Pass,,,,,,,,,,,Other
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,58,39,2,"[64.7, 7.9]","[47.9, 13.6]",17.740631,2.8144946,Ground Pass,,,,,,,,,,,Other
+3942752,Spain,Aymeric Laporte,José Ignacio Fernández Iglesias,58,41,2,"[47.9, 13.6]","[43.0, 47.6]",34.351273,1.7139285,Ground Pass,,,,,,,,,,,Other
+3942752,Spain,José Ignacio Fernández Iglesias,Rodrigo Hernández Cascante,58,44,2,"[48.5, 50.8]","[56.9, 43.8]",10.93435,-0.69473827,Ground Pass,,,,,,,,,,,Other
+3942752,Spain,Rodrigo Hernández Cascante,José Ignacio Fernández Iglesias,58,45,2,"[56.9, 43.8]","[49.5, 52.8]",11.651609,2.2589412,Ground Pass,,,,,,,,,,,Other
+3942752,Spain,José Ignacio Fernández Iglesias,Fabián Ruiz Peña,58,46,2,"[49.5, 52.8]","[65.3, 54.2]",15.861904,0.08837678,Ground Pass,,,,,,,,,,,Other
+3942752,Spain,Fabián Ruiz Peña,Álvaro Borja Morata Martín,58,52,2,"[63.2, 62.1]","[73.3, 49.1]",16.462381,-0.91028595,Ground Pass,,,,,,,,,,,Other
+3942752,Spain,Fabián Ruiz Peña,Aymeric Laporte,59,0,2,"[72.5, 48.6]","[57.0, 28.7]",25.224195,-2.232535,Ground Pass,Free Kick,,,,,,,,,,From Free Kick
+3942752,Spain,Aymeric Laporte,Marc Cucurella Saseta,59,4,2,"[70.9, 23.4]","[69.7, 7.5]",15.945219,-1.6461252,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Marc Cucurella Saseta,Nicholas Williams Arthuer,59,6,2,"[70.1, 7.5]","[85.1, 2.4]",15.843295,-0.3277385,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Marc Cucurella Saseta,Rodrigo Hernández Cascante,59,15,2,"[78.8, 11.0]","[77.1, 18.3]",7.495332,1.7995951,Ground Pass,Recovery,,,,,,,,,True,From Free Kick
+3942752,Spain,Rodrigo Hernández Cascante,Daniel Vivian Moreno,59,16,2,"[77.2, 19.8]","[60.5, 25.4]",17.613914,2.8180468,Ground Pass,,,,,,,,,,True,From Free Kick
+3942752,Spain,Daniel Vivian Moreno,Aymeric Laporte,59,18,2,"[60.4, 25.4]","[60.5, 11.4]",14.000357,-1.5636536,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Aymeric Laporte,Marc Cucurella Saseta,59,23,2,"[63.6, 10.8]","[66.9, 3.9]",7.648529,-1.1246908,Ground Pass,,,,,,,,,,True,From Free Kick
+3942752,Spain,Aymeric Laporte,Nicholas Williams Arthuer,60,27,2,"[40.5, 48.6]","[77.9, 6.2]",56.537773,-0.847973,High Pass,Free Kick,,,,True,Incomplete,,,,,From Free Kick
+3942752,Spain,Unai Simón Mendibil,Aymeric Laporte,62,47,2,"[7.0, 40.5]","[31.5, 21.4]",31.065414,-0.6621725,Ground Pass,Goal Kick,,,,,,,,,,From Goal Kick
+3942752,Spain,Aymeric Laporte,Lamine Yamal Nasraoui Ebana,62,50,2,"[42.8, 19.0]","[88.4, 62.6]",63.08978,0.7629804,High Pass,,,,,True,Incomplete,,,,,From Goal Kick
+3942752,Spain,Marc Cucurella Saseta,Fabián Ruiz Peña,63,31,2,"[83.1, 0.1]","[78.6, 12.3]",13.003461,1.9241666,Low Pass,Throw-in,,,,,,,,,,From Throw In
+3942752,Spain,Fabián Ruiz Peña,Marc Cucurella Saseta,63,32,2,"[78.8, 12.1]","[84.6, 4.5]",9.560335,-0.9189272,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Nicholas Williams Arthuer,63,35,2,"[91.1, 7.9]","[98.6, 4.3]",8.319255,-0.44752,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Nicholas Williams Arthuer,Aymeric Laporte,63,40,2,"[90.8, 4.3]","[63.4, 17.0]",30.200165,2.707566,Ground Pass,,,,,,,,,,True,From Throw In
+3942752,Spain,Aymeric Laporte,Fabián Ruiz Peña,63,43,2,"[62.5, 17.2]","[69.8, 18.0]",7.3437047,0.109153464,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Daniel Olmo Carvajal,63,54,2,"[72.7, 14.4]","[75.4, 38.7]",24.44954,1.4601392,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Daniel Olmo Carvajal,Álvaro Borja Morata Martín,63,59,2,"[90.2, 43.3]","[91.5, 28.1]",15.255491,-1.4854777,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Álvaro Borja Morata Martín,Nicholas Williams Arthuer,64,1,2,"[91.9, 24.9]","[100.8, 7.3]",19.722322,-1.1026136,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Nicholas Williams Arthuer,Marc Cucurella Saseta,64,4,2,"[103.1, 6.7]","[87.9, 8.8]",15.34438,3.004304,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Rodrigo Hernández Cascante,64,6,2,"[87.9, 8.8]","[82.7, 14.6]",7.7897367,2.301703,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Rodrigo Hernández Cascante,Aymeric Laporte,64,9,2,"[80.2, 15.8]","[62.2, 36.9]",27.734636,2.277076,Ground Pass,,,,,,,,,,True,From Throw In
+3942752,Spain,Aymeric Laporte,Daniel Vivian Moreno,64,11,2,"[62.2, 36.9]","[62.7, 61.1]",24.205164,1.5501381,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Daniel Vivian Moreno,Fabián Ruiz Peña,64,13,2,"[62.7, 61.1]","[70.5, 50.6]",13.080137,-0.9318823,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Fabián Ruiz Peña,Aymeric Laporte,64,15,2,"[70.5, 50.6]","[53.4, 40.9]",19.659603,-2.625601,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,Álvaro Borja Morata Martín,64,22,2,"[64.0, 24.7]","[77.4, 26.9]",13.579396,0.16272737,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Álvaro Borja Morata Martín,Marc Cucurella Saseta,64,25,2,"[72.2, 18.0]","[70.7, 6.3]",11.795762,-1.6983058,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Aymeric Laporte,64,27,2,"[68.7, 6.3]","[56.7, 8.1]",12.134249,2.9927027,Ground Pass,,,,,,,,,,True,From Throw In
+3942752,Spain,Aymeric Laporte,Daniel Vivian Moreno,64,30,2,"[57.0, 10.8]","[47.4, 38.9]",29.694613,1.9000015,Low Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Daniel Vivian Moreno,Daniel Olmo Carvajal,64,34,2,"[56.9, 45.8]","[73.3, 39.3]",17.641146,-0.37734848,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Daniel Olmo Carvajal,José Ignacio Fernández Iglesias,64,35,2,"[73.3, 38.5]","[64.9, 77.1]",39.503418,1.7850721,High Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Unai Simón Mendibil,Aymeric Laporte,65,17,2,"[6.5, 40.7]","[18.6, 23.1]",21.358137,-0.96850896,Ground Pass,Goal Kick,,,,,,,,,,From Goal Kick
+3942752,Spain,Aymeric Laporte,Unai Simón Mendibil,65,23,2,"[27.2, 20.9]","[11.8, 34.4]",20.479502,2.421844,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,Daniel Vivian Moreno,65,26,2,"[12.7, 39.1]","[16.2, 56.6]",17.84657,1.3734008,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Daniel Vivian Moreno,Unai Simón Mendibil,65,32,2,"[22.8, 61.9]","[8.2, 41.9]",24.762068,-2.201374,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,Aymeric Laporte,65,34,2,"[8.2, 41.9]","[19.7, 24.1]",21.191744,-0.99719065,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Aymeric Laporte,Unai Simón Mendibil,65,47,2,"[52.9, 20.1]","[26.4, 35.2]",30.500164,2.6236665,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,Daniel Vivian Moreno,65,53,2,"[26.2, 35.2]","[32.5, 63.1]",28.602448,1.3487145,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Daniel Vivian Moreno,Fabián Ruiz Peña,65,56,2,"[36.6, 63.5]","[44.3, 57.1]",10.012492,-0.6934595,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Fabián Ruiz Peña,Daniel Vivian Moreno,65,58,2,"[44.3, 57.1]","[37.9, 62.6]",8.4386015,2.431681,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Daniel Vivian Moreno,Lamine Yamal Nasraoui Ebana,66,1,2,"[43.0, 63.9]","[90.8, 55.1]",48.60329,-0.18206182,High Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,Daniel Vivian Moreno,66,52,2,"[7.0, 43.8]","[8.9, 58.4]",14.723111,1.4413866,Ground Pass,Goal Kick,,,,,,,,,,From Goal Kick
+3942752,Spain,Daniel Vivian Moreno,Unai Simón Mendibil,66,53,2,"[8.9, 58.4]","[4.2, 45.3]",13.917615,-1.9152702,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,Daniel Olmo Carvajal,66,59,2,"[12.9, 46.9]","[48.9, 35.2]",37.853535,-0.3142319,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Daniel Olmo Carvajal,Fabián Ruiz Peña,67,2,2,"[44.3, 35.6]","[39.0, 31.8]",6.521503,-2.5195606,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Fabián Ruiz Peña,Rodrigo Hernández Cascante,67,3,2,"[39.0, 31.8]","[43.6, 53.0]",21.693317,1.3571273,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Rodrigo Hernández Cascante,Lamine Yamal Nasraoui Ebana,67,7,2,"[67.8, 57.1]","[79.3, 77.5]",23.418156,1.0574764,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Lamine Yamal Nasraoui Ebana,José Ignacio Fernández Iglesias,67,11,2,"[83.9, 76.3]","[63.6, 75.0]",20.341583,-3.0776405,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,José Ignacio Fernández Iglesias,Daniel Vivian Moreno,67,14,2,"[63.6, 75.0]","[48.9, 62.3]",19.426271,-2.429058,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Daniel Vivian Moreno,Unai Simón Mendibil,67,18,2,"[48.9, 62.3]","[23.6, 46.2]",29.98833,-2.5748634,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,Aymeric Laporte,67,21,2,"[27.5, 44.9]","[36.6, 30.0]",17.459095,-1.0225184,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Aymeric Laporte,Unai Simón Mendibil,67,26,2,"[39.9, 27.4]","[23.2, 39.5]",20.622803,2.5145788,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,Daniel Vivian Moreno,67,28,2,"[24.4, 42.9]","[34.5, 62.6]",22.138203,1.097048,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Daniel Vivian Moreno,Lamine Yamal Nasraoui Ebana,67,33,2,"[41.2, 64.2]","[57.2, 65.7]",16.070158,0.09347678,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Lamine Yamal Nasraoui Ebana,José Ignacio Fernández Iglesias,67,34,2,"[57.2, 65.7]","[66.1, 78.5]",15.590061,0.9632233,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,José Ignacio Fernández Iglesias,Daniel Vivian Moreno,67,40,2,"[62.9, 77.9]","[42.4, 78.1]",20.500975,3.131837,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Daniel Vivian Moreno,Unai Simón Mendibil,67,43,2,"[35.9, 77.5]","[11.1, 55.9]",32.887688,-2.425051,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,José Ignacio Fernández Iglesias,67,48,2,"[11.5, 56.9]","[50.1, 77.9]",43.94269,0.498257,High Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,José Ignacio Fernández Iglesias,Lamine Yamal Nasraoui Ebana,67,50,2,"[50.1, 77.9]","[58.8, 77.3]",8.720665,-0.06885649,Low Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Lamine Yamal Nasraoui Ebana,José Ignacio Fernández Iglesias,67,52,2,"[57.6, 78.3]","[56.3, 78.3]",1.3,3.1415927,Ground Pass,,,,,,Incomplete,,,,True,From Goal Kick
+3942752,Spain,Aymeric Laporte,Unai Simón Mendibil,68,42,2,"[25.7, 28.0]","[12.2, 37.1]",16.280663,2.5484793,Ground Pass,Free Kick,,,,,,,,,,From Free Kick
+3942752,Spain,Unai Simón Mendibil,Aymeric Laporte,68,45,2,"[16.2, 35.6]","[16.9, 24.1]",11.521285,-1.5100018,Ground Pass,,,,,,,,,,True,From Free Kick
+3942752,Spain,Aymeric Laporte,Unai Simón Mendibil,68,47,2,"[17.1, 23.4]","[5.6, 39.3]",19.622946,2.19697,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Unai Simón Mendibil,José Ignacio Fernández Iglesias,68,50,2,"[7.8, 40.5]","[39.4, 77.7]",48.809834,0.86661446,High Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,José Ignacio Fernández Iglesias,Daniel Vivian Moreno,68,54,2,"[42.6, 77.1]","[41.4, 75.2]",2.2472205,-2.1341126,Ground Pass,,,,,,Incomplete,,,,,From Free Kick
+3942752,Spain,José Ignacio Fernández Iglesias,Fabián Ruiz Peña,69,15,2,"[45.7, 80.0]","[49.4, 71.7]",9.087354,-1.1514547,Low Pass,Throw-in,,,,,,,,,,From Throw In
+3942752,Spain,Fabián Ruiz Peña,Rodrigo Hernández Cascante,69,17,2,"[49.4, 73.2]","[37.5, 77.5]",12.653063,2.7948472,Ground Pass,,,,,,,,,,True,From Throw In
+3942752,Spain,Rodrigo Hernández Cascante,Fabián Ruiz Peña,69,18,2,"[36.6, 77.1]","[43.0, 66.6]",12.296747,-1.0234034,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Fabián Ruiz Peña,Marc Cucurella Saseta,69,20,2,"[42.1, 60.1]","[55.8, 33.2]",30.187746,-1.0997415,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Nicholas Williams Arthuer,69,24,2,"[70.5, 24.3]","[85.3, 7.3]",22.539743,-0.8544705,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Nicholas Williams Arthuer,Marc Cucurella Saseta,69,28,2,"[99.2, 12.3]","[111.2, 19.6]",14.045996,0.5465244,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Álvaro Borja Morata Martín,69,29,2,"[115.2, 21.6]","[114.8, 23.4]",1.8439089,1.7894653,Ground Pass,,,,,,Incomplete,,,,,From Throw In
+3942752,Spain,Unai Simón Mendibil,Aymeric Laporte,69,44,2,"[20.4, 17.8]","[31.5, 13.0]",12.093387,-0.4081491,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,Fabián Ruiz Peña,69,47,2,"[33.9, 12.3]","[44.3, 10.5]",10.55462,-0.17137912,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Fabián Ruiz Peña,Aymeric Laporte,69,52,2,"[48.9, 10.5]","[36.3, 13.0]",12.845622,2.9457238,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,José Ignacio Fernández Iglesias,69,56,2,"[39.4, 13.4]","[67.1, 74.3]",66.90366,1.1439214,High Pass,,,,,True,Incomplete,,,,,From Throw In
+3942752,Spain,Nicholas Williams Arthuer,Álvaro Borja Morata Martín,70,15,2,"[44.3, 7.7]","[42.2, 15.8]",8.367795,1.8244704,Low Pass,Recovery,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Aymeric Laporte,70,51,2,"[43.2, 22.7]","[49.7, 6.3]",17.641146,-1.1934478,Ground Pass,Free Kick,,,,,,,,,,From Free Kick
+3942752,Spain,Aymeric Laporte,Rodrigo Hernández Cascante,70,54,2,"[55.6, 5.9]","[63.4, 22.5]",18.341211,1.1315341,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Rodrigo Hernández Cascante,Álvaro Borja Morata Martín,70,56,2,"[67.1, 23.4]","[75.3, 16.0]",11.045361,-0.734161,Ground Pass,,,,,,,,,,True,From Free Kick
+3942752,Spain,Daniel Vivian Moreno,Álvaro Borja Morata Martín,73,3,2,"[56.9, 55.7]","[70.5, 9.5]",48.16015,-1.2845105,High Pass,,,,,True,,,,,,Regular Play
+3942752,Spain,Álvaro Borja Morata Martín,Daniel Olmo Carvajal,73,7,2,"[70.5, 9.7]","[70.3, 26.7]",17.001177,1.5825605,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Olmo Carvajal,Fabián Ruiz Peña,73,9,2,"[70.1, 26.7]","[63.4, 27.6]",6.7601776,3.0080636,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Marc Cucurella Saseta,73,10,2,"[63.4, 27.6]","[64.5, 16.8]",10.855874,-1.4692945,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Daniel Olmo Carvajal,73,12,2,"[65.3, 17.0]","[71.8, 20.9]",7.5802374,0.5404195,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Olmo Carvajal,Rodrigo Hernández Cascante,73,13,2,"[71.8, 20.9]","[64.3, 30.2]",11.947385,2.2494588,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,José Ignacio Fernández Iglesias,73,15,2,"[64.2, 34.0]","[59.2, 58.7]",25.200993,1.7705265,Ground Pass,,,,,,,,,,True,Regular Play
+3942752,Spain,José Ignacio Fernández Iglesias,Lamine Yamal Nasraoui Ebana,73,16,2,"[59.2, 58.7]","[76.8, 73.2]",22.803728,0.6891235,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Nicholas Williams Arthuer,73,25,2,"[95.6, 70.8]","[100.3, 76.1]",7.083784,0.8453263,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Nicholas Williams Arthuer,Lamine Yamal Nasraoui Ebana,73,27,2,"[99.9, 76.1]","[95.4, 73.9]",5.0089917,-2.6868734,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Fabián Ruiz Peña,73,28,2,"[94.8, 75.0]","[79.6, 55.9]",24.410038,-2.242978,High Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Aymeric Laporte,73,32,2,"[79.6, 55.9]","[69.1, 26.9]",30.84234,-1.9181823,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Marc Cucurella Saseta,73,34,2,"[69.1, 26.9]","[88.4, 4.5]",29.567719,-0.8596022,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Fabián Ruiz Peña,73,37,2,"[89.5, 4.5]","[78.8, 17.8]",17.069857,2.248282,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Daniel Olmo Carvajal,73,41,2,"[78.8, 17.8]","[84.4, 27.1]",10.855874,1.028797,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Olmo Carvajal,Aymeric Laporte,73,43,2,"[79.8, 27.8]","[65.3, 20.9]",16.05802,-2.697441,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Fabián Ruiz Peña,73,47,2,"[66.7, 20.1]","[72.5, 12.5]",9.560335,-0.9189272,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Rodrigo Hernández Cascante,73,48,2,"[72.5, 12.6]","[73.1, 22.7]",10.117806,1.5114601,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Daniel Olmo Carvajal,73,50,2,"[75.8, 24.5]","[76.8, 39.1]",14.634207,1.5024099,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Olmo Carvajal,José Ignacio Fernández Iglesias,73,52,2,"[73.6, 39.5]","[63.8, 57.1]",20.144478,2.078859,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,José Ignacio Fernández Iglesias,Daniel Olmo Carvajal,73,56,2,"[65.8, 57.5]","[71.1, 49.6]",9.513149,-0.9798783,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Olmo Carvajal,Rodrigo Hernández Cascante,73,58,2,"[71.3, 49.6]","[69.3, 36.2]",13.548431,-1.7189564,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Fabián Ruiz Peña,74,0,2,"[70.1, 36.9]","[72.2, 23.6]",13.464768,-1.4141945,Ground Pass,,,,,,,,,,True,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Aymeric Laporte,74,3,2,"[72.9, 21.6]","[62.0, 25.4]",11.543396,2.8061442,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Rodrigo Hernández Cascante,74,5,2,"[65.3, 25.9]","[78.6, 29.4]",13.752818,0.2573237,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Marc Cucurella Saseta,74,7,2,"[83.9, 29.6]","[100.1, 5.7]",28.872997,-0.975109,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Daniel Olmo Carvajal,74,14,2,"[84.6, 10.8]","[78.6, 29.8]",19.924858,1.8766752,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Olmo Carvajal,José Ignacio Fernández Iglesias,74,16,2,"[77.1, 35.2]","[70.7, 61.7]",27.261879,1.807768,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,José Ignacio Fernández Iglesias,Daniel Vivian Moreno,74,18,2,"[70.5, 61.7]","[58.0, 52.2]",15.700318,-2.491722,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Vivian Moreno,Unai Simón Mendibil,74,20,2,"[56.7, 54.6]","[28.4, 41.3]",31.269474,-2.7022607,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Unai Simón Mendibil,Aymeric Laporte,74,24,2,"[28.4, 41.5]","[36.5, 30.0]",14.066272,-0.9571583,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Unai Simón Mendibil,74,29,2,"[36.8, 28.1]","[18.6, 38.3]",20.863365,2.6307697,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Unai Simón Mendibil,Daniel Vivian Moreno,74,32,2,"[18.6, 39.1]","[32.1, 61.1]",25.81182,1.0204104,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Vivian Moreno,Lamine Yamal Nasraoui Ebana,74,37,2,"[40.2, 62.4]","[79.6, 55.3]",40.03461,-0.1782896,High Pass,,,,,,Incomplete,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Nicholas Williams Arthuer,75,3,2,"[8.8, 35.8]","[16.2, 30.0]",9.402127,-0.6647745,Low Pass,Recovery,,,,,Incomplete,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Unai Simón Mendibil,76,10,2,"[7.0, 33.4]","[3.3, 42.1]",9.4541,1.9729103,Ground Pass,Goal Kick,,,,,,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,Mikel Oyarzabal Ugarte,76,13,2,"[8.4, 42.1]","[64.7, 26.9]",58.315777,-0.26369527,High Pass,,,,,,Incomplete,,,,,From Goal Kick
+3942752,Spain,Mikel Merino Zazón,Rodrigo Hernández Cascante,76,25,2,"[72.5, 14.8]","[62.4, 28.9]",17.344164,2.1923864,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Rodrigo Hernández Cascante,Fabián Ruiz Peña,76,28,2,"[62.2, 33.6]","[67.5, 44.0]",11.672618,1.099486,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Fabián Ruiz Peña,Daniel Vivian Moreno,76,28,2,"[67.5, 44.0]","[51.5, 50.6]",17.307802,2.7503572,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Daniel Vivian Moreno,José Ignacio Fernández Iglesias,76,30,2,"[50.5, 53.5]","[58.2, 69.2]",17.486567,1.1148212,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,José Ignacio Fernández Iglesias,Fabián Ruiz Peña,76,33,2,"[58.8, 71.4]","[63.8, 64.8]",8.280097,-0.9224643,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Fabián Ruiz Peña,Daniel Vivian Moreno,76,37,2,"[49.5, 66.4]","[34.5, 66.0]",15.005332,-3.1149323,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Daniel Vivian Moreno,Unai Simón Mendibil,76,40,2,"[34.5, 66.0]","[14.4, 44.5]",29.432295,-2.3225534,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,Fabián Ruiz Peña,76,43,2,"[14.4, 44.5]","[28.6, 45.5]",14.2351675,0.070306465,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Fabián Ruiz Peña,Unai Simón Mendibil,76,45,2,"[28.6, 45.5]","[10.6, 39.1]",19.103926,-2.799977,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,Marc Cucurella Saseta,76,48,2,"[10.9, 37.8]","[22.4, 23.1]",18.663868,-0.9069336,High Pass,,,,,,Incomplete,,,,,From Goal Kick
+3942752,Spain,Unai Simón Mendibil,Mikel Merino Zazón,77,20,2,"[7.0, 34.6]","[78.8, 9.2]",76.160355,-0.34002095,High Pass,Goal Kick,,,,,,,,,,From Goal Kick
+3942752,Spain,Mikel Merino Zazón,Nicholas Williams Arthuer,77,23,2,"[78.8, 9.2]","[92.0, 13.4]",13.852076,0.30805278,High Pass,,,,,,,,,,True,From Goal Kick
+3942752,Spain,Nicholas Williams Arthuer,Mikel Oyarzabal Ugarte,77,25,2,"[91.7, 11.7]","[102.8, 16.0]",11.903781,0.36958638,High Pass,,,,,,,,,,True,From Goal Kick
+3942752,Spain,Mikel Oyarzabal Ugarte,Nicholas Williams Arthuer,77,26,2,"[102.8, 16.0]","[102.8, 17.6]",1.6,1.5707964,Low Pass,,,,,,Incomplete,,,,True,From Goal Kick
+3942752,Spain,Daniel Vivian Moreno,,77,53,2,"[10.0, 78.1]","[11.8, 77.5]",1.8973666,-0.32175055,Low Pass,,,,,,Incomplete,,,,,Regular Play
+3942752,Spain,José Ignacio Fernández Iglesias,Mikel Merino Zazón,78,40,2,"[9.1, 80.0]","[30.6, 77.0]",21.708294,-0.13863973,High Pass,Throw-in,,,,,,,,,,From Throw In
+3942752,Spain,Mikel Merino Zazón,Rodrigo Hernández Cascante,78,42,2,"[31.7, 76.7]","[27.9, 73.0]",5.3037724,-2.369527,Low Pass,,,,,,,,,,True,From Throw In
+3942752,Spain,Mikel Merino Zazón,Lamine Yamal Nasraoui Ebana,78,45,2,"[34.8, 74.5]","[45.7, 74.8]",10.904128,0.027515989,Ground Pass,,,,,,,,,,True,From Throw In
+3942752,Spain,José Ignacio Fernández Iglesias,Mikel Merino Zazón,79,8,2,"[44.1, 69.2]","[65.8, 62.3]",22.770596,-0.30786255,Ground Pass,Free Kick,,,,,,,,,,From Free Kick
+3942752,Spain,Mikel Merino Zazón,Lamine Yamal Nasraoui Ebana,79,11,2,"[66.5, 67.9]","[66.1, 76.5]",8.609298,1.6172744,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Lamine Yamal Nasraoui Ebana,Mikel Oyarzabal Ugarte,79,13,2,"[70.1, 77.7]","[80.6, 59.3]",21.185137,-1.0522357,Low Pass,,,,,,Incomplete,,,,,From Free Kick
+3942752,Spain,José Ignacio Fernández Iglesias,Rodrigo Hernández Cascante,80,6,2,"[8.6, 59.5]","[22.8, 59.9]",14.205632,0.028161567,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Mikel Oyarzabal Ugarte,80,11,2,"[43.0, 53.0]","[50.5, 14.6]",39.12557,-1.377912,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Mikel Oyarzabal Ugarte,Rodrigo Hernández Cascante,80,17,2,"[48.7, 23.4]","[50.7, 33.8]",10.590562,1.380808,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Mikel Merino Zazón,80,19,2,"[56.7, 39.3]","[57.0, 47.1]",7.805767,1.5323538,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Mikel Merino Zazón,Daniel Vivian Moreno,80,20,2,"[57.0, 47.1]","[41.4, 48.2]",15.638734,3.0711963,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Vivian Moreno,José Ignacio Fernández Iglesias,80,23,2,"[42.2, 49.4]","[44.3, 71.7]",22.39866,1.4769028,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,José Ignacio Fernández Iglesias,Mikel Merino Zazón,80,25,2,"[44.3, 71.7]","[48.5, 54.9]",17.317043,-1.3258177,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Mikel Merino Zazón,Aymeric Laporte,80,28,2,"[48.5, 54.9]","[35.1, 22.1]",35.431625,-1.9586401,Low Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Fabián Ruiz Peña,80,33,2,"[43.0, 19.9]","[51.1, 18.0]",8.319856,-0.23040244,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Marc Cucurella Saseta,80,35,2,"[51.1, 18.0]","[48.9, 4.8]",13.382077,-1.735945,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Rodrigo Hernández Cascante,80,36,2,"[48.9, 5.0]","[48.3, 29.1]",24.107468,1.5956875,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Fabián Ruiz Peña,80,42,2,"[65.1, 29.2]","[68.5, 13.8]",15.770859,-1.3535029,Ground Pass,,,,,,,,,,True,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Rodrigo Hernández Cascante,80,45,2,"[69.1, 13.8]","[64.5, 29.2]",16.072336,1.8610612,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Mikel Merino Zazón,80,47,2,"[64.2, 30.9]","[82.2, 54.0]",29.284979,0.90885466,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Mikel Merino Zazón,Lamine Yamal Nasraoui Ebana,80,50,2,"[93.5, 60.1]","[99.9, 73.4]",14.759743,1.1222991,Ground Pass,,,,,,,True,,aefc04ac-5dee-4a13-a817-76b8bb52b3a1,,Regular Play
+3942752,Spain,Aymeric Laporte,Unai Simón Mendibil,81,35,2,"[35.7, 28.3]","[10.4, 45.8]",30.76264,2.5364592,Low Pass,Recovery,,,,,,,,,,Regular Play
+3942752,Spain,Unai Simón Mendibil,Mikel Merino Zazón,81,55,2,"[13.1, 42.7]","[44.6, 58.9]",35.421604,0.47501075,High Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Mikel Merino Zazón,Mikel Oyarzabal Ugarte,81,57,2,"[44.6, 58.9]","[62.5, 58.6]",17.902514,-0.016758207,High Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Unai Simón Mendibil,Lamine Yamal Nasraoui Ebana,84,54,2,"[39.4, 37.6]","[120.0, 77.1]",89.75862,0.4556757,High Pass,Free Kick,,,,,Out,,,,,From Free Kick
+3942752,Spain,Unai Simón Mendibil,Lamine Yamal Nasraoui Ebana,86,3,2,"[6.3, 46.4]","[71.5, 80.0]",73.34848,0.47584212,High Pass,Goal Kick,,,,,Out,,,,,From Goal Kick
+3942752,Spain,Aymeric Laporte,Marc Cucurella Saseta,86,28,2,"[21.7, 15.8]","[30.1, 13.6]",8.683317,-0.25615138,Ground Pass,Interception,,,,,,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Rodrigo Hernández Cascante,86,29,2,"[30.1, 13.6]","[35.5, 21.7]",9.734988,0.98279375,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Fabián Ruiz Peña,86,30,2,"[35.5, 21.7]","[39.2, 15.2]",7.479305,-1.0533086,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Daniel Vivian Moreno,86,32,2,"[37.9, 16.8]","[26.2, 31.4]",18.709623,2.246372,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Daniel Vivian Moreno,Mikel Oyarzabal Ugarte,86,34,2,"[26.0, 32.7]","[78.8, 49.6]",55.438705,0.30977166,High Pass,,,,,,Incomplete,,,,,Regular Play
+3942752,Spain,Mikel Merino Zazón,Mikel Oyarzabal Ugarte,86,38,2,"[67.8, 39.3]","[80.6, 52.2]",18.172781,0.7892892,Ground Pass,Recovery,,,,,,,,,,Regular Play
+3942752,Spain,Marc Cucurella Saseta,Fabián Ruiz Peña,87,26,2,"[34.6, 0.1]","[42.8, 9.5]",12.473973,0.8534746,Low Pass,Throw-in,,,,,,,,,,From Throw In
+3942752,Spain,Fabián Ruiz Peña,Marc Cucurella Saseta,87,27,2,"[42.8, 9.5]","[40.2, 0.8]",9.080198,-1.8611983,Low Pass,,,,,,Out,,,,,From Throw In
+3942752,Spain,Aymeric Laporte,Mikel Oyarzabal Ugarte,88,3,2,"[12.9, 34.0]","[36.5, 28.9]",24.144772,-0.21282893,High Pass,Recovery,,,,,,,,,,Regular Play
+3942752,Spain,Mikel Oyarzabal Ugarte,Mikel Merino Zazón,88,5,2,"[36.3, 28.9]","[34.5, 35.4]",6.7446275,1.8409495,Low Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Mikel Merino Zazón,Mikel Oyarzabal Ugarte,88,6,2,"[35.1, 35.2]","[35.5, 34.0]",1.264911,-1.2490457,Ground Pass,,,,,,Incomplete,,,,True,Regular Play
+3942752,Spain,Rodrigo Hernández Cascante,Fabián Ruiz Peña,88,11,2,"[52.1, 40.7]","[59.8, 18.8]",23.21422,-1.2326984,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Nicholas Williams Arthuer,88,14,2,"[61.8, 18.1]","[76.2, 3.7]",20.364676,-0.7853982,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Nicholas Williams Arthuer,Fabián Ruiz Peña,88,17,2,"[75.8, 4.3]","[70.1, 15.2]",12.300406,2.0526237,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Aymeric Laporte,88,21,2,"[66.7, 24.5]","[44.3, 25.4]",22.418074,3.1014357,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Aymeric Laporte,Fabián Ruiz Peña,88,24,2,"[44.3, 25.4]","[56.1, 24.9]",11.810589,-0.04234755,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Marc Cucurella Saseta,88,26,2,"[50.9, 24.5]","[57.8, 5.3]",20.402206,-1.2257942,Ground Pass,,,,,,,,,,,Regular Play
+3942752,Spain,Fabián Ruiz Peña,Rodrigo Hernández Cascante,89,2,2,"[64.3, 11.0]","[70.1, 26.3]",16.362457,1.2084491,Ground Pass,Free Kick,,,,,,,,,,From Free Kick
+3942752,Spain,Rodrigo Hernández Cascante,Mikel Oyarzabal Ugarte,89,6,2,"[69.7, 28.7]","[81.3, 37.6]",14.620875,0.6544446,Ground Pass,,,,,,,,,,True,From Free Kick
+3942752,Spain,Mikel Oyarzabal Ugarte,Nicholas Williams Arthuer,89,9,2,"[86.3, 28.9]","[92.8, 7.5]",22.365376,-1.2759135,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Nicholas Williams Arthuer,Mikel Merino Zazón,89,13,2,"[99.2, 13.4]","[111.4, 38.0]",27.45906,1.110406,High Pass,,,True,,,Incomplete,,,,,From Free Kick
+3942752,Spain,Nicholas Williams Arthuer,Rodrigo Hernández Cascante,89,16,2,"[101.7, 29.2]","[93.7, 32.0]",8.475848,2.8049178,Ground Pass,Recovery,,,,,,,,,,From Free Kick
+3942752,Spain,Rodrigo Hernández Cascante,Mikel Merino Zazón,89,21,2,"[79.3, 34.2]","[87.1, 45.1]",13.4033575,0.94967955,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Mikel Merino Zazón,Mikel Oyarzabal Ugarte,89,25,2,"[88.1, 46.7]","[99.5, 27.2]",22.587828,-1.0417658,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Mikel Oyarzabal Ugarte,Marc Cucurella Saseta,89,27,2,"[101.7, 27.1]","[113.4, 22.7]",12.5,-0.359707,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Marc Cucurella Saseta,Nicholas Williams Arthuer,89,28,2,"[113.8, 22.7]","[114.8, 26.1]",3.544009,1.2847449,Ground Pass,,,,,,Incomplete,,,,,From Free Kick
+3942752,Spain,Nicholas Williams Arthuer,,90,1,2,"[120.0, 0.1]","[117.5, 34.5]",34.490723,1.6433432,High Pass,Corner,Inswinging,,,,Incomplete,,,,,From Corner
+3942752,Spain,Unai Simón Mendibil,Mikel Merino Zazón,91,40,2,"[7.0, 42.7]","[75.8, 61.3]",71.26991,0.26403695,High Pass,Goal Kick,,,,,Incomplete,,,,,From Goal Kick
+3942752,Spain,Fabián Ruiz Peña,Mikel Merino Zazón,91,44,2,"[62.9, 51.2]","[71.3, 49.8]",8.515867,-0.16514868,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Mikel Merino Zazón,Rodrigo Hernández Cascante,91,46,2,"[72.2, 50.2]","[65.1, 54.6]",8.352844,2.5868003,Ground Pass,,,,,,,,,,True,From Goal Kick
+3942752,Spain,Rodrigo Hernández Cascante,Fabián Ruiz Peña,91,47,2,"[65.1, 54.4]","[63.6, 47.5]",7.0611615,-1.784857,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Fabián Ruiz Peña,Mikel Merino Zazón,91,49,2,"[63.2, 42.5]","[77.4, 40.0]",14.418391,-0.17427044,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Mikel Merino Zazón,Nicholas Williams Arthuer,91,51,2,"[85.9, 38.2]","[106.5, 13.0]",32.548424,-0.8854992,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Nicholas Williams Arthuer,Marc Cucurella Saseta,91,57,2,"[106.8, 12.3]","[93.2, 12.1]",13.601471,-3.1268878,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Marc Cucurella Saseta,Nicholas Williams Arthuer,91,59,2,"[92.8, 12.1]","[99.7, 4.5]",10.264989,-0.8336366,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Nicholas Williams Arthuer,Rodrigo Hernández Cascante,92,2,2,"[90.6, 3.7]","[78.8, 17.8]",18.386137,2.2676237,Ground Pass,,,,,,,,,,,From Goal Kick
+3942752,Spain,Rodrigo Hernández Cascante,Fabián Ruiz Peña,92,5,2,"[77.4, 19.4]","[115.6, 34.4]",41.039494,0.3741716,High Pass,,,,,,Incomplete,,,,,From Goal Kick
+3942752,Spain,José Ignacio Fernández Iglesias,Martín Zubimendi Ibáñez,93,31,2,"[62.7, 80.0]","[61.6, 71.9]",8.17435,-1.7057731,Low Pass,Throw-in,,,,,,,,,,From Throw In
+3942752,Spain,Rodrigo Hernández Cascante,Aymeric Laporte,93,36,2,"[56.5, 71.9]","[49.5, 48.4]",24.5204,-1.8603,Ground Pass,,,,,,,,,,True,From Throw In
+3942752,Spain,Aymeric Laporte,Fabián Ruiz Peña,93,38,2,"[49.5, 48.0]","[58.0, 46.2]",8.6884985,-0.20868176,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Fabián Ruiz Peña,Marc Cucurella Saseta,93,41,2,"[64.7, 36.5]","[68.5, 12.8]",24.002708,-1.411812,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Marc Cucurella Saseta,Mikel Oyarzabal Ugarte,93,44,2,"[69.3, 10.8]","[106.5, 9.9]",37.210884,-0.02418883,High Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Mikel Oyarzabal Ugarte,Mikel Merino Zazón,93,50,2,"[104.1, 6.1]","[103.3, 14.8]",8.736704,1.6624925,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Mikel Merino Zazón,Fabián Ruiz Peña,93,51,2,"[103.3, 14.8]","[83.5, 10.3]",20.304926,-2.918116,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Fabián Ruiz Peña,Rodrigo Hernández Cascante,93,53,2,"[83.3, 10.3]","[78.6, 21.7]",12.330855,1.9618444,Ground Pass,,,,,,,,,,True,From Throw In
+3942752,Spain,Rodrigo Hernández Cascante,Martín Zubimendi Ibáñez,93,55,2,"[77.4, 21.7]","[70.3, 35.4]",15.43049,2.0489357,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Martín Zubimendi Ibáñez,José Ignacio Fernández Iglesias,93,57,2,"[76.6, 38.3]","[79.1, 56.9]",18.76726,1.4371885,Ground Pass,,,,,,,,,,True,From Throw In
+3942752,Spain,José Ignacio Fernández Iglesias,Martín Zubimendi Ibáñez,94,0,2,"[84.2, 59.3]","[78.4, 54.9]",7.28011,-2.492597,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Martín Zubimendi Ibáñez,Daniel Vivian Moreno,94,2,2,"[76.0, 55.7]","[54.7, 62.6]",22.38973,2.8283165,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Daniel Vivian Moreno,Unai Simón Mendibil,94,4,2,"[49.9, 69.7]","[21.7, 51.8]",33.40135,-2.5760117,Ground Pass,,,,,,,,,,,From Throw In
+3942752,Spain,Unai Simón Mendibil,Marc Cucurella Saseta,94,8,2,"[22.0, 49.8]","[51.5, 6.5]",52.394085,-0.9727358,High Pass,,,,,True,Incomplete,,,,,From Throw In
+3942752,Spain,Daniel Vivian Moreno,Mikel Oyarzabal Ugarte,94,15,2,"[22.2, 33.2]","[48.3, 5.3]",38.204975,-0.81871915,Low Pass,Interception,,,,,,,,,,From Throw In
+3942752,Spain,Unai Simón Mendibil,Mikel Merino Zazón,95,11,2,"[7.0, 40.7]","[74.0, 5.1]",75.87068,-0.4884067,High Pass,Goal Kick,,,,,Incomplete,,,,,From Goal Kick
+3942752,Spain,Fabián Ruiz Peña,Mikel Oyarzabal Ugarte,95,41,2,"[84.2, 4.5]","[99.0, 10.3]",15.895911,0.37349716,Ground Pass,Free Kick,,,,,,,,,,From Free Kick
+3942752,Spain,Mikel Oyarzabal Ugarte,Ferrán Torres García,95,42,2,"[99.0, 10.3]","[110.6, 5.7]",12.478782,-0.3775302,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Ferrán Torres García,Fabián Ruiz Peña,95,48,2,"[111.2, 4.3]","[109.2, 2.8]",2.5,-2.4980915,Ground Pass,,,,,,,,,,True,From Free Kick
+3942752,Spain,Fabián Ruiz Peña,Mikel Oyarzabal Ugarte,95,49,2,"[109.2, 2.8]","[103.9, 10.8]",9.596354,2.1559088,Ground Pass,,,,,,,,,,,From Free Kick
+3942752,Spain,Mikel Oyarzabal Ugarte,Ferrán Torres García,95,51,2,"[103.5, 11.0]","[110.3, 10.1]",6.8593,-0.13158815,Ground Pass,,,,,,,,,,True,From Free Kick

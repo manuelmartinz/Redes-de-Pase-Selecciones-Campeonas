@@ -1,0 +1,910 @@
+match_id,team,player,pass_recipient,minute,second,period,location,pass_end_location,pass_length,pass_angle,pass_height,pass_type,pass_technique,pass_cross,pass_cut_back,pass_switch,pass_through_ball,pass_outcome,pass_shot_assist,pass_goal_assist,pass_assisted_shot_id,under_pressure,play_pattern
+3857264,Argentina,Marcos Javier Acuña,Julián Álvarez,0,18,1,"[22.6, 0.1]","[34.3, 5.2]",12.763228,0.41106454,Low Pass,Throw-in,,,,,,,,,,,From Throw In
+3857264,Argentina,Julián Álvarez,,0,19,1,"[33.0, 5.2]","[43.0, 12.8]",12.560255,0.64987046,Ground Pass,,,,,,,Incomplete,,,,True,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,0,49,1,"[45.6, 80.0]","[39.8, 71.9]",9.962429,-2.1922126,Low Pass,Throw-in,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,0,51,1,"[39.5, 72.2]","[33.5, 77.2]",7.81025,2.4468544,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Cristian Gabriel Romero,0,51,1,"[33.8, 76.1]","[23.3, 61.7]",17.821615,-2.2008302,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,0,57,1,"[25.9, 57.0]","[29.1, 26.3]",30.866325,-1.4669368,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,1,1,1,"[35.4, 23.4]","[32.7, 36.0]",12.886039,1.7818897,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Enzo Fernandez,Cristian Gabriel Romero,1,4,1,"[31.1, 37.3]","[26.2, 50.1]",13.705838,1.9363986,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,1,7,1,"[27.0, 49.8]","[33.3, 22.6]",27.920065,-1.3431921,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Marcos Javier Acuña,1,11,1,"[47.9, 20.7]","[72.1, 5.2]",28.738302,-0.5696649,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Marcos Javier Acuña,Alexis Mac Allister,1,15,1,"[76.0, 7.1]","[87.0, 20.2]",17.105846,0.8723155,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Alexis Mac Allister,Rodrigo Javier De Paul,1,18,1,"[87.1, 27.5]","[79.9, 43.8]",17.819372,1.9867414,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,1,20,1,"[83.7, 48.6]","[95.7, 75.1]",29.090376,1.1455913,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,,1,52,1,"[120.0, 80.0]","[116.4, 55.6]",24.664145,-1.7172805,High Pass,Corner,Inswinging,,,,,Incomplete,,,,,From Corner
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,1,57,1,"[107.3, 73.0]","[110.4, 58.5]",14.827677,-1.3601741,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Rodrigo Javier De Paul,Nicolás Hernán Otamendi,1,59,1,"[110.4, 58.5]","[116.7, 34.6]",24.71639,-1.3130608,High Pass,,,True,,,,Unknown,,,,,From Corner
+3857264,Argentina,Enzo Fernandez,,3,12,1,"[44.3, 22.9]","[43.7, 0.2]",22.707928,-1.5972219,Low Pass,Recovery,,,,,,Out,,,,True,From Free Kick
+3857264,Argentina,Marcos Javier Acuña,Nicolás Hernán Otamendi,3,26,1,"[19.7, 6.5]","[12.6, 13.9]",10.255242,2.3355079,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Damián Emiliano Martínez,3,28,1,"[9.6, 15.8]","[3.9, 41.2]",26.031712,1.7915486,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Damián Emiliano Martínez,,3,31,1,"[3.3, 32.2]","[37.7, 0.8]",46.57596,-0.739837,High Pass,,,,,,,Out,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,,4,5,1,"[9.7, 47.3]","[12.5, 51.5]",5.047772,0.98279375,High Pass,Recovery,,,,,,Unknown,,,,True,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,4,20,1,"[13.9, 53.8]","[22.2, 60.4]",10.604244,0.6717954,Ground Pass,Free Kick,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Nicolás Hernán Otamendi,4,25,1,"[27.0, 60.6]","[23.6, 28.4]",32.379005,-1.6759965,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Hernán Otamendi,Rodrigo Javier De Paul,4,31,1,"[32.0, 35.7]","[45.1, 61.6]",29.024473,1.1025263,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,4,39,1,"[38.3, 67.7]","[42.5, 78.7]",11.774549,1.2060615,Ground Pass,Recovery,,,,,,,,,,True,From Free Kick
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,4,41,1,"[42.5, 78.7]","[48.0, 64.6]",15.134728,-1.1988786,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,4,43,1,"[50.4, 63.3]","[61.8, 71.9]",14.280056,0.6463022,Ground Pass,,,,,,,Incomplete,,,,,From Free Kick
+3857264,Argentina,Julián Álvarez,Alexis Mac Allister,5,2,1,"[81.8, 43.8]","[81.8, 47.8]",4.0,1.5707964,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Rodrigo Javier De Paul,5,4,1,"[81.8, 48.6]","[80.5, 53.6]",5.1662364,1.8251644,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Enzo Fernandez,5,5,1,"[80.5, 53.6]","[76.1, 42.2]",12.219656,-1.9391452,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nahuel Molina Lucero,5,6,1,"[76.0, 42.2]","[77.0, 73.5]",31.31597,1.5388583,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,5,8,1,"[77.0, 75.1]","[74.7, 60.4]",14.878844,-1.7260005,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,5,10,1,"[74.7, 60.4]","[81.5, 76.4]",17.385052,1.1689256,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Ángel Fabián Di María Hernández,5,11,1,"[81.5, 76.4]","[96.3, 78.9]",15.009664,0.16733925,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Lionel Andrés Messi Cuccittini,5,18,1,"[106.5, 77.1]","[93.9, 30.5]",48.273388,-1.8348682,High Pass,,,,,True,,Incomplete,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,5,28,1,"[25.7, 49.1]","[22.0, 29.9]",19.55326,-1.761171,High Pass,Recovery,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Julián Álvarez,5,31,1,"[20.1, 31.5]","[56.3, 21.6]",37.529324,-0.26695314,High Pass,,,,,,,,,,,True,Regular Play
+3857264,Argentina,Julián Álvarez,,5,34,1,"[55.6, 22.9]","[57.6, 25.7]",3.4409301,0.95054686,High Pass,,,,,,,Incomplete,,,,True,Regular Play
+3857264,Argentina,Enzo Fernandez,Lionel Andrés Messi Cuccittini,5,39,1,"[51.3, 31.3]","[57.6, 38.6]",9.642613,0.85879546,Low Pass,Recovery,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Alexis Mac Allister,5,40,1,"[57.6, 38.6]","[51.9, 27.8]",12.21188,-2.0564184,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Marcos Javier Acuña,5,44,1,"[62.6, 27.0]","[68.2, 6.6]",21.154669,-1.3028859,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Enzo Fernandez,5,46,1,"[71.5, 8.4]","[60.8, 19.9]",15.70796,2.320174,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,,5,49,1,"[62.6, 22.8]","[77.0, 34.7]",18.680738,0.6906259,Low Pass,,,,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Rodrigo Javier De Paul,5,53,1,"[65.0, 36.7]","[64.8, 52.5]",15.801266,1.5834539,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,5,55,1,"[67.4, 56.7]","[88.9, 78.4]",30.54734,0.79002774,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Rodrigo Javier De Paul,6,0,1,"[93.6, 73.4]","[80.0, 64.1]",16.47574,-2.541806,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,6,3,1,"[81.2, 64.3]","[78.9, 50.3]",14.187671,-1.7336276,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Alexis Mac Allister,6,5,1,"[76.3, 42.5]","[86.0, 31.5]",14.665947,-0.8481177,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Marcos Javier Acuña,6,8,1,"[88.3, 31.3]","[101.5, 6.0]",28.536469,-1.0899091,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Marcos Javier Acuña,,6,11,1,"[108.6, 5.2]","[111.4, 36.0]",30.927011,1.4801364,Low Pass,,,True,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Alexis Mac Allister,6,20,1,"[105.7, 6.5]","[94.1, 11.0]",12.442266,2.7715337,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Lionel Andrés Messi Cuccittini,6,25,1,"[93.1, 11.8]","[95.9, 36.5]",24.858198,1.4579179,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,,6,54,1,"[37.5, 47.0]","[54.2, 56.1]",19.018412,0.4989271,High Pass,Recovery,,,,,,Incomplete,,,,True,From Keeper
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,6,56,1,"[49.2, 58.3]","[66.9, 72.6]",22.75478,0.6795453,Ground Pass,Recovery,,,,,,,,,,True,From Keeper
+3857264,Argentina,Nicolás Hernán Otamendi,Alexis Mac Allister,7,25,1,"[28.6, 29.9]","[48.5, 27.0]",20.110197,-0.14470999,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Marcos Javier Acuña,7,29,1,"[57.7, 25.4]","[52.2, 11.0]",15.414603,-1.9356413,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Enzo Fernandez,7,31,1,"[53.2, 12.8]","[45.6, 37.3]",25.651705,1.8715882,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nahuel Molina Lucero,7,33,1,"[42.5, 40.6]","[53.7, 71.4]",32.77316,1.2220253,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Lionel Andrés Messi Cuccittini,7,36,1,"[56.1, 73.8]","[55.3, 64.3]",9.533625,-1.6548086,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,,7,42,1,"[72.6, 58.7]","[119.9, 6.5]",70.44239,-0.8346046,High Pass,,,,,True,,Out,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Lionel Andrés Messi Cuccittini,8,45,1,"[62.6, 22.8]","[79.9, 34.1]",20.663494,0.5786069,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Ángel Fabián Di María Hernández,8,49,1,"[87.8, 37.3]","[91.7, 47.3]",10.733592,1.1989403,Ground Pass,,,,,,,,True,,1f63e0eb-0788-49c8-9158-bd891af14036,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Lionel Andrés Messi Cuccittini,9,48,1,"[94.4, 63.2]","[95.4, 32.5]",30.716282,-1.5382346,Ground Pass,,,,,,,,True,,1ae953ce-5984-4e36-a92c-de52f9c93bf8,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,10,7,1,"[120.0, 0.1]","[101.8, 9.2]",20.348219,2.6779451,Ground Pass,Corner,,,,,,,,,,,From Corner
+3857264,Argentina,Rodrigo Javier De Paul,,10,10,1,"[100.7, 10.8]","[109.4, 43.9]",34.224262,1.31377,High Pass,,,True,,,,Incomplete,,,,,From Corner
+3857264,Argentina,Julián Álvarez,Ángel Fabián Di María Hernández,10,19,1,"[108.9, 80.0]","[98.0, 75.9]",11.6456,-2.781817,Low Pass,Throw-in,,,,,,,,,,,From Throw In
+3857264,Argentina,Ángel Fabián Di María Hernández,,10,25,1,"[91.0, 63.2]","[109.4, 30.4]",37.60851,-1.0595657,High Pass,,,True,,,,Incomplete,,,,,From Throw In
+3857264,Argentina,Marcos Javier Acuña,Rodrigo Javier De Paul,10,32,1,"[75.2, 18.3]","[64.8, 23.9]",11.811858,2.6476512,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Enzo Fernandez,10,35,1,"[64.8, 24.1]","[56.9, 42.5]",20.024235,1.9763439,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Enzo Fernandez,Nahuel Molina Lucero,10,37,1,"[56.9, 42.5]","[57.9, 62.7]",20.224737,1.5213318,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Enzo Fernandez,10,40,1,"[62.1, 65.6]","[63.1, 59.0]",6.675328,-1.4204249,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Enzo Fernandez,Ángel Fabián Di María Hernández,10,45,1,"[73.7, 60.4]","[95.7, 77.9]",28.111385,0.67196316,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Ángel Fabián Di María Hernández,Enzo Fernandez,10,49,1,"[95.7, 77.9]","[83.4, 62.4]",19.787369,-2.241591,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Enzo Fernandez,Nahuel Molina Lucero,10,57,1,"[76.3, 60.6]","[90.5, 76.4]",21.243351,0.83868104,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Ángel Fabián Di María Hernández,10,58,1,"[90.5, 76.4]","[95.7, 76.1]",5.208647,-0.057628427,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Ángel Fabián Di María Hernández,Lionel Andrés Messi Cuccittini,11,5,1,"[93.8, 63.3]","[91.7, 57.0]",6.6407833,-1.8925469,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,11,7,1,"[91.7, 57.0]","[86.2, 25.0]",32.469215,-1.7410083,Low Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,11,11,1,"[86.2, 25.0]","[102.3, 70.6]",48.358765,1.231389,High Pass,,,,,True,,,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Lionel Andrés Messi Cuccittini,11,15,1,"[108.0, 72.1]","[107.3, 48.0]",24.110165,-1.5998338,Ground Pass,,,True,,,,Incomplete,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Ángel Fabián Di María Hernández,11,24,1,"[105.2, 80.0]","[92.6, 73.4]",14.223924,-2.6590793,Low Pass,Throw-in,,,,,,,,,,,From Throw In
+3857264,Argentina,Ángel Fabián Di María Hernández,Lionel Andrés Messi Cuccittini,11,28,1,"[82.8, 62.2]","[107.2, 50.6]",27.01703,-0.4437827,High Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,,11,32,1,"[116.1, 54.5]","[109.3, 38.0]",17.846289,-1.9617082,High Pass,,,True,,,,Incomplete,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,11,41,1,"[84.4, 50.3]","[95.7, 72.2]",24.643457,1.0944452,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Lionel Andrés Messi Cuccittini,11,46,1,"[96.3, 66.4]","[117.2, 47.8]",27.978027,-0.727236,Ground Pass,,,True,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,,12,34,1,"[10.2, 7.1]","[20.1, 8.2]",9.960923,0.11065722,Low Pass,,,,,,,Incomplete,,,,True,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Rodrigo Javier De Paul,12,44,1,"[20.2, 15.2]","[20.4, 37.2]",22.00091,1.5617057,Ground Pass,Recovery,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,12,49,1,"[40.4, 56.7]","[57.1, 72.9]",23.2665,0.77020174,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Lionel Andrés Messi Cuccittini,13,52,1,"[36.9, 55.1]","[32.7, 42.5]",13.281567,-1.8925469,High Pass,Recovery,,,,,,Incomplete,,,,,From Free Kick
+3857264,Argentina,Nahuel Molina Lucero,Ángel Fabián Di María Hernández,14,17,1,"[8.3, 80.0]","[17.2, 75.0]",10.20833,-0.51185584,Low Pass,Throw-in,,,,,,,,,,,From Throw In
+3857264,Argentina,Ángel Fabián Di María Hernández,Nahuel Molina Lucero,14,18,1,"[16.8, 75.0]","[6.5, 76.4]",10.394711,3.006498,Low Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Damián Emiliano Martínez,Nicolás Hernán Otamendi,14,28,1,"[7.0, 44.1]","[12.5, 27.5]",17.487425,-1.2508541,Ground Pass,Goal Kick,,,,,,,,,,,From Goal Kick
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,14,32,1,"[23.6, 23.7]","[28.0, 41.0]",17.85077,1.3217416,Ground Pass,,,,,,,,,,,,From Goal Kick
+3857264,Argentina,Enzo Fernandez,Rodrigo Javier De Paul,14,35,1,"[30.1, 42.5]","[40.3, 59.8]",20.083078,1.0380625,Ground Pass,,,,,,,,,,,,From Goal Kick
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,14,38,1,"[43.5, 62.9]","[56.9, 78.4]",20.489265,0.857935,Ground Pass,,,,,,,,,,,,From Goal Kick
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,14,40,1,"[56.9, 78.4]","[50.8, 66.6]",13.283448,-2.0479112,Ground Pass,,,,,,,,,,,,From Goal Kick
+3857264,Argentina,Rodrigo Javier De Paul,Enzo Fernandez,14,42,1,"[50.8, 66.4]","[51.1, 55.7]",10.704205,-1.5427663,Ground Pass,,,,,,,,,,,,From Goal Kick
+3857264,Argentina,Enzo Fernandez,Alexis Mac Allister,14,45,1,"[52.4, 51.9]","[67.3, 16.6]",38.315792,-1.1713877,Ground Pass,,,,,,,Incomplete,,,,,From Goal Kick
+3857264,Argentina,Enzo Fernandez,Julián Álvarez,14,54,1,"[88.7, 31.7]","[120.0, 26.0]",31.814777,-0.18013464,Ground Pass,,,,,,,Out,,,,,From Goal Kick
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,15,39,1,"[45.3, 80.0]","[40.1, 70.5]",10.83005,-2.071617,Low Pass,Throw-in,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,15,41,1,"[37.5, 70.9]","[18.9, 70.6]",18.602419,-3.125465,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,15,43,1,"[18.9, 70.6]","[24.1, 41.2]",29.856323,-1.3957361,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Alexis Mac Allister,15,53,1,"[69.7, 25.4]","[79.5, 23.4]",10.002,-0.2013171,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Alexis Mac Allister,Marcos Javier Acuña,15,54,1,"[78.4, 23.9]","[92.8, 7.6]",21.749712,-0.84720856,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Marcos Javier Acuña,Alexis Mac Allister,15,57,1,"[94.9, 6.6]","[84.9, 17.9]",15.0894,2.2952373,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Alexis Mac Allister,Enzo Fernandez,15,59,1,"[84.9, 18.1]","[74.7, 28.8]",14.782761,2.3322756,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Enzo Fernandez,Lionel Andrés Messi Cuccittini,16,1,1,"[74.7, 34.1]","[80.5, 54.1]",20.824024,1.2885389,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Marcos Javier Acuña,16,5,1,"[83.4, 52.7]","[108.1, 25.8]",36.51986,-0.828008,High Pass,,,,,,,,True,,2653afac-1109-404b-b501-f4d4baf060fe,,From Throw In
+3857264,Argentina,Enzo Fernandez,,16,48,1,"[44.3, 26.7]","[82.9, 24.9]",38.641945,-0.046598367,High Pass,Recovery,,,,,,Incomplete,,,,,From Goal Kick
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,17,11,1,"[23.0, 80.0]","[28.1, 70.9]",10.431683,-1.0599735,Low Pass,Throw-in,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,17,14,1,"[33.0, 71.3]","[11.2, 63.7]",23.086792,-2.8061442,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Enzo Fernandez,17,17,1,"[12.5, 60.9]","[24.7, 44.3]",20.600971,-0.9370037,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Enzo Fernandez,Nicolás Hernán Otamendi,17,20,1,"[29.0, 39.9]","[38.8, 26.5]",16.601204,-0.93934286,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Alexis Mac Allister,17,25,1,"[63.4, 20.5]","[73.6, 20.7]",10.201961,0.019605331,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Alexis Mac Allister,Marcos Javier Acuña,17,26,1,"[74.0, 20.2]","[83.9, 6.1]",17.228464,-0.95864385,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Cristian Gabriel Romero,17,33,1,"[66.9, 0.1]","[42.2, 33.6]",41.621387,2.2061284,Low Pass,Throw-in,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Nahuel Molina Lucero,17,37,1,"[42.4, 33.6]","[49.8, 58.0]",25.497452,1.2763343,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Enzo Fernandez,17,41,1,"[51.9, 59.5]","[53.4, 54.6]",5.124451,-1.2737321,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Enzo Fernandez,Nahuel Molina Lucero,17,44,1,"[53.4, 54.5]","[65.0, 64.5]",15.3153515,0.7114591,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Ángel Fabián Di María Hernández,17,46,1,"[70.6, 71.3]","[91.8, 76.4]",21.804815,0.23608012,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Ángel Fabián Di María Hernández,Rodrigo Javier De Paul,17,50,1,"[92.0, 76.4]","[114.1, 70.5]",22.874002,-0.26088402,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,17,55,1,"[117.4, 60.3]","[111.1, 46.9]",14.807093,-2.0102794,Ground Pass,,,True,True,,,Incomplete,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,18,2,1,"[114.3, 80.0]","[103.8, 77.4]",10.817116,-2.8988562,Low Pass,Throw-in,,,,,,,,,,,From Throw In
+3857264,Argentina,Ángel Fabián Di María Hernández,Rodrigo Javier De Paul,18,8,1,"[103.1, 77.1]","[95.5, 75.1]",7.858753,-2.884269,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,18,12,1,"[96.8, 75.5]","[103.6, 77.7]",7.1470275,0.31290123,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Ángel Fabián Di María Hernández,Julián Álvarez,18,14,1,"[103.6, 77.7]","[99.7, 62.7]",15.49871,-1.8251644,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Julián Álvarez,Lionel Andrés Messi Cuccittini,18,17,1,"[98.9, 57.8]","[92.8, 58.0]",6.1032777,3.1088176,Ground Pass,,,,,,,,,,,True,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Marcos Javier Acuña,18,21,1,"[92.6, 58.5]","[115.9, 26.7]",39.422455,-0.9384566,High Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Marcos Javier Acuña,,18,23,1,"[115.3, 26.3]","[118.0, 34.7]",8.823265,1.259798,Low Pass,,,True,,,,Incomplete,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Cristian Gabriel Romero,20,22,1,"[15.9, 80.0]","[11.2, 74.8]",7.0092797,-2.3057323,Low Pass,Throw-in,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Nahuel Molina Lucero,20,23,1,"[11.0, 74.8]","[15.5, 77.2]",5.1,0.48995733,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Cristian Gabriel Romero,20,24,1,"[15.2, 77.1]","[9.6, 70.9]",8.354639,-2.3053908,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,,20,26,1,"[9.6, 70.9]","[40.4, 41.0]",42.926098,-0.77057225,High Pass,,,,,,,Incomplete,,,,,From Throw In
+3857264,Argentina,Damián Emiliano Martínez,Enzo Fernandez,21,46,1,"[11.7, 29.6]","[21.8, 32.3]",10.454664,0.26121855,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nahuel Molina Lucero,21,49,1,"[24.9, 40.1]","[41.4, 75.5]",39.056496,1.1346332,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Enzo Fernandez,21,53,1,"[39.1, 74.5]","[38.2, 55.7]",18.82153,-1.6186322,Ground Pass,,,,,,,,,,,True,Regular Play
+3857264,Argentina,Enzo Fernandez,Rodrigo Javier De Paul,21,56,1,"[38.2, 56.9]","[37.4, 63.7]",6.846897,1.6879051,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Nicolás Hernán Otamendi,21,56,1,"[37.4, 63.7]","[26.2, 30.5]",35.038265,-1.896157,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Ángel Fabián Di María Hernández,22,3,1,"[57.1, 21.8]","[81.2, 5.6]",29.038767,-0.59182304,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Lionel Andrés Messi Cuccittini,22,6,1,"[81.2, 6.0]","[76.6, 22.8]",17.41838,1.8380554,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Enzo Fernandez,22,9,1,"[81.2, 24.9]","[75.0, 38.0]",14.493102,2.0128424,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Rodrigo Javier De Paul,22,11,1,"[74.4, 38.5]","[81.2, 56.7]",19.428844,1.2132305,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Alexis Mac Allister,22,13,1,"[81.2, 56.7]","[91.7, 44.4]",16.1722,-0.8641821,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Marcos Javier Acuña,22,15,1,"[91.7, 44.4]","[91.7, 28.9]",15.5,-1.5707964,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Ángel Fabián Di María Hernández,22,17,1,"[91.0, 28.9]","[98.9, 19.9]",11.975391,-0.85039526,Ground Pass,,,,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Alexis Mac Allister,22,22,1,"[69.2, 45.2]","[87.0, 37.0]",19.59796,-0.431695,Ground Pass,Interception,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Ángel Fabián Di María Hernández,22,25,1,"[95.1, 36.0]","[108.1, 21.8]",19.252012,-0.8294872,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Nahuel Molina Lucero,22,27,1,"[107.0, 22.5]","[92.0, 78.4]",57.877544,1.8329569,High Pass,,,,,True,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,22,36,1,"[102.2, 76.9]","[103.6, 61.9]",15.065191,-1.4777325,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Enzo Fernandez,22,40,1,"[98.4, 74.3]","[88.3, 63.2]",15.007332,-2.3090596,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Lionel Andrés Messi Cuccittini,22,42,1,"[88.7, 62.7]","[88.3, 56.1]",6.61211,-1.6313283,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Enzo Fernandez,22,42,1,"[87.8, 55.7]","[86.0, 61.9]",6.456005,1.8533512,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nicolás Hernán Otamendi,22,43,1,"[84.9, 61.6]","[74.7, 37.6]",26.077576,-1.972667,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Ángel Fabián Di María Hernández,22,47,1,"[74.7, 37.6]","[96.8, 9.0]",36.14374,-0.9129077,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,,22,54,1,"[117.4, 22.8]","[117.7, 26.7]",3.9115214,1.4940244,Ground Pass,,,,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Lionel Andrés Messi Cuccittini,23,11,1,"[120.0, 0.1]","[106.5, 11.0]",17.35108,2.4623513,Ground Pass,Corner,,,,,,,,,,,From Corner
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Marcos Javier Acuña,23,13,1,"[106.5, 11.0]","[92.9, 22.6]",17.875122,2.4353936,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Marcos Javier Acuña,Lionel Andrés Messi Cuccittini,23,15,1,"[92.8, 22.8]","[99.7, 11.1]",13.583077,-1.0379524,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,23,18,1,"[99.4, 11.1]","[91.0, 49.0]",38.81971,1.7889065,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Rodrigo Javier De Paul,,23,21,1,"[91.0, 49.3]","[109.6, 36.5]",22.57875,-0.60274357,High Pass,,,,,,,Incomplete,,,,,From Corner
+3857264,Argentina,Marcos Javier Acuña,,23,25,1,"[97.6, 25.4]","[99.7, 23.1]",3.1144824,-0.83082145,Ground Pass,,,,,,,Incomplete,,,,,From Corner
+3857264,Argentina,Ángel Fabián Di María Hernández,Enzo Fernandez,23,32,1,"[86.8, 0.1]","[73.6, 6.5]",14.669697,2.6901395,Low Pass,Throw-in,,,,,,,,,,,From Throw In
+3857264,Argentina,Enzo Fernandez,Rodrigo Javier De Paul,23,35,1,"[69.2, 11.9]","[70.3, 52.7]",40.814827,1.5438421,Ground Pass,,,,,True,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Alexis Mac Allister,23,39,1,"[75.2, 51.5]","[77.4, 30.2]",21.413313,-1.4678749,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Alexis Mac Allister,Rodrigo Javier De Paul,23,45,1,"[86.8, 25.5]","[81.2, 48.8]",23.963514,1.8066659,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,23,48,1,"[84.1, 49.8]","[104.4, 74.8]",32.20388,0.888781,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,23,53,1,"[104.6, 75.0]","[87.9, 62.9]",20.622803,-2.5145788,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,23,55,1,"[87.8, 63.3]","[86.8, 54.6]",8.757282,-1.6852366,Ground Pass,,,,,,,Incomplete,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,24,35,1,"[71.8, 58.0]","[41.2, 60.8]",30.727837,3.0503435,High Pass,Recovery,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,24,42,1,"[38.3, 58.8]","[40.3, 26.8]",32.06244,-1.5083776,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,24,45,1,"[45.1, 24.6]","[44.6, 39.6]",15.008331,1.6041173,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nahuel Molina Lucero,24,47,1,"[44.5, 40.1]","[52.7, 73.2]",34.100586,1.3279514,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,24,52,1,"[62.6, 76.1]","[61.8, 66.1]",10.031949,-1.6506263,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,24,53,1,"[61.8, 65.8]","[56.6, 73.8]",9.541489,2.1471715,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Damián Emiliano Martínez,24,54,1,"[56.6, 73.8]","[18.4, 48.6]",45.763306,-2.5584385,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Damián Emiliano Martínez,Cristian Gabriel Romero,24,57,1,"[20.4, 49.6]","[32.0, 51.9]",11.825819,0.19573718,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Nahuel Molina Lucero,25,2,1,"[36.9, 55.9]","[42.7, 62.9]",9.090654,0.87887496,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Cristian Gabriel Romero,25,8,1,"[53.7, 72.1]","[34.8, 54.1]",26.1,-2.38058,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,25,11,1,"[34.8, 52.5]","[55.3, 17.8]",40.3031,-1.0371852,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Ángel Fabián Di María Hernández,25,16,1,"[69.8, 19.1]","[89.9, 9.4]",22.318153,-0.4496205,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Nahuel Molina Lucero,25,20,1,"[84.9, 19.7]","[73.1, 52.5]",34.857998,1.916136,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Lionel Andrés Messi Cuccittini,25,23,1,"[77.4, 54.0]","[76.6, 62.4]",8.438009,1.665748,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Marcos Javier Acuña,25,27,1,"[83.1, 57.8]","[102.8, 8.2]",53.369,-1.1927255,High Pass,,,,,True,,,,,,,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Ángel Fabián Di María Hernández,25,31,1,"[102.8, 8.4]","[98.0, 20.2]",12.738916,1.9571335,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Enzo Fernandez,25,33,1,"[97.3, 20.0]","[82.8, 27.8]",16.464811,2.6480627,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Cristian Gabriel Romero,25,36,1,"[82.4, 28.3]","[72.6, 52.0]",25.646248,1.962888,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Julián Álvarez,25,39,1,"[73.1, 58.3]","[92.9, 78.2]",28.072227,0.7879171,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Julián Álvarez,Alexis Mac Allister,25,43,1,"[91.7, 72.1]","[84.9, 61.2]",12.847178,-2.1285706,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Enzo Fernandez,25,45,1,"[84.9, 60.9]","[80.8, 49.8]",11.833005,-1.9246215,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nicolás Hernán Otamendi,25,47,1,"[80.8, 49.8]","[79.1, 30.2]",19.673586,-1.6573145,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Ángel Fabián Di María Hernández,25,49,1,"[79.1, 30.5]","[96.8, 6.9]",29.5,-0.9272952,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,,25,52,1,"[96.8, 7.1]","[99.4, 14.0]",7.3736014,1.2104384,High Pass,,,,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Marcos Javier Acuña,26,7,1,"[55.6, 45.9]","[68.4, 10.3]",37.831203,-1.2256386,High Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Ángel Fabián Di María Hernández,26,11,1,"[77.4, 11.5]","[92.9, 10.0]",15.572412,-0.096473776,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Ángel Fabián Di María Hernández,26,22,1,"[109.6, 6.0]","[102.6, 12.1]",9.284934,2.424789,Ground Pass,Recovery,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Alexis Mac Allister,26,25,1,"[99.7, 17.0]","[96.0, 23.9]",7.8294315,2.0630076,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Rodrigo Javier De Paul,26,26,1,"[94.7, 25.7]","[87.1, 49.6]",25.079275,1.8786764,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Alexis Mac Allister,26,42,1,"[54.2, 12.4]","[63.9, 21.2]",13.096946,0.73678786,High Pass,Recovery,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Marcos Javier Acuña,26,45,1,"[63.7, 21.5]","[66.3, 8.1]",13.649908,-1.3791479,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Ángel Fabián Di María Hernández,26,47,1,"[66.4, 8.2]","[87.6, 8.6]",21.203773,0.018865686,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Enzo Fernandez,27,18,1,"[62.9, 19.1]","[54.0, 28.3]",12.80039,2.3396213,Ground Pass,Recovery,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nahuel Molina Lucero,27,20,1,"[50.9, 33.1]","[64.7, 62.9]",32.840218,1.1371125,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Enzo Fernandez,27,25,1,"[74.0, 71.9]","[63.9, 59.6]",15.915401,-2.258294,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nahuel Molina Lucero,27,28,1,"[63.9, 59.6]","[69.7, 73.5]",15.061541,1.1754944,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Ángel Fabián Di María Hernández,27,30,1,"[69.7, 73.5]","[81.5, 78.4]",12.776933,0.39358702,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Nahuel Molina Lucero,27,33,1,"[81.5, 78.4]","[68.7, 76.3]",12.971122,-2.9789789,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Cristian Gabriel Romero,27,37,1,"[68.4, 74.2]","[51.4, 60.6]",21.770622,-2.4668517,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Ángel Fabián Di María Hernández,27,49,1,"[75.7, 66.7]","[99.7, 77.1]",26.156452,0.40890783,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Nahuel Molina Lucero,27,52,1,"[99.7, 76.1]","[114.8, 61.6]",20.93466,-0.76513064,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Julián Álvarez,27,54,1,"[115.7, 60.6]","[110.8, 47.7]",13.799275,-1.9338078,Ground Pass,,,True,True,,,,True,,3dbf06d9-85ab-470c-ac24-973f9499e041,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,,28,49,1,"[51.4, 58.7]","[50.1, 80.0]",21.339634,1.6317536,High Pass,Recovery,,,,,,Out,,,,,From Goal Kick
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,29,45,1,"[36.2, 80.0]","[39.1, 70.6]",9.837174,-1.27155,Low Pass,Throw-in,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,29,46,1,"[39.1, 69.5]","[34.8, 77.9]",9.436631,2.0439224,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,,29,48,1,"[32.5, 77.2]","[25.9, 62.4]",16.204937,-1.9902738,Low Pass,,,,,,,Incomplete,,,,True,From Throw In
+3857264,Argentina,Damián Emiliano Martínez,Marcos Javier Acuña,29,54,1,"[13.4, 37.0]","[42.0, 14.4]",36.45161,-0.6687427,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Marcos Javier Acuña,Enzo Fernandez,30,0,1,"[64.7, 11.3]","[55.6, 27.9]",18.930662,2.072251,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Enzo Fernandez,Lionel Andrés Messi Cuccittini,30,3,1,"[61.0, 31.3]","[63.5, 62.7]",31.499365,1.4913461,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,,30,9,1,"[80.5, 51.2]","[86.2, 45.1]",8.348653,-0.8192835,Low Pass,,,,,,,Incomplete,,,,,From Throw In
+3857264,Argentina,Enzo Fernandez,Cristian Gabriel Romero,30,16,1,"[70.6, 52.7]","[56.7, 54.6]",14.029255,3.005744,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,30,21,1,"[57.6, 49.6]","[63.9, 26.5]",23.943684,-1.3045443,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Julián Álvarez,30,25,1,"[74.0, 28.6]","[85.7, 29.2]",11.715375,0.051237166,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Julián Álvarez,Alexis Mac Allister,30,27,1,"[86.0, 29.2]","[86.8, 38.1]",8.935883,1.4811496,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Alexis Mac Allister,Nicolás Hernán Otamendi,30,28,1,"[86.8, 38.6]","[81.5, 30.2]",9.932271,-2.1336646,Ground Pass,,,,,,,,,,,True,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,30,32,1,"[81.5, 30.2]","[76.1, 32.8]",5.9933295,2.6928694,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Enzo Fernandez,Nahuel Molina Lucero,30,35,1,"[75.3, 33.6]","[73.2, 70.1]",36.56036,1.6282672,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Ángel Fabián Di María Hernández,30,38,1,"[72.6, 71.3]","[87.8, 77.2]",16.304907,0.37025616,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Ángel Fabián Di María Hernández,Lionel Andrés Messi Cuccittini,30,45,1,"[93.8, 60.4]","[96.0, 33.3]",27.189152,-1.4897932,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Marcos Javier Acuña,30,47,1,"[98.0, 31.7]","[112.5, 20.8]",18.14001,-0.64460367,Ground Pass,,,,,,,,,,,True,From Throw In
+3857264,Argentina,Marcos Javier Acuña,,30,49,1,"[112.5, 20.8]","[111.9, 35.5]",14.71224,1.61159,Ground Pass,,,True,,,,Incomplete,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,31,0,1,"[47.9, 76.8]","[39.3, 71.4]",10.154801,-2.5809057,Ground Pass,Recovery,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,31,7,1,"[63.4, 68.7]","[64.5, 75.1]",6.493843,1.4005845,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,31,11,1,"[69.8, 66.4]","[81.5, 59.0]",13.843771,-0.5639591,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,31,16,1,"[67.4, 74.2]","[75.3, 65.1]",12.050726,-0.85586953,Ground Pass,Recovery,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Nicolás Hernán Otamendi,31,19,1,"[75.0, 63.5]","[62.6, 40.6]",26.041697,-2.0670784,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,31,21,1,"[62.4, 40.4]","[65.8, 43.9]",4.879549,0.7998899,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Enzo Fernandez,Marcos Javier Acuña,31,22,1,"[66.4, 43.0]","[78.1, 19.2]",26.52037,-1.113894,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Marcos Javier Acuña,Julián Álvarez,31,25,1,"[80.3, 17.0]","[94.1, 12.1]",14.644112,-0.34118655,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Julián Álvarez,Marcos Javier Acuña,31,27,1,"[92.8, 8.9]","[80.2, 10.2]",12.666886,3.038782,Ground Pass,,,,,,,,,,,True,From Throw In
+3857264,Argentina,Marcos Javier Acuña,Enzo Fernandez,31,29,1,"[78.2, 10.5]","[71.3, 21.5]",12.984991,2.1310282,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Enzo Fernandez,Rodrigo Javier De Paul,31,31,1,"[69.5, 27.6]","[76.5, 51.2]",24.616255,1.2824523,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,31,34,1,"[76.5, 51.5]","[84.4, 73.5]",23.375414,1.2260457,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,31,39,1,"[93.4, 63.5]","[100.2, 54.9]",10.963576,-0.9017533,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,31,40,1,"[99.7, 53.6]","[96.5, 49.1]",5.5217752,-2.1889405,Ground Pass,,,,,,,Incomplete,,,,,From Throw In
+3857264,Argentina,Marcos Javier Acuña,Enzo Fernandez,31,47,1,"[75.2, 29.2]","[76.0, 43.5]",14.32236,1.5149106,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Enzo Fernandez,Rodrigo Javier De Paul,31,52,1,"[82.0, 43.5]","[82.3, 56.4]",12.903488,1.5475447,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,31,54,1,"[82.3, 56.7]","[98.6, 74.5]",24.135658,0.8293581,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Ángel Fabián Di María Hernández,,31,57,1,"[107.2, 67.7]","[109.1, 63.5]",4.609772,-1.1459641,Low Pass,,,,,,,Incomplete,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,,32,54,1,"[120.0, 0.1]","[117.7, 35.5]",35.47464,1.6356769,High Pass,Corner,Inswinging,,,,,Incomplete,,,,,From Corner
+3857264,Argentina,Nahuel Molina Lucero,Marcos Javier Acuña,33,5,1,"[44.3, 5.5]","[70.2, 6.6]",25.92335,0.042445533,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Marcos Javier Acuña,Nicolás Hernán Otamendi,33,8,1,"[68.4, 8.4]","[47.9, 18.6]",22.897379,2.6798983,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,33,11,1,"[46.2, 22.0]","[52.9, 43.0]",22.042913,1.2619575,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Enzo Fernandez,Julián Álvarez,33,14,1,"[52.7, 52.0]","[72.7, 77.4]",32.328934,0.9037847,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Julián Álvarez,Enzo Fernandez,33,18,1,"[76.6, 77.1]","[64.0, 71.1]",13.955644,-2.6971734,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Enzo Fernandez,Nahuel Molina Lucero,33,20,1,"[63.9, 71.1]","[55.3, 65.6]",10.20833,-2.5726094,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,33,22,1,"[55.3, 65.6]","[65.5, 53.8]",15.597436,-0.8579976,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Rodrigo Javier De Paul,Marcos Javier Acuña,33,24,1,"[65.5, 53.8]","[66.4, 21.0]",32.812344,-1.5433642,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Marcos Javier Acuña,Ángel Fabián Di María Hernández,33,27,1,"[67.6, 19.9]","[83.3, 8.1]",19.64001,-0.64451945,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Ángel Fabián Di María Hernández,Marcos Javier Acuña,33,29,1,"[85.4, 7.6]","[77.0, 20.7]",15.561812,2.1409755,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Marcos Javier Acuña,Nicolás Hernán Otamendi,33,32,1,"[78.1, 24.7]","[65.0, 26.3]",13.197349,3.0200572,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Nicolás Hernán Otamendi,Rodrigo Javier De Paul,33,34,1,"[62.9, 27.5]","[67.4, 55.1]",27.964441,1.4091749,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,33,37,1,"[67.7, 56.4]","[74.2, 75.5]",20.175728,1.2427763,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Nahuel Molina Lucero,Julián Álvarez,33,39,1,"[74.2, 74.5]","[83.4, 78.0]",9.843272,0.36352688,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Julián Álvarez,Rodrigo Javier De Paul,33,43,1,"[82.8, 76.9]","[68.5, 65.4]",18.350477,-2.4642985,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,33,45,1,"[68.5, 65.4]","[54.8, 57.8]",15.666844,-2.6351142,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Cristian Gabriel Romero,Enzo Fernandez,33,48,1,"[55.0, 57.8]","[62.6, 54.1]",8.45281,-0.453066,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Enzo Fernandez,Julián Álvarez,33,50,1,"[62.6, 54.1]","[81.8, 53.8]",19.202343,-0.015623729,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Julián Álvarez,Rodrigo Javier De Paul,33,52,1,"[81.8, 54.1]","[74.2, 72.6]",20.00025,1.9605875,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,33,55,1,"[77.4, 70.6]","[77.0, 49.6]",21.003809,-1.5898416,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Enzo Fernandez,33,56,1,"[77.0, 50.7]","[75.5, 59.6]",9.025519,1.7377665,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Enzo Fernandez,Rodrigo Javier De Paul,33,57,1,"[75.5, 59.6]","[86.6, 71.1]",15.983116,0.80309546,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Rodrigo Javier De Paul,,34,2,1,"[95.9, 62.7]","[108.0, 46.9]",19.901005,-0.9172453,Low Pass,,,True,,,,Incomplete,,,,,From Corner
+3857264,Argentina,Ángel Fabián Di María Hernández,Rodrigo Javier De Paul,34,16,1,"[120.0, 80.0]","[105.1, 77.7]",15.076471,-2.988439,Ground Pass,Corner,,,,,,,,,,,From Corner
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,34,18,1,"[104.7, 77.7]","[93.8, 61.7]",19.36001,-2.1688273,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Enzo Fernandez,34,21,1,"[93.8, 61.9]","[90.7, 40.9]",21.227577,-1.7173569,Ground Pass,,,,,,,,True,,a4aaf0da-1081-48b9-a387-3243c4942246,,From Corner
+3857264,Argentina,Rodrigo Javier De Paul,Nicolás Hernán Otamendi,34,54,1,"[55.6, 69.0]","[39.1, 49.1]",25.850725,-2.2630582,Ground Pass,Recovery,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,34,59,1,"[42.0, 48.2]","[48.3, 54.5]",8.909546,0.7853982,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nicolás Hernán Otamendi,34,59,1,"[48.3, 54.8]","[44.0, 46.9]",8.994443,-2.0692558,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Alexis Mac Allister,35,2,1,"[44.0, 46.9]","[54.0, 37.2]",13.931619,-0.7701709,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Julián Álvarez,35,7,1,"[86.3, 32.8]","[102.3, 33.4]",16.011246,0.037482437,Low Pass,,,,,,,,True,,91387214-dcee-44c8-b43c-046e2fecca89,,Regular Play
+3857264,Argentina,Julián Álvarez,,35,13,1,"[113.3, 14.2]","[113.5, 49.6]",35.400566,1.5651467,High Pass,,,True,,,,Unknown,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,,38,46,1,"[120.0, 80.0]","[115.4, 47.7]",32.62591,-1.7122599,High Pass,Corner,Inswinging,,,,,Incomplete,,,,,From Corner
+3857264,Argentina,Marcos Javier Acuña,Nahuel Molina Lucero,38,53,1,"[86.2, 31.8]","[64.3, 40.9]",23.715395,2.7477746,High Pass,Recovery,,,,,,,,,,,From Corner
+3857264,Argentina,Nahuel Molina Lucero,,38,55,1,"[64.8, 41.2]","[87.9, 55.7]",27.273796,0.5605426,Low Pass,,,,,,,Incomplete,,,,True,From Corner
+3857264,Argentina,Marcos Javier Acuña,Julián Álvarez,39,3,1,"[67.4, 23.9]","[84.1, 7.3]",23.546762,-0.7823952,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Julián Álvarez,Nicolás Hernán Otamendi,39,8,1,"[73.6, 6.5]","[48.3, 30.2]",34.6667,2.388836,Ground Pass,Recovery,,,,,,,,,,True,From Corner
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,39,12,1,"[47.5, 33.6]","[51.7, 27.9]",7.080254,-0.9357696,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Enzo Fernandez,Nahuel Molina Lucero,39,15,1,"[49.5, 32.5]","[51.4, 71.3]",38.846493,1.5218663,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Nahuel Molina Lucero,Lionel Andrés Messi Cuccittini,39,21,1,"[82.1, 61.6]","[78.6, 73.2]",12.116518,1.8638341,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Marcos Javier Acuña,39,26,1,"[88.6, 59.8]","[110.1, 28.3]",38.13791,-0.9718851,High Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Marcos Javier Acuña,,39,28,1,"[110.1, 28.3]","[107.3, 40.6]",12.614674,1.7946243,Low Pass,,,,,,,Incomplete,,,,,From Corner
+3857264,Argentina,Nicolás Hernán Otamendi,Marcos Javier Acuña,39,35,1,"[71.3, 22.0]","[81.2, 25.0]",10.3445635,0.29423457,Ground Pass,Interception,,,,,,,,,,,From Corner
+3857264,Argentina,Marcos Javier Acuña,Lionel Andrés Messi Cuccittini,39,40,1,"[97.5, 26.7]","[105.1, 38.3]",13.867949,0.9907935,Low Pass,,,,,,,Incomplete,,,,,From Corner
+3857264,Argentina,Alexis Mac Allister,Rodrigo Javier De Paul,39,51,1,"[77.0, 52.8]","[72.6, 65.8]",13.724431,1.8971552,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,39,53,1,"[74.7, 65.8]","[97.5, 75.8]",24.896585,0.4133304,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Ángel Fabián Di María Hernández,Julián Álvarez,39,58,1,"[97.3, 66.3]","[110.2, 25.0]",43.267773,-1.2680494,High Pass,,,True,,True,,,,,,,From Corner
+3857264,Argentina,Julián Álvarez,Lionel Andrés Messi Cuccittini,40,4,1,"[110.2, 25.4]","[105.7, 28.9]",5.700877,2.4805496,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Lionel Andrés Messi Cuccittini,,40,7,1,"[114.0, 24.6]","[106.7, 80.0]",55.878887,1.7018105,Ground Pass,,,True,,True,,Out,,,,,From Corner
+3857264,Argentina,Alexis Mac Allister,Marcos Javier Acuña,40,46,1,"[74.5, 39.9]","[81.8, 23.6]",17.860012,-1.1497295,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Alexis Mac Allister,40,50,1,"[83.7, 19.5]","[82.8, 26.5]",7.05762,1.6986662,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Rodrigo Javier De Paul,40,54,1,"[82.0, 33.1]","[75.2, 49.3]",17.569292,1.9682144,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,40,55,1,"[75.2, 49.3]","[81.3, 59.9]",12.229881,1.0486076,Ground Pass,,,,,,,,,,,True,Regular Play
+3857264,Argentina,Enzo Fernandez,Nahuel Molina Lucero,41,3,1,"[65.0, 48.0]","[69.7, 71.9]",24.35775,1.3766214,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Ángel Fabián Di María Hernández,41,9,1,"[88.7, 71.6]","[93.6, 76.8]",7.1449285,0.8150924,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Lionel Andrés Messi Cuccittini,41,11,1,"[92.8, 74.5]","[105.6, 59.9]",19.416489,-0.8509973,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Alexis Mac Allister,41,50,1,"[49.3, 19.5]","[56.7, 21.8]",7.7491937,0.30134523,Low Pass,Recovery,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Ángel Fabián Di María Hernández,41,52,1,"[56.6, 26.0]","[66.3, 47.2]",23.31373,1.1416839,Ground Pass,,,,,,,,,,,True,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Lionel Andrés Messi Cuccittini,41,58,1,"[88.1, 50.7]","[88.7, 40.6]",10.117806,-1.5114601,Ground Pass,Recovery,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Ángel Fabián Di María Hernández,42,0,1,"[88.3, 41.4]","[87.0, 46.2]",4.9729266,1.8352847,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Alexis Mac Allister,42,1,1,"[86.0, 45.1]","[89.7, 36.7]",9.17878,-1.1558906,Ground Pass,,,,,,,,,,,True,Regular Play
+3857264,Argentina,Alexis Mac Allister,Julián Álvarez,42,2,1,"[90.8, 35.2]","[98.9, 23.6]",14.148145,-0.96122843,Ground Pass,,,,,,,,True,,65ae5418-5de4-406c-8035-982c31b767cc,,Regular Play
+3857264,Argentina,Enzo Fernandez,,42,36,1,"[45.0, 26.3]","[56.9, 40.4]",18.450474,0.8698125,High Pass,Recovery,,,,,,Incomplete,,,,True,From Keeper
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,42,56,1,"[38.8, 70.9]","[64.7, 77.4]",26.703184,0.24588692,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,,43,5,1,"[106.2, 60.4]","[110.4, 39.3]",21.513948,-1.3743124,Low Pass,,,True,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,43,10,1,"[89.1, 59.6]","[101.8, 73.2]",18.607794,0.81960535,Ground Pass,,,,,,,,True,,0670a09b-814f-43dd-bc57-5a937f6757fe,,Regular Play
+3857264,Argentina,Damián Emiliano Martínez,Nicolás Hernán Otamendi,43,52,1,"[7.6, 58.0]","[14.4, 29.7]",29.105497,-1.3349841,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Alexis Mac Allister,43,59,1,"[52.9, 23.1]","[72.3, 22.0]",19.43116,-0.056640383,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Marcos Javier Acuña,44,1,1,"[72.3, 21.0]","[71.5, 8.9]",12.126417,-1.6368159,Ground Pass,,,,,,,,,,,True,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Nicolás Hernán Otamendi,44,3,1,"[71.5, 8.9]","[64.3, 16.3]",10.324728,2.3424966,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,44,5,1,"[63.1, 18.7]","[56.7, 27.5]",10.881176,2.1995926,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nahuel Molina Lucero,44,7,1,"[56.7, 27.5]","[61.9, 67.5]",40.336582,1.4415213,Low Pass,,,,,True,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Ángel Fabián Di María Hernández,44,12,1,"[74.4, 73.5]","[86.3, 76.4]",12.248265,0.23903814,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Rodrigo Javier De Paul,44,15,1,"[86.3, 76.4]","[79.5, 68.2]",10.652699,-2.2631307,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,44,17,1,"[79.5, 68.2]","[81.8, 60.4]",8.132035,-1.284051,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Ángel Fabián Di María Hernández,44,20,1,"[85.0, 62.4]","[98.3, 74.0]",17.647945,0.71723086,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Lionel Andrés Messi Cuccittini,44,24,1,"[106.2, 69.6]","[96.0, 61.7]",12.90155,-2.482589,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,,44,26,1,"[95.9, 61.6]","[109.6, 35.2]",29.743067,-1.0921123,High Pass,,,,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,44,37,1,"[98.8, 78.9]","[98.8, 67.5]",11.4,-1.5707964,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Enzo Fernandez,44,40,1,"[98.6, 67.5]","[87.1, 41.0]",28.887714,-1.9802336,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Lionel Andrés Messi Cuccittini,44,41,1,"[87.1, 41.0]","[90.7, 49.3]",9.047099,1.1615504,Low Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,44,44,1,"[89.1, 48.3]","[92.9, 59.3]",11.637869,1.2381766,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Marcos Javier Acuña,44,46,1,"[94.7, 61.6]","[118.8, 27.0]",42.16598,-0.9624018,High Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,,45,19,1,"[47.1, 73.2]","[64.8, 80.0]",18.961277,0.36679518,High Pass,Recovery,,,,,,Out,,,,True,From Goal Kick
+3857264,Argentina,Damián Emiliano Martínez,Nicolás Hernán Otamendi,45,43,1,"[13.4, 47.8]","[24.6, 32.5]",18.961277,-0.9388981,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,45,45,1,"[26.9, 31.8]","[34.8, 37.0]",9.457801,0.5821376,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nicolás Hernán Otamendi,45,50,1,"[38.6, 35.5]","[45.6, 22.0]",15.206906,-1.092444,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Marcos Javier Acuña,45,53,1,"[55.9, 19.1]","[82.3, 6.9]",29.082642,-0.4328881,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Nicolás Hernán Otamendi,45,57,1,"[84.9, 7.3]","[70.5, 15.2]",16.424677,2.6398163,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Marcos Javier Acuña,46,2,1,"[76.0, 19.7]","[96.7, 6.5]",24.55056,-0.5676664,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Alexis Mac Allister,46,5,1,"[95.7, 7.4]","[84.9, 16.3]",13.994642,2.4523437,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Enzo Fernandez,46,8,1,"[84.9, 16.3]","[73.7, 28.9]",16.858232,2.2974386,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nahuel Molina Lucero,46,10,1,"[71.3, 31.5]","[72.1, 59.9]",28.411264,1.5426347,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Lionel Andrés Messi Cuccittini,46,13,1,"[72.6, 64.3]","[82.8, 75.8]",15.371727,0.84523445,Low Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Damián Emiliano Martínez,Ángel Fabián Di María Hernández,47,33,1,"[13.0, 50.7]","[43.0, 6.9]",53.08898,-0.9702552,High Pass,,,,,True,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Marcos Javier Acuña,47,36,1,"[47.5, 4.7]","[31.5, 17.9]",20.742228,2.4517927,Low Pass,,,,,,,,,,,True,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Enzo Fernandez,47,40,1,"[35.9, 16.6]","[38.5, 37.0]",20.56502,1.4440287,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Lionel Andrés Messi Cuccittini,47,42,1,"[39.1, 37.0]","[44.6, 40.6]",6.5734315,0.579564,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,47,45,1,"[54.8, 41.8]","[62.6, 52.5]",13.241223,0.94088954,Ground Pass,,,,,,,,,,,True,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,47,50,1,"[85.8, 56.1]","[99.6, 76.4]",24.546486,0.9737544,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Lionel Andrés Messi Cuccittini,47,53,1,"[102.3, 74.2]","[89.2, 63.5]",16.914492,-2.456695,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Alexis Mac Allister,47,59,1,"[87.1, 49.9]","[98.3, 33.3]",20.024984,-0.9772536,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,,47,59,1,"[98.3, 33.3]","[100.4, 48.8]",15.641611,1.4361324,Ground Pass,,,,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Enzo Fernandez,45,0,2,"[60.0, 40.0]","[49.5, 38.9]",10.557462,-3.0372114,Ground Pass,Kick Off,,,,,,,,,,,From Kick Off
+3857264,Argentina,Enzo Fernandez,Rodrigo Javier De Paul,45,2,2,"[49.3, 39.9]","[44.3, 50.4]",11.6297035,2.0152156,Ground Pass,,,,,,,,,,,,From Kick Off
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,45,3,2,"[44.3, 50.4]","[30.0, 38.9]",18.350477,-2.4642985,Ground Pass,,,,,,,,,,,,From Kick Off
+3857264,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,45,6,2,"[29.6, 38.9]","[30.6, 20.0]",18.926437,-1.5179355,Ground Pass,,,,,,,,,,,,From Kick Off
+3857264,Argentina,Nicolás Hernán Otamendi,Cristian Gabriel Romero,45,10,2,"[30.6, 23.5]","[24.9, 46.8]",23.98708,1.8107194,Ground Pass,,,,,,,,,,,,From Kick Off
+3857264,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,45,15,2,"[26.6, 45.9]","[33.6, 19.6]",27.21562,-1.3106673,Ground Pass,,,,,,,,,,,,From Kick Off
+3857264,Argentina,Nicolás Hernán Otamendi,Marcos Javier Acuña,45,19,2,"[42.8, 12.1]","[61.7, 1.6]",21.620823,-0.5070985,Ground Pass,,,,,,,,,,,,From Kick Off
+3857264,Argentina,Marcos Javier Acuña,Nicolás Hernán Otamendi,45,22,2,"[62.6, 2.0]","[42.0, 6.4]",21.064663,2.9311624,Ground Pass,,,,,,,,,,,,From Kick Off
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,45,24,2,"[40.8, 6.6]","[35.9, 14.8]",9.552486,2.1094205,Ground Pass,,,,,,,,,,,,From Kick Off
+3857264,Argentina,Enzo Fernandez,Cristian Gabriel Romero,45,26,2,"[33.5, 19.2]","[27.0, 50.5]",31.967796,1.7755537,Ground Pass,,,,,,,,,,,,From Kick Off
+3857264,Argentina,Cristian Gabriel Romero,Lionel Andrés Messi Cuccittini,45,33,2,"[54.0, 58.5]","[74.7, 53.0]",21.418217,-0.25970015,Ground Pass,,,,,,,,,,,,From Kick Off
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,45,35,2,"[68.7, 54.3]","[65.7, 64.3]",10.440307,1.8622531,Ground Pass,,,,,,,,,,,,From Kick Off
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,45,39,2,"[67.2, 69.0]","[48.6, 62.6]",19.670282,-2.8101962,Ground Pass,,,,,,,,,,,True,From Kick Off
+3857264,Argentina,Cristian Gabriel Romero,Nahuel Molina Lucero,45,45,2,"[56.1, 63.7]","[75.1, 67.7]",19.416489,0.20749623,Ground Pass,,,,,,,,,,,,From Kick Off
+3857264,Argentina,Nahuel Molina Lucero,Ángel Fabián Di María Hernández,45,47,2,"[80.3, 68.6]","[92.7, 73.5]",13.333041,0.37632814,Ground Pass,,,,,,,,,,,,From Kick Off
+3857264,Argentina,Ángel Fabián Di María Hernández,Nahuel Molina Lucero,45,50,2,"[102.1, 72.0]","[110.4, 71.6]",8.309633,-0.048155513,Ground Pass,,,,,,,,,,,,From Kick Off
+3857264,Argentina,Nahuel Molina Lucero,Alexis Mac Allister,45,52,2,"[114.3, 69.9]","[106.0, 46.7]",24.640009,-1.9143662,Low Pass,,,True,True,,,,,True,eb2860da-2ebb-4004-bc49-730dfbce8e20,,From Kick Off
+3857264,Argentina,Marcos Javier Acuña,,48,6,2,"[18.9, 19.2]","[32.4, 15.3]",14.052046,-0.2812322,High Pass,Recovery,,,,,,Incomplete,,,,True,From Free Kick
+3857264,Argentina,Damián Emiliano Martínez,Cristian Gabriel Romero,49,24,2,"[6.0, 36.0]","[6.3, 53.4]",17.402586,1.5535567,Ground Pass,Goal Kick,,,,,,,,,,,From Goal Kick
+3857264,Argentina,Cristian Gabriel Romero,,49,27,2,"[9.5, 56.2]","[49.0, 71.2]",42.25222,0.36292577,High Pass,,,,,,,Unknown,,,,,From Goal Kick
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,50,1,2,"[50.3, 70.7]","[28.3, 56.0]",26.459213,-2.5525417,Ground Pass,Free Kick,,,,,,,,,,,From Free Kick
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,50,4,2,"[32.1, 58.3]","[41.3, 73.1]",17.426416,1.0146301,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,50,11,2,"[68.9, 68.6]","[65.1, 60.9]",8.586617,-2.0292356,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Enzo Fernandez,50,14,2,"[66.2, 63.7]","[53.5, 52.3]",17.066048,-2.4100842,Ground Pass,Recovery,,,,,,,,,,,From Free Kick
+3857264,Argentina,Enzo Fernandez,Alexis Mac Allister,50,16,2,"[53.5, 52.3]","[63.6, 36.3]",18.921152,-1.0077152,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Alexis Mac Allister,Marcos Javier Acuña,50,20,2,"[74.1, 29.2]","[86.7, 3.6]",28.532787,-1.1134182,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Marcos Javier Acuña,Alexis Mac Allister,50,23,2,"[86.7, 3.6]","[82.6, 11.5]",8.900561,2.049518,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Alexis Mac Allister,Enzo Fernandez,50,25,2,"[81.1, 13.4]","[70.6, 24.5]",15.279398,2.3284237,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Enzo Fernandez,Rodrigo Javier De Paul,50,28,2,"[69.4, 29.5]","[75.1, 48.3]",19.645102,1.2764142,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,50,30,2,"[76.2, 50.2]","[78.8, 56.8]",7.093659,1.1955255,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Ángel Fabián Di María Hernández,50,38,2,"[87.1, 53.0]","[100.6, 69.2]",21.087673,0.87605804,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Alexis Mac Allister,51,23,2,"[76.4, 61.3]","[76.2, 45.7]",15.601282,-1.5836161,High Pass,Recovery,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,,51,27,2,"[74.3, 58.5]","[85.6, 60.5]",11.475626,0.175177,Ground Pass,Recovery,,,,,,Incomplete,,,,,From Throw In
+3857264,Argentina,Alexis Mac Allister,Julián Álvarez,52,15,2,"[21.5, 30.5]","[24.0, 17.5]",13.238202,-1.380808,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Julián Álvarez,Nicolás Hernán Otamendi,52,20,2,"[36.0, 4.4]","[20.0, 11.7]",17.586643,2.7135534,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Damián Emiliano Martínez,52,22,2,"[17.8, 14.3]","[2.6, 26.9]",19.743353,2.4494483,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Damián Emiliano Martínez,,52,26,2,"[3.5, 26.2]","[40.5, 23.9]",37.07142,-0.06208228,High Pass,,,,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Lionel Andrés Messi Cuccittini,52,32,2,"[34.7, 30.5]","[46.7, 40.4]",15.55667,0.6898,Ground Pass,Recovery,,,,,,,True,,70ce1f6c-76b8-46d5-b140-1ceca04362a2,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Alexis Mac Allister,53,14,2,"[32.8, 16.8]","[46.5, 15.5]",13.76154,-0.094607234,High Pass,Recovery,,,,,,,,,,,From Goal Kick
+3857264,Argentina,Alexis Mac Allister,Lionel Andrés Messi Cuccittini,53,15,2,"[45.8, 15.5]","[56.1, 16.4]",10.339246,0.08715727,High Pass,,,,,,,Incomplete,,,,,From Goal Kick
+3857264,Argentina,Julián Álvarez,Lionel Andrés Messi Cuccittini,53,18,2,"[64.9, 18.1]","[94.4, 46.8]",41.1575,0.77165335,Low Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Rodrigo Javier De Paul,53,32,2,"[106.2, 51.7]","[104.7, 54.7]",3.354102,2.0344439,Low Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,53,36,2,"[112.1, 71.2]","[100.8, 67.7]",11.829624,-2.8412292,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Rodrigo Javier De Paul,53,39,2,"[98.5, 67.5]","[97.2, 75.0]",7.611833,1.7424244,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,53,40,2,"[97.2, 75.0]","[80.7, 67.7]",18.042727,-2.7250566,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Enzo Fernandez,53,42,2,"[81.3, 65.6]","[75.1, 52.6]",14.402778,-2.0158126,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Alexis Mac Allister,53,44,2,"[74.5, 50.4]","[83.9, 36.9]",16.450228,-0.9625604,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Nahuel Molina Lucero,53,47,2,"[84.6, 38.0]","[80.9, 51.3]",13.805072,1.8421309,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,53,49,2,"[81.6, 54.3]","[83.9, 71.8]",17.650496,1.4401168,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,53,51,2,"[84.6, 71.8]","[99.5, 72.9]",14.940549,0.07369182,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Lionel Andrés Messi Cuccittini,53,54,2,"[99.1, 69.0]","[93.5, 57.0]",13.242356,-2.0074234,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,53,55,2,"[93.3, 56.6]","[89.3, 70.5]",14.464093,1.8509953,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Enzo Fernandez,53,57,2,"[88.2, 69.2]","[79.4, 55.8]",16.03122,-2.1518786,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Rodrigo Javier De Paul,53,59,2,"[79.2, 56.0]","[80.7, 69.7]",13.781872,1.4617417,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,54,2,2,"[81.3, 69.9]","[92.3, 75.0]",12.124768,0.43413588,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Rodrigo Javier De Paul,54,3,2,"[92.3, 75.0]","[81.8, 70.3]",11.503912,-2.7207205,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Enzo Fernandez,54,4,2,"[81.1, 69.2]","[70.2, 58.5]",15.274161,-2.3654535,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nicolás Hernán Otamendi,54,7,2,"[70.0, 52.3]","[57.2, 31.4]",24.508162,-2.120313,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Rodrigo Javier De Paul,54,10,2,"[57.4, 34.6]","[65.3, 61.8]",28.324018,1.288132,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,54,14,2,"[72.8, 72.7]","[78.1, 74.8]",5.700877,0.37724906,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Rodrigo Javier De Paul,54,16,2,"[76.6, 73.7]","[69.4, 71.8]",7.4464755,-2.8835855,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,54,18,2,"[67.4, 72.2]","[50.5, 60.3]",20.6693,-2.5280921,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Enzo Fernandez,54,21,2,"[51.4, 59.2]","[63.2, 50.2]",14.840486,-0.6515872,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Cristian Gabriel Romero,54,23,2,"[63.6, 52.8]","[47.3, 54.1]",16.351759,3.0620065,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,54,26,2,"[45.4, 52.1]","[44.8, 25.4]",26.706741,-1.5932645,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Rodrigo Javier De Paul,54,32,2,"[53.1, 26.2]","[51.8, 57.9]",31.726645,1.6117828,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,54,35,2,"[54.6, 60.3]","[80.1, 62.0]",25.556604,0.066568166,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Ángel Fabián Di María Hernández,54,37,2,"[80.9, 62.0]","[104.4, 73.9]",26.341223,0.46874094,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,,54,44,2,"[98.5, 62.0]","[107.4, 45.3]",18.92353,-1.0811498,Low Pass,,,,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Rodrigo Javier De Paul,54,50,2,"[86.5, 35.4]","[75.1, 60.9]",27.93224,1.9912016,Low Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,54,54,2,"[75.8, 60.9]","[94.4, 71.4]",21.359074,0.51391965,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Rodrigo Javier De Paul,54,57,2,"[91.2, 70.7]","[78.1, 62.2]",15.616017,-2.5660229,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Enzo Fernandez,54,59,2,"[77.7, 61.8]","[76.4, 51.5]",10.381715,-1.696346,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Rodrigo Javier De Paul,55,1,2,"[76.4, 52.3]","[73.9, 62.8]",10.793516,1.8045396,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Nicolás Hernán Otamendi,55,2,2,"[74.3, 62.2]","[60.6, 33.3]",31.982807,-2.013468,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Julián Álvarez,55,6,2,"[62.3, 32.4]","[80.1, 3.8]",33.686794,-1.0140849,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Julián Álvarez,Alexis Mac Allister,55,12,2,"[76.0, 12.6]","[74.7, 20.0]",7.5133214,1.7446976,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Julián Álvarez,55,13,2,"[74.7, 20.0]","[77.3, 16.2]",4.604346,-0.9707461,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Julián Álvarez,Enzo Fernandez,55,14,2,"[78.3, 16.8]","[73.2, 13.8]",5.916925,-2.6098685,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Alexis Mac Allister,55,17,2,"[72.6, 19.0]","[75.8, 22.0]",4.3863425,0.7531513,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Enzo Fernandez,55,18,2,"[76.0, 23.2]","[71.3, 20.7]",5.3235326,-2.6527402,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Alexis Mac Allister,55,19,2,"[71.3, 20.7]","[74.9, 24.7]",5.3814497,0.8379812,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Marcos Javier Acuña,55,19,2,"[73.2, 24.7]","[76.4, 3.1]",21.83575,-1.423718,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Enzo Fernandez,55,22,2,"[75.6, 3.1]","[66.6, 5.5]",9.314505,2.8809903,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Cristian Gabriel Romero,55,24,2,"[65.9, 8.7]","[45.6, 40.8]",37.98026,2.1346984,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Nahuel Molina Lucero,55,28,2,"[49.9, 47.8]","[67.4, 63.2]",23.311155,0.72165483,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,55,33,2,"[84.8, 61.8]","[91.8, 60.3]",7.1589108,-0.21109334,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,55,34,2,"[91.8, 60.3]","[88.0, 69.5]",9.953894,1.9624963,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Lionel Andrés Messi Cuccittini,55,36,2,"[86.0, 61.5]","[92.9, 50.0]",13.411189,-1.0303768,Ground Pass,,,,,,,,True,,4a6f24b1-264f-4299-a970-d34dbab58d38,,Regular Play
+3857264,Argentina,Enzo Fernandez,Rodrigo Javier De Paul,55,53,2,"[67.2, 23.9]","[70.9, 59.2]",35.49338,1.4663618,Low Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,55,56,2,"[74.9, 61.5]","[97.6, 72.9]",25.401772,0.46540818,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Nahuel Molina Lucero,56,0,2,"[101.0, 68.6]","[112.1, 66.7]",11.261438,-0.16952822,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Ángel Fabián Di María Hernández,56,2,2,"[110.0, 67.5]","[101.9, 65.2]",8.420214,-2.8649244,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Lionel Andrés Messi Cuccittini,56,5,2,"[98.5, 63.9]","[93.5, 55.1]",10.121264,-2.0874915,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Ángel Fabián Di María Hernández,56,7,2,"[97.6, 51.9]","[104.2, 53.4]",6.7683086,0.2234766,Low Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,,56,8,2,"[104.9, 55.3]","[104.0, 50.8]",4.5891175,-1.7681919,Ground Pass,,,,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,,56,11,2,"[107.7, 55.8]","[109.1, 53.2]",2.9529645,-1.076855,Ground Pass,,,,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Rodrigo Javier De Paul,56,12,2,"[107.0, 56.8]","[95.5, 58.3]",11.597413,3.0118902,Ground Pass,Recovery,,,,,,,,,,True,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Enzo Fernandez,56,14,2,"[95.9, 58.1]","[87.5, 44.6]",15.9,-2.1273956,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Rodrigo Javier De Paul,56,16,2,"[86.0, 45.5]","[88.2, 57.3]",12.003333,1.3864719,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,56,18,2,"[86.3, 60.5]","[98.2, 57.7]",12.224975,-0.23109066,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Ángel Fabián Di María Hernández,Rodrigo Javier De Paul,56,21,2,"[97.6, 58.5]","[86.7, 62.2]",11.510864,2.8143477,Ground Pass,,,,,,,,,,,True,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Enzo Fernandez,56,22,2,"[86.9, 61.5]","[81.8, 52.3]",10.519031,-2.0769715,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Alexis Mac Allister,56,25,2,"[82.2, 51.3]","[89.0, 34.6]",18.03136,-1.1841109,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Nicolás Hernán Otamendi,56,26,2,"[89.0, 34.6]","[66.2, 37.6]",22.996521,3.0107653,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Marcos Javier Acuña,56,28,2,"[66.2, 37.4]","[68.7, 28.4]",9.340771,-1.2998495,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Enzo Fernandez,56,29,2,"[68.7, 28.4]","[65.7, 40.8]",12.757743,1.8081706,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nicolás Hernán Otamendi,56,31,2,"[64.7, 41.6]","[57.0, 34.4]",10.5418215,-2.389739,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Cristian Gabriel Romero,56,32,2,"[56.1, 35.7]","[56.5, 53.2]",17.50457,1.5479431,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,56,35,2,"[57.0, 49.1]","[50.8, 31.6]",18.565828,-1.9112841,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Julián Álvarez,56,39,2,"[57.2, 23.2]","[80.9, 3.6]",30.754675,-0.6909914,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Julián Álvarez,Marcos Javier Acuña,56,44,2,"[101.9, 3.8]","[88.2, 5.5]",13.805072,3.018136,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Marcos Javier Acuña,Rodrigo Javier De Paul,56,49,2,"[92.3, 12.6]","[69.8, 47.8]",41.77667,2.139545,High Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,56,52,2,"[68.9, 52.1]","[77.7, 64.3]",15.042606,0.9459101,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Lionel Andrés Messi Cuccittini,56,54,2,"[77.9, 64.1]","[81.1, 52.6]",11.936917,-1.299401,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,,57,55,2,"[6.5, 63.0]","[6.9, 66.2]",3.224903,1.4464413,Ground Pass,,,,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,57,57,2,"[11.8, 66.7]","[21.2, 62.6]",10.255242,-0.41129375,Ground Pass,Recovery,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Ángel Fabián Di María Hernández,57,59,2,"[26.6, 64.1]","[33.6, 72.7]",11.088733,0.8876049,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,,59,22,2,"[30.2, 17.9]","[48.4, 0.1]",25.457415,-0.7742875,High Pass,Recovery,,,,,,Out,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Lionel Andrés Messi Cuccittini,60,23,2,"[21.5, 80.0]","[21.7, 67.3]",12.701574,-1.5550495,High Pass,Throw-in,,,,,,Incomplete,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Alexis Mac Allister,60,25,2,"[30.6, 64.3]","[50.3, 52.3]",23.067076,-0.54711086,High Pass,Recovery,,,,,,,,,,,From Throw In
+3857264,Argentina,Alexis Mac Allister,Lionel Andrés Messi Cuccittini,60,30,2,"[74.5, 57.0]","[74.7, 67.5]",10.5019045,1.551751,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Nicolás Alejandro Tagliafico,60,33,2,"[75.6, 58.1]","[98.7, 21.3]",43.449394,-1.0102453,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Alejandro Tagliafico,Alexis Mac Allister,60,37,2,"[106.2, 24.1]","[106.0, 46.0]",21.900913,1.5799285,Ground Pass,,,,,,,,True,,9a0efccb-b7da-417b-91d2-ff7b15151f07,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,,60,58,2,"[54.6, 62.2]","[66.8, 59.8]",12.433825,-0.194241,High Pass,Recovery,,,,,,Incomplete,,,,,From Keeper
+3857264,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,61,52,2,"[33.6, 61.5]","[32.8, 46.6]",14.921461,-1.6244361,High Pass,Recovery,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,,61,54,2,"[32.8, 46.6]","[67.0, 45.9]",34.207165,-0.02046498,High Pass,,,,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Rodrigo Javier De Paul,62,1,2,"[44.3, 52.8]","[46.7, 59.8]",7.4,1.240499,High Pass,Recovery,,,,,,,,,,True,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,62,4,2,"[50.5, 62.8]","[57.8, 58.8]",8.324061,-0.5012643,Ground Pass,,,,,,,,,,,True,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Leandro Daniel Paredes,62,5,2,"[57.8, 58.8]","[49.7, 60.7]",8.319856,2.9111903,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Enzo Fernandez,62,8,2,"[51.2, 54.3]","[44.1, 33.5]",21.9784,-1.899741,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Leandro Daniel Paredes,62,13,2,"[48.8, 25.2]","[53.3, 32.4]",8.490583,1.012197,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Hernán Otamendi,62,14,2,"[53.5, 32.4]","[44.8, 29.0]",9.340771,-2.7690384,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,62,17,2,"[43.7, 29.2]","[46.9, 16.0]",13.582341,-1.3329604,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nicolás Alejandro Tagliafico,62,19,2,"[47.3, 12.8]","[64.4, 1.9]",20.27856,-0.56748563,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Alejandro Tagliafico,Enzo Fernandez,62,21,2,"[64.9, 2.3]","[55.0, 4.9]",10.235722,2.884766,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Alexis Mac Allister,62,24,2,"[56.5, 4.0]","[55.7, 10.0]",6.053098,1.7033478,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Nicolás Hernán Otamendi,62,25,2,"[55.7, 11.7]","[35.8, 15.1]",20.188362,2.9723723,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Cristian Gabriel Romero,62,28,2,"[35.8, 19.8]","[39.8, 53.6]",34.035862,1.453001,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,62,32,2,"[47.3, 58.8]","[52.7, 65.0]",8.221922,0.85425466,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,62,33,2,"[52.9, 65.4]","[43.5, 55.5]",13.65174,-2.3302937,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,62,41,2,"[44.8, 49.8]","[39.2, 25.4]",25.034376,-1.7963976,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Alexis Mac Allister,62,45,2,"[44.3, 24.3]","[68.3, 24.3]",24.0,0.0,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Leandro Daniel Paredes,62,46,2,"[68.5, 24.3]","[57.6, 28.8]",11.792371,2.7500632,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Enzo Fernandez,62,47,2,"[58.5, 28.8]","[56.7, 9.8]",19.085073,-1.6652513,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,,62,48,2,"[57.6, 10.2]","[76.4, 0.1]",21.341274,-0.4929893,Ground Pass,,,,,,,Out,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,64,0,2,"[120.0, 0.1]","[111.9, 1.9]",8.29759,2.9229238,Ground Pass,Corner,,,,,,,,,,,From Corner
+3857264,Argentina,Rodrigo Javier De Paul,Enzo Fernandez,64,1,2,"[111.1, 2.1]","[91.2, 15.3]",23.879908,2.555913,Low Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Enzo Fernandez,Leandro Daniel Paredes,64,5,2,"[85.6, 19.4]","[82.2, 49.6]",30.390787,1.682907,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Leandro Daniel Paredes,Enzo Fernandez,64,8,2,"[80.3, 52.1]","[76.6, 22.8]",29.532694,-1.6964113,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Enzo Fernandez,Leandro Daniel Paredes,64,13,2,"[80.7, 26.9]","[74.1, 41.6]",16.113659,1.9928013,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Leandro Daniel Paredes,Enzo Fernandez,64,17,2,"[73.6, 40.8]","[73.4, 28.4]",12.401613,-1.586924,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Enzo Fernandez,Julián Álvarez,64,19,2,"[69.8, 27.7]","[81.6, 61.5]",35.80056,1.2349124,High Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Julián Álvarez,Leandro Daniel Paredes,64,22,2,"[80.7, 60.9]","[70.2, 52.6]",13.384319,-2.472686,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Leandro Daniel Paredes,Nahuel Molina Lucero,64,28,2,"[68.5, 50.0]","[67.9, 65.6]",15.611534,1.6092389,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Nahuel Molina Lucero,Leandro Daniel Paredes,64,30,2,"[67.4, 66.5]","[64.0, 55.5]",11.513471,-1.8705724,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Leandro Daniel Paredes,Rodrigo Javier De Paul,64,32,2,"[63.2, 56.6]","[67.7, 65.0]",9.5294285,1.0789871,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Rodrigo Javier De Paul,Nicolás Hernán Otamendi,64,34,2,"[68.1, 63.9]","[53.1, 34.8]",32.73851,-2.0467384,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Nicolás Hernán Otamendi,Cristian Gabriel Romero,64,39,2,"[53.7, 36.9]","[48.8, 52.6]",16.446884,1.8733184,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,64,42,2,"[49.3, 57.5]","[53.7, 63.0]",7.0434365,0.8960554,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Rodrigo Javier De Paul,Nicolás Hernán Otamendi,64,45,2,"[51.0, 53.2]","[45.0, 25.8]",28.049242,-1.7863717,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Nicolás Hernán Otamendi,Nicolás Alejandro Tagliafico,64,52,2,"[71.7, 11.5]","[83.1, 2.5]",14.524462,-0.6682894,High Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Nicolás Alejandro Tagliafico,Alexis Mac Allister,64,54,2,"[84.1, 2.7]","[110.6, 6.1]",26.717222,0.12760475,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Nicolás Alejandro Tagliafico,Alexis Mac Allister,65,15,2,"[110.2, 0.1]","[106.4, 10.8]",11.354734,1.912043,Low Pass,Throw-in,,,,,,,,,,,From Throw In
+3857264,Argentina,Alexis Mac Allister,Enzo Fernandez,65,18,2,"[100.0, 3.8]","[86.9, 2.7]",13.146102,-3.0578196,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Enzo Fernandez,Cristian Gabriel Romero,65,20,2,"[80.9, 3.1]","[63.2, 32.4]",34.231274,2.1142218,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,65,24,2,"[62.7, 34.2]","[61.9, 16.8]",17.41838,-1.616741,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Cristian Gabriel Romero,65,28,2,"[61.4, 19.6]","[53.7, 40.6]",22.367163,1.9222411,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Nahuel Molina Lucero,65,31,2,"[53.3, 42.9]","[57.0, 60.7]",18.180485,1.3658496,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Cristian Gabriel Romero,65,34,2,"[57.0, 61.8]","[46.0, 48.5]",17.259491,-2.2618253,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Leandro Daniel Paredes,65,38,2,"[46.5, 47.4]","[45.6, 31.2]",16.224981,-1.6262949,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Leandro Daniel Paredes,Alexis Mac Allister,65,40,2,"[46.5, 29.7]","[70.0, 20.9]",25.093624,-0.35830426,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Alexis Mac Allister,Nicolás Hernán Otamendi,65,42,2,"[69.8, 22.6]","[58.9, 10.0]",16.660433,-2.28398,Ground Pass,,,,,,,,,,,True,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Nicolás Alejandro Tagliafico,65,44,2,"[62.1, 8.3]","[76.0, 4.2]",14.492066,-0.28683025,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Alejandro Tagliafico,Leandro Daniel Paredes,65,50,2,"[70.9, 4.6]","[64.0, 14.5]",12.067311,2.1794856,Ground Pass,Free Kick,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Cristian Gabriel Romero,65,52,2,"[62.9, 17.3]","[53.5, 40.1]",24.66171,1.9618444,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Cristian Gabriel Romero,Enzo Fernandez,65,55,2,"[54.2, 42.7]","[60.2, 47.6]",7.746612,0.68482125,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Enzo Fernandez,Rodrigo Javier De Paul,65,57,2,"[62.3, 53.4]","[68.5, 64.5]",12.714166,1.061406,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,66,0,2,"[70.9, 69.2]","[75.1, 63.5]",7.080254,-0.9357696,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,66,1,2,"[74.9, 63.9]","[71.5, 68.0]",5.3263497,2.2631307,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,66,2,2,"[71.9, 68.4]","[71.1, 56.2]",12.226201,-1.6362764,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Leandro Daniel Paredes,66,4,2,"[70.6, 55.8]","[66.4, 41.2]",15.192103,-1.8509043,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Enzo Fernandez,66,5,2,"[66.4, 41.2]","[62.5, 42.3]",4.05216,2.8666828,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Enzo Fernandez,Nicolás Hernán Otamendi,66,7,2,"[60.6, 39.1]","[55.2, 21.1]",18.792551,-1.8622531,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Hernán Otamendi,Nicolás Alejandro Tagliafico,66,10,2,"[55.9, 19.4]","[73.6, 2.7]",24.33475,-0.75633657,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Alejandro Tagliafico,Leandro Daniel Paredes,66,12,2,"[74.1, 3.6]","[68.5, 11.5]",9.683491,2.1874444,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Enzo Fernandez,66,14,2,"[67.0, 14.5]","[57.8, 25.8]",14.5715475,2.2541115,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Enzo Fernandez,Rodrigo Javier De Paul,66,17,2,"[56.1, 30.7]","[61.7, 60.0]",29.830353,1.3819475,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,66,19,2,"[62.5, 61.5]","[80.7, 73.5]",21.8,0.5829136,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,66,22,2,"[80.7, 73.7]","[69.8, 69.9]",11.543396,-2.8061442,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,66,24,2,"[70.0, 68.6]","[69.6, 50.2]",18.404346,-1.592532,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Nahuel Molina Lucero,66,30,2,"[83.7, 55.3]","[109.8, 64.7]",27.741125,0.34569123,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,66,34,2,"[111.3, 63.0]","[93.7, 54.3]",19.632881,-2.6825008,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,66,37,2,"[93.5, 52.3]","[105.1, 64.1]",16.546904,0.79394495,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nahuel Molina Lucero,Leandro Daniel Paredes,66,40,2,"[104.4, 66.0]","[84.8, 47.8]",26.746962,-2.3932147,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Alexis Mac Allister,66,43,2,"[82.6, 45.1]","[87.8, 50.6]",7.569016,0.8134282,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Alexis Mac Allister,Rodrigo Javier De Paul,66,45,2,"[87.1, 51.9]","[92.9, 64.5]",13.870832,1.1393956,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Alexis Mac Allister,66,48,2,"[95.2, 64.5]","[86.9, 58.1]",10.480935,-2.4847336,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Alexis Mac Allister,Leandro Daniel Paredes,66,50,2,"[87.3, 55.3]","[78.3, 41.4]",16.559288,-2.1453993,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Enzo Fernandez,66,52,2,"[77.1, 38.2]","[86.0, 22.6]",17.960234,-1.0523409,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Enzo Fernandez,Julián Álvarez,66,56,2,"[97.4, 29.5]","[103.6, 29.5]",6.2,0.0,Low Pass,,,,,,,,,True,85aaca70-13c3-4d52-87e2-63d63b6d37d4,,From Free Kick
+3857264,Argentina,Cristian Gabriel Romero,,68,32,2,"[43.7, 56.2]","[50.8, 52.8]",7.8721027,-0.4466038,High Pass,Recovery,,,,,,Incomplete,,,,,From Kick Off
+3857264,Argentina,Rodrigo Javier De Paul,Nicolás Hernán Otamendi,68,36,2,"[46.7, 54.5]","[31.3, 33.9]",25.720032,-2.2127423,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,68,38,2,"[29.8, 32.4]","[36.0, 30.1]",6.6128664,-0.35523087,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nicolás Hernán Otamendi,68,39,2,"[36.0, 30.1]","[31.5, 33.9]",5.8898215,2.4403327,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,68,41,2,"[31.3, 34.8]","[31.5, 22.4]",12.401613,-1.5546687,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nicolás Alejandro Tagliafico,68,43,2,"[31.9, 19.8]","[43.7, 2.7]",20.776188,-0.96677375,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Alejandro Tagliafico,Enzo Fernandez,68,46,2,"[43.7, 2.7]","[37.1, 8.5]",8.786353,2.4206214,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nicolás Hernán Otamendi,68,48,2,"[36.9, 10.0]","[31.3, 22.6]",13.788401,1.9890207,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Leandro Daniel Paredes,68,50,2,"[31.1, 22.4]","[44.6, 24.7]",13.694525,0.1687501,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Hernán Otamendi,68,51,2,"[43.9, 26.7]","[34.1, 25.0]",9.946356,-2.9698324,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,68,53,2,"[34.1, 25.0]","[42.0, 12.3]",14.956604,-1.0143231,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nicolás Alejandro Tagliafico,68,54,2,"[41.1, 10.6]","[53.1, 2.5]",14.477914,-0.59374964,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Alejandro Tagliafico,Enzo Fernandez,68,57,2,"[53.1, 2.5]","[46.3, 7.2]",8.266196,2.536813,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Leandro Daniel Paredes,68,58,2,"[45.2, 10.2]","[47.3, 25.6]",15.542522,1.4352686,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Lionel Andrés Messi Cuccittini,69,1,2,"[48.6, 29.0]","[73.9, 72.7]",50.495346,1.0460006,High Pass,,,,,True,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Enzo Fernandez,69,9,2,"[83.5, 55.3]","[81.1, 27.7]",27.704151,-1.6575347,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Lionel Andrés Messi Cuccittini,69,13,2,"[87.1, 19.6]","[86.0, 42.7]",23.126175,1.6183795,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Leandro Daniel Paredes,69,15,2,"[86.0, 45.5]","[79.2, 37.2]",10.729865,-2.2571816,Ground Pass,,,,,,,,,,,True,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Rodrigo Javier De Paul,69,16,2,"[79.4, 37.2]","[75.6, 60.5]",23.607838,1.7324631,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Leandro Daniel Paredes,69,18,2,"[75.6, 60.7]","[73.0, 47.0]",13.944533,-1.7583469,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Cristian Gabriel Romero,69,20,2,"[72.1, 49.6]","[56.7, 48.7]",15.426276,-3.0832174,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Leandro Daniel Paredes,69,22,2,"[55.7, 46.8]","[62.9, 41.0]",9.24554,-0.6781193,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Rodrigo Javier De Paul,69,28,2,"[62.5, 38.6]","[63.2, 54.3]",15.715597,1.5262399,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Leandro Daniel Paredes,69,31,2,"[64.2, 56.8]","[68.9, 49.3]",8.850988,-1.0109994,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Julián Álvarez,69,32,2,"[70.2, 50.0]","[80.3, 51.9]",10.277159,0.18594567,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Julián Álvarez,Rodrigo Javier De Paul,69,33,2,"[80.7, 52.8]","[68.3, 55.3]",12.649506,2.9426467,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Leandro Daniel Paredes,69,35,2,"[68.3, 55.3]","[70.4, 47.2]",8.367795,-1.3171222,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Alejandro Tagliafico,69,36,2,"[70.6, 47.6]","[93.1, 8.3]",45.285095,-1.0508286,High Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Alejandro Tagliafico,Alexis Mac Allister,69,40,2,"[95.2, 10.8]","[86.7, 21.5]",13.665284,2.2421088,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Leandro Daniel Paredes,69,42,2,"[86.9, 23.2]","[75.1, 30.9]",14.090068,2.5634322,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Enzo Fernandez,69,43,2,"[75.1, 30.3]","[78.8, 17.7]",13.132022,-1.2851746,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Leandro Daniel Paredes,69,45,2,"[78.3, 17.5]","[74.1, 21.8]",6.0108237,2.3444302,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Hernán Otamendi,69,48,2,"[69.6, 21.5]","[54.4, 22.8]",15.255491,3.056274,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,69,49,2,"[54.4, 22.8]","[62.5, 11.7]",13.7411785,-0.9403949,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nicolás Hernán Otamendi,69,51,2,"[61.7, 12.1]","[50.8, 17.5]",12.164292,2.6816216,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,69,52,2,"[50.8, 17.5]","[55.9, 12.3]",7.283543,-0.7951066,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nicolás Hernán Otamendi,69,53,2,"[55.0, 13.4]","[46.0, 19.6]",10.928861,2.5383627,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Cristian Gabriel Romero,69,55,2,"[45.8, 23.9]","[38.3, 51.3]",28.40792,1.8379745,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,70,0,2,"[37.7, 52.3]","[49.9, 58.1]",13.508515,0.4437827,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,70,1,2,"[50.3, 58.5]","[46.9, 74.8]",16.650826,1.7764367,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Nicolás Hernán Otamendi,70,5,2,"[47.1, 60.0]","[29.8, 34.2]",31.063322,-2.1614776,Ground Pass,,,,,,,,,,,True,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Leandro Daniel Paredes,70,9,2,"[30.9, 35.9]","[41.6, 35.9]",10.7,0.0,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Hernán Otamendi,70,9,2,"[41.6, 35.9]","[31.9, 38.4]",10.016986,2.8893502,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Leandro Daniel Paredes,70,12,2,"[31.9, 38.4]","[39.8, 35.7]",8.348653,-0.32932615,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Cristian Gabriel Romero,70,13,2,"[39.2, 36.5]","[31.9, 51.5]",16.682026,2.0237205,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,70,17,2,"[33.9, 55.1]","[43.5, 72.9]",20.22375,1.0761851,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,70,19,2,"[43.9, 73.5]","[56.1, 74.8]",12.269067,0.1061568,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Julián Álvarez,70,21,2,"[55.5, 69.2]","[63.2, 55.1]",16.06549,-1.0709529,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Julián Álvarez,Lionel Andrés Messi Cuccittini,70,23,2,"[63.2, 55.8]","[56.5, 60.5]",8.184131,2.5298657,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Nicolás Alejandro Tagliafico,70,23,2,"[56.5, 60.5]","[58.7, 9.1]",51.44706,-1.5280209,High Pass,,,,,True,,,,,,,Regular Play
+3857264,Argentina,Nicolás Alejandro Tagliafico,Enzo Fernandez,70,27,2,"[59.3, 9.1]","[74.5, 2.7]",16.492422,-0.39852244,High Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Lionel Andrés Messi Cuccittini,70,35,2,"[113.2, 14.5]","[106.5, 35.1]",21.66218,1.8852477,Ground Pass,,,True,,,,,True,,0bcdb3c6-6051-4d5f-a442-cb13feed8e02,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,,70,43,2,"[64.7, 63.2]","[66.2, 62.4]",1.7,-0.48995733,Low Pass,Recovery,,,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Julián Álvarez,71,34,2,"[47.5, 61.3]","[55.9, 68.0]",10.744766,0.67328745,Ground Pass,Recovery,,,,,,,,,,,Regular Play
+3857264,Argentina,Julián Álvarez,,71,36,2,"[56.3, 68.2]","[72.8, 53.2]",22.299103,-0.7378151,High Pass,,,,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Lionel Andrés Messi Cuccittini,72,12,2,"[75.1, 80.0]","[80.5, 69.5]",11.807201,-1.0957856,Low Pass,Throw-in,,,,,,,,,,,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Nahuel Molina Lucero,72,14,2,"[77.1, 69.9]","[66.8, 74.4]",11.240107,2.7296917,Ground Pass,,,,,,,,,,,True,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Cristian Gabriel Romero,72,17,2,"[63.8, 74.2]","[40.7, 69.5]",23.57329,-2.9408693,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,72,20,2,"[39.8, 63.0]","[31.5, 22.6]",41.243786,-1.7734225,Ground Pass,,,,,True,,,,,,,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Nicolás Alejandro Tagliafico,72,24,2,"[32.8, 20.9]","[43.1, 8.9]",15.814234,-0.86148417,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Alejandro Tagliafico,Enzo Fernandez,72,26,2,"[43.1, 8.9]","[46.5, 20.7]",12.280066,1.2902595,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Enzo Fernandez,Nicolás Alejandro Tagliafico,72,27,2,"[46.5, 20.7]","[39.8, 11.3]",11.543396,-2.1900387,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Alejandro Tagliafico,Nicolás Hernán Otamendi,72,29,2,"[37.5, 15.5]","[29.8, 19.2]",8.542833,2.6936505,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Nahuel Molina Lucero,72,31,2,"[26.4, 22.8]","[27.4, 69.5]",46.710705,1.5493864,Ground Pass,,,,,True,,,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,72,35,2,"[26.6, 72.4]","[46.9, 62.0]",22.808989,-0.47345123,Low Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,72,37,2,"[44.1, 68.4]","[58.5, 70.7]",14.582523,0.15838441,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Julián Álvarez,72,40,2,"[59.3, 69.0]","[95.7, 49.3]",41.389008,-0.4960687,Ground Pass,,Through Ball,,,,True,,True,,fca0fc9d-ac5f-43e2-a5c1-d923698893b8,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Enzo Fernandez,73,58,2,"[15.0, 53.0]","[26.8, 27.7]",27.916483,-1.1343856,High Pass,Recovery,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Damián Emiliano Martínez,74,0,2,"[26.6, 29.0]","[2.4, 19.8]",25.889767,-2.7783012,High Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Damián Emiliano Martínez,Cristian Gabriel Romero,74,17,2,"[5.6, 32.0]","[12.7, 55.1]",24.166506,1.2726016,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Leandro Daniel Paredes,74,20,2,"[13.5, 55.5]","[33.4, 55.3]",19.901005,-0.010049913,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Hernán Otamendi,74,26,2,"[30.2, 55.1]","[20.2, 24.3]",32.382713,-1.8847345,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Leandro Daniel Paredes,74,33,2,"[30.6, 20.3]","[25.7, 28.8]",9.811218,2.093735,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Enzo Fernandez,74,34,2,"[25.7, 29.0]","[41.8, 35.0]",17.181677,0.35672706,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nahuel Molina Lucero,74,35,2,"[42.2, 36.3]","[39.0, 63.7]",27.58623,1.687058,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,74,39,2,"[38.8, 70.9]","[48.8, 59.6]",15.0894,-0.84635544,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,74,41,2,"[44.1, 60.9]","[32.4, 51.7]",14.883883,-2.475246,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Leandro Daniel Paredes,74,43,2,"[31.3, 50.2]","[38.3, 29.5]",21.851545,-1.2447042,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Alejandro Tagliafico,74,46,2,"[39.8, 24.3]","[61.0, 2.5]",30.408552,-0.79935074,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Alejandro Tagliafico,Leandro Daniel Paredes,74,50,2,"[58.2, 2.5]","[50.8, 8.9]",9.78366,2.428532,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Enzo Fernandez,74,52,2,"[50.5, 10.6]","[45.6, 26.7]",16.829142,1.8662372,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Cristian Gabriel Romero,74,55,2,"[45.4, 26.2]","[36.6, 49.6]",25.0,1.9305034,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,74,58,2,"[37.1, 53.0]","[50.1, 51.7]",13.064838,-0.09966865,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,75,1,2,"[51.2, 54.3]","[57.8, 70.9]",17.86393,1.192369,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,75,3,2,"[54.8, 66.0]","[61.4, 58.1]",10.294173,-0.8748143,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,75,5,2,"[61.4, 58.1]","[56.3, 60.9]",5.818075,2.6395025,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,75,5,2,"[56.3, 60.9]","[62.1, 59.4]",5.990826,-0.25307566,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,75,9,2,"[55.0, 68.6]","[25.3, 62.6]",30.3,-2.9422553,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Damián Emiliano Martínez,75,15,2,"[26.8, 62.8]","[11.2, 44.9]",23.743841,-2.2876453,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Damián Emiliano Martínez,Nicolás Hernán Otamendi,75,19,2,"[11.2, 42.5]","[23.8, 20.7]",25.179358,-1.0467242,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Leandro Daniel Paredes,75,22,2,"[30.2, 18.8]","[38.6, 16.4]",8.736132,-0.27829966,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Enzo Fernandez,75,29,2,"[54.0, 9.1]","[45.8, 18.8]",12.701574,2.2725909,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Cristian Gabriel Romero,75,32,2,"[44.8, 22.0]","[45.4, 51.9]",29.90602,1.5507321,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,75,35,2,"[48.2, 58.8]","[53.5, 52.8]",8.005623,-0.847266,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,75,37,2,"[54.6, 53.6]","[44.8, 56.0]",10.089599,2.9014215,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Leandro Daniel Paredes,75,39,2,"[45.4, 56.0]","[53.5, 47.4]",11.813974,-0.8153293,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Rodrigo Javier De Paul,75,40,2,"[53.5, 47.4]","[51.0, 57.9]",10.793516,1.8045396,Low Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Nicolás Hernán Otamendi,75,42,2,"[50.8, 58.1]","[43.5, 22.0]",36.830692,-1.7703218,High Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Enzo Fernandez,75,51,2,"[76.6, 11.9]","[64.2, 14.5]",12.669649,2.9349093,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Cristian Gabriel Romero,75,56,2,"[63.8, 15.5]","[49.5, 48.1]",35.598454,1.9841719,High Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,75,59,2,"[50.1, 46.8]","[55.9, 44.6]",6.203225,-0.36254424,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,76,3,2,"[61.2, 52.8]","[68.7, 48.1]",8.850988,-0.5597969,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Nicolás Alejandro Tagliafico,76,6,2,"[70.2, 45.3]","[96.5, 18.1]",37.835564,-0.80221903,Low Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Alejandro Tagliafico,Rodrigo Javier De Paul,76,11,2,"[97.0, 30.5]","[88.0, 47.8]",19.501026,2.0504975,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,76,13,2,"[90.5, 50.6]","[97.6, 60.3]",12.020815,0.93894196,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,76,15,2,"[98.0, 60.3]","[101.9, 54.7]",6.8242216,-0.9624713,High Pass,,,,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Alexis Mac Allister,76,32,2,"[33.6, 40.6]","[45.6, 31.6]",15.0,-0.6435011,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Alexis Mac Allister,Enzo Fernandez,76,34,2,"[46.0, 29.2]","[39.4, 16.0]",14.758049,-2.0344439,Ground Pass,,,,,,,,,,,True,Regular Play
+3857264,Argentina,Enzo Fernandez,Leandro Daniel Paredes,76,41,2,"[71.9, 3.4]","[64.7, 10.6]",10.182338,2.3561945,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Enzo Fernandez,76,42,2,"[64.4, 10.6]","[69.4, 4.9]",7.5822163,-0.85072565,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Enzo Fernandez,Nicolás Alejandro Tagliafico,76,42,2,"[69.4, 4.9]","[55.7, 1.6]",14.091842,-2.9052196,Low Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Alejandro Tagliafico,Leandro Daniel Paredes,76,46,2,"[49.9, 1.4]","[51.0, 7.6]",6.2968245,1.3952042,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Rodrigo Javier De Paul,76,48,2,"[49.9, 10.2]","[57.0, 33.9]",24.740654,1.2797266,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Julián Álvarez,76,51,2,"[62.1, 37.2]","[74.5, 35.9]",12.467959,-0.104457125,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Julián Álvarez,Rodrigo Javier De Paul,76,52,2,"[74.7, 36.3]","[66.6, 38.0]",8.276473,2.9347186,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,76,55,2,"[71.3, 45.1]","[63.4, 66.0]",22.343231,1.9321861,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,Cristian Gabriel Romero,76,59,2,"[63.6, 63.9]","[51.2, 50.6]",18.183784,-2.3211894,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,77,1,2,"[51.2, 50.6]","[51.0, 34.4]",16.201235,-1.5831413,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Leandro Daniel Paredes,77,3,2,"[51.2, 34.4]","[56.7, 26.7]",9.462558,-0.95054686,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Alejandro Tagliafico,77,6,2,"[55.9, 25.2]","[75.8, 4.4]",28.786282,-0.8075076,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Alejandro Tagliafico,Lionel Andrés Messi Cuccittini,77,9,2,"[73.6, 3.8]","[65.3, 12.8]",12.242957,2.3157542,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Nicolás Alejandro Tagliafico,77,11,2,"[65.3, 12.8]","[62.9, 4.0]",9.121404,-1.8370484,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Alejandro Tagliafico,Nicolás Hernán Otamendi,77,13,2,"[52.3, 4.2]","[39.8, 11.7]",14.57738,2.6011732,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Cristian Gabriel Romero,77,16,2,"[38.8, 15.5]","[31.3, 41.6]",27.156216,1.8506135,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Damián Emiliano Martínez,77,20,2,"[32.6, 45.3]","[13.7, 35.2]",21.429419,-2.650812,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Damián Emiliano Martínez,Nicolás Hernán Otamendi,77,23,2,"[13.7, 34.2]","[19.5, 18.3]",16.924833,-1.2210157,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Damián Emiliano Martínez,77,26,2,"[15.2, 18.8]","[3.9, 32.7]",17.913681,2.2533836,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Damián Emiliano Martínez,Nicolás Hernán Otamendi,77,29,2,"[5.0, 31.2]","[11.4, 7.2]",24.83868,-1.3101939,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Nicolás Alejandro Tagliafico,77,31,2,"[12.3, 6.4]","[24.0, 1.9]",12.535549,-0.36717382,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Alejandro Tagliafico,Alexis Mac Allister,77,33,2,"[23.8, 2.1]","[37.7, 4.0]",14.029255,0.13584875,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Germán Alejandro Pezzella,78,50,2,"[58.2, 7.8]","[40.3, 36.1]",33.485817,2.134777,Ground Pass,Free Kick,,,,,,,,,,,From Free Kick
+3857264,Argentina,Germán Alejandro Pezzella,Rodrigo Javier De Paul,78,53,2,"[39.8, 38.2]","[52.3, 48.7]",16.324827,0.69865984,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Leandro Daniel Paredes,78,55,2,"[50.8, 49.1]","[49.7, 27.7]",21.428253,-1.622153,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Alejandro Tagliafico,78,58,2,"[51.2, 26.5]","[68.5, 2.7]",29.42329,-0.9422499,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Alejandro Tagliafico,Nicolás Hernán Otamendi,78,59,2,"[68.5, 2.7]","[48.8, 10.4]",21.15136,2.768988,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Hernán Otamendi,Leandro Daniel Paredes,79,2,2,"[48.2, 10.4]","[54.2, 13.8]",6.8963757,0.515549,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Rodrigo Javier De Paul,79,10,2,"[74.1, 29.0]","[63.4, 49.1]",22.770596,2.0599787,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,79,13,2,"[68.1, 53.4]","[61.9, 66.0]",14.042791,2.0280745,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,79,16,2,"[61.2, 67.1]","[56.7, 55.5]",12.442266,-1.9408553,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Leandro Daniel Paredes,79,18,2,"[56.7, 54.1]","[65.7, 45.9]",12.175385,-0.73892003,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Alexis Mac Allister,79,20,2,"[65.9, 46.1]","[74.1, 25.6]",22.079176,-1.19029,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Alexis Mac Allister,Nicolás Hernán Otamendi,79,23,2,"[75.1, 24.3]","[63.2, 15.8]",14.623953,-2.5213432,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Hernán Otamendi,Leandro Daniel Paredes,79,26,2,"[63.4, 17.3]","[61.2, 27.5]",10.434558,1.7832284,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Rodrigo Javier De Paul,79,28,2,"[62.1, 29.9]","[58.5, 47.2]",17.670597,1.7759609,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,79,30,2,"[57.4, 50.6]","[66.6, 63.9]",16.171888,0.96564275,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,79,33,2,"[68.3, 67.5]","[61.7, 59.4]",10.448445,-2.2545056,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Nicolás Alejandro Tagliafico,79,37,2,"[64.0, 52.8]","[88.4, 5.5]",53.222645,-1.0945443,High Pass,,,,,True,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Alejandro Tagliafico,Alexis Mac Allister,79,41,2,"[89.3, 7.6]","[88.6, 16.8]",9.226592,1.646737,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Alexis Mac Allister,Nicolás Alejandro Tagliafico,79,43,2,"[88.4, 16.8]","[84.8, 8.3]",9.2309265,-1.9714208,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Alejandro Tagliafico,Leandro Daniel Paredes,79,44,2,"[84.8, 8.3]","[75.6, 13.2]",10.423532,2.6521997,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Lautaro Javier Martínez,79,46,2,"[75.6, 13.2]","[82.6, 21.3]",10.705606,0.8581174,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Lautaro Javier Martínez,Rodrigo Javier De Paul,79,48,2,"[78.8, 27.3]","[75.8, 39.7]",12.757743,1.8081706,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Germán Alejandro Pezzella,79,49,2,"[75.8, 39.7]","[57.6, 40.8]",18.233212,3.0812266,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Germán Alejandro Pezzella,Nicolás Hernán Otamendi,79,51,2,"[57.6, 40.8]","[63.8, 25.0]",16.97292,-1.1968544,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Hernán Otamendi,Leandro Daniel Paredes,79,52,2,"[62.3, 25.0]","[69.8, 22.8]",7.816009,-0.28532943,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Germán Alejandro Pezzella,79,56,2,"[67.9, 24.7]","[57.0, 38.4]",17.507141,2.242861,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Germán Alejandro Pezzella,Rodrigo Javier De Paul,79,58,2,"[55.9, 39.3]","[62.3, 39.1]",6.4031243,-0.031239834,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,80,0,2,"[62.3, 42.3]","[78.1, 74.8]",36.1371,1.1182868,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nahuel Molina Lucero,Cristian Gabriel Romero,80,3,2,"[78.1, 74.8]","[60.8, 70.9]",17.734148,-2.9198656,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,80,5,2,"[60.8, 70.7]","[56.1, 55.8]",15.6237,-1.876354,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Nicolás Hernán Otamendi,80,7,2,"[55.7, 53.6]","[45.0, 19.6]",35.643932,-1.8756895,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Hernán Otamendi,Nicolás Alejandro Tagliafico,80,12,2,"[59.5, 8.5]","[83.1, 3.4]",24.144772,-0.21282893,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Alejandro Tagliafico,Alexis Mac Allister,80,16,2,"[102.5, 2.9]","[98.2, 11.3]",9.436631,2.0439224,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Alexis Mac Allister,Leandro Daniel Paredes,80,19,2,"[95.5, 4.4]","[79.0, 20.5]",23.053415,2.3684638,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Lionel Andrés Messi Cuccittini,80,21,2,"[77.7, 23.2]","[85.2, 45.9]",23.906902,1.2516912,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Nahuel Molina Lucero,80,28,2,"[91.8, 65.2]","[94.4, 73.5]",8.6977005,1.2672256,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nahuel Molina Lucero,Lionel Andrés Messi Cuccittini,80,29,2,"[94.4, 73.5]","[86.5, 68.4]",9.403191,-2.5683382,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,80,31,2,"[84.8, 68.0]","[72.1, 60.9]",14.549914,-2.631824,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Leandro Daniel Paredes,80,34,2,"[71.1, 58.5]","[70.2, 47.8]",10.737783,-1.654711,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Rodrigo Javier De Paul,80,35,2,"[70.4, 48.3]","[67.7, 58.8]",10.841587,1.8224863,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Germán Alejandro Pezzella,80,36,2,"[67.7, 58.8]","[47.1, 39.1]",28.503508,-2.3785233,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Germán Alejandro Pezzella,Nicolás Hernán Otamendi,80,39,2,"[44.6, 35.4]","[48.4, 12.8]",22.917242,-1.404213,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Hernán Otamendi,Nicolás Alejandro Tagliafico,80,42,2,"[48.8, 11.3]","[73.4, 2.7]",26.05993,-0.33631262,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Alejandro Tagliafico,Nicolás Hernán Otamendi,80,45,2,"[72.4, 2.7]","[49.9, 4.9]",22.6073,3.0441246,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Hernán Otamendi,Rodrigo Javier De Paul,80,48,2,"[49.7, 13.2]","[51.2, 48.3]",35.13204,1.5280873,Low Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,80,53,2,"[57.8, 54.7]","[97.4, 62.0]",40.26723,0.18229686,High Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,80,59,2,"[98.0, 56.6]","[82.6, 56.0]",15.411684,-3.1026514,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,81,1,2,"[82.0, 55.5]","[81.8, 39.3]",16.201235,-1.5831413,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Alexis Mac Allister,81,4,2,"[80.5, 36.3]","[91.4, 26.5]",14.657763,-0.73230803,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Alexis Mac Allister,Leandro Daniel Paredes,81,5,2,"[91.4, 26.5]","[82.2, 22.6]",9.992497,-2.740643,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Alejandro Tagliafico,81,6,2,"[82.2, 22.6]","[93.3, 7.4]",18.82153,-0.9400469,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Alejandro Tagliafico,Alexis Mac Allister,81,8,2,"[93.7, 9.8]","[110.2, 14.5]",17.15634,0.27749902,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Alexis Mac Allister,,81,11,2,"[110.6, 14.5]","[110.0, 31.2]",16.710775,1.606709,Ground Pass,,,True,,,,Incomplete,,,,,From Free Kick
+3857264,Argentina,Nicolás Alejandro Tagliafico,Leandro Daniel Paredes,81,16,2,"[104.0, 5.1]","[93.5, 10.0]",11.587062,2.7049656,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Alejandro Tagliafico,81,17,2,"[93.7, 8.7]","[99.3, 5.7]",6.352952,-0.4918092,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Alejandro Tagliafico,Alexis Mac Allister,81,19,2,"[98.9, 6.8]","[98.0, 15.5]",8.746428,1.673878,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Alexis Mac Allister,Leandro Daniel Paredes,81,20,2,"[98.0, 15.3]","[90.5, 8.9]",9.859513,-2.4351666,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Cristian Gabriel Romero,81,22,2,"[89.9, 9.5]","[74.3, 55.6]",48.667957,1.8970952,High Pass,,,,,True,,,,,,,From Free Kick
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,81,26,2,"[74.3, 55.6]","[83.0, 51.1]",9.794897,-0.47734538,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,81,31,2,"[99.3, 55.5]","[107.4, 68.0]",14.894965,0.9958284,Low Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,81,34,2,"[105.9, 69.9]","[101.0, 64.5]",7.291776,-2.307689,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,81,36,2,"[97.4, 63.2]","[88.2, 59.2]",10.031949,-2.7314653,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Lionel Andrés Messi Cuccittini,,81,38,2,"[86.7, 56.2]","[106.8, 34.4]",29.65215,-0.8259487,High Pass,,,,,,,Incomplete,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Germán Alejandro Pezzella,81,41,2,"[83.7, 36.5]","[65.3, 37.4]",18.421997,3.0927186,Low Pass,Recovery,,,,,,,,,,,From Free Kick
+3857264,Argentina,Germán Alejandro Pezzella,Nicolás Hernán Otamendi,81,43,2,"[63.2, 37.6]","[64.4, 25.2]",12.45793,-1.4743226,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Hernán Otamendi,,81,45,2,"[64.0, 23.2]","[103.8, 26.2]",39.912907,0.075234614,High Pass,,,,,,,Incomplete,,,,True,From Free Kick
+3857264,Argentina,Nicolás Alejandro Tagliafico,Leandro Daniel Paredes,82,2,2,"[65.3, 0.1]","[64.7, 8.9]",8.820431,1.6388727,Low Pass,Throw-in,,,,,,,,,,,From Throw In
+3857264,Argentina,Leandro Daniel Paredes,Rodrigo Javier De Paul,82,3,2,"[64.4, 22.8]","[63.6, 41.4]",18.617197,1.6137806,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,82,9,2,"[74.1, 52.3]","[79.0, 59.4]",8.626702,0.96671796,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Cristian Gabriel Romero,82,10,2,"[77.5, 60.3]","[69.2, 62.2]",8.514693,2.9165545,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Lionel Andrés Messi Cuccittini,82,13,2,"[68.7, 62.8]","[68.7, 55.5]",7.3,-1.5707964,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Lautaro Javier Martínez,82,19,2,"[88.0, 50.8]","[95.2, 43.1]",10.5418215,-0.8189426,Ground Pass,,,,,,,,,,,True,From Throw In
+3857264,Argentina,Lautaro Javier Martínez,,82,20,2,"[94.2, 45.5]","[120.0, 63.9]",31.689116,0.61951584,Low Pass,,,,,,,Out,,,,True,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,83,46,2,"[32.6, 80.0]","[38.8, 68.2]",13.329666,-1.0870172,Low Pass,Throw-in,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Leandro Daniel Paredes,83,48,2,"[39.8, 59.4]","[31.5, 43.4]",18.024706,-2.0493312,Low Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Leandro Daniel Paredes,Thiago Ezequiel Almada,83,55,2,"[51.4, 30.3]","[62.3, 25.6]",11.870131,-0.40710416,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Thiago Ezequiel Almada,Nicolás Hernán Otamendi,83,56,2,"[62.3, 25.6]","[44.6, 19.6]",18.689302,-2.814766,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Rodrigo Javier De Paul,83,59,2,"[44.8, 22.6]","[55.7, 56.2]",35.323788,1.2571028,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,84,4,2,"[65.1, 59.4]","[73.4, 72.4]",15.423683,1.0025753,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,84,5,2,"[73.4, 72.4]","[65.7, 65.6]",10.272779,-2.418184,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,84,6,2,"[66.4, 64.3]","[51.4, 57.0]",16.682026,-2.6886685,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Leandro Daniel Paredes,84,9,2,"[52.0, 56.0]","[52.5, 41.9]",14.108863,-1.5353502,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Leandro Daniel Paredes,Lionel Andrés Messi Cuccittini,84,11,2,"[52.9, 41.6]","[69.4, 23.2]",24.714571,-0.83978575,Ground Pass,,,,,,,Incomplete,,,,,From Throw In
+3857264,Argentina,Leandro Daniel Paredes,,85,39,2,"[50.8, 60.3]","[109.8, 65.6]",59.23757,0.08959004,High Pass,Recovery,,,,,,Incomplete,,,,True,From Goal Kick
+3857264,Argentina,Cristian Gabriel Romero,Lautaro Javier Martínez,86,26,2,"[42.0, 55.5]","[59.5, 57.7]",17.637743,0.12505823,Low Pass,Recovery,,,,,,,,,,True,Regular Play
+3857264,Argentina,Lautaro Javier Martínez,Leandro Daniel Paredes,86,28,2,"[56.5, 51.9]","[44.6, 42.9]",14.92012,-2.49407,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Lautaro Javier Martínez,86,29,2,"[44.6, 42.9]","[55.7, 44.0]",11.154371,0.098776594,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lautaro Javier Martínez,Nicolás Alejandro Tagliafico,86,30,2,"[55.7, 44.0]","[44.6, 19.8]",26.624237,-2.000843,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Alejandro Tagliafico,Nicolás Hernán Otamendi,86,32,2,"[44.8, 20.0]","[37.1, 26.7]",10.206861,2.4255276,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Leandro Daniel Paredes,86,35,2,"[36.2, 27.7]","[40.1, 25.8]",4.3382025,-0.45333868,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Rodrigo Javier De Paul,86,36,2,"[40.1, 28.2]","[52.3, 62.4]",36.31088,1.2281429,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,86,41,2,"[52.9, 63.7]","[47.8, 59.8]",6.4202805,-2.488746,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,86,42,2,"[47.8, 59.8]","[52.9, 62.8]",5.916925,0.5317241,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,86,43,2,"[54.2, 63.0]","[49.3, 60.3]",5.5946403,-2.6379664,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,86,45,2,"[49.3, 60.3]","[54.0, 65.0]",6.646804,0.7853982,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Leandro Daniel Paredes,86,45,2,"[53.7, 64.7]","[49.3, 52.3]",13.157507,-1.9117752,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Hernán Otamendi,86,48,2,"[48.2, 50.0]","[45.8, 21.8]",28.301943,-1.6556981,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Nicolás Alejandro Tagliafico,86,51,2,"[51.4, 19.2]","[68.3, 10.2]",19.147062,-0.4893429,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Alejandro Tagliafico,Cristian Gabriel Romero,86,55,2,"[56.5, 19.4]","[51.0, 57.0]",38.00013,1.7160429,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,86,59,2,"[51.0, 60.0]","[55.2, 62.4]",4.8373547,0.5191461,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,87,1,2,"[59.3, 63.0]","[72.4, 62.0]",13.138112,-0.07618812,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Leandro Daniel Paredes,87,6,2,"[80.7, 53.8]","[74.3, 32.2]",22.528204,-1.8588518,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Alejandro Tagliafico,87,10,2,"[78.1, 25.2]","[89.3, 3.4]",24.508774,-1.0962002,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Alejandro Tagliafico,Leandro Daniel Paredes,87,13,2,"[89.3, 4.2]","[80.5, 12.6]",12.165525,2.379446,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Thiago Ezequiel Almada,87,15,2,"[78.6, 13.4]","[85.8, 13.6]",7.2027774,0.027770637,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Thiago Ezequiel Almada,Leandro Daniel Paredes,87,16,2,"[85.8, 13.6]","[79.4, 5.1]",10.640018,-2.2161772,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Thiago Ezequiel Almada,87,18,2,"[78.3, 4.9]","[77.7, 13.4]",8.521151,1.6412677,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Thiago Ezequiel Almada,Germán Alejandro Pezzella,87,20,2,"[73.2, 16.0]","[57.6, 41.6]",29.978659,2.1180806,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Germán Alejandro Pezzella,Rodrigo Javier De Paul,87,23,2,"[60.2, 44.4]","[73.6, 59.6]",20.263268,0.8482523,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Thiago Ezequiel Almada,87,27,2,"[76.4, 59.6]","[77.9, 46.6]",13.086252,-1.4559197,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Thiago Ezequiel Almada,Rodrigo Javier De Paul,87,28,2,"[78.1, 47.2]","[71.5, 52.1]",8.220098,2.5029576,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,87,31,2,"[68.3, 56.4]","[71.7, 70.7]",14.698639,1.3373682,Ground Pass,,,,,,,,,,,True,Regular Play
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,87,35,2,"[71.3, 71.6]","[64.4, 62.4]",11.5,-2.2142975,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Nicolás Hernán Otamendi,87,38,2,"[63.6, 56.6]","[56.3, 26.0]",31.458704,-1.8049812,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Nicolás Alejandro Tagliafico,87,40,2,"[57.2, 26.5]","[74.7, 2.9]",29.380436,-0.93274105,Low Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Alejandro Tagliafico,Nicolás Hernán Otamendi,87,43,2,"[73.0, 4.6]","[56.5, 10.6]",17.55705,2.7928216,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Rodrigo Javier De Paul,87,46,2,"[54.0, 17.0]","[63.2, 52.6]",36.769554,1.3179022,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,87,51,2,"[76.2, 70.3]","[86.7, 72.7]",10.770794,0.22471116,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nahuel Molina Lucero,,87,52,2,"[86.7, 72.7]","[87.1, 60.3]",12.40645,-1.5385494,Ground Pass,,,,,,,Incomplete,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,,88,2,2,"[54.4, 62.8]","[63.8, 64.1]",9.489468,0.13742615,High Pass,Recovery,,,,,,Incomplete,,,,True,Regular Play
+3857264,Argentina,Nicolás Alejandro Tagliafico,Germán Alejandro Pezzella,88,51,2,"[55.9, 0.1]","[38.8, 16.6]",23.762575,2.3740497,Low Pass,Throw-in,,,,,,,,,,,From Throw In
+3857264,Argentina,Germán Alejandro Pezzella,Rodrigo Javier De Paul,88,54,2,"[39.0, 21.1]","[52.3, 53.2]",34.746223,1.1779977,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Nahuel Molina Lucero,88,59,2,"[59.3, 66.9]","[68.5, 72.4]",10.718676,0.5388195,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,89,0,2,"[69.6, 72.7]","[62.7, 69.9]",7.4464755,-2.7560987,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,89,2,2,"[62.7, 69.9]","[50.1, 57.5]",17.678236,-2.3641944,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Leandro Daniel Paredes,89,5,2,"[51.4, 49.3]","[54.6, 29.7]",19.859507,-1.4089589,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Leandro Daniel Paredes,Cristian Gabriel Romero,89,10,2,"[55.5, 30.3]","[48.6, 52.1]",22.865913,1.8773336,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Germán Alejandro Pezzella,89,12,2,"[48.8, 51.5]","[40.3, 41.9]",12.822247,-2.2954957,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Germán Alejandro Pezzella,Leandro Daniel Paredes,89,15,2,"[40.3, 38.9]","[46.9, 27.5]",13.172699,-1.0460006,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Hernán Otamendi,89,18,2,"[47.5, 27.5]","[44.8, 15.3]",12.495199,-1.7885972,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Leandro Daniel Paredes,89,24,2,"[50.1, 16.6]","[45.0, 22.6]",7.874643,2.2752905,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Leandro Daniel Paredes,Rodrigo Javier De Paul,89,27,2,"[45.4, 26.7]","[62.5, 61.8]",39.043823,1.1174576,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,89,31,2,"[71.7, 71.2]","[80.3, 75.7]",9.706183,0.4820787,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,,89,35,2,"[84.3, 67.5]","[99.5, 52.3]",21.496046,-0.7853982,Ground Pass,,,,,,,Incomplete,,,,,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Leandro Daniel Paredes,89,44,2,"[57.2, 33.5]","[61.7, 43.4]",10.874742,1.1441689,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Hernán Otamendi,89,45,2,"[61.4, 42.9]","[56.3, 25.6]",18.036076,-1.8574735,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Cristian Gabriel Romero,89,50,2,"[52.9, 29.0]","[51.8, 61.3]",32.318726,1.6048388,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,89,55,2,"[57.0, 65.4]","[68.3, 69.9]",12.163059,0.37897965,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Germán Alejandro Pezzella,89,58,2,"[64.0, 65.0]","[39.4, 48.9]",29.40017,-2.5620804,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Germán Alejandro Pezzella,Cristian Gabriel Romero,90,2,2,"[41.6, 53.8]","[46.3, 68.4]",15.337862,1.2593547,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Rodrigo Javier De Paul,90,5,2,"[48.4, 65.6]","[57.6, 69.5]",9.992497,0.40094963,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Leandro Daniel Paredes,90,7,2,"[57.2, 67.1]","[51.0, 53.4]",15.03762,-1.9957727,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Leandro Daniel Paredes,Rodrigo Javier De Paul,90,9,2,"[51.2, 53.2]","[56.3, 63.2]",11.225417,1.0991808,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Germán Alejandro Pezzella,90,11,2,"[57.4, 64.1]","[39.0, 39.1]",31.041264,-2.205277,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Germán Alejandro Pezzella,Nicolás Hernán Otamendi,90,13,2,"[38.1, 38.9]","[47.1, 19.4]",21.476732,-1.1383885,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Rodrigo Javier De Paul,90,20,2,"[47.3, 25.6]","[57.4, 54.9]",30.991934,1.238842,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Leandro Daniel Paredes,90,23,2,"[59.1, 57.7]","[55.7, 51.1]",7.4242845,-2.0464916,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Leandro Daniel Paredes,Lionel Andrés Messi Cuccittini,90,25,2,"[56.3, 51.1]","[68.9, 47.0]",13.250283,-0.31459078,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Leandro Daniel Paredes,90,26,2,"[68.9, 47.0]","[57.4, 38.0]",14.603082,-2.4775465,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Leandro Daniel Paredes,Lionel Andrés Messi Cuccittini,90,29,2,"[58.7, 34.6]","[65.3, 37.4]",7.169379,0.4012288,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Nicolás Alejandro Tagliafico,90,30,2,"[64.4, 34.4]","[82.0, 3.8]",35.300426,-1.0488392,Low Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Alejandro Tagliafico,Leandro Daniel Paredes,90,36,2,"[97.6, 5.7]","[83.1, 15.3]",17.38994,2.5567799,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Leandro Daniel Paredes,Rodrigo Javier De Paul,90,38,2,"[82.0, 15.5]","[87.3, 43.8]",28.792013,1.3856617,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,,90,40,2,"[87.3, 43.8]","[90.1, 29.0]",15.062536,-1.3838171,High Pass,,,,,,,Incomplete,,,,,From Throw In
+3857264,Argentina,Germán Alejandro Pezzella,Cristian Gabriel Romero,90,45,2,"[60.4, 48.7]","[63.8, 57.7]",9.6208105,1.2095926,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Lautaro Javier Martínez,90,49,2,"[68.7, 58.5]","[77.3, 56.6]",8.807384,-0.21743742,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lautaro Javier Martínez,Germán Alejandro Pezzella,90,50,2,"[79.6, 58.5]","[52.7, 50.4]",28.09306,-2.849113,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Germán Alejandro Pezzella,Leandro Daniel Paredes,90,54,2,"[52.9, 44.9]","[64.2, 22.2]",25.35705,-1.1089123,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Leandro Daniel Paredes,Thiago Ezequiel Almada,90,57,2,"[64.0, 22.2]","[73.2, 22.4]",9.202173,0.021735707,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Thiago Ezequiel Almada,Leandro Daniel Paredes,91,1,2,"[71.9, 26.0]","[64.0, 27.1]",7.9762144,3.0032418,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Leandro Daniel Paredes,Rodrigo Javier De Paul,91,2,2,"[62.7, 29.2]","[80.7, 36.7]",19.5,0.39479113,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Lautaro Javier Martínez,91,4,2,"[77.3, 39.5]","[80.3, 55.3]",16.082289,1.3831565,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lautaro Javier Martínez,Nahuel Molina Lucero,91,7,2,"[86.9, 57.0]","[99.1, 70.5]",18.195879,0.83593875,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,91,10,2,"[100.2, 67.5]","[94.6, 54.9]",13.788401,-1.9890207,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,91,12,2,"[95.5, 55.1]","[88.2, 40.8]",16.055529,-2.0428002,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Thiago Ezequiel Almada,91,14,2,"[89.3, 38.9]","[91.8, 25.6]",13.532923,-1.3849945,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Thiago Ezequiel Almada,Nicolás Alejandro Tagliafico,91,16,2,"[94.4, 22.8]","[104.7, 13.4]",13.944533,-0.7397446,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Alejandro Tagliafico,Thiago Ezequiel Almada,91,18,2,"[105.9, 13.2]","[95.0, 20.7]",13.231024,2.538916,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Thiago Ezequiel Almada,Nahuel Molina Lucero,91,22,2,"[93.3, 22.8]","[100.4, 56.2]",34.1463,1.3613393,Low Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nahuel Molina Lucero,Cristian Gabriel Romero,91,25,2,"[97.8, 58.3]","[91.6, 56.0]",6.6128664,-2.7863617,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Germán Alejandro Pezzella,91,27,2,"[90.8, 55.8]","[74.5, 49.6]",17.439323,-2.778124,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Germán Alejandro Pezzella,Nicolás Hernán Otamendi,91,29,2,"[73.6, 48.9]","[74.5, 33.9]",15.026976,-1.5108682,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Leandro Daniel Paredes,91,32,2,"[74.3, 32.4]","[73.6, 25.6]",6.8359346,-1.6733762,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Alejandro Tagliafico,91,34,2,"[73.6, 25.0]","[88.8, 3.6]",26.24881,-0.95320404,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Alejandro Tagliafico,Lautaro Javier Martínez,91,38,2,"[88.8, 3.8]","[84.6, 10.0]",7.488658,2.1662061,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lautaro Javier Martínez,Nicolás Hernán Otamendi,91,41,2,"[76.6, 10.4]","[56.1, 23.2]",24.167953,2.583432,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Nicolás Hernán Otamendi,Germán Alejandro Pezzella,91,43,2,"[51.2, 26.7]","[50.5, 48.9]",22.211033,1.6023175,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Germán Alejandro Pezzella,Cristian Gabriel Romero,91,46,2,"[50.1, 51.3]","[56.7, 60.7]",11.485643,0.95864385,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Cristian Gabriel Romero,Lionel Andrés Messi Cuccittini,91,52,2,"[67.7, 63.5]","[80.3, 50.8]",17.889942,-0.7893507,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Lautaro Javier Martínez,91,54,2,"[81.6, 48.7]","[90.8, 44.9]",9.953894,-0.39169994,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Lautaro Javier Martínez,Thiago Ezequiel Almada,91,55,2,"[91.6, 45.1]","[90.5, 32.7]",12.448695,-1.6592743,Ground Pass,,,,,,,,,,,,From Throw In
+3857264,Argentina,Thiago Ezequiel Almada,Nicolás Alejandro Tagliafico,91,56,2,"[90.5, 31.6]","[108.2, 30.2]",17.755281,-0.07893171,Ground Pass,,,,,,,,True,,5325616c-2d99-4e2c-8045-ee6409ac7d62,True,From Throw In
+3857264,Argentina,Lionel Andrés Messi Cuccittini,,92,4,2,"[116.4, 21.3]","[117.1, 23.9]",2.6925824,1.3078016,Ground Pass,,,,,,,Incomplete,,,,,From Throw In
+3857264,Argentina,Rodrigo Javier De Paul,Thiago Ezequiel Almada,92,39,2,"[120.0, 0.1]","[114.5, 2.1]",5.8523498,2.7928216,Ground Pass,Corner,,,,,,,,,,,From Corner
+3857264,Argentina,Thiago Ezequiel Almada,Lionel Andrés Messi Cuccittini,92,40,2,"[113.9, 2.1]","[89.5, 20.3]",30.440105,2.5007195,Low Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Nicolás Hernán Otamendi,92,48,2,"[86.7, 26.2]","[98.9, 61.8]",37.63243,1.2406427,High Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Nicolás Hernán Otamendi,Leandro Daniel Paredes,92,51,2,"[94.8, 63.2]","[86.0, 67.1]",9.625487,2.7244232,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Hernán Otamendi,92,54,2,"[81.1, 68.8]","[70.4, 59.4]",14.242542,-2.4207811,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Nicolás Hernán Otamendi,Nahuel Molina Lucero,92,57,2,"[68.1, 56.2]","[61.0, 37.4]",20.09602,-1.9318967,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,92,59,2,"[58.9, 34.8]","[64.0, 24.1]",11.85327,-1.1260144,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Rodrigo Javier De Paul,Germán Alejandro Pezzella,93,4,2,"[77.1, 22.4]","[55.5, 30.1]",22.93142,2.7991555,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Germán Alejandro Pezzella,Nicolás Alejandro Tagliafico,93,6,2,"[55.9, 29.9]","[67.4, 6.6]",25.983456,-1.1123122,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Nicolás Alejandro Tagliafico,Lautaro Javier Martínez,93,9,2,"[68.1, 6.8]","[76.4, 10.0]",8.895505,0.36798093,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Lautaro Javier Martínez,Nicolás Alejandro Tagliafico,93,10,2,"[76.4, 10.0]","[67.4, 7.0]",9.486833,-2.819842,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Nicolás Alejandro Tagliafico,Nicolás Hernán Otamendi,93,12,2,"[68.1, 8.7]","[55.9, 36.5]",30.359182,1.9843384,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Nicolás Hernán Otamendi,Leandro Daniel Paredes,93,15,2,"[54.6, 42.9]","[64.7, 56.8]",17.181967,0.94242793,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Leandro Daniel Paredes,Lionel Andrés Messi Cuccittini,93,17,2,"[64.4, 56.4]","[71.9, 48.9]",10.606602,-0.7853982,Ground Pass,,,,,,,,,,,,From Corner
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,93,18,2,"[73.9, 46.1]","[83.3, 36.9]",13.152946,-0.77464586,Ground Pass,,,,,,,Incomplete,,,,True,From Corner
+3857264,Argentina,Germán Alejandro Pezzella,Thiago Ezequiel Almada,93,23,2,"[61.4, 29.5]","[75.4, 23.7]",15.153877,-0.39276066,Low Pass,Recovery,,,,,,,,,,,From Corner
+3857264,Argentina,Thiago Ezequiel Almada,,93,30,2,"[93.3, 39.7]","[80.3, 53.2]",18.741665,2.337329,Ground Pass,,,,,,,Incomplete,,,,,From Corner
+3857264,Argentina,Cristian Gabriel Romero,Leandro Daniel Paredes,94,2,2,"[26.8, 68.2]","[31.9, 56.6]",12.671622,-1.1565784,Low Pass,Recovery,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Nicolás Hernán Otamendi,94,3,2,"[31.5, 54.9]","[24.0, 47.0]",10.893117,-2.3302264,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Hernán Otamendi,Nicolás Alejandro Tagliafico,94,6,2,"[26.6, 44.2]","[31.7, 22.2]",22.5834,-1.3430018,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Nicolás Alejandro Tagliafico,Leandro Daniel Paredes,94,14,2,"[54.4, 9.1]","[47.1, 16.8]",10.610373,2.329534,Ground Pass,,,,,,,,,,,,Regular Play
+3857264,Argentina,Leandro Daniel Paredes,Lionel Andrés Messi Cuccittini,94,17,2,"[47.5, 19.8]","[64.9, 62.4]",46.016518,1.1830262,High Pass,,,,,True,,,,,,,Regular Play
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,94,55,2,"[63.8, 46.1]","[78.3, 66.0]",24.622347,0.94110423,Ground Pass,Free Kick,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,94,58,2,"[80.9, 66.2]","[80.1, 55.1]",11.128792,-1.642744,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Lautaro Javier Martínez,95,0,2,"[80.1, 55.1]","[93.5, 50.8]",14.073024,-0.31051508,Low Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Lautaro Javier Martínez,Rodrigo Javier De Paul,95,2,2,"[89.0, 54.7]","[70.2, 68.2]",23.144978,2.518832,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Leandro Daniel Paredes,95,4,2,"[70.0, 67.5]","[64.4, 49.3]",19.042059,-1.8692952,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Thiago Ezequiel Almada,95,7,2,"[61.7, 44.4]","[70.6, 18.8]",27.102951,-1.2362111,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Thiago Ezequiel Almada,Germán Alejandro Pezzella,95,10,2,"[68.7, 21.8]","[53.1, 42.1]",25.601757,2.2260156,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Germán Alejandro Pezzella,Leandro Daniel Paredes,95,13,2,"[51.8, 48.5]","[56.5, 52.6]",6.2369866,0.7173217,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Rodrigo Javier De Paul,95,15,2,"[57.0, 54.3]","[74.1, 71.6]",24.324884,0.791212,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Germán Alejandro Pezzella,95,19,2,"[73.0, 68.6]","[51.8, 51.1]",27.489817,-2.451512,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Germán Alejandro Pezzella,Nicolás Hernán Otamendi,95,22,2,"[53.5, 48.1]","[55.9, 29.0]",19.250195,-1.445797,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nicolás Hernán Otamendi,Rodrigo Javier De Paul,95,27,2,"[56.1, 30.9]","[70.0, 62.0]",34.064938,1.1504855,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Rodrigo Javier De Paul,Leandro Daniel Paredes,95,33,2,"[69.8, 59.2]","[62.1, 40.4]",20.315758,-1.9595292,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Thiago Ezequiel Almada,95,36,2,"[61.2, 38.6]","[67.9, 38.6]",6.7,0.0,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Thiago Ezequiel Almada,Leandro Daniel Paredes,95,37,2,"[68.1, 38.2]","[57.4, 32.7]",12.030794,-2.666793,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Lautaro Javier Martínez,95,42,2,"[73.4, 11.1]","[80.7, 12.8]",7.495332,0.22879885,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Lautaro Javier Martínez,Thiago Ezequiel Almada,95,42,2,"[80.7, 12.8]","[74.9, 19.6]",8.937561,2.2769954,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Thiago Ezequiel Almada,Leandro Daniel Paredes,95,44,2,"[74.3, 18.5]","[74.9, 10.0]",8.521151,-1.500325,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Leandro Daniel Paredes,Cristian Gabriel Romero,95,45,2,"[74.9, 11.5]","[75.4, 60.7]",49.20254,1.560634,High Pass,,,,,True,,,,,,,From Free Kick
+3857264,Argentina,Cristian Gabriel Romero,Lionel Andrés Messi Cuccittini,95,48,2,"[75.4, 60.7]","[72.6, 53.8]",7.4464755,-1.9562902,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Lionel Andrés Messi Cuccittini,Nahuel Molina Lucero,95,55,2,"[87.3, 69.9]","[94.0, 73.7]",7.702597,0.5159255,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Nahuel Molina Lucero,Lionel Andrés Messi Cuccittini,95,57,2,"[93.1, 73.7]","[85.4, 69.5]",8.770975,-2.642246,Ground Pass,,,,,,,,,,,,From Free Kick
+3857264,Argentina,Lionel Andrés Messi Cuccittini,,95,59,2,"[84.8, 69.5]","[72.1, 50.8]",22.604866,-2.1673877,Ground Pass,,,,,,,Unknown,,,,,From Free Kick
